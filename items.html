@@ -6,24 +6,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="item.css">
-    <title>Search Items</title>
+    <link rel="icon" href="Icons/favicon.ico" type="image/x-icon">
+    <title>TeraBase - Search Items</title>
 </head>
 
 <body id="body">
     <h1>Search Items</h1>
     <input type="text" id="searchBar" placeholder="Search for abnormalities...">
     <input type="checkbox" name="id" id="id"><label for="id" checked> Search by ID</label>
-    <div id="results"></div>
+    <div id="results">
+        <div id="loadingSpinner" class="spinner" style="display: none;"></div>
+    </div>
+    <button id="loadMore" style="display: none;">Load More</button>
 
     <script>
-        document.addEventListener('DOMContentLoaded', async() => {
+        document.addEventListener('DOMContentLoaded', () => {
+            // Get references to DOM elements
             const searchBar = document.getElementById('searchBar');
             const results = document.getElementById('results');
             const body = document.getElementById('body');
             const id = document.getElementById('id');
-            let allItems = [];
+            const loadMoreButton = document.getElementById('loadMore');
+            const loadingSpinner = document.getElementById('loadingSpinner');
 
-            const jsonFilesItems = [
+            // Initialize variables
+            let allItems = [];
+            let displayedItems = [];
+            let currentPage = 0;
+            const itemsPerPage = 20;
+            let jsonFilesItems = [
                 'Data/Items/Items_01.json',
                 'Data/Items/Items_02.json',
                 'Data/Items/Items_03.json',
@@ -45,10 +56,9 @@
                 'Data/Items/Items_19.json',
                 'Data/Items/Items_20.json',
                 'Data/Items/Items_21.json'
-
-                // Add more file names as needed
             ];
 
+            // Fetch data from a JSON file
             async function fetchData(file) {
                 try {
                     const response = await fetch(file);
@@ -60,12 +70,14 @@
                 }
             }
 
-            // Fetch all JSON files for Items
-            for (const file of jsonFilesItems) {
-                const fileData = await fetchData(file);
-                allItems = allItems.concat(fileData);
+            // Load all items from the JSON files
+            async function loadAllItems() {
+                const fetchPromises = jsonFilesItems.map(file => fetchData(file));
+                const allData = await Promise.all(fetchPromises);
+                allItems = allData.flat();
             }
 
+            // Create and append item data to the DOM
             function itemData(item) {
                 const div = document.createElement('div');
                 div.className = 'item';
@@ -74,37 +86,100 @@
 
                 let statLenght = Object.keys(item);
 
-                let data = `<div class="container"><div class="itemInfo"><div class="itemIcon"><img src="Icons/Icon_Items/${item.icon}.png"></div><div class="itemDescription"><div class="itemName">${item.itemName}</div><div class="itemDesc">${item.tooltip}</div></div></div><div class="itemStats">`
+                let data = `<div class="container">
+                                        <button class="closeModal">X</button>
+                                        <div class="itemInfo">
+                                            <div class="itemFlexInfo">
+                                                <div class="itemIcon">
+                                                    <img src="Icons/Icon_Items/${item.icon}.png">
+                                                </div>
+                                                <div class="itemDescription">
+                                                    <div class="itemName">${item.itemName}</div>
+                                                    <div class="itemDesc">${item.tooltip}</div>
+                                                </div>
+                                            </div>
+                                            <input type="text" class="statSearch" placeholder="Search stats...">
+                                        </div>
+                                        <div class="itemStats">
+                                            <div class="statList">`;
 
                 for (let index = 0; index < statLenght.length; index++) {
                     const key = statLenght[index];
                     data += `<div class="stat"><div>${key}</div><div>${item[key]}</div></div>`;
                 }
-                data += '</div></div></div>';
+                data += `</div></div></div>`;
                 div.innerHTML = data;
                 body.appendChild(div);
+
+                // Add event listener for stat search
+                const statSearch = div.querySelector('.statSearch');
+                const statList = div.querySelector('.statList');
+                statSearch.addEventListener('input', () => filterStats(statSearch, statList));
+
+                // Add event listener for closing the modal
+                const closeModalButton = div.querySelector('.closeModal');
+                closeModalButton.addEventListener('click', () => closeModal(div));
             }
 
-            function searching() {
-                const searchTerm = searchBar.value.toLowerCase();
-                results.innerHTML = '';
-                allItems.forEach(item => {
-                    if (item.itemName && item.tooltip) {
-                        if (id.checked && item.id.toLowerCase().includes(searchTerm)) {
-                            createResultItem(item);
-                        } else if (!id.checked && (item.itemName.toLowerCase().includes(searchTerm) || item.tooltip.toLowerCase().includes(searchTerm))) {
-                            createResultItem(item);
-                        }
+            // Filter stats based on search input
+            function filterStats(searchInput, statList) {
+                const searchTerm = searchInput.value.toLowerCase();
+                const stats = statList.querySelectorAll('.stat');
+                stats.forEach(stat => {
+                    const key = stat.children[0].textContent.toLowerCase();
+                    const value = stat.children[1].textContent.toLowerCase();
+                    if (key.includes(searchTerm) || value.includes(searchTerm)) {
+                        stat.style.display = 'flex';
+                    } else {
+                        stat.style.display = 'none';
                     }
                 });
             }
 
+            // Perform search and display results
+            function searching() {
+                const searchTerm = searchBar.value.toLowerCase();
+                results.innerHTML = '';
+                displayedItems = allItems.filter(item => {
+                    if (item.itemName && item.tooltip) {
+                        if (id.checked && item.id.toLowerCase().includes(searchTerm)) {
+                            return true;
+                        } else if (!id.checked && (item.itemName.toLowerCase().includes(searchTerm) || item.tooltip.toLowerCase().includes(searchTerm))) {
+                            return true;
+                        }
+                    }
+                    return false;
+                });
+                currentPage = 0;
+                displayPage();
+            }
+
+            // Display a page of results
+            function displayPage() {
+                const fragment = document.createDocumentFragment();
+                const start = currentPage * itemsPerPage;
+                const end = start + itemsPerPage;
+                const itemsToDisplay = displayedItems.slice(start, end);
+
+                itemsToDisplay.forEach(item => {
+                    fragment.appendChild(createResultItem(item));
+                });
+
+                results.appendChild(fragment);
+
+                if (end < displayedItems.length) {
+                    loadMoreButton.style.display = 'block';
+                } else {
+                    loadMoreButton.style.display = 'none';
+                }
+            }
+
+            // Create a result item and add event listeners
             function createResultItem(item) {
                 const div = document.createElement('div');
                 div.className = 'result';
                 div.id = 'item-' + item.id;
                 div.innerHTML = `<div><img src="Icons/Icon_Items/${item.icon}.png"></div><div class="id">${item.id}</div><div class="info"><strong>${item.itemName}</strong><br>${item.tooltip}</div>`;
-                results.appendChild(div);
 
                 // Create and append the item data div
                 itemData(item);
@@ -116,17 +191,29 @@
                     if (itemDataDiv.style.display === 'none') {
                         hideAllItemData(); // Hide other item data divs before showing the clicked one
                         itemDataDiv.style.display = 'flex';
+                        document.body.classList.add('no-scroll'); // Disable scrolling
                     } else {
                         itemDataDiv.style.display = 'none';
+                        document.body.classList.remove('no-scroll'); // Enable scrolling
                     }
                 });
+
+                return div;
             }
 
+            // Hide all item data divs
             function hideAllItemData() {
                 const itemDataDivs = document.querySelectorAll('.item');
                 itemDataDivs.forEach(div => {
                     div.style.display = 'none';
                 });
+                document.body.classList.remove('no-scroll'); // Enable scrolling
+            }
+
+            // Close the modal and enable scrolling
+            function closeModal(modal) {
+                modal.style.display = 'none';
+                document.body.classList.remove('no-scroll'); // Enable scrolling
             }
 
             // Hide item data divs when clicking outside of them
@@ -145,11 +232,33 @@
                 }
             });
 
-            searchBar.addEventListener('input', () => {
-                searching()
-            });
-            id.addEventListener('change', () => {
-                searching()
+            // Debounce function to limit the rate of search execution
+            function debounce(func, wait) {
+                let timeout;
+                return function(...args) {
+                    clearTimeout(timeout);
+                    timeout = setTimeout(() => func.apply(this, args), wait);
+                };
+            }
+
+            // Debounced search function
+            const debouncedSearch = debounce(async() => {
+                loadingSpinner.style.display = 'block';
+                if (allItems.length === 0) {
+                    await loadAllItems();
+                }
+                searching();
+                loadingSpinner.style.display = 'none';
+            }, 300);
+
+            // Add event listeners for search input and checkbox change
+            searchBar.addEventListener('input', debouncedSearch);
+            id.addEventListener('change', debouncedSearch);
+
+            // Add event listener for the "Load More" button
+            loadMoreButton.addEventListener('click', () => {
+                currentPage++;
+                displayPage();
             });
         });
     </script>
