@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,23 +8,33 @@
     <link rel="icon" href="Icons/favicon.ico" type="image/x-icon">
     <title>Search Dungeons</title>
 </head>
-<body>
+
+<body id="body">
     <h1>Search Dungeons</h1>
     <input type="text" id="searchBar" placeholder="Search for dungeons...">
     <input type="checkbox" name="id" id="id"><label for="id"> Search by ID</label>
-    <div id="results"></div>
+    <div id="results">
+        <div id="loadingSpinner" class="spinner" style="display: none;"></div>
+    </div>
+    <button id="loadMore" style="display: none;">Load More</button>
 
     <script>
-        document.addEventListener('DOMContentLoaded', async () => {
+        document.addEventListener('DOMContentLoaded', () => {
             const searchBar = document.getElementById('searchBar');
             const results = document.getElementById('results');
             const id = document.getElementById('id');
+            const loadMoreButton = document.getElementById('loadMore');
+            const loadingSpinner = document.getElementById('loadingSpinner');
+
+            let allData = [];
+            let displayedItems = [];
+            let currentPage = 0;
+            const itemsPerPage = 20;
             const jsonFiles = [
                 'StrSheets/StrSheet_Dungeon/StrSheet_Dungeon-1.json'
                 // Add more file names as needed
             ];
 
-            let allData = [];
             async function fetchData(file) {
                 try {
                     const response = await fetch(file);
@@ -35,35 +46,77 @@
                 }
             }
 
-            // Fetch all JSON files
-            for (const file of jsonFiles) {
-                const fileData = await fetchData(file);
-                allData = allData.concat(fileData);
-            }
-            function searching (){
-                const searchTerm = searchBar.value.toLowerCase();
-                results.innerHTML = '';
-                allData.forEach(item => {
-                    if (item.name){
-                        if (id.checked && item.id.toLowerCase().includes(searchTerm)){
-                            const div = document.createElement('div');
-                            div.className = 'result';
-                            div.innerHTML = `<div class="id">${item.id}</div><div class="info"><strong>${item.name}</strong></div>`;
-                            results.appendChild(div);
-                        }
-                        else if (!id.checked && item.name.toLowerCase().includes(searchTerm)) {
-                            const div = document.createElement('div');
-                            div.className = 'result';
-                            div.innerHTML = `<div class="id">${item.id}</div><div class="info"><strong>${item.name}</strong></div>`;
-                            results.appendChild(div);
-                        }
-                    }
-                });
+            async function loadAllData() {
+                const fetchPromises = jsonFiles.map(file => fetchData(file));
+                const allDataArray = await Promise.all(fetchPromises);
+                allData = allDataArray.flat();
             }
 
-            searchBar.addEventListener('input', () => { searching() });
-            id.addEventListener('change', () => { searching() });
+            function searching() {
+                const searchTerm = searchBar.value.toLowerCase();
+                results.innerHTML = '';
+                displayedItems = allData.filter(item => {
+                    if (item.name) {
+                        if (id.checked && item.id.toLowerCase().includes(searchTerm)) {
+                            return true;
+                        } else if (!id.checked && item.name.toLowerCase().includes(searchTerm)) {
+                            return true;
+                        }
+                    }
+                    return false;
+                });
+                currentPage = 0;
+                displayPage();
+            }
+
+            function displayPage() {
+                const fragment = document.createDocumentFragment();
+                const start = currentPage * itemsPerPage;
+                const end = start + itemsPerPage;
+                const itemsToDisplay = displayedItems.slice(start, end);
+
+                itemsToDisplay.forEach(item => {
+                    const div = document.createElement('div');
+                    div.className = 'result';
+                    div.innerHTML = `<div class="id">${item.id}</div><div class="info"><strong>${item.name}</strong></div>`;
+                    fragment.appendChild(div);
+                });
+
+                results.appendChild(fragment);
+
+                if (end < displayedItems.length) {
+                    loadMoreButton.style.display = 'block';
+                } else {
+                    loadMoreButton.style.display = 'none';
+                }
+            }
+
+            function debounce(func, wait) {
+                let timeout;
+                return function(...args) {
+                    clearTimeout(timeout);
+                    timeout = setTimeout(() => func.apply(this, args), wait);
+                };
+            }
+
+            const debouncedSearch = debounce(async() => {
+                loadingSpinner.style.display = 'block';
+                if (allData.length === 0) {
+                    await loadAllData();
+                }
+                searching();
+                loadingSpinner.style.display = 'none';
+            }, 300);
+
+            searchBar.addEventListener('input', debouncedSearch);
+            id.addEventListener('change', debouncedSearch);
+
+            loadMoreButton.addEventListener('click', () => {
+                currentPage++;
+                displayPage();
+            });
         });
     </script>
 </body>
+
 </html>
