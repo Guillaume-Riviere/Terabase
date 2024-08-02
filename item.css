@@ -55,6 +55,12 @@
     width: auto;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    aspect-ratio: 1/1;
+    background-image: url("Icons/Icon_Items/none_100.png");
+}
+.itemIcon img:before {
+    content: " ";
+    font-size: 1000px;
 }
 
 .itemDescription {
