@@ -11,6 +11,7 @@
 </head>
 
 <body id="body">
+    <div id="navbar"></div>
     <h1>Search Items</h1>
     <input type="text" id="searchBar" placeholder="Search for items...">
     <input type="checkbox" name="id" id="id"><label for="id" checked> Search by ID</label>
@@ -20,6 +21,13 @@
     <button id="loadMore" style="display: none;">Load More</button>
 
     <script>
+        // Load the navbar
+        fetch('navbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar').innerHTML = data;
+            });
+
         document.addEventListener('DOMContentLoaded', () => {
             // Get references to DOM elements
             const searchBar = document.getElementById('searchBar');

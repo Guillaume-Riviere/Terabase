@@ -10,6 +10,8 @@
 </head>
 
 <body id="body">
+    <!-- Include the navbar -->
+    <div id="navbar"></div>
     <h1>Search Abnormalities</h1>
     <input type="text" id="searchBar" placeholder="Search for abnormalities...">
     <input type="checkbox" name="id" id="id"><label for="id"> Search by ID</label>
@@ -19,6 +21,13 @@
     <button id="loadMore" style="display: none;">Load More</button>
 
     <script>
+        // Load the navbar
+        fetch('navbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar').innerHTML = data;
+            });
+
         document.addEventListener('DOMContentLoaded', () => {
             const searchBar = document.getElementById('searchBar');
             const results = document.getElementById('results');
