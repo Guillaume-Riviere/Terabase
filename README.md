@@ -1,66 +1,67 @@
-# TeraCodex - Base de Données du Jeu Tera
+# TeraBase - Database for Tera
 
-TeraCodex est une application web permettant de rechercher et d'afficher diverses données du jeu Tera à partir de fichiers JSON. L'application inclut des fonctionnalités de recherche, de filtrage et de pagination, ainsi qu'une modale pour afficher les détails des éléments.
+TeraBase is a web application that allows users to search for and display various data from the game Tera using JSON files. The application includes search, filtering, and pagination features, as well as a modal to display item details.
 
-## Fonctionnalités
+## Features
 
-- Recherche d'éléments par nom ou description.
-- Filtrage des éléments par ID.
-- Affichage des détails des éléments dans une modale.
-- Pagination des résultats de recherche.
-- Indicateur de chargement pendant la recherche.
+- Search for items by name or description.
+- Filter items by ID.
+- Display item details in a modal.
+- Paginate search results.
+- Show a loading indicator during the search.
 
-## Prérequis
+## Prerequisites
 
-- Un serveur web pour servir les fichiers HTML, CSS et JavaScript.
-- Les fichiers JSON contenant les données du jeu doivent être disponibles dans le répertoire `Data/`.
+- A web server to serve HTML, CSS, and JavaScript files.
+- JSON files containing game data must be available in the Data/ directory.
 
 ## Installation
 
-1. Clonez le dépôt :
+1. Clone the repository:
     ```bash
-    git clone https://github.com/BrendonDesvaux/teracodex.git
+    git clone https://github.com/Guillaume-Riviere/Terabase
     ```
 
-2. Placez les fichiers JSON dans le répertoire `Data/`.
+2. Place the JSON files in the Data/ directory.
 
-3. Ouvrez le fichier `index.html` dans un navigateur web avec LiveServeur.
+3. Open the index.html file in a web browser using LiveServer.
 
-## Structure du Projet
+## Project Structure
 
-- `index.html` : Le fichier HTML principal contenant la structure de l'application.
-- `style.css` : Le fichier CSS principal pour le style de l'application.
-- `item.css` : Le fichier CSS pour les styles spécifiques aux éléments.
-- `Data/` : Le répertoire contenant les fichiers JSON avec les données du jeu.
 
-## Utilisation
+- `index.html`: The main HTML file containing the structure of the application.
+- `style.css`: The main CSS file for the application's styling.
+- `item.css`: The CSS file for styles specific to the items.
+- `Data/`: The directory containing the JSON files with the game data.
 
-1. Ouvrez `index.html` dans un navigateur web.
-2. Utilisez la barre de recherche pour rechercher des éléments par nom ou description.
-3. Cochez la case "Search by ID" pour rechercher des éléments par ID.
-4. Cliquez sur un élément dans les résultats de recherche pour afficher les détails dans une modale.
-5. Utilisez le bouton "Load More" pour afficher plus de résultats.
+## Use
+
+1. Open index.html in a web browser.
+2. Use the search bar to search for items by name or description.
+3. Check the "Search by ID" checkbox to search for items by ID.
+4. Click on an item in the search results to display its details in a modal.
+5. Use the "Load More" button to display more results.
 
 ## Code JavaScript
 
-Le code JavaScript est inclus dans le fichier `index.html` et gère les fonctionnalités suivantes :
+The JavaScript code is included in the index.html file and handles the following functionalities:
 
-- Chargement des données des éléments à partir des fichiers JSON.
-- Recherche et filtrage des éléments.
-- Affichage des résultats de recherche.
-- Gestion de la modale pour afficher les détails des éléments.
-- Indicateur de chargement pendant la recherche.
+- Loading item data from JSON files.
+- Searching and filtering items.
+- Displaying search results.
+- Managing the modal to display item details.
+- Showing a loading indicator during the search.
 
-## Contribuer
+## Contribute
 
-Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes pour contribuer :
+Contributions are welcome! Please follow these steps to contribute:
 
-1. Fork le dépôt.
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/ma-fonctionnalité`).
-3. Commitez vos modifications (`git commit -am 'Ajoute une nouvelle fonctionnalité'`).
-4. Poussez votre branche (`git push origin feature/ma-fonctionnalité`).
-5. Ouvrez une Pull Request.
+- Fork the repository.
+- Create a branch for your feature (git checkout -b feature/my-feature).
+- Commit your changes (git commit -am 'Add a new feature').
+- Push your branch (git push origin feature/my-feature).
+- Open a Pull Request.
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
