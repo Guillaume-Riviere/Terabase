@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48721001" string="Lucrative Token" />
+	<String id="48721002" string="I'll pay you. This deal will be good for both of us." />
+	<String id="48721003" string="Humpf, I swear this is the best I can do." />
+	<String id="48721004" string="Darkness Token" />
+	<String id="48721005" string="Eliminate bastion mystics, sorcerers, reapers, lancers, slayers, and priests in the Bastion of Lok, and collect darkness tokens.&#10;[You must select Bastion of Lok (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.]" />
+	<String id="48721006" string="Deliver the darkness tokens to Ehringer at the entrance of the Bastion of Lok." />
+	<String id="48721007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

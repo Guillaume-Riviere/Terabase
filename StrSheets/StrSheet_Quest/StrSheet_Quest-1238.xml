@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5132001" string="This One Goes to Eleven" />
+	<String id="5132002" string="Take that pylon down!" />
+	<String id="5132003" string="Maybe now the monsters will dial the crazy back just a bit." />
+	<String id="5132004" string="Destroy the draelkar pylon along the nothern wall of Frostclaw Crag." />
+	<String id="5132005" string="&quot;Happy to be of service.&quot;" />
+	<String id="5132006" string="Report back to Gruk." />
+</StrSheet_Quest>

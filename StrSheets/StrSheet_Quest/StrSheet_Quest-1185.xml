@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4949001" string="Dark Sisters" />
+	<String id="4949002" string="Watch out for those witches. They're killers." />
+	<String id="4949003" string="One step closer to saving my home." />
+	<String id="4949004" string="Kill zariik cyanowitches around the {@Rgn:49003}." />
+	<String id="4949005" string="&quot;I'm good to go.&quot;" />
+	<String id="4949006" string="Report back to {@LinkCreature:249#1020}." />
+</StrSheet_Quest>

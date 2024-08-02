@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50601001" string="[Important] Velik's Dream" />
+	<String id="50601002" string="&quot;Okay.&quot;" />
+	<String id="50601003" string="Talk to Seir." />
+	<String id="50601004" string="&quot;I'll try to find Tarua.&quot;" />
+	<String id="50601005" string="Speak with Getty." />
+	<String id="50601006" string="&quot;Thank you!&quot;" />
+	<String id="50601007" string="Speak with Rumaia." />
+	<String id="50601008" string="&quot;Let's hope so.&quot;" />
+	<String id="50601009" string="Speak with Cottrey." />
+	<String id="50601010" string="Take Cottrey's medicine." />
+	<String id="50601011" string="&quot;Bottoms up!&quot;" />
+	<String id="50601012" string="&quot;I need to see the goddess.&quot;" />
+	<String id="50601013" string="Tell Cottrey how you feel." />
+	<String id="50601014" string="&quot;Good idea.&quot;" />
+	<String id="50601015" string="Speak with Kisha at Velik's Steps." />
+	<String id="50601016" string="&quot;Okay, I'm ready when you are.&quot;" />
+	<String id="50601017" string="Ask Rimun for access to Hall of Knowledge." />
+	<String id="50601018" string="Veritas Vault Bookshelf" />
+	<String id="50601019" string="Halran is absent. Ask Halran's assistant where Halran is." />
+	<String id="50601020" string="Search for Halran near the Bookshelf in Veritas Vault." />
+	<String id="50601021" string="&quot;Thank you.&quot;" />
+	<String id="50601022" string="Speak with Falim in Highwatch." />
+	<String id="50601023" string="Read Halran's message." />
+	<String id="50601024" string="The Fountain of Shara...near Seeker's Locus?" />
+	<String id="50601025" string="Go to Mystel's Arcana." />
+	<String id="50601026" string="&quot;Thank you!&quot;" />
+	<String id="50601027" string="Speak with Falim." />
+	<String id="50601028" string="Use the Tralion Teleport Scroll." />
+	<String id="50601029" string="Fountain of Shara" />
+	<String id="50601030" string="This is a good place to consult Mystel's Aura." />
+	<String id="50601031" string="Go to {@Rgn:26005$$Fountain of Shara}. ({@linkcreature:69#1005$$Teleport} to {@Rgn:26007$$Seekers' Locus} to travel quick)" />
+	<String id="50601032" string="Use Mystel's Aura." />
+	<String id="50601033" string="You used Mystel's Aura." />
+	<String id="50601034" string="&quot;Okay, I'll get started right away.&quot;" />
+	<String id="50601035" string="Speak with Mystel." />
+	<String id="50601036" string="Collect the Overseer's Eyes from a Shadow Overseer." />
+	<String id="50601037" string="Collect the Motes of Distortion from Oneiroliths." />
+	<String id="50601038" string="Collect the Sanctuary Barriers from Rheumikumases." />
+	<String id="50601039" string="Collect the Root of Resurrection from an Autumnal Giant." />
+	<String id="50601040" string="&quot;Okay.&quot;" />
+	<String id="50601041" string="Return to Mystel with the materials." />
+	<String id="50601042" string="Velik's Dream" />
+	<String id="50601043" string="You're inside Velik's dream!" />
+	<String id="50601044" string="Use the Recro Magnum in front of {@linkcreature:226#2000$$Mystel} to enter Velik's dream." />
+	<String id="50601045" string="Interact with the devices to deal with the butterflies." />
+	<String id="50601046" string="Observe Velik's pure dream." />
+	<String id="50601047" string="I'll be ready." />
+	<String id="50601048" string="Speak with Mystel." />
+</StrSheet_Quest>

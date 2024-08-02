@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1329001" string="Going Above and Beyond" />
+	<String id="1329002" string="Look around, and you'll find plenty that still needs doing." />
+	<String id="1329003" string="&quot;Y-yes?&quot;" />
+	<String id="1329004" string="Find and speak with Kiriya." />
+	<String id="1329005" string="Throw your bombs (from your inventory or your skill bar) at the dummies." />
+	<String id="1329006" string="&quot;GOT IT!&quot;" />
+	<String id="1329007" string="Talk to Kiriya." />
+</StrSheet_Quest>

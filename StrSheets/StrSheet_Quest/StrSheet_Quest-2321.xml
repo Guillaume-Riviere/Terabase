@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800030001" string="Hunt Basilisks" />
+	<String id="800030002" string="[Oblivion Woods] Hunt basilisks in the Bestial Vale." />
+	<String id="800030003" string="Basilisks" />
+	<String id="800030004" string="Claim your reward!" />
+</StrSheet_Quest>

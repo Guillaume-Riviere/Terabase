@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4846001" string="Fighting for the Fallen" />
+	<String id="4846002" string="It's {@Rgn:48006}. Watch yourself." />
+	<String id="4846003" string="You took a big risk for us. Thanks." />
+	<String id="4846004" string="Argon Mutations" />
+	<String id="4846005" string="Kill syndrene dragoons or zariik cyclopses around Carnage Vale." />
+	<String id="4846006" string="&quot;Watch yourself out here.&quot;" />
+	<String id="4846007" string="Report back to {@LinkCreature:248#1042}." />
+</StrSheet_Quest>

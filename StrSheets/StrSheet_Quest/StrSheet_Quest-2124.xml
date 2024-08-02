@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70220001" string="[Rootstock-Daily] Freeholds Specialty" />
+	<String id="70220002" string="&quot;Got it.&quot;" />
+	<String id="70220003" string="Talk to Melsa in the Freeholds." />
+	<String id="70220004" string="Prepare a Moongourd Muffin for Haroso." />
+	<String id="70220005" string="Prepare some Popped Cobseed for Haroso." />
+	<String id="70220006" string="Prepare a Mudroot Salad for Haroso." />
+	<String id="70220007" string="Prepare some Grilled Pigling for Haroso." />
+	<String id="70220008" string="Prepare a Shevranberry Cookie for Haroso." />
+	<String id="70220009" string="Talk to Haroso in Tuwangi Mire." />
+	<String id="70220010" string="&quot;What would you like?&quot;" />
+	<String id="70220011" string="&quot;Enjoy.&quot;" />
+	<String id="70220012" string="Prepare a Moongourd Muffin for Haroso." />
+	<String id="70220013" string="Deliver the Moongourd Muffin to Haroso." />
+	<String id="70220014" string="&quot;Enjoy.&quot;" />
+	<String id="70220015" string="Prepare Popped Cobseed for Haroso." />
+	<String id="70220016" string="Deliver the Popped Cobseed to Haroso." />
+	<String id="70220017" string="&quot;Enjoy.&quot;" />
+	<String id="70220018" string="Prepare a Mudroot Salad for Haroso." />
+	<String id="70220019" string="Deliver the Mudroot Salad to Haroso." />
+	<String id="70220020" string="&quot;Enjoy.&quot;" />
+	<String id="70220021" string="Prepare Grilled Pigling for Haroso." />
+	<String id="70220022" string="Deliver the Grilled Pigling to Haroso." />
+	<String id="70220023" string="&quot;Enjoy.&quot;" />
+	<String id="70220024" string="Prepare a Shevranberry Cookie for Haroso." />
+	<String id="70220025" string="Deliver the Shevranberry Cookie to Haroso." />
+	<String id="70220026" string="Prepare a Traditional Bleakfields BBQ for Haroso." />
+	<String id="70220027" string="Prepare a Freeholds Flame Salad for Haroso." />
+	<String id="70220028" string="Prepare a Bleak Wings for Haroso." />
+	<String id="70220029" string="Talk to Haroso in Tuwangi Mire." />
+	<String id="70220030" string="&quot;What would you like?&quot;" />
+	<String id="70220031" string="&quot;Thanks.&quot;" />
+	<String id="70220032" string="Prepare a Traditional Bleakfields BBQ for Haroso." />
+	<String id="70220033" string="Deliver the Traditional Bleakfields BBQ to Haroso." />
+	<String id="70220034" string="&quot;Thanks.&quot;" />
+	<String id="70220035" string="Prepare a Freeholds Flame Salad for Haroso." />
+	<String id="70220036" string="Deliver the Freeholds Flame Salad to Haroso." />
+	<String id="70220037" string="&quot;Thanks.&quot;" />
+	<String id="70220038" string="Prepare a Bleak Wings for Haroso." />
+	<String id="70220039" string="Deliver the Bleak Wings to Haroso." />
+</StrSheet_Quest>

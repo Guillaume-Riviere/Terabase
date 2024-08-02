@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60518001" string="Monster Hunter" />
+	<String id="60518002" string="&quot;Will do.&quot;" />
+	<String id="60518003" string="" />
+	<String id="60518004" string="" />
+	<String id="60518005" string="" />
+	<String id="60518006" string="" />
+	<String id="60518007" string="Tell {@LinkCreature:63#3003#Elthienne} you want to help." />
+	<String id="60518008" string="&quot;Sure thing.&quot;" />
+	<String id="60518009" string="Naga Meat" />
+	<String id="60518010" string="Hunt {@LinkCreature:7#1#naga mercenaries} in the {@Rgn:7001#Celestial Hills} and deliver their meat to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60518011" string="" />
+	<String id="60518012" string="&quot;Glad I could help.&quot;" />
+	<String id="60518013" string="Kumas Blubber" />
+	<String id="60518014" string="Hunt {@LinkCreature:7#3#indolent kumases} in the {@Rgn:7001#Celestial Hills} and deliver their blubber to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60518015" string="" />
+	<String id="60518016" string="&quot;Glad I could help.&quot;" />
+	<String id="60518017" string="Kumas Blubber" />
+	<String id="60518018" string="Hunt {@LinkCreature:7#4#torpid kumases} in the {@Rgn:7001#Celestial Hills} and deliver their blubber to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60518019" string="" />
+	<String id="60518020" string="&quot;Glad I could help.&quot;" />
+	<String id="60518021" string="Juggernaut Jerky" />
+	<String id="60518022" string="Hunt {@LinkCreature:7#23#juggernaut mercenaries} in {@Rgn:7001#Celestial Hills} and deliver jerky meat to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60518023" string="" />
+	<String id="60518024" string="&quot;Glad I could help.&quot;" />
+	<String id="60518025" string="&quot;Hang in there.&quot;" />
+	<String id="60518026" string="See {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

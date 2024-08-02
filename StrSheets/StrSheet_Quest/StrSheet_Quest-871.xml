@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3634001" string="Tokens of the Dead" />
+	<String id="3634002" string="I know it's little more than a gesture. Still..." />
+	<String id="3634003" string="Rest in peace..." />
+	<String id="3634004" string="&quot;I did what I could.&quot;" />
+	<String id="3634005" string="Collect Valkyon soldiers' necklaces in Blood Valley." />
+	<String id="3634006" string="Bring the necklaces to Seline at Checkpoint Ebony." />
+</StrSheet_Quest>

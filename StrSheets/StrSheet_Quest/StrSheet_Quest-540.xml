@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2133001" string="A Ruined Journey" />
+	<String id="2133002" string="Be careful!" />
+	<String id="2133003" string="I really can't thank you enough." />
+	<String id="2133004" string="Begin the escort." />
+	<String id="2133005" string="Thank you!" />
+	<String id="2133006" string="Escort Borud to the Stone Pillar Relics." />
+	<String id="2133007" string="&quot;Okay.&quot;" />
+	<String id="2133008" string="Speak with Borud." />
+	<String id="2133009" string="&quot;It was no trouble.&quot;" />
+	<String id="2133010" string="Return to Aresk." />
+</StrSheet_Quest>

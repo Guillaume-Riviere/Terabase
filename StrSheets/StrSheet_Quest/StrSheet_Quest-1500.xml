@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8703001" string="Picking up the Pieces" />
+	<String id="8703002" string="&quot;Go on.&quot;" />
+	<String id="8703003" string="Rida's Token" />
+	<String id="8703004" string="Give Rida's token to Derinu." />
+	<String id="8703005" string="&quot;I understand.&quot;" />
+	<String id="8703006" string="&quot;I understand.&quot;" />
+	<String id="8703007" string="Talk to Mirvan." />
+	<String id="8703008" string="Hunt brutal orcan soldiers and their working dogs." />
+	<String id="8703009" string="&quot;I understand.&quot;" />
+	<String id="8703010" string="Talk to Camp Manager Larion." />
+	<String id="8703011" string="&quot;I understand.&quot;" />
+	<String id="8703012" string="Talk to Ansiny." />
+	<String id="8703013" string="Hunt agitated bears, anxious faeries, and scared faeries." />
+	<String id="8703014" string="&quot;I understand.&quot;" />
+	<String id="8703015" string="Talk to Raina." />
+	<String id="8703016" string="&quot;I understand.&quot;" />
+	<String id="8703017" string="Talk to Kalido." />
+	<String id="8703018" string="&quot;I understand.&quot;" />
+	<String id="8703019" string="Talk to Kelleher." />
+	<String id="8703020" string="&quot;Thank you.&quot;" />
+	<String id="8703021" string="Talk to Hasran." />
+</StrSheet_Quest>

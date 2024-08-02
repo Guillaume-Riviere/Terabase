@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59912001" string="For Valorous Service" />
+	<String id="59912002" string="The Temple of the Tree" />
+	<String id="59912003" string="" />
+	<String id="59912004" string="Enter the Temple of the Tree." />
+	<String id="59912005" string="Defeat the Argon Soldiers." />
+	<String id="59912006" string="The Whereabouts of Anya and the Guardians" />
+	<String id="59912007" string="You see Lacedir, one of the village guardians." />
+	<String id="59912008" string="Ask about Anya and the guardians." />
+	<String id="59912009" string="&quot;I'll find him. You stay here. Help the soldiers.&quot;" />
+	<String id="59912010" string="Ask Lacedir about Anya and the other children." />
+	<String id="59912011" string="The Whereabouts of Anya and the Guardians" />
+	<String id="59912012" string="You can't see anything through all the argons." />
+	<String id="59912013" string="Look for Deplen." />
+	<String id="59912014" string="Defeat the Argon occupiers." />
+	<String id="59912015" string="The Whereabouts of Anya and the Guardians" />
+	<String id="59912016" string="You see Deplen, lying wounded in the water." />
+	<String id="59912017" string="Ask about Anya and the guardians." />
+	<String id="59912018" string="&quot;I've got a better idea.&quot;" />
+	<String id="59912019" string="Talk to Deplen the Guardian." />
+	<String id="59912020" string="Use the flare gun to call the Valkyon Federation soldiers to rescue Deplen.&lt;br>&lt;br>Press [&lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open the Inventory window and right-click the Flare Gun.]" />
+	<String id="59912021" string="&quot;Rest easy. Help is on the way.&quot;" />
+	<String id="59912022" string="Talk to Deplen." />
+</StrSheet_Quest>

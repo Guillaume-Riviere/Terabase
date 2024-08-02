@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2141001" string="Basilisk's Threat" />
+	<String id="2141002" string="Victory for Valkyon!" />
+	<String id="2141003" string="Well done!" />
+	<String id="2141004" string="Basilisk's Eyes" />
+	<String id="2141005" string="Kill the dusky basilisks in the Vale of Graves." />
+	<String id="2141006" string="Report to Rhysart in the Desert Overwatch." />
+	<String id="2141007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

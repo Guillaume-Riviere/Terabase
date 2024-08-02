@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10110001" string="The How and Why of Scepters" />
+	<String id="10110002" string="&quot;No, thank you!&quot;" />
+	<String id="10110003" string="Create weaponsmith scepters." />
+	<String id="10110004" string="Take the scepters to Gerain in Tralion." />
+</StrSheet_Quest>

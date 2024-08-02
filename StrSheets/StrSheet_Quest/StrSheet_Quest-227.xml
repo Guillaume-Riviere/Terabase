@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="932001" string="Pride of the Protectors" />
+	<String id="932002" string="For Valkyon!" />
+	<String id="932003" string="Good work." />
+	<String id="932004" string="Stalker Horns" />
+	<String id="932005" string="Kill labyrinthine stalkers in the depths of the labyrinth. Collect their horns." />
+	<String id="932006" string="Report to Tryphena at Relic Hunter Outpost." />
+	<String id="932007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

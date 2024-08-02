@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60417001" string="Nature's Perfect Food" />
+	<String id="60417002" string="Take your time today." />
+	<String id="60417003" string="Don't take too many, though..." />
+	<String id="60417004" string="" />
+	<String id="60417005" string="" />
+	<String id="60417006" string="" />
+	<String id="60417007" string="Meet {@LinkCreature:71#3014#Arura} in {@Rgn:71001$$Bastion}." />
+	<String id="60417008" string="&quot;No sweat.&quot;" />
+	<String id="60417009" string="Shake {@WorkObject:75}s and collect their fruit." />
+	<String id="60417010" string="Shake {@WorkObject:75}s and collect their fruit." />
+	<String id="60417011" string="Shake {@WorkObject:75}s and collect their fruit." />
+	<String id="60417012" string="&quot;That does smell good.&quot;" />
+	<String id="60417013" string="Report to {@LinkCreature:71#3014#Arura}." />
+</StrSheet_Quest>

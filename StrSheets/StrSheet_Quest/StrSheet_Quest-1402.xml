@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5735001" string="Every Child Is Our Child" />
+	<String id="5735002" string="We must save our eggs from the predations of the argons!" />
+	<String id="5735003" string="This gift of life is beyond price. Thank you." />
+	<String id="5735004" string="Kill Kezelran so you can recover the eggs without alerting the argons." />
+	<String id="5735005" string="&quot;Honored to be of service.&quot;" />
+	<String id="5735006" string="Rescue the sikandari eggs from the Hatchery." />
+	<String id="5735007" string="Bring the sikandari eggs to Qrawkil at Accipiter Watchpost." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60803001" string="Market Research" />
+	<String id="60803002" string="Use teleport masters to move to camps that you have visited before." />
+	<String id="60803003" string="Well done!" />
+	<String id="60803004" string="&quot;I get what you're saying.&quot;" />
+	<String id="60803005" string="Go to Tryphena." />
+	<String id="60803006" string="&quot;How profitable.&quot;" />
+	<String id="60803007" string="Deliver the information to Rhales." />
+</StrSheet_Quest>

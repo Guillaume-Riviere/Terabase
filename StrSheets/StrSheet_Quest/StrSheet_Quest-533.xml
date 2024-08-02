@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2126001" string="Water in the Desert" />
+	<String id="2126002" string="We mentioned you would be paid handsomely for {@RawItem:206821}, yes?" />
+	<String id="2126003" string="Our many thanks." />
+	<String id="2126004" string="&quot;Happy to help.&quot;" />
+	<String id="2126005" string="Obtain {@RawItem:206821}." />
+	<String id="2126006" string="Deliver the {@RawItem:206821} to Tergur." />
+</StrSheet_Quest>

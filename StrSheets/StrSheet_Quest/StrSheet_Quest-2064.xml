@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60808001" string="Dealing with Shrinkage" />
+	<String id="60808002" string="Hurry! This is a key client!" />
+	<String id="60808003" string="Thank you." />
+	<String id="60808004" string="" />
+	<String id="60808005" string="Missing Package" />
+	<String id="60808006" string="Deliver the missing package to Jerelyn in Velika." />
+	<String id="60808007" string="Hand over the missing package." />
+</StrSheet_Quest>

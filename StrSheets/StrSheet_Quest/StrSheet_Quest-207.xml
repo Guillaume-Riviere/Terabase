@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="841001" string="Unmentionable Stenchables" />
+	<String id="841002" string="Gulas cook with that? How awful!" />
+	<String id="841003" string="Ugh! I just want to set my nose on fire." />
+	<String id="841004" string="&quot;You asked for it!&quot;" />
+	<String id="841005" string="Search for the gula's spice in the Hungry Caverns Depths." />
+	<String id="841006" string="Deliver the spice to Nurea at Vanguard Outpost Beta." />
+</StrSheet_Quest>

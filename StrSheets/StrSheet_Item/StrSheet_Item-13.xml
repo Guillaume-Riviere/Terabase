@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="950000" string="Surprise Box 1" toolTip="Box full of surprises" />
+	<String id="950001" string="Surprise Box 2" toolTip="Box full of surprises" />
+	<String id="950002" string="Surprise Box 3" toolTip="Box full of surprises" />
+	<String id="950003" string="Surprise Box 4" toolTip="Box full of surprises" />
+	<String id="950004" string="Surprise Box 5" toolTip="Box full of surprises" />
+	<String id="950005" string="Surprise Box 6" toolTip="Box full of surprises" />
+	<String id="950006" string="Surprise Box 7" toolTip="Box full of surprises" />
+	<String id="950007" string="Surprise Box 8" toolTip="Box full of surprises" />
+	<String id="950008" string="Surprise Box 9" toolTip="Box full of surprises" />
+	<String id="950009" string="Surprise Box 10" toolTip="Box full of surprises" />
+	<String id="950010" string="Surprise Box 11" toolTip="Box full of surprises" />
+	<String id="950011" string="Surprise Box 12" toolTip="Box full of surprises" />
+	<String id="950012" string="Surprise Box 13" toolTip="Box full of surprises" />
+	<String id="950013" string="Surprise Box 14" toolTip="Box full of surprises" />
+	<String id="950014" string="Surprise Box 15" toolTip="Box full of surprises" />
+	<String id="950015" string="Surprise Box 16" toolTip="Box full of surprises" />
+	<String id="950016" string="Surprise Box 17" toolTip="Box full of surprises" />
+	<String id="950017" string="Surprise Box 18" toolTip="Box full of surprises" />
+	<String id="950018" string="Surprise Box 19" toolTip="Box full of surprises" />
+	<String id="950019" string="Surprise Loot Box 1" toolTip="Box full of surprises" />
+	<String id="950020" string="Surprise Loot Box 2" toolTip="Box full of surprises" />
+	<String id="950021" string="Surprise Loot Box 3" toolTip="Box full of surprises" />
+	<String id="950022" string="Surprise Loot Box 4" toolTip="Box full of surprises" />
+	<String id="950023" string="Surprise Loot Box 5" toolTip="Box full of surprises" />
+	<String id="950024" string="Surprise Loot Box 6" toolTip="Box full of surprises" />
+	<String id="950025" string="Surprise Loot Box 7" toolTip="Box full of surprises" />
+	<String id="950026" string="Surprise Loot Box 8" toolTip="Box full of surprises" />
+	<String id="950027" string="Surprise Loot Box 9" toolTip="Box full of surprises" />
+	<String id="950028" string="Surprise Loot Box 10" toolTip="Box full of surprises" />
+	<String id="950029" string="Surprise Loot Box 11" toolTip="Box full of surprises" />
+	<String id="950030" string="Surprise Loot Box 12" toolTip="Box full of surprises" />
+	<String id="950031" string="Surprise Loot Box 13" toolTip="Box full of surprises" />
+	<String id="950032" string="Surprise Loot Box 14" toolTip="Box full of surprises" />
+	<String id="950033" string="Surprise Loot Box 15" toolTip="Box full of surprises" />
+	<String id="950034" string="Surprise Loot Box 16" toolTip="Box full of surprises" />
+	<String id="950035" string="Surprise Loot Box 17" toolTip="Box full of surprises" />
+	<String id="950036" string="Surprise Loot Box 18" toolTip="Box full of surprises" />
+	<String id="950037" string="Surprise Loot Box 19" toolTip="Box full of surprises" />
+	<String id="950038" string="Personalized White Scrubs Loot Box" toolTip="Personalized White Scrubs Loot Box" />
+	<String id="950039" string="Personalized Pink Scrubs Loot Box" toolTip="Personalized Pink Scrubs Loot Box" />
+	<String id="950040" string="Personalized Night Shift Scrubs Loot Box" toolTip="Personalized Night Shift Scrubs Loot Box" />
+	<String id="950041" string="Glowing Skeleton Costume Loot Box" toolTip="Glowing Skeleton Costume Loot Box" />
+	<String id="950042" string="Angora Air Loot Box" toolTip="Angora Air Loot Box" />
+	<String id="950043" string="Lilac Harelines Loot Box" toolTip="Lilac Harelines Loot Box" />
+	<String id="950044" string="Volcanic Dragon Weapon Skin Loot Box" toolTip="Volcanic Dragon Weapon Skin Loot Box" />
+	<String id="950045" string="Arctic Dragon Weapon Skin Loot Box" toolTip="Arctic Dragon Weapon Skin Loot Box" />
+	<String id="950046" string="Volcanic Dragon Armor Loot Box" toolTip="Volcanic Dragon Armor Loot Box" />
+	<String id="950047" string="Arctic Dragon Armor Loot Box" toolTip="Arctic Dragon Armor Loot Box" />
+	<String id="950048" string="Performance Inner Armor Box" toolTip="Performance Inner Armor Box" />
+	<String id="950049" string="Insulated Inner Armor Box" toolTip="Insulated Inner Armor Box" />
+	<String id="950050" string="Fortified Inner Armor Box" toolTip="Fortified Inner Armor Box" />
+	<String id="950051" string="Fitness Inner Armor Box" toolTip="Fitness Inner Armor Box" />
+	<String id="950052" string="Empowered Inner Armor Box" toolTip="Empowered Inner Armor Box" />
+	<String id="950053" string="Arctic Bomber Loot Box" toolTip="Arctic Bomber Loot Box" />
+	<String id="950054" string="Disco Dress Smart Loot Box" toolTip="Disco Dress Smart Loot Box" />
+	<String id="950055" string="Obsidian Airwolf Loot Box" toolTip="Obsidian Airwolf Loot Box" />
+	<String id="950056" string="Thunderbolt Airwolf Loot Box" toolTip="Thunderbolt Airwolf Loot Box" />
+	<String id="950057" string="Cherry Airwolf Loot Box" toolTip="Cherry Airwolf Loot Box" />
+	<String id="950058" string="Starglow Weapon Skin Loot Box" toolTip="Starglow Weapon Skin Loot Box" />
+	<String id="950059" string="Starglow Costume Loot Box" toolTip="Starglow Costume Loot Box" />
+	<String id="950060" string="Ashfury Loot Box" toolTip="Ashfury Loot Box" />
+	<String id="950061" string="Astrafury Loot Box" toolTip="Astrafury Loot Box" />
+	<String id="950062" string="Ultrafury Loot Box" toolTip="Ultrafury Loot Box" />
+	<String id="950063" string="Nightfury Loot Box" toolTip="Nightfury Loot Box" />
+	<String id="950064" string="Bonefury Loot Box" toolTip="Bonefury Loot Box" />
+	<String id="950065" string="Dyeable Asian Silk Dress Loot Box" toolTip="Dyeable Asian Silk Dress Loot Box" />
+	<String id="950066" string="Modern Bride Loot Box" toolTip="Modern Bride Loot Box" />
+	<String id="950067" string="Gentleman Groom Loot Box" toolTip="Gentleman Groom Loot Box" />
+	<String id="950068" string="Maid to Work Loot Box" toolTip="Maid to Work Loot Box" />
+	<String id="950069" string="Colorful Cat Club Case" toolTip="Colorful Cat Club Case" />
+	<String id="950070" string="Surprise Loot Box 20" toolTip="Box full of surprises" />
+	<String id="950071" string="Surprise Loot Box 21" toolTip="Box full of surprises" />
+	<String id="950072" string="Surprise Loot Box 22" toolTip="Box full of surprises" />
+	<String id="950073" string="Surprise Loot Box 23" toolTip="Box full of surprises" />
+	<String id="950074" string="Surprise Loot Box 24" toolTip="Box full of surprises" />
+	<String id="950075" string="Surprise Loot Box 25" toolTip="Box full of surprises" />
+	<String id="950076" string="Female Alice Costume Box" toolTip="Female Alice Costume Box" />
+	<String id="950077" string="Dyeable Female Alice Costume Box" toolTip="Dyeable Female Alice Costume Box" />
+	<String id="950078" string="Castanic Garment Bag" toolTip="Castanic Garment Bag" />
+	<String id="950079" string="Elin Garment Bag" toolTip="Elin Garment Bag" />
+	<String id="950080" string="Surprise Box 20" toolTip="Box full of surprises" />
+	<String id="950081" string="Surprise Box 21" toolTip="Box full of surprises" />
+	<String id="950082" string="Surprise Box 22" toolTip="Box full of surprises" />
+	<String id="950083" string="Surprise Box 23" toolTip="Box full of surprises" />
+	<String id="950084" string="Surprise Box 24" toolTip="Box full of surprises" />
+	<String id="950085" string="Surprise Box 25" toolTip="Box full of surprises" />
+	<String id="950086" string="Surprise Box 26" toolTip="Box full of surprises" />
+	<String id="950087" string="Surprise Box 27" toolTip="Box full of surprises" />
+	<String id="950088" string="Surprise Box 28" toolTip="Box full of surprises" />
+	<String id="950089" string="Surprise Box 29" toolTip="Box full of surprises" />
+	<String id="950090" string="Surprise Box 30" toolTip="Box full of surprises" />
+	<String id="950091" string="Surprise Box 31" toolTip="Box full of surprises" />
+	<String id="950092" string="Surprise Box 32" toolTip="Box full of surprises" />
+	<String id="950093" string="Surprise Box 33" toolTip="Box full of surprises" />
+	<String id="950094" string="Surprise Box 34" toolTip="Box full of surprises" />
+	<String id="950095" string="Twitch Dragon Armor (3-day)" toolTip="Twitch Dragon Armor (3-day)" />
+	<String id="950096" string="Twitch Dragon Armor (7-day)" toolTip="Twitch Dragon Armor (7-day)" />
+	<String id="950097" string="Twitch Dragon Armor" toolTip="Twitch Dragon Armor" />
+	<String id="950098" string="Snowbelle Wrap Costume" toolTip="Contains a Snowbelle costume suitable for a human, high elf, aman, castanic, or elin character. (Female characters only.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="950099" string="Chilly Little Cloud Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Chilly Little Cloud hair slot accesory, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950100" string="Winter Scarf Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Cheer Winter Scarf or Snowy Winter Scarf accessory, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950101" string="Snow Angels Loot Box" toolTip="This loot box is guaranteed to contain a semi-enigmatic scroll, and may contain a dyeable snowbelle costume or other holiday accessory for female characters." />
+	<String id="950102" string="Snowman Mount Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a snowman mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950103" string="Holiday Kumas Mount Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a holiday kumas mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950104" string="Bloodshadow Ninja Costume Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Bloodshadow costume, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950105" string="Nightfall Ninjagi Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Nightfall Ninjagi costume, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950106" string="Ellin Elite Ninja Costume Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Elite Bloodshadow or Elite Nightfall Ninjagi costume for elin characters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="950107" string="True Ultimate Power Weapon Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a rare Bloodshadow or Nightfall weapon skin." />
+	<String id="950108" string="Shadowlaced Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a rare Shadowlaced Weapon Smart Box weapon skin." />
+	<String id="950109" string="Lady Assassin Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a rare Blackguard's Leathers Smart Box." />
+	<String id="950110" string="Ladies Night Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Disco Dress Smart Box containing a dyeable party dress for female characters." />
+	<String id="950111" string="Winter Coat Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Arctic Bomber box containing a dyeable bomber jack costume or an Earmuffs hair-slot accessory." />
+	<String id="950112" string="Golden Gift Box" toolTip="A holiday box full of surprises!" />
+	<String id="950113" string="Volcanic Weapon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Volcanic Dragon Weapon Skin smart box, spellbinds, or alkahests." />
+	<String id="950114" string="Arctic Weapon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Arctic Dragon Weapon Skin smart box, spellbinds, or alkahests." />
+	<String id="950115" string="Volcanic Armor Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Volcanic Dragon Armor smart box, a Volcanic Dragon Helmet, Volcanic Dragon Wings, spellbinds, or alkahests.&amp;lt;BR&amp;gt;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="950116" string="Arctic Armor Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Arctic Dragon Armor smart box, an Arctic Dragon Helmet, Arctic Dragon Wings, spellbinds, or alkahests." />
+	<String id="950117" string="Starglow Weapon Skin Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Starglow Weapon Skin box, spellbinds, or alkahests." />
+	<String id="950118" string="Starglow Costume Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Starglow costume box, a Bright Skies visor, spellbinds, or alkahests." />
+	<String id="950119" string="Sky Visor Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Clear Blue Sky visor (female characters only), a Rosy Outlook visor (female characters only), a Starglow Costume box, spellbinds, or alkahests." />
+	<String id="950120" string="Dyeable Silk Dress Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a double bun hairstyle, dyeable silk dress patterned with golden threads, or other useful items. [Any dress or hairstyle within will only function for females.]" />
+	<String id="950121" string="Skyblossom and Plum Blossom Dress Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a flowered dress, alkahests, or other consumables.[Any costume box within will only function for human females, high elf females, amani females, castanic females, and elins.]" />
+	<String id="950122" string="Dragonsilk and Watered Silk Dress Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a silk dress, alkahests, or other consumables. [Any costume box within will only function for human females, high elf females, amani females, castanic females, and elins.]" />
+	<String id="950123" string="Floral Dress Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a festival dress, alkahests, or other consumables. [Any costume box within will only function for human females, high elf females, amani females, castanic females, and elins.]" />
+	<String id="950124" string="Snowsilk and Frostsilk Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a snowsilk or frostsilk festival dress and matching hat, alkahests, or other consumables." />
+	<String id="950125" string="Golden Snowsilk and Wintersilk Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a golden snowssilk or wintersilk festival dress and matching hat, alkahests, or other consumables." />
+	<String id="950126" string="Chrysanthemum Accessory Box" toolTip="A loot box guaranteed to contain one of five flower hair-slot accessories selected randomly." />
+</StrSheet_Item>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60414001" string="Balder's Balm" />
+	<String id="60414002" string="Ask Ruma what he needs and bring the herbs to me." />
+	<String id="60414003" string="If you're ever sick, swing by." />
+	<String id="60414004" string="" />
+	<String id="60414005" string="" />
+	<String id="60414006" string="Find {@LinkCreature:71#3003#Ruma}." />
+	<String id="60414007" string="&quot;Leave it to me.&quot;" />
+	<String id="60414008" string="&quot;You're welcome!&quot;" />
+	<String id="60414009" string="Gather moon shadow plants around {@Rgn:30005$$Seren's Garden}." />
+	<String id="60414010" string="Deliver the moon shadow plants to {@LinkCreature:71#3005#Buran}." />
+	<String id="60414011" string="&quot;Glad to help.&quot;" />
+	<String id="60414012" string="Gather moonlight lotuses around {@Rgn:30014$$Seren's Lake}." />
+	<String id="60414013" string="Deliver the moonlight lotuses to {@LinkCreature:71#3005#Buran}." />
+</StrSheet_Quest>

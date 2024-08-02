@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="233001" string="A Measure of Vengeance" />
+	<String id="233002" string="Likhan is a killer!" />
+	<String id="233003" string="Thank you for avenging my father." />
+	<String id="233004" string="Come closer...and I'll kill you!" />
+	<String id="233005" string="What have I done? Nooooooo!" />
+	<String id="233006" string="Kill Likhan the centaur in the southwestern part of the Fey Forest." />
+	<String id="233007" string="&quot;For the federation!&quot;" />
+	<String id="233008" string="Report to Serra at the deserted homestead." />
+</StrSheet_Quest>

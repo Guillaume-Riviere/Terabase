@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1383001" string="Gathering Your Strength" />
+	<String id="1383002" string="Remember, weakness is reversible. Death is not." />
+	<String id="1383003" string="&quot;Consider it done.&quot;" />
+	<String id="1383004" string="Speak with Charise, the Magic Instructor at the center of the Tower Base." />
+	<String id="1383005" string="&quot;Understood.&quot;" />
+	<String id="1383006" string="Check back with Lilni for other tips on gathering." />
+	<String id="1383007" string="&quot;Thank you.&quot;" />
+	<String id="1383008" string="Press [F] to collect ore from a rock near Lilni." />
+	<String id="1383009" string="Check back with Lilni for other tips on gathering." />
+</StrSheet_Quest>

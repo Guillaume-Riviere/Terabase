@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="902001" string="Sic Semper Proditores" />
+	<String id="902002" string="&quot;We need deal with Samael's spies.&quot;" />
+	<String id="902003" string="&quot;Let's dig in deep when Elleon arrives.&quot;" />
+	<String id="902004" string="&quot;Nice work.&quot;" />
+	<String id="902005" string="Get information from {@linkcreature:62#1007#Kasib}.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open inventory and use Cutthroat Harbor Teleport Scroll to return to Cutthroat Harbor.]" />
+	<String id="902006" string="Accept the report from {@linkcreature:62#1010#Kasib} and read it.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open inventory and read the Cutthroat Harbor Spy Report.]" />
+	<String id="902007" string="The spies are disguised as sailors. Jelena must know this. " />
+	<String id="902008" string="&quot;I understand.&quot;" />
+	<String id="902009" string="Report to Perina in Cutthroat Harbor." />
+	<String id="902010" string="Fake Lok Directive Box" />
+	<String id="902011" string="Deliver the fake Scion Order Box to Ragett. " />
+	<String id="902012" string="&quot;Right. Okay.&quot;" />
+	<String id="902013" string="&quot;I understand.&quot;" />
+	<String id="902014" string="Report to Perina in Cutthroat Harbor." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="821001" string="Road to Hungry Caverns" />
+	<String id="821002" string="We need to keep our supply lines open." />
+	<String id="821003" string="Not many'd come down into the caverns." />
+	<String id="821004" string="Eliminate the cromos prowlers and the hulking sentries near the Hungry Caverns to the southwest." />
+	<String id="821005" string="&quot;For the federation!&quot;" />
+	<String id="821006" string="Report to Karina at Avenger Outpost." />
+</StrSheet_Quest>

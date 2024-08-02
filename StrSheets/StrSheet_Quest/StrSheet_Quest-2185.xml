@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200203001" string="[Important] Pursuit" />
+	<String id="200203002" string="&quot;Let's do so.&quot;" />
+	<String id="200203003" string="Speak with Titus in Dazzling Garden." />
+	<String id="200203004" string="Dazzling Garden" />
+	<String id="200203005" string="Someone is injured." />
+	<String id="200203006" string="Search the Dazzling Garden." />
+	<String id="200203007" string="Stop searching." />
+	<String id="200203008" string="Inspect the naga corpse." />
+	<String id="200203009" string="&quot;We must hurry.&quot;" />
+	<String id="200203010" string="Speak with Titus in Dazzling Garden." />
+	<String id="200203011" string="Dazzling Garden" />
+	<String id="200203012" string="A black aura emanates from the nagas' wounds." />
+	<String id="200203013" string="Examine Dazzling Garden." />
+	<String id="200203014" string="&quot;Something's wrong with Elleon.&quot;" />
+	<String id="200203015" string="Inspect the naga corpse." />
+	<String id="200203016" string="&quot;I'll carry your belongings.&quot;" />
+	<String id="200203017" string="Speak with the wounded naga in Dazzling Garden." />
+	<String id="200203018" string="Search for the wounded naga's belongings." />
+	<String id="200203019" string="&quot;I'll lead the way.&quot;" />
+	<String id="200203020" string="Escort the wounded naga out of the Dazzling Garden." />
+	<String id="200203021" string="&quot;I'll send help.&quot;" />
+	<String id="200203022" string="Speak with the wounded naga in Dazzling Garden." />
+	<String id="200203023" string="&quot;Okay.&quot;" />
+	<String id="200203024" string="Speak with Vogzu at the far end of the Dazzling Garden." />
+	<String id="200203025" string="Canyon Trail" />
+	<String id="200203026" string="You've been found by a Naga Assassin." />
+	<String id="200203027" string="Go to the Beast Plains and search for Jelena." />
+	<String id="200203028" string="Defeat Naga Assassins guarding the Beast Plains." />
+	<String id="200203029" string="Inspect Jelena's first set of tracks." />
+	<String id="200203030" string="Inspect Jelena's second set of tracks." />
+	<String id="200203031" string="&quot;Let's go to the platform.&quot;" />
+	<String id="200203032" string="Speak with Jelena in the Beast Plains." />
+	<String id="200203033" string="&quot;All right.&quot;" />
+	<String id="200203034" string="Speak with Basheek in the Beast Plains." />
+	<String id="200203035" string="Kill the Draakon Ravager on patrol." />
+	<String id="200203036" string="&quot;Okay.&quot;" />
+	<String id="200203037" string="Speak with Basheek near the Fortress Platform." />
+	<String id="200203038" string="&quot;Okay.&quot;" />
+	<String id="200203039" string="Speak with Vogzu." />
+	<String id="200203040" string="&quot;Okay.&quot;" />
+	<String id="200203041" string="Speak with Basheek at the fortress." />
+</StrSheet_Quest>

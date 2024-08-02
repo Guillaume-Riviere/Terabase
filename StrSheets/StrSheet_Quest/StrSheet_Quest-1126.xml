@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4823001" string="Walking in an Argon Wonderland" />
+	<String id="4823002" string="Thanks so much!" />
+	<String id="4823003" string="At last! Word from command." />
+	<String id="4823004" string="{@LinkCreature:78#1012}" />
+	<String id="4823005" string="Sealed Orders" />
+	<String id="4823006" string="Speak with {@LinkCreature:78#1012}." />
+	<String id="4823007" string="&quot;As ordered!&quot;" />
+	<String id="4823008" string="&quot;I'll do what I can.&quot;" />
+	<String id="4823009" string="Deliver the supplies to {@LinkCreature:248#1044}." />
+	<String id="4823010" string="Kill argonomorph corpsefiends around {@Rgn:78001}." />
+	<String id="4823011" string="&quot;Me, too.&quot;" />
+	<String id="4823012" string="Report to {@LinkCreature:248#1015} at the {@Rgn:48004}." />
+</StrSheet_Quest>

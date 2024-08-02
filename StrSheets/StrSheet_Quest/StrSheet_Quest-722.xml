@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3102001" string="Where's Kaidun" />
+	<String id="3102002" string="I know he's still alive..." />
+	<String id="3102003" string="There's no way...no way at all." />
+	<String id="3102004" string="&quot;I understand.&quot;" />
+	<String id="3102005" string="Speak with Commander Fraya again." />
+	<String id="3102006" string="&quot;I understand.&quot;" />
+	<String id="3102007" string="Travel to Acarum in Westonia and speak with Harule." />
+	<String id="3102008" string="&quot;I understand.&quot;" />
+	<String id="3102009" string="Speak to Prefect Georrif." />
+	<String id="3102010" string="&quot;I understand.&quot;" />
+	<String id="3102011" string="Find Maianwe near the road to Allemantheia east of Acarum." />
+	<String id="3102012" string="&quot;I understand.&quot;" />
+	<String id="3102013" string="Find Legate Alssiyah at the Gloomhaunt Sentry Post in the Citadel of Torment." />
+	<String id="3102014" string="&quot;I understand.&quot;" />
+	<String id="3102015" string="Speak with Meygren at the Gloomhaunt Sentry Post." />
+	<String id="3102016" string="Once Verminath reads the Tome of Agonies...what? Intruder!" />
+	<String id="3102017" string="Argh! It won't be so easy to kill the Toxic Jester!" />
+	<String id="3102018" string="Eliminate the cursed jesters on the fourth floor of the Citadel of Torment." />
+	<String id="3102019" string="Tome of Agonies" />
+	<String id="3102020" string="What's this? An offering for Thulsa!" />
+	<String id="3102021" string="Better death than Thulsa's revenge...." />
+	<String id="3102022" string="Find the Verminaths on the fourth floor of the Citadel of Torment. Kill them and take their Tomes of Agonies." />
+	<String id="3102023" string="Bring the tome to Meygren at the Gloomhaunt Sentry Post." />
+	<String id="3102024" string="&quot;I understand.&quot;" />
+	<String id="3102025" string="&quot;I understand.&quot;" />
+	<String id="3102026" string="Find Lastair in the Citadel of Torment and ask about a secret research facility in the basement." />
+</StrSheet_Quest>

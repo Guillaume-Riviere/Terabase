@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5502001" string="The Indomitable Spirit" />
+	<String id="5502002" string="Sikander's slumber should not be disturbed." />
+	<String id="5502003" string="&quot;I'm on it.&quot;" />
+	<String id="5502004" string="Prefect Ghazi was a loyal ally of General Kanmur. Ask him about Kanmur's mission." />
+	<String id="5502005" string="&quot;Dead or alive, I'll find them.&quot;" />
+	<String id="5502006" string="Find Centurion Thaqib." />
+	<String id="5502007" string="Read the report." />
+	<String id="5502008" string="Check the dead guard's body in The Skyleaves." />
+	<String id="5502009" string="Read the report." />
+	<String id="5502010" string="Search for Rowin." />
+	<String id="5502011" string="&quot;I'll go there now.&quot;" />
+	<String id="5502012" string="Bring the report you recovered at Valumnir Outpost to {@linkcreature:255#1153#Rowin}." />
+	<String id="5502013" string="Bring the report you recovered at Valumnir Outpost to {@linkcreature:255#1153#Rowin}." />
+	<String id="5502014" string="Staff of Isren" />
+	<String id="5502015" string="There are the bodies of the guards!" />
+	<String id="5502016" string="Search Staff of Isren for the guards who traveled with Neira." />
+	<String id="5502017" string="&quot;I'm on it.&quot;" />
+	<String id="5502018" string="Go to Staff of Isren and rescue Neira." />
+	<String id="5502019" string="For Sikander's awakening!" />
+	<String id="5502020" string="Sikander..." />
+	<String id="5502021" string="You can't stop me!" />
+	<String id="5502022" string="My power...it's not enough." />
+	<String id="5502023" string="Krawww!" />
+	<String id="5502024" string="Gurrr..." />
+	<String id="5502025" string="Eliminate the priests that are reinforcing the Ishlangu." />
+	<String id="5502026" string="Deactivate the Ishlangu." />
+	<String id="5502027" string="Report back to Neira." />
+	<String id="5502028" string="Deactivate the Ishlangu and free Isrenia." />
+	<String id="5502029" string="&quot;Come with me.&quot;" />
+	<String id="5502030" string="Speak with Isrenia." />
+</StrSheet_Quest>

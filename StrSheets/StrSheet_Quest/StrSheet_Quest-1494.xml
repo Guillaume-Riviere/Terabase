@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8492001" string="Fires of Dominance (Battle)" />
+	<String id="8492002" string="Victory in Fraywind Canyon" />
+	<String id="8492003" string="You've earned a victory in Fraywind Canyon!" />
+	<String id="8492004" string="&quot;Thank you.&quot;" />
+	<String id="8492005" string="See the coordinator for your reward." />
+</StrSheet_Quest>

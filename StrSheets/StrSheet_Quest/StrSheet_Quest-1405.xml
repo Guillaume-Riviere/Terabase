@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5771001" string="(Guild) Suppression Orders: Storm Lizards" />
+	<String id="5771002" string="Proof of Kill: Storm Lizards" />
+	<String id="5771003" string="&quot;Thanks.&quot;" />
+	<String id="5771004" string="Destroy the lurking storm lizards in the Barbican." />
+	<String id="5771005" string="Report to Emya in Dragonfall." />
+</StrSheet_Quest>

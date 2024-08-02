@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3532001" string="Heads Will Roll" />
+	<String id="3532002" string="Hit them so they'll feel it!" />
+	<String id="3532003" string="It's an honor to fight alongside you, soldier." />
+	<String id="3532004" string="Tenebrara Head" />
+	<String id="3532005" string="Decapitate Thulsa's soldiers outside Jagged Crest, and collect their heads." />
+	<String id="3532006" string="Deliver the enemy's heads to Tesran at Jagged Crest." />
+	<String id="3532007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

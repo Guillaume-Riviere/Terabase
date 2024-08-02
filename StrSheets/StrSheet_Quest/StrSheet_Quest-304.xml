@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1222001" string="Dirken's Test: Recover the Lost Articles" />
+	<String id="1222002" string="Get moving!" />
+	<String id="1222003" string="Ah, whatever." />
+	<String id="1222004" string="&quot;For the federation!&quot;" />
+	<String id="1222005" string="Go to Cutthroat Beach, east of Cutthroat Harbor, and pick up the lost crates." />
+	<String id="1222006" string="Go to Sidara." />
+</StrSheet_Quest>

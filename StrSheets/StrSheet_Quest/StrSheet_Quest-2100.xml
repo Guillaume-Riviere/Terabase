@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70117001" string="[Event—Daily] Splash Cannon Mini-Game" />
+	<String id="70117002" string="Now! Become the world's best cannon shooter!" />
+	<String id="70117003" string="Come visit again! " />
+	<String id="70117004" string="Talk to Chelton to start the mini game of splash cannon shooting." />
+	<String id="70117005" string="&quot;Thanks. I'll treasure it all day!&quot;" />
+	<String id="70117006" string="Go to Chelton, the manager of the splash cannon." />
+</StrSheet_Quest>

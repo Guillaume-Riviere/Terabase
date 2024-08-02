@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60524001" string="No One Appreciates Middle-Management" />
+	<String id="60524002" string="&quot;You have my attention.&quot;" />
+	<String id="60524003" string="" />
+	<String id="60524004" string="" />
+	<String id="60524005" string="" />
+	<String id="60524006" string="" />
+	<String id="60524007" string="Ask {@LinkCreature:63#3003#Elthienne} how you can help the Hands of Velika." />
+	<String id="60524008" string="&quot;Sure, I can do that.&quot;" />
+	<String id="60524009" string="&quot;Okay then.&quot;" />
+	<String id="60524010" string="Deliver {@RawItem:206812} ×5 to {@linkcreature:63#3001#Barian}." />
+	<String id="60524011" string="" />
+	<String id="60524012" string="&quot;Okay then.&quot;" />
+	<String id="60524013" string="Deliver {@RawItem:206813} ×5 to {@linkcreature:63#3001#Barian}." />
+	<String id="60524014" string="" />
+	<String id="60524015" string="&quot;Okay then.&quot;" />
+	<String id="60524016" string="Deliver {@RawItem:206814} ×5 to {@linkcreature:63#3001#Barian}." />
+	<String id="60524017" string="" />
+	<String id="60524018" string="&quot;Okay then.&quot;" />
+	<String id="60524019" string="Deliver {@RawItem:206815} ×5 to {@linkcreature:63#3001#Barian}." />
+	<String id="60524020" string="" />
+	<String id="60524021" string="&quot;Got it.&quot;" />
+	<String id="60524022" string="Deliver {@RawItem:206816} ×5 to {@linkcreature:63#3001#Barian}." />
+	<String id="60524023" string="" />
+	<String id="60524024" string="Claim your reward." />
+	<String id="60524025" string="Claim your payment from {@LinkCreature:63#3002#Taratia}." />
+</StrSheet_Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="970110001" string="[Personal Equipment] Gain Victory in Shore Hold." />
+	<String id="970110002" string="[Shore Hold] Seize victory in the Battleground." />
+	<String id="970110003" string="Claim your rewards!" />
+</StrSheet_Quest>

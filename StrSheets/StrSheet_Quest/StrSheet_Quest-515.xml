@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2027001" string="Searching for Survivors" />
+	<String id="2027002" string="I know it's probably a lost cause..." />
+	<String id="2027003" string="Poor Pattek...he was a good man." />
+	<String id="2027004" string="(Take the pendant.)" />
+	<String id="2027005" string="Look for surviving miners in the Halls of Shadow." />
+	<String id="2027006" string="Deliver the pendant to Centurion Arthgal at the Utterdark Outpost." />
+	<String id="2027007" string="Ownerless Pendant" />
+	<String id="2027008" string="Deliver the pendant to Centurion Arthgal at the Utterdark Outpost in the Halls of Utterdark." />
+	<String id="2027009" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

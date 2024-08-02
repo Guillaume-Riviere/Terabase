@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3231001" string="Eliminate Baalark" />
+	<String id="3231002" string="Uzair'll like this. Trust me." />
+	<String id="3231003" string="Fine work, soldier!" />
+	<String id="3231004" string="Nashwa" />
+	<String id="3231005" string="Nashwa's Proposal" />
+	<String id="3231006" string="Deliver Nashwa's plans to Uzair." />
+	<String id="3231007" string="&quot;I will.&quot;" />
+	<String id="3231008" string="Baalark's Head" />
+	<String id="3231009" string="Who came to die this time?" />
+	<String id="3231010" string="Find and eliminate Baalark." />
+	<String id="3231011" string="Deliver Baalark's head to Uzair." />
+	<String id="3231012" string="&quot;I did what I could.&quot;" />
+</StrSheet_Quest>

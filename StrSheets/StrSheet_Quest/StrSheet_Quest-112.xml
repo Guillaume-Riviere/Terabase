@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="531001" string="Cash on Delivery" />
+	<String id="531002" string="My lovely Trinket..." />
+	<String id="531003" string="I won't forget this." />
+	<String id="531004" string="Lovely Trinket" />
+	<String id="531005" string="Retrieve the lovely trinket from Warchief Bauba." />
+	<String id="531006" string="Deliver the trinket to Boermas." />
+	<String id="531007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

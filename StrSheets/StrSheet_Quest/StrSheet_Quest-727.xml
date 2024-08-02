@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3124001" string="The House that Mansur Built" />
+	<String id="3124002" string="We've got to make every bit count." />
+	<String id="3124003" string="This frozen wood is stronger than I thought. Great!" />
+	<String id="3124004" string="&quot;I hear that.&quot;" />
+	<String id="3124005" string="Gather timber from the deserted house near the Frost Wastes." />
+	<String id="3124006" string="Deliver the timber to Mansur in the ruined village in the northeast Frost Wastes." />
+</StrSheet_Quest>

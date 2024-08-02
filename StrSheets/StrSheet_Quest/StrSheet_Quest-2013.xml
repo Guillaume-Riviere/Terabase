@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60418001" string="Peaceful Victor" />
+	<String id="60418002" string="It's all she ever wants!" />
+	<String id="60418003" string="You earned it, friend." />
+	<String id="60418004" string="&quot;This means a lot.&quot;" />
+	<String id="60418005" string="Report to {@LinkCreature:71#3001#Arisel} in Bastion." />
+</StrSheet_Quest>

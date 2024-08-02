@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5037001" string="The Viridian Caverns" />
+	<String id="5037002" string="I swear, he's going to research his way into a blasted grave." />
+	<String id="5037003" string="Kill zariik spodas around the {@Rgn:50008}." />
+	<String id="5037004" string="&quot;Always glad to help.&quot;" />
+	<String id="5037005" string="Find {@LinkCreature:250#1002}." />
+</StrSheet_Quest>

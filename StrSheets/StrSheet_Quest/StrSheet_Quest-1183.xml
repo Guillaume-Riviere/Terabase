@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4947001" string="Secure the Area" />
+	<String id="4947002" string="Lock down the area around the Northern Teleport Platform." />
+	<String id="4947003" string="We've got work to do." />
+	<String id="4947004" string="&quot;Understood.&quot;" />
+	<String id="4947005" string="Speak with {@LinkCreature:76#1034}." />
+	<String id="4947006" string="Zariik Cyclops's Wing" />
+	<String id="4947007" string="Kill zariik cyclopses around the {@LinkCreature:249#1102} and collect their wings." />
+	<String id="4947008" string="Deliver the wings to {@LinkCreature:76#1034}." />
+	<String id="4947009" string="&quot;I hope they're worth it.&quot;" />
+	<String id="4947010" string="&quot;You got it.&quot;" />
+	<String id="4947011" string="Report back to {@LinkCreature:76#1024}." />
+</StrSheet_Quest>

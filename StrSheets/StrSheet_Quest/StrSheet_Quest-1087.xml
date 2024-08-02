@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4634001" string="Even Kulkaris Get the Blues" />
+	<String id="4634002" string="Eliminate the {@creature:46#201#argonomorph kulkari crushers}." />
+	<String id="4634003" string="The only thing worse than a kulkari is a {@creature:46#201#argonomorph kulkari crusher}." />
+	<String id="4634004" string="Kill the {@creature:46#201#argonomorph kulkari crushers} guarding the rooms in the {@Rgn:46003$$Raga Shadi} part of {@Rgn:46001$$the Three Towers}." />
+	<String id="4634005" string="&quot;I've had a lot of kulkari practice.&quot;" />
+	<String id="4634006" string="Go to the {@Rgn:46019$$Beastroar Chamber} and report to {@linkcreature:246#1025$$Alecian}." />
+</StrSheet_Quest>

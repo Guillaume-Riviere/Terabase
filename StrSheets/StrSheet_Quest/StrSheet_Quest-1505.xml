@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8708001" string="Rise from the Ashes" />
+	<String id="8708002" string="&quot;I will do as you ask.&quot;" />
+	<String id="8708003" string="&quot;I understand.&quot;" />
+	<String id="8708004" string="Talk to Sujai inside Pora Elinu." />
+	<String id="8708005" string="Requiem Flower" />
+	<String id="8708006" string="Place a Requiem Flower into the incense burner." />
+	<String id="8708007" string="&quot;Be at ease, spirits. You are avenged.&quot;" />
+	<String id="8708008" string="&quot;I understand.&quot;" />
+	<String id="8708009" string="Talk to Sujai." />
+	<String id="8708010" string="&quot;Thank you.&quot;" />
+	<String id="8708011" string="Talk to Rida." />
+</StrSheet_Quest>

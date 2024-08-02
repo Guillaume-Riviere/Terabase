@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4123001" string="Some Blood Between Friends" />
+	<String id="4123002" string="We need cullar blood. Don't ask." />
+	<String id="4123003" string="Take a sip, but only if you wish to." />
+	<String id="4123004" string="Cullar Blood" />
+	<String id="4123005" string="Hunt cullars and collect their blood." />
+	<String id="4123006" string="Hunt cullars and bring their blood to {@linkcreature:241#1020$$Hoorik}." />
+	<String id="4123007" string="&quot;My pleasure!&quot;" />
+</StrSheet_Quest>

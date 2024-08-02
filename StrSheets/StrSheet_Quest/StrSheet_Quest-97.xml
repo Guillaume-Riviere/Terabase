@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="473001" string="(Guild) Suppression Orders: Fangspawns" />
+	<String id="473002" string="Proof of Kill: Fangspawn Deaths" />
+	<String id="473003" string="&quot;For the federation!&quot;" />
+	<String id="473004" string="Hunt fangspawns in Blazing Vale." />
+	<String id="473005" string="Report to Helone at Firebase Intrepid." />
+</StrSheet_Quest>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50502001" string="[Apex] Uninvited Guests" />
+	<String id="50502002" string="Stage" />
+	<String id="50502003" string="Seir is about to deliver his speech." />
+	<String id="50502004" string="It’s time for the speech. &lt;br>Go to the stage.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502005" string="Congratulate Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502006" string="&quot;Questions later! We need to evacuate the survivors.&quot;" />
+	<String id="50502007" string="Talk to Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502008" string="&quot;We're evacuating. Seir will lead you out.&quot;" />
+	<String id="50502009" string="Direct the survivors to go with Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502010" string="&quot;Halran, go with Seir.&quot;" />
+	<String id="50502011" string="Evacuate Halran.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502012" string="&quot;I'm on it...but it doesn't look good.&quot;" />
+	<String id="50502013" string="Talk to Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502014" string="Search and Rescue" />
+	<String id="50502015" string="The Dance Floor is torn to shreds." />
+	<String id="50502016" string="Search the area for more &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=9505#-36945,9066,2173&amp;type=1&amp;name=survivors&quot;>survivors&lt;/A>&lt;/font>.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502017" string="There have to be more survivors!" />
+	<String id="50502018" string="You might have missed someone. Search again." />
+	<String id="50502019" string="Search the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=9505#-36945,9066,2173&amp;type=1&amp;name=Dance Floor&quot;>Dance Floor&lt;/A>&lt;/font>.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502020" string="&quot;She's gone.&quot;" />
+	<String id="50502021" string="Speak with the survivor." />
+	<String id="50502022" string="There have to be more survivors!" />
+	<String id="50502023" string="There are no more survivors..." />
+	<String id="50502024" string="Speak with the survivors.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502025" string="ROOOAAARR!" />
+	<String id="50502026" string="Defeat the Dragon in the banquet hall.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502027" string="&quot;What Black Dragon? Verdas?&quot;" />
+	<String id="50502028" string="Go see if Verdas is still alive.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50502029" string="Velika" />
+	<String id="50502030" string="&quot;Velika was completely destroyed... how could this be?&quot;" />
+	<String id="50502031" string="Use the Fate Shard." />
+	<String id="50502032" string="You feel something in your pocket. Open your inventory and use the Velika Banquet Coin. " />
+	<String id="50502033" string="It's the lucky coin from the guessing game. But what about the people?" />
+	<String id="50502034" string="&quot;I must have... gone back in time?&quot;" />
+	<String id="50502035" string="Ask the Guard what happened to the banquet." />
+</StrSheet_Quest>

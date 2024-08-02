@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70207001" string="[Rootstock—Daily] Sheep Herding" />
+	<String id="70207002" string="Herd Tagun's sheep." />
+	<String id="70207003" string="Baa-aah! Baah. Baaaaaah!" />
+	<String id="70207004" string="Herd the sheep into {@linkcreature:219#7002#Tagun's Pen}. " />
+	<String id="70207005" string="&quot;Thanks, Tagun.&quot;" />
+	<String id="70207006" string="Talk to Shepherd Tagun." />
+</StrSheet_Quest>

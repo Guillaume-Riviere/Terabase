@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17212001" string="The Dangers of Diplomacy" />
+	<String id="17212002" string="&quot;I see.&quot;" />
+	<String id="17212003" string="&quot;Understood.&quot;" />
+	<String id="17212004" string="Talk to Dougal." />
+	<String id="17212005" string="&quot;Of course.&quot;" />
+	<String id="17212006" string="Talk to Paesyn." />
+	<String id="17212007" string="&quot;He wants you to like him.&quot;" />
+	<String id="17212008" string="Speak with Zolyn." />
+	<String id="17212009" string="&quot;Understood.&quot;" />
+	<String id="17212010" string="Talk to Dougal." />
+	<String id="17212011" string="&quot;I'm listening.&quot;" />
+	<String id="17212012" string="Speak with Rhodos." />
+	<String id="17212013" string="&quot;I'm ready for anything.&quot;" />
+	<String id="17212014" string="Speak with Rhodos." />
+	<String id="17212015" string="&quot;Think again.&quot;" />
+	<String id="17212016" string="Persuade Pariya." />
+	<String id="17212017" string="Parthian Forces" />
+	<String id="17212018" string="Kill the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#-8445, -15601, 231&amp;type=1&amp;name=Parthians&quot;>Parthians&lt;/A>&lt;/font>." />
+	<String id="17212019" string="&quot;Keep studying.&quot;" />
+	<String id="17212020" string="Talk to Paesyn." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1037001" string="I'm a Lumberjack, and I'm Okay" />
+	<String id="1037002" string="Alchemists prize ghilliedhu roots." />
+	<String id="1037003" string="Excellent! I'll ship these to Castanica!" />
+	<String id="1037004" string="Ghilliedhu Root" />
+	<String id="1037005" string="Collect ghilliedhu roots from thickbark ghilliedhus in the Adderkin Jungle." />
+	<String id="1037006" string="Deliver the roots to Thurdan at the Coastal Overwatch." />
+	<String id="1037007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

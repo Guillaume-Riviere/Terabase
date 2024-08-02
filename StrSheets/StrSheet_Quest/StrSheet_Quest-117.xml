@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="537001" string="Best Served Cold" />
+	<String id="537002" string="Yes, I want revenge!" />
+	<String id="537003" string="The Stonehammers aren't very nice. Trust me." />
+	<String id="537004" string="Tuwangi Hammer" />
+	<String id="537005" string="Kill Stonehammer tuwangis and collect their hammers in Mighty Frog Pond to the southwest." />
+	<String id="537006" string="Deliver the hammers to Pangari." />
+	<String id="537007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

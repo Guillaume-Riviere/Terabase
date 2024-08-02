@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4804001" string="Battle Wounds" />
+	<String id="4804002" string="&quot;I'm on my way.&quot;" />
+	<String id="4804003" string="Report to {@LinkCreature:248#2001#Tamur} at {@Rgn:48002$$Khanovar Citadel}. " />
+	<String id="4804004" string="&quot;Okay, I'll get started right away.&quot;" />
+	<String id="4804005" string="Ask {@LinkCreature:248#1032#Hazto} at {@Rgn:48002$$Khanovar Citadel} about collecting the components. " />
+	<String id="4804006" string="Where the Cannons Attacked" />
+	<String id="4804007" string="You see a soldier fighting the argons!" />
+	<String id="4804008" string="Investigate the area where the cannons attacked at {@Rgn:48006$$Carnage Vale}." />
+	<String id="4804009" string="&quot;Consider it done.&quot;" />
+	<String id="4804010" string="Ask {@LinkCreature:48#1012#Greldam} why he is left alone." />
+	<String id="4804011" string="Grab the insignia." />
+	<String id="4804012" string="Grab the insignia." />
+	<String id="4804013" string="Grab the insignia and the chapter." />
+	<String id="4804014" string="Retrieve the insignia from the {@linkcreature:248#1028#body} in {@Rgn:48006}." />
+	<String id="4804015" string="Federation Unit Insignias" />
+	<String id="4804016" string="Tell {@LinkCreature:48#1012#Greldam} that you've retrieved the insignia from {@Rgn:48006}." />
+	<String id="4804017" string="&quot;I'll do my very best.&quot;" />
+	<String id="4804018" string="Sarjalod Component" />
+	<String id="4804019" string="Kill argon shapers around {@Rgn:48006} and collect a component from one of the sarjalod cannons." />
+	<String id="4804020" string="Deliver the insignias and components to {@LinkCreature:248#1032#Hazto} in {@Rgn:48002}." />
+	<String id="4804021" string="&quot;Fortune smile upon you.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5138001" string="The Last Duty" />
+	<String id="5138002" string="Help me send something back to the families of the fallen." />
+	<String id="5138003" string="I wonder if someone will do this for me someday..." />
+	<String id="5138004" string="&quot;Honored to be of service.&quot;" />
+	<String id="5138005" string="Retrieve the effects of fallen federation soldiers in Raseri Festning." />
+	<String id="5138006" string="Report back to Hannoun at Icebase Defiance." />
+</StrSheet_Quest>

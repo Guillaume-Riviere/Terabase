@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810007001" string="Complete Akasha's Hideout" />
+	<String id="810007002" string="[Akasha's Hideout] Defeat Akasha!" />
+	<String id="810007003" string="Claim your reward!" />
+</StrSheet_Quest>

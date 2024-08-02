@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800136001" string="Clean up Argonea" />
+	<String id="800136002" string="[Argonea] Defeat the argon invaders." />
+	<String id="800136003" string="Argon Invaders" />
+	<String id="800136004" string="Claim your reward!" />
+</StrSheet_Quest>

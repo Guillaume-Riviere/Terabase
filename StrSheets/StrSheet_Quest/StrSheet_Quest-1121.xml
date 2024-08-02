@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4801001" string="Fire for Effect" />
+	<String id="4801002" string="&quot;What do you need?&quot;" />
+	<String id="4801003" string="&quot;What can I do?&quot;" />
+	<String id="4801004" string="Go and meet with {@LinkCreature:248#2001#Tamur} at {@Rgn:48002$$Khanovar Citadel}.&#10;[Use the {@LinkCreature:78#1007#Teleportal} to go to Khanovar Citadel.]" />
+	<String id="4801005" string="&quot;I understand.&quot;" />
+	<String id="4801006" string="&quot;You can count on me.&quot;" />
+	<String id="4801007" string="Receive supplies from {@LinkCreature:248#1025#Jeruka} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="4801008" string="Medic Location" />
+	<String id="4801009" string="The smiths and medics are struggling." />
+	<String id="4801010" string="Go to the frontline and support {@LinkCreature:248#2009#Caerok} with supplies. " />
+	<String id="4801011" string="&quot;I understand.&quot;" />
+	<String id="4801012" string="Go to {@Rgn:48008$$Magthulk Crater} and support {@LinkCreature:248#2009#Caerok} with supplies." />
+	<String id="4801013" string="&quot;I understand.&quot;" />
+	<String id="4801014" string="Speak with {@LinkCreature:248#2005#Jekahb} at {@Rgn:48008$$Magthulk Crater}." />
+	<String id="4801015" string="&quot;I...uh...explode?.&quot;" />
+	<String id="4801016" string="Speak with {@LinkCreature:248#2006#Karakhir} at {@Rgn:48006$$Carnage Vale}." />
+	<String id="4801017" string="Mount the {@LinkCreature:48#2000#siege weapon}." />
+	<String id="4801018" string="Use the Siege Weapon in {@Rgn:48006$$Carnage Vale} to defeat the argons." />
+	<String id="4801019" string="&quot;I understand.&quot;" />
+	<String id="4801020" string="Speak with {@LinkCreature:248#2006#Karakhir} at {@Rgn:48006$$Carnage Vale}." />
+</StrSheet_Quest>

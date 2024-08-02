@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10026001" string="The Wright Metals" />
+	<String id="10026002" string="&quot;I'm on it.&quot;" />
+	<String id="10026003" string="Craft metalwright hauberks." />
+	<String id="10026004" string="Take the hauberks to Maius for inspection." />
+	<String id="10026005" string="" />
+	<String id="10026006" string="Metalwright Hauberk" />
+	<String id="10026007" string="Deliver the huaberks to Prefect Paka in Popolion." />
+	<String id="10026008" string="&quot;Done listening!&quot;" />
+</StrSheet_Quest>

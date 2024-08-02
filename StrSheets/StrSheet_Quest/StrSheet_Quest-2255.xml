@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700057001" string="Conquer Verrak Fortress" />
+	<String id="700057002" string="[Verrak Fortress] Defeat Akalath Kashir in the Akalath Quarantine!" />
+	<String id="700057003" string="Claim your reward!" />
+</StrSheet_Quest>

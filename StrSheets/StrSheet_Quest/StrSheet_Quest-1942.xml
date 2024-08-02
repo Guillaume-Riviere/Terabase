@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59902001" string="To Soothe a Crying Child" />
+	<String id="59902002" string="&quot;I'll see what's going on.&quot;" />
+	<String id="59902003" string="Speak to Anya." />
+	<String id="59902004" string="&quot;Thank you for being honest, Niyum.&quot;" />
+	<String id="59902005" string="Ask Niyum about Anya's doll." />
+	<String id="59902006" string="Search the bushes for Anya's doll." />
+	<String id="59902007" string="&quot;Maybe I can repair the doll...?&quot;" />
+	<String id="59902008" string="Pick up Anya's doll from the grass near the bushes." />
+	<String id="59902009" string="&quot;It's worth a try.&quot;" />
+	<String id="59902010" string="Ask Jerdan why he took Zo-Zo." />
+	<String id="59902011" string="Gather sticky grass." />
+	<String id="59902012" string="Use the needle and sticky grass to repair Anya's doll.&lt;BR>&lt;BR>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open the Inventory window, then right-click the needle.]" />
+	<String id="59902013" string="&quot;Okay, Anya.&quot;" />
+	<String id="59902014" string="Take Zo-Zo back to Anya." />
+	<String id="59902015" string="" />
+	<String id="59902016" string="Play with Anya and Zo-Zo." />
+	<String id="59902017" string="&quot;Okay.&quot;" />
+	<String id="59902018" string="Talk to Anya." />
+</StrSheet_Quest>

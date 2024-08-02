@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999879001" string="Collect Engine Pieces" />
+	<String id="999879002" string="[Savage Reach] Collect engine pieces to help Paesyn try to repair Intrepid." />
+	<String id="999879003" string="Engine Piece" />
+	<String id="999879004" string="Claim your reward!" />
+	<String id="999879005" string="Engine Piece" />
+</StrSheet_Quest>

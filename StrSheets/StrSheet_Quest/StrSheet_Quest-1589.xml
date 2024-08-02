@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10118001" string="Hauberk Lifting" />
+	<String id="10118002" string="&quot;Shall I take them there?&quot;" />
+	<String id="10118003" string="Make officer's hauberks." />
+	<String id="10118004" string="Take the hauberks to Harmain in Allemantheia." />
+	<String id="10118005" string="" />
+	<String id="10118006" string="Officer's Hauberk" />
+	<String id="10118007" string="Take the hauberks to Georrif in Acarum." />
+	<String id="10118008" string="&quot;It was only my duty.&quot;" />
+</StrSheet_Quest>

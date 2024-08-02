@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60208001" string="Pull Tab to Open" />
+	<String id="60208002" string="We need to learn more about these red argons." />
+	<String id="60208003" string="This should thrill the Invalesco researchers." />
+	<String id="60208004" string="" />
+	<String id="60208005" string="" />
+	<String id="60208006" string="Speak with {@LinkCreature:248#3002#Drokhir} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60208007" string="&quot;As ordered.&quot;" />
+	<String id="60208008" string="Enhanced Argon Plating" />
+	<String id="60208009" string="Operate the summoning console in Carnage Vale and kill {@LinkCreature:48#3001#strengthened razorcrest sharzas}." />
+	<String id="60208010" string="Deliver the plating to {@LinkCreature:248#3002#Drokhir} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60208011" string="&quot;We're in this together.&quot;" />
+	<String id="60208012" string="Enhanced Argon Plating" />
+	<String id="60208013" string="Operate the summoning console in Carnage Vale and kill {@LinkCreature:48#3001#strengthened razorcrest sharzas}." />
+	<String id="60208014" string="Deliver the plating to {@LinkCreature:248#3002#Drokhir} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60208015" string="&quot;We're in this together.&quot;" />
+</StrSheet_Quest>

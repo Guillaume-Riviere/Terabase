@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1328001" string="Academic Theft" />
+	<String id="1328002" string="Mark creatures on your map by clicking their names in the quest log." />
+	<String id="1328003" string="Good job!" />
+	<String id="1328004" string="Stolen Equipment" />
+	<String id="1328005" string="Take back stolen equipment from {@linkcreature:13#301194#stonebeaks} northeast of the Tower Base." />
+	<String id="1328006" string="Take the equipment to Jairus, last seen wandering around the Tower Base." />
+	<String id="1328007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

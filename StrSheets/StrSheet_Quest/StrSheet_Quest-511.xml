@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2023001" string="The Tools of Slavery" />
+	<String id="2023002" string="For the federation!" />
+	<String id="2023003" string="Well done." />
+	<String id="2023004" string="Tool" />
+	<String id="2023005" string="Kill the slave foremen and zombie slaves and collect their tools." />
+	<String id="2023006" string="Deliver the tools to Ruanal, who is hiding in the Halls of Gloom." />
+	<String id="2023007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

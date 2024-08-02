@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5029001" string="Path of Death" />
+	<String id="5029002" string="You deal with the arzakaars. I'll deal with logistics." />
+	<String id="5029003" string="Kill the arzakaar guardians protecting the {@Rgn:50006}." />
+	<String id="5029004" string="&quot;Sounds familiar.&quot;" />
+	<String id="5029005" string="Report back to {@LinkCreature:250#1008}." />
+</StrSheet_Quest>

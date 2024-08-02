@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4132001" string="Destroy All Monsters" />
+	<String id="4132002" string="Orisk hide is supple, yet tough. It'd make fine armor." />
+	<String id="4132003" string="These are good pieces of hide. Thank you." />
+	<String id="4132004" string="Orisk Hide" />
+	<String id="4132005" string="Kill orisks near the Arena of Blood and collect their hides." />
+	<String id="4132006" string="Deliver the orisk hides to Kurio at Experior Outpost." />
+	<String id="4132007" string="&quot;I'm happy I could help.&quot;" />
+</StrSheet_Quest>

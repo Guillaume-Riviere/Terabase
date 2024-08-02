@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4721001" string="Those Who Return" />
+	<String id="4721002" string="Both bears and eclipse thistles are coming back to the forest." />
+	<String id="4721003" string="Thanks for gathering these." />
+	<String id="4721004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4721005" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7023#7829,-26162,-333&amp;type=1&amp;name=Eclipse Thistles&quot;>eclipse thistles&lt;/A>&lt;/font> in the {@Rgn:47002$$Whitefrost Forest} southeast of {@Rgn:77001$$Pathfinder Post}." />
+	<String id="4721006" string="Return to {@Rgn:47006$$Field Base Lunacy} and deliver the eclipse thistles to {@creature:247#1014$$Lenorele}." />
+</StrSheet_Quest>

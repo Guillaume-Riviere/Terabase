@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3424001" string="Grim Prospects" />
+	<String id="3424002" string="I hope he's found something." />
+	<String id="3424003" string="I wonder if we'll be able to mine there at all?" />
+	<String id="3424004" string="&quot;I'll take it.&quot;" />
+	<String id="3424005" string="Speak with Dio on the Ice Trail north of Icebase Stalker." />
+	<String id="3424006" string="Dio" />
+	<String id="3424007" string="Dio's Report" />
+	<String id="3424008" string="Take Dio's report to Magistrate Mutah." />
+	<String id="3424009" string="&quot;Honored to serve.&quot;" />
+	<String id="3424010" string="Mutah" />
+	<String id="3424011" string="Dio's Report" />
+	<String id="3424012" string="Deliver Dio's report to Nunahd at Bleakrock." />
+	<String id="3424013" string="&quot;Thanks.&quot;" />
+</StrSheet_Quest>

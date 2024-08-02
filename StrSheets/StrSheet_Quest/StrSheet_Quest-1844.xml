@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50541001" string="[Solo] The Finest Fireworks" />
+	<String id="50541002" string="&quot;I'll help.&quot;" />
+	<String id="50541003" string="Go to Meren in Highwatch." />
+	<String id="50541004" string="Platinum" />
+	<String id="50541005" string="Passion Stone" />
+	<String id="50541006" string="Retrieve the Passion Stone and some Platinum from Lilith's Trial, and deliver them both to Meren.&lt;BR>(Items drop at random.)" />
+	<String id="50541007" string="&quot;I got it.&quot;" />
+	<String id="50541008" string="Use the Passion Stone and complete the Eternal Crown." />
+	<String id="50541009" string="Claim reward." />
+	<String id="50541010" string="Deliver the completed Eternal Crown to Meren." />
+</StrSheet_Quest>

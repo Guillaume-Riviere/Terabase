@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60603001" string="Ominously Silent Spring" />
+	<String id="60603002" string="We must study the effects that a nexus has on the land." />
+	<String id="60603003" string="Perhaps now we'll find our answers." />
+	<String id="60603004" string="Enter a nexus and use the specimen jar to collect soil samples." />
+	<String id="60603005" string="Soil sample collected." />
+	<String id="60603006" string="" />
+	<String id="60603007" string="Soil Sample" />
+	<String id="60603008" string="Deliver the soil sample to {@LinkCreature:1022#1002}." />
+	<String id="60603009" string="&quot;You better find a way to stop it.&quot;" />
+</StrSheet_Quest>

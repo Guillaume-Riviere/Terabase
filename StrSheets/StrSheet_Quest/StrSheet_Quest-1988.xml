@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60302001" string="Varmint Hunting" />
+	<String id="60302002" string="Kill all you want. They breed like mad!" />
+	<String id="60302003" string="Good hunting!" />
+	<String id="60302004" string="" />
+	<String id="60302005" string="" />
+	<String id="60302006" string="" />
+	<String id="60302007" string="Find {@LinkCreature:76#3010#Beiran} at {@Rgn:76001$$Kanstria}'s gate." />
+	<String id="60302008" string="&quot;Wish me luck!&quot;" />
+	<String id="60302009" string="Eliminate {@LinkCreature:49#20#zariik workers} east of the {@Rgn:49004$$Melgatol Portal}." />
+	<String id="60302010" string="Eliminate {@LinkCreature:49#19#zariik spodas} near the {@Rgn:49005$$Kassian Tree}." />
+	<String id="60302011" string="Eliminate {@LinkCreature:49#15#yusul slashers} southeast of the {@Rgn:49005$$Kassian Tree}." />
+	<String id="60302012" string="&quot;Very strange.&quot;" />
+	<String id="60302013" string="Report to {@LinkCreature:76#3010#Beiran} at the gate to {@Rgn:76001$$Kanstria}." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200320001" string="Punishment for Betrayal I" />
+	<String id="200320002" string="&quot;I can do that.&quot;" />
+	<String id="200320003" string="" />
+	<String id="200320004" string="" />
+	<String id="200320005" string="Poison Sac" />
+	<String id="200320006" string="Defeat Flexis Hunters and collect their poison sacs." />
+	<String id="200320007" string="Speak with Vogzu in the Free Exodor Temporary Camp." />
+	<String id="200320008" string="&quot;I'll be going now.&quot;" />
+</StrSheet_Quest>

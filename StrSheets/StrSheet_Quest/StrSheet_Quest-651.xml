@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2539001" string="Hunt Shurian Champions" />
+	<String id="2539002" string="The crests are the real prize." />
+	<String id="2539003" string="I'll make good use of the mana in these." />
+	<String id="2539004" string="Shurian Champion's Crest" />
+	<String id="2539005" string="Collect crests from shurian champions in the Grand Chapel." />
+	<String id="2539006" string="Deliver the shurian champion's crests to Karus in the Dark Cathedral." />
+	<String id="2539007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

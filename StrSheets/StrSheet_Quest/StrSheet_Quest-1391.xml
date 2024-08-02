@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5724001" string="What Lies Beneath" />
+	<String id="5724002" string="Thank you for your service." />
+	<String id="5724003" string="Well fought, my friend." />
+	<String id="5724004" string="Kill the lurking storm lizards in the Barbican." />
+	<String id="5724005" string="&quot;Thanks.&quot;" />
+	<String id="5724006" string="Report back to Kalraz." />
+</StrSheet_Quest>

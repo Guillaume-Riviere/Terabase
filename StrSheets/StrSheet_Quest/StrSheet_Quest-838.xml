@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3524001" string="Balancing the Scales" />
+	<String id="3524002" string="So we have a deal, right?" />
+	<String id="3524003" string="Good for me, good for you, good for the troops." />
+	<String id="3524004" string="Basilisk Scale" />
+	<String id="3524005" string="Hunt basilisks west of Croskurn Approach and gather their scales." />
+	<String id="3524006" string="Deliver basilisk scales to Decha at Croskurn Approach." />
+	<String id="3524007" string="&quot;Anything to help the garrison.&quot;" />
+</StrSheet_Quest>

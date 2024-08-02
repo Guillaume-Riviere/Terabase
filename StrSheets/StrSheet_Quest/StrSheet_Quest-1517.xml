@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10010001" string="Taking Up Arms" />
+	<String id="10010002" string="&quot;Of course.&quot;" />
+	<String id="10010003" string="Craft veteran's greatswords." />
+	<String id="10010004" string="Take the greatswords to Maius for inspection." />
+	<String id="10010005" string="" />
+	<String id="10010006" string="Veteran's Greatsword" />
+	<String id="10010007" string="Deliver the greatswords to Baruch in Tulufan." />
+	<String id="10010008" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

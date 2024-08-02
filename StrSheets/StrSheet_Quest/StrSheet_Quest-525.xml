@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2037001" string="Stop the Research" />
+	<String id="2037002" string="Watch yourself." />
+	<String id="2037003" string="The mystery is unfolding." />
+	<String id="2037004" string="Daily Research Journal" />
+	<String id="2037005" string="Kill the Lokian ebonweavers in the Halls of Utterdark and collect any research materials you find." />
+	<String id="2037006" string="Deliver the research journal to Lamya." />
+	<String id="2037007" string="&quot;It's an honor to serve.&quot;" />
+</StrSheet_Quest>

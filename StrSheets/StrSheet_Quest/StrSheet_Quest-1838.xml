@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50535001" string="[Solo] The Celestial Warrior" />
+	<String id="50535002" string="&quot;Okay.&quot;" />
+	<String id="50535003" string="Go to Meren in Highwatch." />
+	<String id="50535004" string="&quot;I'll get that stone by winning the challenge.&quot;" />
+	<String id="50535005" string="Speak with Bethania near the Celestial Arena Guide." />
+	<String id="50535006" string="&quot;I accept your challenge.&quot;" />
+	<String id="50535007" string="Speak with Gaderong to enter the Celestial Arena and find Bethania.&#10;" />
+	<String id="50535008" string="Speak with Gaderong and start the Celestial Arena." />
+	<String id="50535009" string="Obtain the Celestial Stone." />
+	<String id="50535010" string="Speak with Bethania in Highwatch." />
+	<String id="50535011" string="Use the Celestial Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click Celestial Stone to use.]" />
+	<String id="50535012" string="&quot;Glad to help.&quot;" />
+	<String id="50535013" string="Speak to Meren in Highwatch." />
+</StrSheet_Quest>

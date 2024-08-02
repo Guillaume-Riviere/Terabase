@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4537001" string="Wild and Woolly" />
+	<String id="4537002" string="Don't eat any of them!" />
+	<String id="4537003" string="I only do it to humor her." />
+	<String id="4537004" string="&quot;Good luck with that.&quot;" />
+	<String id="4537005" string="Collect oversized hydraneas near {@Rgn:45011$$Swampwatch Camp}." />
+	<String id="4537006" string="Deliver the flowers to Setahl at {@Rgn:45011$$Swampwatch Camp}." />
+</StrSheet_Quest>

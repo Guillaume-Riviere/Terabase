@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48722001" string="Membership Has Its Downsides" />
+	<String id="48722002" string="We'll cut them down to size." />
+	<String id="48722003" string="Good job. I know this wasn't easy." />
+	<String id="48722004" string="Scion Badge" />
+	<String id="48722005" string="Kill the devan Scions in the Bastion of Lok and collect their badges.&#10;[You must select Bastion of Lok (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.]" />
+	<String id="48722006" string="Deliver the badges to Tersiaj." />
+	<String id="48722007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

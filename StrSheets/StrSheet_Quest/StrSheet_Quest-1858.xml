@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51030001" string="Finding the Puppy" />
+	<String id="51030002" string="&quot;Please find my puppy!&quot;" />
+	<String id="51030003" string="&quot;Mom! I need a new doll!&quot;" />
+	<String id="51030004" string="&quot;I will.&quot;" />
+	<String id="51030005" string="&quot;Leave this to me.&quot;" />
+	<String id="51030006" string="Ask Ameldas where she threw the doll." />
+	<String id="51030007" string="Where Ameldas threw the doll." />
+	<String id="51030008" string="Blow Ameldas's dog whistle." />
+	<String id="51030009" string="Look for the dog near where Ameldas threw the doll." />
+	<String id="51030010" string="Use Ameldas's dog whistle." />
+	<String id="51030011" string="You hear a dog barking, far away." />
+	<String id="51030012" string="Where the barking came from" />
+	<String id="51030013" string="There's something on the ground." />
+	<String id="51030014" string="Look for the dog at the location where you heard something." />
+	<String id="51030015" string="Take the doll." />
+	<String id="51030016" string="Inspect the doll." />
+	<String id="51030017" string="Where the dog might be" />
+	<String id="51030018" string="Let's blow Ameldas's dog whistle." />
+	<String id="51030019" string="The dog must be nearby. Search for it." />
+	<String id="51030020" string="Use Ameldas's dog whistle." />
+	<String id="51030021" string="Here's the dog!" />
+	<String id="51030022" string="&quot;Come on. Ameldas misses you.&quot;" />
+	<String id="51030023" string="Talk to Ameldas's dog." />
+	<String id="51030024" string="&quot;Come on! Follow me!&quot;" />
+	<String id="51030025" string="Woof! Woof!" />
+	<String id="51030026" string="Take the dog to {@LinkCreature:38#117#Ameldas}, at the Isolation Camp.]" />
+	<String id="51030027" string="&quot;Glad to help.&quot;" />
+	<String id="51030028" string="Show Ameldas the torn doll." />
+</StrSheet_Quest>

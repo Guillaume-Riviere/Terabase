@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1529001" string="Spread the Luck Around" />
+	<String id="1529002" string="For Popolion!" />
+	<String id="1529003" string="Maybe I'll just borrow one of those for myself...." />
+	<String id="1529004" string="Adru" />
+	<String id="1529005" string="Dwarven Blade-Ward" />
+	<String id="1529006" string="Deliver dwarven blade-wards to Adru at the north gate." />
+	<String id="1529007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17210001" string="Trials and Errors" />
+	<String id="17210002" string="&quot;Got it.&quot;" />
+	<String id="17210003" string="Arachnens" />
+	<String id="17210004" string="Kill fulvous and rufous arachnens." />
+	<String id="17210005" string="&quot;I'll be back.&quot;" />
+	<String id="17210006" string="Speak with Rhodos." />
+	<String id="17210007" string="&quot;These look like shell fragments.&quot;" />
+	<String id="17210008" string="Look for clues at Madat's hut." />
+	<String id="17210009" string="&quot;Rhodos should see this.&quot;" />
+	<String id="17210010" string="Investigate the broken urn." />
+	<String id="17210011" string="&quot;The who?&quot;" />
+	<String id="17210012" string="Show the urn fragments to Rhodos." />
+</StrSheet_Quest>

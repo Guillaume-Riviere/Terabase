@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="item.css">
+    <title>Search Items</title>
+</head>
+
+<body id="body">
+    <h1>Search Items</h1>
+    <input type="text" id="searchBar" placeholder="Search for abnormalities...">
+    <input type="checkbox" name="id" id="id"><label for="id" checked> Search by ID</label>
+    <div id="results"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async() => {
+            const searchBar = document.getElementById('searchBar');
+            const results = document.getElementById('results');
+            const body = document.getElementById('body');
+            const id = document.getElementById('id');
+            let allItems = [];
+
+            const jsonFilesItems = [
+                'Data/Items/Items_01.json',
+                'Data/Items/Items_02.json',
+                'Data/Items/Items_03.json',
+                'Data/Items/Items_04.json',
+                'Data/Items/Items_05.json',
+                'Data/Items/Items_06.json',
+                'Data/Items/Items_07.json',
+                'Data/Items/Items_08.json',
+                'Data/Items/Items_09.json',
+                'Data/Items/Items_10.json',
+                'Data/Items/Items_11.json',
+                'Data/Items/Items_12.json',
+                'Data/Items/Items_13.json',
+                'Data/Items/Items_14.json',
+                'Data/Items/Items_15.json',
+                'Data/Items/Items_16.json',
+                'Data/Items/Items_17.json',
+                'Data/Items/Items_18.json',
+                'Data/Items/Items_19.json',
+                'Data/Items/Items_20.json',
+                'Data/Items/Items_21.json'
+
+                // Add more file names as needed
+            ];
+
+            async function fetchData(file) {
+                try {
+                    const response = await fetch(file);
+                    const data = await response.json();
+                    return data.items;
+                } catch (error) {
+                    console.error(`Error fetching the JSON data from ${file}:`, error);
+                    return [];
+                }
+            }
+
+            // Fetch all JSON files for Items
+            for (const file of jsonFilesItems) {
+                const fileData = await fetchData(file);
+                allItems = allItems.concat(fileData);
+            }
+
+            function itemData(item) {
+                const div = document.createElement('div');
+                div.className = 'item';
+                div.id = 'itemData-' + item.id;
+                div.style.display = 'none'; // Initially hidden
+
+                let statLenght = Object.keys(item);
+
+                let data = `<div class="container"><div class="itemInfo"><div class="itemIcon"><img src="Icons/Icon_Items/${item.icon}.png"></div><div class="itemDescription"><div class="itemName">${item.itemName}</div><div class="itemDesc">${item.tooltip}</div></div></div><div class="itemStats">`
+
+                for (let index = 0; index < statLenght.length; index++) {
+                    const key = statLenght[index];
+                    data += `<div class="stat"><div>${key}</div><div>${item[key]}</div></div>`;
+                }
+                data += '</div></div></div>';
+                div.innerHTML = data;
+                body.appendChild(div);
+            }
+
+            function searching() {
+                const searchTerm = searchBar.value.toLowerCase();
+                results.innerHTML = '';
+                allItems.forEach(item => {
+                    if (item.itemName && item.tooltip) {
+                        if (id.checked && item.id.toLowerCase().includes(searchTerm)) {
+                            createResultItem(item);
+                        } else if (!id.checked && (item.itemName.toLowerCase().includes(searchTerm) || item.tooltip.toLowerCase().includes(searchTerm))) {
+                            createResultItem(item);
+                        }
+                    }
+                });
+            }
+
+            function createResultItem(item) {
+                const div = document.createElement('div');
+                div.className = 'result';
+                div.id = 'item-' + item.id;
+                div.innerHTML = `<div><img src="Icons/Icon_Items/${item.icon}.png"></div><div class="id">${item.id}</div><div class="info"><strong>${item.itemName}</strong><br>${item.tooltip}</div>`;
+                results.appendChild(div);
+
+                // Create and append the item data div
+                itemData(item);
+
+                // Add event listener to show the corresponding item data div
+                div.addEventListener('click', (e) => {
+                    e.stopPropagation(); // Prevent click from propagating to the body
+                    const itemDataDiv = document.getElementById('itemData-' + item.id);
+                    if (itemDataDiv.style.display === 'none') {
+                        hideAllItemData(); // Hide other item data divs before showing the clicked one
+                        itemDataDiv.style.display = 'flex';
+                    } else {
+                        itemDataDiv.style.display = 'none';
+                    }
+                });
+            }
+
+            function hideAllItemData() {
+                const itemDataDivs = document.querySelectorAll('.item');
+                itemDataDivs.forEach(div => {
+                    div.style.display = 'none';
+                });
+            }
+
+            // Hide item data divs when clicking outside of them
+            document.addEventListener('click', (e) => {
+                const containerDivs = document.querySelectorAll('.container');
+                let clickedInside = false;
+
+                containerDivs.forEach(container => {
+                    if (container.contains(e.target)) {
+                        clickedInside = true;
+                    }
+                });
+
+                if (!clickedInside) {
+                    hideAllItemData();
+                }
+            });
+
+            searchBar.addEventListener('input', () => {
+                searching()
+            });
+            id.addEventListener('change', () => {
+                searching()
+            });
+        });
+    </script>
+</body>
+
+</html>

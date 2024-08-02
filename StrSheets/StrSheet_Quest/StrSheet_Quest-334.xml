@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1308001" string="Essence of Foreboding" />
+	<String id="1308002" string="What could affect both a sword and a spirit?" />
+	<String id="1308003" string="Spirits are only a symptom of a larger problem here." />
+	<String id="1308004" string="Core Essence" />
+	<String id="1308005" string="Obtain core essences from the ponderous sporewalkers." />
+	<String id="1308006" string="Bring the essences to Eria." />
+	<String id="1308007" string="&quot;I understand.&quot;" />
+	<String id="1308008" string="&quot;For the federation!&quot;" />
+	<String id="1308009" string="Speak to Leander." />
+</StrSheet_Quest>

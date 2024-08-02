@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="429001" string="Orders for the Intrepid" />
+	<String id="429002" string="Watch yourself out there. Things get worse, not better." />
+	<String id="429003" string="You look fit to fight!" />
+	<String id="429004" string="&quot;For the federation!&quot;" />
+	<String id="429005" string="Make your way to Firebase Intrepid and report in." />
+	<String id="429006" string="&quot;I'll do what I can.&quot;" />
+	<String id="429007" string="Speak with Helone." />
+</StrSheet_Quest>

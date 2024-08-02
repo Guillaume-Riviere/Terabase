@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1128001" string="Retrieve the Explosives" />
+	<String id="1128002" string="Please hurry!" />
+	<String id="1128003" string="Weird." />
+	<String id="1128004" string="High-Performance Explosive" />
+	<String id="1128005" string="Collect the high-performance explosives from the Red Lash pirates and diggers at the Pier Boundary." />
+	<String id="1128006" string="Deliver the high-performance explosives to Centurion Otus at the Vanguard Bastion." />
+	<String id="1128007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

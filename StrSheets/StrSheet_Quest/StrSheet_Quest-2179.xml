@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200120001" string="Securing Supplies" />
+	<String id="200120002" string="&quot;I'll hunt 'em down.&quot;" />
+	<String id="200120003" string="" />
+	<String id="200120004" string="" />
+	<String id="200120005" string="Fennec Leather" />
+	<String id="200120006" string="Fennec Meat" />
+	<String id="200120007" string="Hunt the Exodor Fennecs and Exodor Fennec Vixens and collect their meat and leather." />
+	<String id="200120008" string="Speak with Aurl." />
+	<String id="200120009" string="&quot;All right.&quot;" />
+</StrSheet_Quest>

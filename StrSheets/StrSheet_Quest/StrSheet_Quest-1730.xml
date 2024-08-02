@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21302001" string="Adria's Suspicion" />
+	<String id="21302002" string="&quot;Got it.&quot;" />
+	<String id="21302003" string="&quot;I'll check it out, and let you know what I find.&quot;" />
+	<String id="21302004" string="Talk to Adria." />
+	<String id="21302005" string="Alliance Expedition Camp" />
+	<String id="21302006" string="Someone is calling out to you." />
+	<String id="21302007" string="Cross the bridge connected to the Timeless Woods." />
+	<String id="21302008" string="&quot;I promised Adria I'd try to help.&quot;" />
+	<String id="21302009" string="Speak with Lam." />
+	<String id="21302010" string="&quot;Oh...I didn't realize you couldn't get past.&quot;" />
+	<String id="21302011" string="Talk to the stranger." />
+	<String id="21302012" string="&quot;I suppose so.&quot;" />
+	<String id="21302013" string="Speak with Lam again." />
+</StrSheet_Quest>

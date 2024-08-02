@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3233001" string="Sihran Intelligence" />
+	<String id="3233002" string="Don't let us down." />
+	<String id="3233003" string="There's little better than an enemy's own words." />
+	<String id="3233004" string="Secret Documents" />
+	<String id="3233005" string="Take secret documents from the Sihran arcanists and tuwangi froglars in Frigid Vigil." />
+	<String id="3233006" string="Bring the documents to Nashwa." />
+	<String id="3233007" string="&quot;Here you go.&quot;" />
+</StrSheet_Quest>

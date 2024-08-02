@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10031001" string="Seeking the Hide" />
+	<String id="10031002" string="&quot;Understood.&quot;" />
+	<String id="10031003" string="Speak with Maius in Velika." />
+	<String id="10031004" string="&quot;All for me?&quot;" />
+	<String id="10031005" string="Speak with Jaeron in Velika." />
+</StrSheet_Quest>

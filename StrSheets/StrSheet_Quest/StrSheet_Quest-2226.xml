@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="303502001" string="Velik's Call" />
+	<String id="303502002" string="&quot;Okay.&quot;" />
+	<String id="303502003" string="&quot;Okay.&quot;" />
+	<String id="303502004" string="Talk to Velik" />
+	<String id="303502005" string="After completing EP and Glyph settings, use the Echo: Tiarania item to proceed to the next stage." />
+	<String id="303502006" string="&quot;Okay.&quot;" />
+	<String id="303502007" string="Talk to Velik" />
+	<String id="303502008" string="After completing Skill Advancement, use the Echo: Valkyon Wants You item to proceed to the next stage." />
+	<String id="303502009" string="&quot;Understood.&quot;" />
+	<String id="303502010" string="Talk to Velik" />
+	<String id="303502011" string="After completing the Companion tutorial, use the Echo: Cultists' Conspiracy item to proceed to the next stage" />
+	<String id="303502012" string="&quot;Understood.&quot;" />
+	<String id="303502013" string="Talk to Velik" />
+	<String id="303502014" string="&quot;Okay.&quot;" />
+	<String id="303502015" string="Prepare for battle and talk to Velik." />
+	<String id="303502016" string="Defeat Azart’s Shade." />
+	<String id="303502017" string="Defeat Clawrider’s Shade" />
+	<String id="303502018" string="&quot;Okay.&quot;" />
+	<String id="303502019" string="Talk to Velik" />
+</StrSheet_Quest>

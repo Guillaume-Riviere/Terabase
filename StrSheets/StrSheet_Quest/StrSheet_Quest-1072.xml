@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4601001" string="The Three Towers" />
+	<String id="4601002" string="&quot;I understand.&quot;" />
+	<String id="4601003" string="Ask Tamur if everything is okay.&#10;[Speak with {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="4601004" string="Read the letter form the Mysterium.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open your inventory window and read the Urgent Letter from the Mysterium.]" />
+	<String id="4601005" string="The researchers at the Three Towers need help.  " />
+	<String id="4601006" string="&quot;Right. Okay.&quot;" />
+	<String id="4601007" string="Tell Tamur what the letter was about.&#10;[Speak with {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="4601008" string="&quot;I understand.&quot;" />
+	<String id="4601009" string="Speak with {@linkcreature:246#2001#Adeldur} at {@Rgn:46014#Three Towers Research Base}." />
+	<String id="4601010" string="Destroy the argon structures at {@Rgn:46003$$Raga Shadi}." />
+	<String id="4601011" string="&quot;I understand.&quot;" />
+	<String id="4601012" string="Deliver the argon building fragments to {@linkcreature:246#2001#Adeldur} at {@Rgn:46014$$Three Towers Research Base}." />
+	<String id="4601013" string="&quot;I understand.&quot;" />
+	<String id="4601014" string="You spot an injured scout. Ask {@linkcreature:246#2002#Kurance} if there's any news of Yasring." />
+	<String id="4601015" string="Read the {@RawItem:45336$$missing person register}." />
+	<String id="4601016" string="You see Yasring's name." />
+	<String id="4601017" string="&quot;I understand.&quot;" />
+	<String id="4601018" string="Talk to {@linkcreature:246#2002#Kurance}." />
+	<String id="4601019" string="&quot;There's something I need to know.&quot;" />
+	<String id="4601020" string="Follow the footsteps and collect the Scout's Token.&#10;[Go towards where Kurance is looking at to find the footsteps.]" />
+	<String id="4601021" string="Deliver the marks of the scouts to {@linkcreature:246#2003#Sleitak} at {@Rgn:46005$$Three Towers Depths}: {@Rgn:46016$$Mindcrown Chamber}." />
+	<String id="4601022" string="&quot;I understand.&quot;" />
+	<String id="4601023" string="Ask {@linkcreature:246#2003#Sleitak} at {@Rgn:46005$$Three Towers Depths}: {@Rgn:46016$$Mindcrown Chamber} about the missing people." />
+	<String id="4601024" string="&quot;I understand.&quot;" />
+	<String id="4601025" string="{@Rgn:46009$$Three Towers Spires}: When the door opens, go to {@Rgn:46013$$Exetron} and speak with {@linkcreature:246#2004#Greyden}." />
+</StrSheet_Quest>

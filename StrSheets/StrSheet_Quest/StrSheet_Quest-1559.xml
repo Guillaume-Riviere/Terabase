@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10052001" string="Doing It for Yourself" />
+	<String id="10052002" string="&quot;Of course!&quot;" />
+	<String id="10052003" string="Create eggshell powder." />
+	<String id="10052004" string="Deliver it to Jerelyn in Velika." />
+	<String id="10052005" string="" />
+	<String id="10052006" string="Eggshell Powder" />
+	<String id="10052007" string="Take it to Leytya." />
+	<String id="10052008" string="&quot;Glad I could help out.&quot;" />
+</StrSheet_Quest>

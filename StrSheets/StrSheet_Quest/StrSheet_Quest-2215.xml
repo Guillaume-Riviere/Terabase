@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="300901001" string="Jumpstart: Ebon Tower (Solo)" />
+	<String id="300901002" string="Defeat the final boss in Ebon Tower (Solo).&lt;br>&lt;br>Ebon Tower (Solo) can be entered through a teleportal. To teleport to the entry use Vanguard Initiative UI." />
+	<String id="300901003" string="&quot;Thanks.&quot;" />
+	<String id="300901004" string="Talk to Uriela in Velika." />
+</StrSheet_Quest>

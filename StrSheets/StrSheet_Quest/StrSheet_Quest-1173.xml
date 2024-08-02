@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4936001" string="Saving the Casian Tree" />
+	<String id="4936002" string="Kill the zariik spodas before they corrupt the {@Rgn:49005}." />
+	<String id="4936003" string="We must limit the argons' impact on this tree." />
+	<String id="4936004" string="Kill the zariik spodas near the Casian Tree." />
+	<String id="4936005" string="&quot;You're welcome.&quot;" />
+	<String id="4936006" string="Report to {@LinkCreature:249#1013}." />
+</StrSheet_Quest>

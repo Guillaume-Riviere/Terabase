@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810120001" string="Clean up the Quarantine Zone" />
+	<String id="810120002" string="[Quarantine Zone] Defeat the mutants and their monstrous allies." />
+	<String id="810120003" string="Quarantined Monsters" />
+	<String id="810120004" string="Claim your reward!" />
+</StrSheet_Quest>

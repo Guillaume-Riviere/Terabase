@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3970001" string="(Guild) Suppression Orders: Ovoliths" />
+	<String id="3970002" string="Proof of Kill: Ovoliths" />
+	<String id="3970003" string="&quot;I'm glad I could help.&quot;" />
+	<String id="3970004" string="Defeat the guardian ovoliths and the merciless ovoliths at the bottom of Arachnen Lair." />
+	<String id="3970005" string="Report to Esrill in Frontera." />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800035001" string="Hunt Ovoliths" />
+	<String id="800035002" string="[Vale of the Fang] Hunt ovoliths around Sinestral Manor." />
+	<String id="800035003" string="Ovoliths" />
+	<String id="800035004" string="Claim your reward!" />
+</StrSheet_Quest>

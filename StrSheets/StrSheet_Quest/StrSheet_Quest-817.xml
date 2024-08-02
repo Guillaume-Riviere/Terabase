@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3433001" string="Go for the Gold" />
+	<String id="3433002" string="We also have the right to live." />
+	<String id="3433003" string="We have hope. Bleakrock has hope." />
+	<String id="3433004" string="&quot;Thank you.&quot;" />
+	<String id="3433005" string="Collect xanthic shards from the mines around Azurice Shrine." />
+	<String id="3433006" string="Bring the xanthic shards to Uchamba." />
+</StrSheet_Quest>

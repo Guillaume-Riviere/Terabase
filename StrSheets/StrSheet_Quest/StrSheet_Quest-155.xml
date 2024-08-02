@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="643001" string="Cleaning the Collection Point" />
+	<String id="643002" string="Kill 'em before they kill us." />
+	<String id="643003" string="That'll slow 'em down." />
+	<String id="643004" string="Hunt ravenous bears nearby." />
+	<String id="643005" string="&quot;Glad to help.&quot;" />
+	<String id="643006" string="Return to Piruz." />
+</StrSheet_Quest>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17205001" string="An Army Travels on its Stomach" />
+	<String id="17205002" string="&quot;Thanks.&quot;" />
+	<String id="17205003" string="&quot;Sure.&quot;" />
+	<String id="17205004" string="Speak with Verod." />
+	<String id="17205005" string="&quot;All right.&quot;" />
+	<String id="17205006" string="Look for ginger in the footlockers." />
+	<String id="17205007" string="Give the ginger to Actol." />
+	<String id="17205008" string="&quot;Very well.&quot;" />
+	<String id="17205009" string="Talk to Fieri." />
+	<String id="17205010" string="&quot;It probably won't kill me.&quot;" />
+	<String id="17205011" string="Inspect Fieri's dish." />
+	<String id="17205012" string="Taste the deep-fried...something." />
+	<String id="17205013" string="Your stomach revolts and begs for the sweet release of death." />
+	<String id="17205014" string="&quot;This had better taste delicious.&quot;" />
+	<String id="17205015" string="Talk to Fieri." />
+	<String id="17205016" string="&quot;This looks promising.&quot;" />
+	<String id="17205017" string="Inspect Fieri's new dish." />
+	<String id="17205018" string="Taste the chef's minor surprise." />
+	<String id="17205019" string="It tastes a bit better, but you still think a gula and tuwangi cooked it." />
+	<String id="17205020" string="&quot;Maybe I'll move to Shara.&quot;" />
+	<String id="17205021" string="Talk to Fieri." />
+</StrSheet_Quest>

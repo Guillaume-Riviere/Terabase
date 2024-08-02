@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18107001" string="Ritual of Solace" />
+	<String id="18107002" string="&quot;Sure, I can help you.&quot;" />
+	<String id="18107003" string="&quot;Got it.&quot;" />
+	<String id="18107004" string="Speak with Rhodos." />
+	<String id="18107005" string="&quot;Curious.&quot;" />
+	<String id="18107006" string="Investigate the First Suspicious Corpse." />
+	<String id="18107007" string="&quot;He didn't see it coming.&quot;" />
+	<String id="18107008" string="Investigate the Second Suspicious Corpse." />
+	<String id="18107009" string="&quot;Uh, yeah. We can't have that.&quot;" />
+	<String id="18107010" string="Share your findings with Rhodos." />
+	<String id="18107011" string="Gather soul fragments from the corpses of baraka soldiers." />
+	<String id="18107012" string="Kill the sheep and gather their blood." />
+	<String id="18107013" string="&quot;I'm anxious to get started.&quot;" />
+	<String id="18107014" string="Return to Rhodos with the soulstones." />
+	<String id="18107015" string="Use the soulstones at a {@LinkCreature:181#101#Baraka tombstone} to perform the ritual of solace." />
+	<String id="18107016" string="" />
+	<String id="18107017" string="You sense that the baraka's soul is at rest." />
+	<String id="18107018" string="Pay your respect at the stone grave using the /sad command." />
+	<String id="18107019" string="&quot;I'm looking forward to it.&quot;" />
+	<String id="18107020" string="Return to Rhodos." />
+</StrSheet_Quest>

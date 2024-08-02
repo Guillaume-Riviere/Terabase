@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60501001" string="Stuff and Things" />
+	<String id="60501002" string="&quot;My pleasure.&quot;" />
+	<String id="60501003" string="" />
+	<String id="60501004" string="" />
+	<String id="60501005" string="Lend {@LinkCreature:63#3002#Taratia} a hand." />
+	<String id="60501006" string="&quot;Happy to help.&quot;" />
+	<String id="60501007" string="&quot;Glad to help.&quot;" />
+	<String id="60501008" string="Deliver {@RawItem:206801} ×10 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60501009" string="" />
+	<String id="60501010" string="&quot;Glad to help.&quot;" />
+	<String id="60501011" string="Deliver {@RawItem:206802} ×10 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60501012" string="" />
+	<String id="60501013" string="&quot;Got it.&quot;" />
+	<String id="60501014" string="Deliver {@RawItem:206803} ×10 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60501015" string="" />
+	<String id="60501016" string="&quot;Got it.&quot;" />
+	<String id="60501017" string="Deliver {@RawItem:206804} ×10 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60501018" string="" />
+	<String id="60501019" string="&quot;Got it.&quot;" />
+	<String id="60501020" string="Deliver {@RawItem:206805} ×10 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60501021" string="" />
+	<String id="60501022" string="Claim your reward." />
+	<String id="60501023" string="Talk to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

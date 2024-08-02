@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="929001" string="Cure for Crazy" />
+	<String id="929002" string="It will work. It has to." />
+	<String id="929003" string="Many thanks." />
+	<String id="929004" string="Glorine" />
+	<String id="929005" string="Mysterious Potion" />
+	<String id="929006" string="Feed the potion to the adventurer at the Relic Hunter Outpost." />
+	<String id="929007" string="&quot;I'll take care of it.&quot;" />
+	<String id="929008" string="&quot;For the federation!&quot;" />
+	<String id="929009" string="Speak with Glorine at the Relic Hunter Outpost." />
+</StrSheet_Quest>

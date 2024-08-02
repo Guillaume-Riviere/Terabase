@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55049001" string="Front Line Tactics II" />
+	<String id="55049002" string="Defeat Ace Akasha 2 times in Akasha's Trial.&lt;br>&lt;br>(You can enter Ace Dungeons through Ace Dungeon Instructors, Instance Matching, or the Vanguard Requests window.)." />
+	<String id="55049003" string="&quot;Thanks.&quot;" />
+	<String id="55049004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

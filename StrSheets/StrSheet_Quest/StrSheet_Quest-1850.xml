@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50602001" string="[Important] Ill Deeds by Twilight" />
+	<String id="50602002" string="&quot;Okay.&quot;" />
+	<String id="50602003" string="You received a message from the federation.&lt;BR>Speak with Laaran." />
+	<String id="50602004" string="Woodstrider Point" />
+	<String id="50602005" string="Isobel is not in the camp. The soldiers might know where she is." />
+	<String id="50602006" string="Go to Woodstrider Point." />
+	<String id="50602007" string="&quot;I'm fine.&quot;" />
+	<String id="50602008" string="Speak with the soldier." />
+	<String id="50602009" string="Near Isobel" />
+	<String id="50602010" string="Isobel is returning to camp. Find out what she saw." />
+	<String id="50602011" string="Go meet Isobel." />
+	<String id="50602012" string="&quot;Okay.&quot;" />
+	<String id="50602013" string="Speak with Isobel." />
+	<String id="50602014" string="Sickly Warthog's Skin" />
+	<String id="50602015" string="Defeat Sickly Warthog." />
+	<String id="50602016" string="Deliver the skins to Isobel in the Windwhistle Woods." />
+	<String id="50602017" string="&quot;I got it.&quot;" />
+	<String id="50602018" string="Where the Raiders Appeared" />
+	<String id="50602019" string="You see a scout. Ask him about the raiders." />
+	<String id="50602020" string="Meet the scout." />
+	<String id="50602021" string="&quot;I got it.&quot;" />
+	<String id="50602022" string="Speak with the scout." />
+	<String id="50602023" string="Seeliewood Entrance" />
+	<String id="50602024" string="What was that?" />
+	<String id="50602025" string="Follow the raiders and locate a wagon." />
+	<String id="50602026" string="Defeat the raiders guarding the wagon." />
+	<String id="50602027" string="Inspect the raider's wagon." />
+	<String id="50602028" string="&quot;I see.&quot;" />
+	<String id="50602029" string="Use the Truth Needle on a Raider Officer." />
+	<String id="50602030" string="Seeliewood Camp" />
+	<String id="50602031" string="Elleon and Jelena are here!" />
+	<String id="50602032" string="Scout the Dorana Outpost." />
+	<String id="50602033" string="&quot;Okay.&quot;" />
+	<String id="50602034" string="Speak with Elleon." />
+	<String id="50602035" string="Defeat the Raiders." />
+	<String id="50602036" string="Startree Forest" />
+	<String id="50602037" string="&quot;Those things are going to slaughter us...&quot;" />
+	<String id="50602038" string="Meet with Elleon in Startree Forest." />
+	<String id="50602039" string="Defeat the Forest Vulcans." />
+	<String id="50602040" string="Use Elleon's Tracker." />
+	<String id="50602041" string="Ally Location" />
+	<String id="50602042" string="You hear Jelena's voice." />
+	<String id="50602043" string="Go to Elleon and Jelena." />
+	<String id="50602044" string="Jelena is Nearby" />
+	<String id="50602045" string="Is that Hennika?" />
+	<String id="50602046" string="Go toward Jelena's voice." />
+	<String id="50602047" string="&quot;Hennika...I...&quot;" />
+	<String id="50602048" string="Speak with Hennika." />
+	<String id="50602049" string="Defeat the contaminated monsters." />
+	<String id="50602050" string="&quot;Thanks.&quot;" />
+	<String id="50602051" string="Speak with Elleon." />
+	<String id="50602052" string="Use Elleon's Safe Haven Teleport Scroll." />
+	<String id="50602053" string="&quot;Okay.&quot;" />
+	<String id="50602054" string="Speak with Laaran." />
+</StrSheet_Quest>

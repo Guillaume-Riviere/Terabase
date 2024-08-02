@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="302301001" string="[Dungeon - 463] Vogzu’s Summons" />
+	<String id="302301002" string="&quot;All right.&quot; " />
+	<String id="302301003" string="Find Vogzu in the Verrak Fortress.&#10;[If you complete the quest [Dungeon - 463] Hidden Enemy, the quest [Important] Kaia’s Anvil will be activated automatically.]" />
+</StrSheet_Quest>

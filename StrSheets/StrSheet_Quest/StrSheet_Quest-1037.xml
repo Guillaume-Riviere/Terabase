@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4243001" string="Eggscellent" />
+	<String id="4243002" string="You'll find naga eggs in the second level of the temple." />
+	<String id="4243003" string="Good work, soldier." />
+	<String id="4243004" string="&quot;True enough!&quot;" />
+	<String id="4243005" string="Collect naga eggs from the second level of the Temple of Dagon." />
+	<String id="4243006" string="Deliver the eggs to Penucha." />
+</StrSheet_Quest>

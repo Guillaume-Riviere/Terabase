@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47628001" string="I Sense Something" />
+	<String id="47628002" string="He'll hide behind his soldiers, so save your strength!" />
+	<String id="47628003" string="The honor is yours, my friend." />
+	<String id="47628004" string="Eliminate Iknephar Chief Priest Marineu in Agonal Hall.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.]" />
+	<String id="47628005" string="&quot;We share the honor.&quot;" />
+	<String id="47628006" string="Report to Centurion Amarvand at the Furnace Approach." />
+</StrSheet_Quest>

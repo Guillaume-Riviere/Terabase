@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800113001" string="Clean up the Dark Cathedral" />
+	<String id="800113002" string="[Dark Cathedral] Defeat the devan cultists and their allies." />
+	<String id="800113003" string="Cultists" />
+	<String id="800113004" string="Claim your reward!" />
+</StrSheet_Quest>

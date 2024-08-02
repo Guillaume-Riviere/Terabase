@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5472001" string="(Guild) Suppression Orders: Emberheart Dracoloth" />
+	<String id="5472002" string="Proof of Kill: Dracoloth Emberhide" />
+	<String id="5472003" string="&quot;For the federation!&quot;" />
+	<String id="5472004" string="Collect hides from the emberheart dracoloths in the Bower." />
+	<String id="5472005" string="Report to Gillian in Scythera Fae." />
+</StrSheet_Quest>

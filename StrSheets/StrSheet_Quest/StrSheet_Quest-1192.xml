@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4973001" string="(Guild) Suppression Orders: Volsurus" />
+	<String id="4973002" string="Proof of Kill: Volsurus" />
+	<String id="4973003" string="&quot;Thank you!&quot;" />
+	<String id="4973004" string="Kill {@LinkCreature:49#3$$Volsurus} and collect proof of his death." />
+	<String id="4973005" string="Report to Ayva in Kanstria." />
+</StrSheet_Quest>

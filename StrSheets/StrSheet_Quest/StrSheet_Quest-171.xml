@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="734001" string="I'm a Scholar Not a Soldier, Jim" />
+	<String id="734002" string="Take them out. Buy us some research time." />
+	<String id="734003" string="Now we can go to work." />
+	<String id="734004" string="Kill bloodguards from the Scions of Lok in Cardovek Remnants east of Sanctum Mysterium." />
+	<String id="734005" string="&quot;For the federation!&quot;" />
+	<String id="734006" string="Report to Elthim at Sanctum Mysterium." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3042001" string="Claws for Concern" />
+	<String id="3042002" string="The claws of sloths will make a great potion. No, really." />
+	<String id="3042003" string="With my recommendation, even you could become Oshar's student." />
+	<String id="3042004" string="Sloth Claw" />
+	<String id="3042005" string="Kill {@linkcreature:30#120#languid sloths} on the {@Rgn:30013$$Archive Grounds} and collect their claws." />
+	<String id="3042006" string="Deliver the claws to {@linkcreature:230#1028$$Lihish}." />
+	<String id="3042007" string="&quot;Victory for Valkyon!&quot;" />
+</StrSheet_Quest>

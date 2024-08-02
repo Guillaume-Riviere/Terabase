@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1527001" string="Stop the Bleeding" />
+	<String id="1527002" string="We need {@RawItem:206800} to make bandages." />
+	<String id="1527003" string="Help is on the way, folks!" />
+	<String id="1527004" string="&quot;Anything for fellow soldiers.&quot;" />
+	<String id="1527005" string="Collect {@RawItem:206800}." />
+	<String id="1527006" string="Return to Kamran with the {@RawItem:206800}." />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10063001" string="Stretching Etchings 4" />
+	<String id="10063002" string="&quot;Much appreciated.&quot;" />
+	<String id="10063003" string="Craft {@RawItem:206300}." />
+	<String id="10063004" string="Give the crafted {@RawItem:206300} to Kundra." />
+</StrSheet_Quest>

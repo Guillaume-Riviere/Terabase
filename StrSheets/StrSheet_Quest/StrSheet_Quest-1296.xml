@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5422001" string="Future So Blight" />
+	<String id="5422002" string="You are here to help, right?" />
+	<String id="5422003" string="The contamination appears to have stricken the entire area simultaneously." />
+	<String id="5422004" string="&quot;Collect blood. Got it.&quot;" />
+	<String id="5422005" string="Talk to Eltarun at Scythera Fae." />
+	<String id="5422006" string="Tainted Blood" />
+	<String id="5422007" string="Collect tainted blood from the feral popori in the forest north of Scythera Fae." />
+	<String id="5422008" string="Bring the tainted blood to Eltarun in Scythera Fae." />
+	<String id="5422009" string="&quot;That doesn't sound good.&quot;" />
+</StrSheet_Quest>

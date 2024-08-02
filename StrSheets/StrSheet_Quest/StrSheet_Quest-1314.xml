@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5440001" string="Above and Beyond" />
+	<String id="5440002" string="I wouldn't go alone. Emberheart dracoloths are very powerful." />
+	<String id="5440003" string="Someday I'll find just the right project to make a name for myself." />
+	<String id="5440004" string="Dracoloth Emberhide" />
+	<String id="5440005" string="Collect hides from the emberheart dracoloths in Faeglen." />
+	<String id="5440006" string="Bring the hide to Doran at Camp Verdant." />
+	<String id="5440007" string="&quot;I hope it helps.&quot;" />
+</StrSheet_Quest>

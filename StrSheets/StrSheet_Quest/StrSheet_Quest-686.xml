@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3027001" string="Prayer of the Flower" />
+	<String id="3027002" string="Find some good wet ground!" />
+	<String id="3027003" string="When I'm off duty, I'll visit the garden myself!" />
+	<String id="3027004" string="[{@Rgn:30005$$Seren's Garden}]&#10;Plant the seeds in &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7015#-10967.9229,66881.8047,567.7363&amp;type=1&amp;name=Seren's Garden&quot;>{@Rgn:30005$$Seren's Garden}&lt;/A>&lt;/FONT>." />
+	<String id="3027005" string="The moon flower seeds take root almost instantly." />
+	<String id="3027006" string="&quot;Glad to help.&quot;" />
+	<String id="3027007" string="Tell {@linkcreature:230#1013$$Erlyn} about the seeds." />
+</StrSheet_Quest>

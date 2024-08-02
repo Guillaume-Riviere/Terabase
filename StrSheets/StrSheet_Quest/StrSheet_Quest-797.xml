@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3336001" string="Scrambled Ecesis" />
+	<String id="3336002" string="My plan will destroy Thulsa." />
+	<String id="3336003" string="I reckon humans feel ecstatic in times like this. I'm ecstatic!" />
+	<String id="3336004" string="Lastair" />
+	<String id="3336005" string="Mysterium Scrambler" />
+	<String id="3336006" string="Find the first ecesis device and attach the scrambler." />
+	<String id="3336007" string="Next Ecesis Device" />
+	<String id="3336008" string="Lastair" />
+	<String id="3336009" string="Mysterium Scrambler" />
+	<String id="3336010" string="Find the second ecesis device and attach the scrambler." />
+	<String id="3336011" string="Next Ecesis Device" />
+	<String id="3336012" string="Lastair" />
+	<String id="3336013" string="Mysterium Scrambler" />
+	<String id="3336014" string="Find the third ecesis device and attach the scrambler." />
+	<String id="3336015" string="Return to Lastair." />
+	<String id="3336016" string="&quot;For the federation!&quot;" />
+	<String id="3336017" string="Report to Lastair." />
+</StrSheet_Quest>

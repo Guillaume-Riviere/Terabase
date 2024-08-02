@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50533001" string="[Solo] A Gift for the Goddess" />
+	<String id="50533002" string="&quot;You can count on me.&quot;" />
+	<String id="50533003" string="Go to Meren in Highwatch." />
+	<String id="50533004" string="The Shimmering Eternal Crown" />
+	<String id="50533005" string="Journey back in time to Castle Aranea and retrieve the Eternal Crown lying beneath the {@linkcreature:469#501#Anea's Crate}.&lt;br>[Crown is retrieved when clearing Castle Aranea.]" />
+	<String id="50533006" string="Retrieve the Eternal Crown and go outside." />
+	<String id="50533007" string="Highwatch" />
+	<String id="50533008" string="The Eternal Crown is covered in rust...!" />
+	<String id="50533009" string="Deliver the Eternal Crown to Meren in Highwatch." />
+	<String id="50533010" string="&quot;I got it.&quot;" />
+	<String id="50533011" string="Speak with Meren in Highwatch." />
+	<String id="50533012" string="&quot;I got it.&quot;" />
+	<String id="50533013" string="Show the rusted Eternal Crown to Halran in Erudar Command." />
+	<String id="50533014" string="Empower the Eternal Crown with the Regeneration Stone. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory and select the Regeneration Stone.]" />
+	<String id="50533015" string="&quot;Thanks.&quot;" />
+	<String id="50533016" string="Talk to Halran again." />
+	<String id="50533017" string="Claim reward." />
+	<String id="50533018" string="Speak with Meren, near the Erudar Command." />
+</StrSheet_Quest>

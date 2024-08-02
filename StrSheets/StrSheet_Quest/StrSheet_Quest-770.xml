@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3239001" string="Triggering the Blackout" />
+	<String id="3239002" string="Those blasted witches are using the ore to strengthen the army!" />
+	<String id="3239003" string="The Mysterium can use the ore to counterspell Kaidun's witches." />
+	<String id="3239004" string="&quot;For the federation!&quot;" />
+	<String id="3239005" string="Remove the ouijic ore around the Tyrant's Overwatch from the ground." />
+	<String id="3239006" string="Deliver the ouijic ore to Nashwa." />
+</StrSheet_Quest>

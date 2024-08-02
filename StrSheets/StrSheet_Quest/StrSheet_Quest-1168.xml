@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4931001" string="New and Improved" />
+	<String id="4931002" string="Five {@RawItem:206811}s would do nicely." />
+	<String id="4931003" string="These positively pulse with energy. I wonder why?" />
+	<String id="4931004" string="&quot;Glad I could help.&quot;" />
+	<String id="4931005" string="Mine {@Collection:106} for {@RawItem:206811}s around the {@Rgn:49002}." />
+	<String id="4931006" string="Deliver the {@RawItem:206811}s to {@LinkCreature:76#1021} in {@Rgn:76001}." />
+</StrSheet_Quest>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3006001" string="To the Garden of the Sun" />
+	<String id="3006002" string="Very interesting." />
+	<String id="3006003" string="&quot;Okay.&quot;" />
+	<String id="3006004" string="Go to the Sanctum Mysterium in Allemantheia and talk to {@linkcreature:72#1111$$Ryshan}." />
+	<String id="3006005" string="Use the Identifier behind Ryshan to confirm your identity." />
+	<String id="3006006" string="I..." />
+	<String id="3006007" string="Talk to Princess {@linkcreature:72#1446$$Rida}." />
+	<String id="3006008" string="&quot;What does this mean?&quot;" />
+	<String id="3006009" string="Pick up the {@linkcreature:72#1445#book} Rida dropped." />
+	<String id="3006010" string="Rida's Book" />
+	<String id="3006011" string="Rida's Book" />
+	<String id="3006012" string="Return the book to {@linkcreature:71#1114$$Rida} outside {@Rgn:71001$$Bastion}." />
+	<String id="3006013" string="&quot;I understand.&quot;" />
+	<String id="3006014" string="&quot;I'll certainly try.&quot;" />
+	<String id="3006015" string="Meet {@linkcreature:71#1101$$Alais}." />
+	<String id="3006016" string="&quot;I will.&quot;" />
+	<String id="3006017" string="Find {@linkcreature:71#1114$$Rida} and direct her to {@Rgn:71001$$Bastion}. " />
+	<String id="3006018" string="&quot;I'm ready to serve.&quot;" />
+	<String id="3006019" string="Meet {@linkcreature:71#1101$$Alais}." />
+</StrSheet_Quest>

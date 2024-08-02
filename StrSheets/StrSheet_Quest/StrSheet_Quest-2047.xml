@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60702001" string="Borrowing a Book" />
+	<String id="60702002" string="Without the right reference materials, we're just guessing." />
+	<String id="60702003" string="Thank you. You have no idea how helpful this is." />
+	<String id="60702004" string="&quot;I hope this is the book!&quot;" />
+	<String id="60702005" string="Find the thaumaturgical book in Collegium Arcane." />
+	<String id="60702006" string="&quot;You'll return this, right?&quot;" />
+	<String id="60702007" string="Deliver the book to Fitae at the Unified Field Lab." />
+	<String id="60702008" string="Deliver the book to Fitae." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1726001" string="Join the Battle" />
+	<String id="1726002" string="Victory for Valkyon!" />
+	<String id="1726003" string="Victory tastes so sweet." />
+	<String id="1726004" string="Heavens Fall Seal" />
+	<String id="1726005" string="Drive back the Heavens Fall cultists surrounding the Embattled Outpost and collect their seals." />
+	<String id="1726006" string="Report back to Cafnil." />
+	<String id="1726007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

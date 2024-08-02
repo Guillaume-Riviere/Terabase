@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17221001" string="[Dungeon] Thaumetal Refinery" />
+	<String id="17221002" string="&quot;Okay, got it.&quot;" />
+	<String id="17221003" string="Speak with Rhodos at the Khirian Sanctuary." />
+	<String id="17221004" string="&quot;No problem. Let's see the map.&quot;" />
+	<String id="17221005" string="Use the {@LinkCreature:172#1032#Khirian Sanctuary teleport platform} to get to Yaldaru Hills. Speak with Joakim when you get there." />
+	<String id="17221006" string="Use the map Joakim gave you." />
+	<String id="17221007" string="Cliffs by the Pools of Zurusuru" />
+	<String id="17221008" string="This looks like a good place to take off." />
+	<String id="17221009" string="Examine the place marked on the map." />
+	<String id="17221010" string="Hidden Cave" />
+	<String id="17221011" string="This must be the cave Joakim mentioned." />
+	<String id="17221012" string="Examine the place marked on the map." />
+	<String id="17221013" string="Inside the Hidden Cave" />
+	<String id="17221014" string="You are inside the hidden cave." />
+	<String id="17221015" string="Use the {@LinkCreature:172#1072#teleportal} to go the Thaumetal Refinery." />
+	<String id="17221016" string="Inside the Hidden Cave" />
+	<String id="17221017" string="Something's happening." />
+	<String id="17221018" string="Jump into the water to investigate below." />
+	<String id="17221019" string="Defeat Birchback, then investigate deeper into the refinery." />
+	<String id="17221020" string="Inside the Hidden Cave" />
+	<String id="17221021" string="Investigate the cave further." />
+	<String id="17221022" string="Venture deeper into the refinery." />
+	<String id="17221023" string="Mining Site" />
+	<String id="17221024" string="This looks like some kind of mine." />
+	<String id="17221025" string="Go deeper into the compound to find out more about what's going on." />
+	<String id="17221026" string="Defeat the miner servitor, then investigate deeper into the compound." />
+	<String id="17221027" string="&quot;I'm on it.&quot;" />
+	<String id="17221028" string="See if Baidun has any information about the Archdevan Imperial Army's plan." />
+	<String id="17221029" string="Trolley Entrance" />
+	<String id="17221030" string="You can probably ride that trolley." />
+	<String id="17221031" string="Go into the cave below and search for the secret laboratory." />
+	<String id="17221032" string="Trolley Exit" />
+	<String id="17221033" string="The Archdevan Imperial Army is here!" />
+	<String id="17221034" string="Take the trolley to the end of the line, then jump into the cave below." />
+	<String id="17221035" string="Defeat the Archdevan Imperial Army." />
+	<String id="17221036" string="Entrance to the Transgoblification Lab" />
+	<String id="17221037" string="It's the hooded figure and the Archdevan Camp Commander." />
+	<String id="17221038" string="Go to the laboratory." />
+	<String id="17221039" string="Transgoblification Lab" />
+	<String id="17221040" string="They've been experimenting on the goblins!" />
+	<String id="17221041" string="Enter the laboratory." />
+	<String id="17221042" string="Defeat Gaaruksalk." />
+	<String id="17221043" string="Hidden Cave" />
+	<String id="17221044" string="Something is going on." />
+	<String id="17221045" string="Use the teleportal to get back." />
+	<String id="17221046" string="&quot;I'm on my way.&quot;" />
+	<String id="17221047" string="&quot;What happened?&quot;" />
+	<String id="17221048" string="&quot;Of course.&quot;" />
+	<String id="17221049" string="Find Rhodos and tell him what happened." />
+</StrSheet_Quest>

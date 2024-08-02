@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200102001" string="[Important] Secret of the Crystals" />
+	<String id="200102002" string="&quot;Okay.&quot;" />
+	<String id="200102003" string="Speak with Elleon at the Free Exodor Base Square." />
+	<String id="200102004" string="&quot;Ready.&quot;" />
+	<String id="200102005" string="Speak with Jelena in the square." />
+	<String id="200102006" string="Free Exodor Base Path" />
+	<String id="200102007" string="Ascend the Free Exodor Base Path." />
+	<String id="200102008" string="Base South Passage" />
+	<String id="200102009" string="Exit the Base South Passage." />
+	<String id="200102010" string="&quot;Will do.&quot;" />
+	<String id="200102011" string="Speak with Jelena outside the Free Exodor Base." />
+	<String id="200102012" string="Where the flare came from" />
+	<String id="200102013" string="Amarre is in trouble." />
+	<String id="200102014" string="Quickly go to where the flare came from." />
+	<String id="200102015" string="Defeat the Naga Fighters." />
+	<String id="200102016" string="&quot;Let's check with Jelena.&quot;" />
+	<String id="200102017" string="Speak with Amarre." />
+	<String id="200102018" string="&quot;Okay.&quot;" />
+	<String id="200102019" string="Speak with Amarre near Crystal Mine." />
+	<String id="200102020" string="&quot;Always researching, huh?&quot;" />
+	<String id="200102021" string="Speak with Amarre at the Crystal Mine Entrance." />
+	<String id="200102022" string="Inspect the small blue crystals in Crystal Mine." />
+	<String id="200102023" string="Blue Crystal" />
+	<String id="200102024" string="Kill the Crystal Mine Fighters, Scouts, and Throwers and collect their crystals." />
+	<String id="200102025" string="Deliver the Blue Crystals to Amarre." />
+	<String id="200102026" string="&quot;Agreed.&quot;" />
+</StrSheet_Quest>

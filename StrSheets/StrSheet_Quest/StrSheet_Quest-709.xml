@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3050001" string="Recording the Past" />
+	<String id="3050002" string="Go record it now." />
+	<String id="3050003" string="Hmm, what is most pleasing?" />
+	<String id="3050004" string="Record the news as instructed." />
+	<String id="3050005" string="Record the news as instructed." />
+	<String id="3050006" string="Record the news as instructed." />
+	<String id="3050007" string="Record the news as instructed." />
+	<String id="3050008" string="Investigate the {@linkcreature:230#1058#Repositories of Langsyne}." />
+	<String id="3050009" string="&quot;For the federation.&quot;" />
+	<String id="3050010" string="Report back to {@linkcreature:230#1047$$Nandu}." />
+</StrSheet_Quest>

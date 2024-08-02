@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70101001" string="[Event] Holy Responsibilities" />
+	<String id="70101002" string="Welcome to the Festival of the Sun." />
+	<String id="70101003" string="&quot;Thank you for inviting me.&quot;" />
+	<String id="70101004" string="Talk to Renmi." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2131001" string="Archaeology 101" />
+	<String id="2131002" string="Good luck, and have fun with it!" />
+	<String id="2131003" string="Fascinating, to be sure..." />
+	<String id="2131004" string="&quot;For the federation!&quot;" />
+	<String id="2131005" string="Excavate relic fragments at the Vast Sands north of the entrance to the Stone Pillar Relics." />
+	<String id="2131006" string="Deliver the scraps to Aresk." />
+</StrSheet_Quest>

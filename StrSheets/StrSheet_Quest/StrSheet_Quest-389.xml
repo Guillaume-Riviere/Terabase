@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1386001" string="Bombs Away" />
+	<String id="1386002" string="Learn to love the bomb." />
+	<String id="1386003" string="Bombs are great against clusters of enemies!" />
+	<String id="1386004" string="&quot;GOT IT!&quot;" />
+	<String id="1386005" string="Report to Kiriya for training in explosives." />
+	<String id="1386006" string="Throw your bombs (from your inventory or your skill bar) at the dummies." />
+	<String id="1386007" string="&quot;I've got it.&quot;" />
+	<String id="1386008" string="Talk to Kiriya." />
+	<String id="1386009" string="&quot;For the federation!&quot;" />
+	<String id="1386010" string="Report back to Jorhon." />
+</StrSheet_Quest>

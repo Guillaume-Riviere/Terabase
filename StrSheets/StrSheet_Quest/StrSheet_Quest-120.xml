@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="540001" string="Cloak and Dagger" />
+	<String id="540002" string="Take out that drum!" />
+	<String id="540003" string="That should shut them up." />
+	<String id="540004" string="Destroy the frog drum at Mighty Frog Pond." />
+	<String id="540005" string="&quot;I was glad to do it.&quot;" />
+	<String id="540006" string="Report to Wimond." />
+</StrSheet_Quest>

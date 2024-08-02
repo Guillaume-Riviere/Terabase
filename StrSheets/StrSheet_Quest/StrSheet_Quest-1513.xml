@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10006001" string="The Wright Stuff" />
+	<String id="10006002" string="&quot;You got it.&quot;" />
+	<String id="10006003" string="Craft metalwright greataxes." />
+	<String id="10006004" string="Take the greataxes to Maius for inspection." />
+	<String id="10006005" string="" />
+	<String id="10006006" string="Metalwright Greataxe" />
+	<String id="10006007" string="Deliver the greataxes to Prefect Paka in Popolion." />
+	<String id="10006008" string="&quot;Um, you're welcome.&quot;" />
+</StrSheet_Quest>

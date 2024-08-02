@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="243000" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243001" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243002" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243003" string="Kaia's Hero Weapon Gacha Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Kaia's Faded Hero Weapon&lt;br>- Kaia's Silver Hero Weapon&lt;br>- Kaia's Gold Hero Weapon&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243004" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243005" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243006" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243007" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243008" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243009" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243010" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243011" string="Veteran's Signature Cube" toolTip="Combine [Veteran's Signature Cloths] to obtain a [Veteran Signature Innerwear]." />
+	<String id="243012" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243013" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243014" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243015" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243016" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243017" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243018" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243019" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243020" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243021" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243022" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243023" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243024" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243025" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243026" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243027" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243028" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243029" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243030" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243031" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243032" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243033" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243034" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243035" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243036" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243037" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243038" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243039" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243040" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243041" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243042" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243043" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243044" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243045" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243046" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243047" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243048" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243049" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243050" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243051" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243052" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243053" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243054" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243055" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243056" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243057" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243058" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243059" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243060" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243061" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243062" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243063" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243064" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243065" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243066" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243067" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243068" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243069" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243070" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243071" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243072" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243073" string="Kaia's Hero Weapon Gacha Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Kaia's Faded Hero Weapon&lt;br>- Kaia's Silver Hero Weapon&lt;br>- Kaia's Gold Hero Weapon&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243074" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243075" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243076" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243077" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243078" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243079" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243080" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243081" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243082" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243083" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243084" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243085" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243086" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243087" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243088" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243089" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243090" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243091" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243092" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243093" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243094" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243095" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243096" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243097" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243098" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243099" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243100" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243101" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243102" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243103" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243104" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243105" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243106" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243107" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243108" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243109" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243110" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243111" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243112" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243113" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243114" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243115" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243116" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243117" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243118" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243119" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243120" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243121" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243122" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243123" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243124" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243125" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243126" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243127" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243128" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243129" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243130" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243131" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243132" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243133" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243134" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243135" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243136" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243137" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243138" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243139" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243140" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243141" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243142" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243143" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243144" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243145" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="243146" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243147" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="243148" string="Enhanced Mechanical Worm Box (50)" toolTip="Use to obtain 50 Enhanced Mechanical Worms.&lt;br>Increase the chance to catch a high-grade fish by 80%, BAF by 20%." />
+	<String id="243149" string="Mechanical Worm Box (50)" toolTip="Use to obtain 50 Mechanical Worms.&lt;br>Increase the chance to catch a high-grade fish by 80%, BAF by 15%." />
+	<String id="243150" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="243151" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243152" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="243153" string="Enhanced Mechanical Worm Box (50)" toolTip="Use to obtain 50 Enhanced Mechanical Worms.&lt;br>Increase the chance to catch a high-grade fish by 80%, BAF by 20%." />
+	<String id="243154" string="夏天&amp;下雨艾琳限定扭蛋" toolTip="使用後可以固定獲得 「扭蛋殼」 一個和下列其中一個道具，「[染色][一般]]雨衣 [艾琳]」、「幼稚園服[艾琳](可染色)」「[一般]雨衣 [艾琳]」「黃色幼稚園服[艾琳]」「好心情下雪雲朵」「壞心眼閃電雲朵」「暈眩的彩虹雲朵」「好心情流星雲朵」「雨傘[綠]」「雨傘[黃]」「雨傘[紅]」「雨傘[黑]」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「梅利沙的高級宴會組合」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「水晶防護卷軸」" />
+	<String id="243155" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="243156" string="復刻傳說英雄武器扭蛋" toolTip="使用後可以固定獲得 「扭蛋殼」 一個和下列其中一個道具，「傳說英雄武器箱」、「[稀有-2]傳說英雄武器箱」「[稀有-1]傳說英雄武器箱」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「梅利沙的高級宴會組合」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「水晶防護卷軸」" />
+	<String id="243157" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243158" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243159" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243160" string="Bound Dyad Structure Box" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="243161" string="Cherry Blossom Stamp Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Cherry Blossom Stamp&lt;br>- Cherry Blossom Stamp&lt;br>- Upgrading materials or comsumable items" />
+	<String id="243162" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243163" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243164" string="[染色]2016橫條紋泳裝箱子" toolTip="可以獲得[可染色]2016橫條紋泳裝的箱子。" />
+	<String id="243165" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243166" string="Bound Dyad Structure Box" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="243167" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="243168" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="243169" string="Dragon's legendary treasure" toolTip="Legendary treasure of dragons in your hands! Open it to get a reward!" />
+	<String id="243170" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243171" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243172" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243173" string="2018 閃光&amp;月光武器扭蛋" toolTip="使用後可獲得「HT交換卷」和以下其中一個道具&lt;BR>「2018:真．閃光暗影武器箱」「2018月光暗影武器箱」「閃光暗影服裝箱」「月光暗影服裝箱」「閃光暗影服裝: 緣 (艾琳)」「月光暗影服裝:  緣 (艾琳)」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「梅利沙的高級宴會組合」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「月光果實藥水100」" />
+	<String id="243174" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="243175" string="Journal of Adventurer Package" toolTip="The special package for journal around Arborea. &lt;br>&lt;br>Right click to use and you will guarantee to get Village Atlas(30 Days), Travel Journal(30 Day)&lt;br>&lt;br>[Random one item from below]&lt;br>&lt;br>- Flying Skill: Rare Moon Rabbit [Red] (30 Days)&lt;br>- Flying Skill: Moon Rabbit [Blue] (30 Days)&lt;br>- Flying Skill: Skycycle MHx (30 Days)&lt;br>- Flying Skill: Jetcycle MHx (30 Days)&lt;br>- Flying Skill: Black Mane Wolf (30 Days)&lt;br>- Flying Skill: Blue Mane Ghost Wolf (30 Days)&lt;br>- Flying Skill: Pink Mane Wolf (30 Days)" />
+	<String id="243176" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="243177" string="Kaia's Hero Weapon Gacha Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Kaia's Faded Hero Weapon&lt;br>- Kaia's Silver Hero Weapon&lt;br>- Kaia's Gold Hero Weapon&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243178" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="243179" string="Yukata Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&#10;&lt;BR>- Dyeable Yukata Costume Box&lt;BR>- Rare Yukata Costume Box&lt;BR>- Yukata Costume Box&lt;BR>- Yukata Headband A&#10;&lt;BR>- Yukata Headband B&lt;BR>- Yukata Hairpin A&#10;&lt;BR>- Yukata Hairpin B &lt;BR>- Upgrading materials or consumable items" />
+	<String id="243180" string="2019 Innerwear - Crit (250 EMP)" toolTip="2019 Innerwear - Crit (250 EMP)" />
+	<String id="243181" string="亞凱伊特水晶武器箱子" toolTip="可獲得亞凱伊特水晶武器的箱子(不支援魔拳師、忍術士、月光武士的武器)" />
+	<String id="243182" string="亞凱伊特稜鏡武器箱子" toolTip="可獲得亞凱伊特水晶武器的箱子(不支援魔拳師、忍術士、月光武士的武器)" />
+	<String id="243183" string="[稀有]彩虹光速武器箱" toolTip="可獲得彩虹光速武器的箱子(不支援月光武士的武器)" />
+	<String id="243184" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="243185" string="Candispinner's Collections" toolTip="A box contains XP items." />
+	<String id="243186" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="243187" string="Halloween Costume Random Box" toolTip="A gacha box containing many costumes inside. You can get one item random from below list. &lt;br>&#10; - Halloween Flesh Wrap Costume Box &lt;br> -- Dyeable Halloween Flesh Wrap Costume Box &lt;br>- Pumpkin Skull Mask &lt;br>- Glow Skull Mask &lt;br>- Fresh Pumpkin Mask (&lt;br>- Stylish Pumpkin Mask &lt;br>- Mr. Franken Headdress&lt;br>- Ailuri Giantkiller Mask &lt;br>- Grand Witch's Hat &lt;br>- Monster Mask &lt;br>- Stonebeak's Pumpkin Glasses &lt;br>- Hell Golem's Pumpkin Glasses" />
+	<String id="243188" string="冰冷的金屬裝備箱 (月光武士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243189" string="冰冷的金屬裝備箱 (忍術士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243190" string="冰冷的金屬裝備箱 (弓箭手專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243191" string="冰冷的金屬裝備箱 (魔拳師專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243192" string="冰冷的金屬裝備箱 (魔導士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243193" string="冰冷的金屬裝備箱 (魔工師專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243194" string="冰冷的金屬裝備箱 (狂戰士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243195" string="冰冷的金屬裝備箱 (飛劍士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243196" string="冰冷的金屬裝備箱 (屠殺者專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243197" string="冰冷的金屬裝備箱 (元素使專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243198" string="冰冷的金屬裝備箱 (槍騎士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243199" string="冰冷的金屬裝備箱 (祭司專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243200" string="冰冷的金屬裝備箱 (劍鬥士專用)" toolTip="開啟箱子後可獲得4種'不可交易'的冰冷的金屬裝備。" />
+	<String id="243201" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="243202" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="243203" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="243204" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="243205" string="Premium [Battle Pass] Reward Box I" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="243206" string="Premium [Battle Pass] Reward Box I" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="243207" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="243208" string="Modern Campus Look Box (Dyeable)" toolTip="A smartbox contaning a Modern Campus Look Costume (Dyeable). [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="243209" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="243210" string="Token of Friendship: Invitation" toolTip="To commemorate the occasion of recruiting a friend, we present you with this token of friendship." />
+	<String id="243211" string="Token of Friendship: Invitation" toolTip="To commemorate the occasion of recruiting a friend, we present you with this token of friendship." />
+	<String id="243212" string="White Cute Llma Gacha" toolTip="???????????????? Flying Skill: White Cute Llma ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: White Cute Llma]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="243213" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243214" string="Christmas Santa Costume Gacha" toolTip="" />
+	<String id="243215" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243216" string="超世代元素武器箱" toolTip="可以獲得超世代元素武器的箱子。&lt;br>&lt;br>[使用後可獲得與職業相符的武器。]" />
+	<String id="243217" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243218" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243219" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243220" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243221" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243222" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243223" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243224" string="KUSO玩具武器箱" toolTip="可以獲得對應職業KUSO玩具武器的箱子。(不包含飛劍士、魔工師、魔拳師、月光武士、忍術士職業武器)" />
+	<String id="243225" string="White Sheep Box" toolTip="A smart box with a White Sheep body costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243226" string="White Sheep Box" toolTip="A smart box with a White Sheep body costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243227" string="White Sheep Box" toolTip="A smart box with a White Sheep body costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243228" string="White Sheep Box" toolTip="A smart box with a White Sheep body costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243229" string="Dyeable Yukata Costume Box" toolTip="A box contain Dyeable Yukata Costume Box" />
+	<String id="243230" string="Dyeable Yukata Costume Box" toolTip="A box contain Dyeable Yukata Costume Box" />
+	<String id="243231" string="受詛咒的武器箱" toolTip="可以獲得對應職業受詛咒的武器箱子。(不包含飛劍士、魔工師、魔拳師、月光武士、忍術士職業武器)" />
+	<String id="243232" string="美味料理武器箱" toolTip="可以獲得對應職業美味料理武器的箱子。(不包含飛劍士、魔工師、魔拳師、月光武士、忍術士職業武器)" />
+	<String id="243233" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243234" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243235" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243236" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243237" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243238" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243239" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243240" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="243241" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243242" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243243" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243244" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243245" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243246" string="[可染色] 炫彩泳裝服裝箱I[女生專用]" toolTip="可以獲得對應女性種族炫彩泳裝服裝的箱子。" />
+	<String id="243247" string="White Sheep Box" toolTip="A smart box with a White Sheep body costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243248" string="Yukata Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&#10;&lt;BR>- Dyeable Yukata Costume Box&lt;BR>- Rare Yukata Costume Box&lt;BR>- Yukata Costume Box&lt;BR>- Yukata Headband A&#10;&lt;BR>- Yukata Headband B&lt;BR>- Yukata Hairpin A&#10;&lt;BR>- Yukata Hairpin B &lt;BR>- Upgrading materials or consumable items" />
+	<String id="243249" string="森林餽贈的武器箱" toolTip="可以獲得對應職業森林餽贈的武器箱子。(不包含忍術士、魔工師、魔拳師、月光武士職業武器)" />
+	<String id="243250" string="Benjamin's Beam Weapon Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243251" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243252" string="Enhanced Mechanical Worm Box (50)" toolTip="Use to obtain 50 Enhanced Mechanical Worms.&lt;br>Increase the chance to catch a high-grade fish by 80%, BAF by 20%." />
+	<String id="243253" string="Modern Campus Look Gacha" toolTip="A gacha box containinga Modern Campus Look Costume inside. You can get one item random from below list. &lt;br>&lt;br>- Dyeable Modern Campus Look Costume Box &lt;br>- Modern Campus Look Costume Box &lt;br>- I Can Haz Backpack &lt;br>- Popo Piper Pack &lt;br>- Magic Bubble Hairband &lt;br>- Canvas Bag (White)&lt;br>- Canvas Bag (Pink)&lt;br>- Upgrading materials or comsumable items" />
+	<String id="243254" string="Vergos's Fang Box" toolTip="A loot box containing Vergos's Fang." />
+	<String id="243255" string="Vergos's Fang Box" toolTip="A loot box containing Vergos's Fang." />
+	<String id="243256" string="Vergos's Fang Box" toolTip="A loot box containing Vergos's Fang." />
+	<String id="243257" string="絕地求生合作神秘扭蛋" toolTip="使用後可以固定獲得 「扭蛋殼」 一個和下列其中一個道具：「[稀有]烈焰求生印記」「槍林彈雨印記」「[稀有]技能教本 :  絕地求生鐵面咚咚(PUBG)」「技能教本 :  絕地求生咚咚(PUBG)」「技能教本 : 絕地求生杜利溫(PUBG)」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「梅利沙的高級宴會組合」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。&lt;br>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="243258" string="絕地求生合作套裝扭蛋" toolTip="使用後可以固定獲得 「扭蛋殼」 一個和下列其中一個道具，「[稀有]絕地求生全副武裝箱子」「[稀有]絕地求生輕裝上陣箱子」「絕地求生基本套裝箱子」「平底鍋」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「梅利沙的高級宴會組合」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「凱亞的號角喇叭」「急速恢復藥水」「聯盟補給品：月光果實藥水100」&lt;br>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="243259" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243260" string="翠綠仙境服裝箱子" toolTip="可獲得翠綠仙境服裝的箱子。&lt;BR>可獲得與自身種族、性別相符的時裝。" />
+	<String id="243261" string="復刻萌萌歡樂扭蛋" toolTip="使用後可以獲得下列其中一個道具：「萌萌艾琳印記」「小兔年糕印記(粉)」「小兔年糕印記(藍)」「小兔年糕印記(漸層)」「[一般]雨衣 [艾琳]」「[染色][一般]]雨衣 [艾琳]」「雨傘[黃]」「企鵝玩偶面具」「鴨子玩偶面具」「眨眼的黃色貓貓」「眨眼的黑色貓貓」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243262" string="Shadow Costume Gacha" toolTip="" />
+	<String id="243263" string="翠綠仙境扭蛋" toolTip="使用後可以獲得下列其中一個道具：「翠綠仙境服裝箱子」「四葉幸運草披風」「翠綠仙境頭飾」「四葉幸運草頭飾」「雨傘[綠]」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「凱亞的號角喇叭」「急速恢復藥水」「聯盟補給品：月光果實藥水100」" />
+	<String id="243264" string="動感復活兔印記扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[稀有]繽紛復活兔印記」「繽紛復活兔印記」「繽紛復活蛋印記」「動感少女兔帽子」「動感波波利帽子」「動感黑桃兔帽子」「動感胖熊貓帽子」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243265" string="Modern Campus Look Box (Dyeable)" toolTip="A smartbox contaning a Modern Campus Look Costume (Dyeable). [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="243266" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="243267" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243268" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243269" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243270" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243271" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="243272" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="243273" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="243274" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="243275" string="[Member Pass] Daily Federation Bill Pocket" toolTip="Right click to use and will get Federation Bill 48" />
+	<String id="243276" string="[Member Pass] Daily Federation Bill Pocket" toolTip="Right click to use and will get Federation Bill 48" />
+	<String id="243277" string="Midnight Party Dress Costume Box" toolTip="???????????????? ??? Midnight Party Dress Costume ???? ???????????? ????????" />
+	<String id="243278" string="Journal of Adventurer Package" toolTip="The special package for journal around Arborea. &lt;br>&lt;br>Right click to use and you will guarantee to get Village Atlas(30 Days), Travel Journal(30 Day)&lt;br>&lt;br>[Random one item from below]&lt;br>&lt;br>- Flying Skill: Rare Moon Rabbit [Red] (30 Days)&lt;br>- Flying Skill: Moon Rabbit [Blue] (30 Days)&lt;br>- Flying Skill: Skycycle MHx (30 Days)&lt;br>- Flying Skill: Jetcycle MHx (30 Days)&lt;br>- Flying Skill: Black Mane Wolf (30 Days)&lt;br>- Flying Skill: Blue Mane Ghost Wolf (30 Days)&lt;br>- Flying Skill: Pink Mane Wolf (30 Days)" />
+	<String id="243279" string="幻獸鯉魚旗扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[稀有]技能教本：三色幻獸鯉魚旗(1% HP, MP)」「[稀有]技能教本：幻獸鯉魚旗(紅色)(1% HP, MP)」「技能教本：[稀有]幻獸鯉魚旗(藍色)(1% HP, MP)」「[稀有]技能教本：幻獸鯉魚旗(黑色)(1% HP, MP)」「技能教本：幻獸鯉魚旗(紅色)(0.5% HP, MP)」「技能教本：幻獸鯉魚旗(藍色)(0.5% HP, MP))」「技能教本：幻獸鯉魚旗(黑色)(0.5% HP, MP)」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243280" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="243281" string="復刻阿勒堡雷亞警察扭蛋" toolTip="使用後可以獲得下列其中一個道具：「阿勒堡雷亞警察服裝箱」「技能教本：警察噗噗車」「白色警察帽」「黑色警察帽」「白提洛爾帽」「灰提洛爾帽」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243282" string="[Member Pass] Daily Federation BIll Pocket (1,050)" toolTip="Right click to use and will get Federation Bill 1,050" />
+	<String id="243283" string="[Member Pass] Daily Federation BIll Pocket (1,050)" toolTip="Right click to use and will get Federation Bill 1,050" />
+	<String id="243284" string="Costume Fashion Box" toolTip="Bought with Meruma's Deluxe Fashion Shop Coin." />
+	<String id="243285" string="Accessory Fashion Box - Head" toolTip="Bought with Meruma's Deluxe Fashion Shop Coin." />
+	<String id="243286" string="Accessory Fashion Box - Face" toolTip="Bought with Meruma's Deluxe Fashion Shop Coin." />
+	<String id="243287" string="Accessory Fashion Box - Back" toolTip="Bought with Meruma's Deluxe Fashion Shop Coin." />
+	<String id="243288" string="Weapon Fashion Box" toolTip="Bought with Meruma's Deluxe Fashion Shop Coin." />
+	<String id="243289" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243290" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="243291" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243292" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="243293" string="Shadow Costume Gacha" toolTip="" />
+	<String id="243294" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243295" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243296" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="243297" string="復刻亞凱伊特積木時空扭蛋" toolTip="使用後可以獲得下列其中一個道具：「亞凱伊特彩虹積木武器箱」「亞凱伊特稜鏡武器箱子」「亞凱伊特積木武器箱」「亞凱伊特水晶武器箱子」「彩色積木魔法帽」「藍色積木魔法帽」「金色積木太陽眼鏡」「天空藍積木太陽眼鏡」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243298" string="Dungeon Bonus 1 Box" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="243299" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="243300" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="243301" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="243302" string="2019 泳裝社交教本寶箱(不可交易)" toolTip="開啟後可以獲得適合自身 2019 泳裝社交教本的寶相。&#10;&lt;BR>可獲得與自身種族、性別相符的社交教本。&#10;&lt;BR>開出的社交教本不可以交易。" />
+	<String id="243303" string="2019 泳裝社交教本寶箱(可交易)" toolTip="開啟後可以獲得適合自身 2019 泳裝社交教本的寶相。&#10;&lt;BR>可獲得與自身種族、性別相符的社交教本。&#10;&lt;BR>開出的社交教本可以交易。" />
+	<String id="243304" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243305" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243306" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243307" string="異界光輝黃金龍武器箱子" toolTip="開啟後可以獲得異界光輝黃金龍武器的時裝箱子。" />
+	<String id="243308" string="異界光輝黃金龍盔甲箱子" toolTip="開啟後可以獲得異界光輝黃金龍盔甲裝的時裝箱子。&#10;&lt;BR>可獲得與自身種族、性別相符的時裝。" />
+	<String id="243309" string="Premium [Battle Pass] Reward Box I" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="243310" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="243311" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243312" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243313" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243314" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="243315" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="243316" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243317" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243318" string="黑森林精靈時裝箱(女性專用)" toolTip="可以獲得對應女性種族服裝黑森林精靈時裝的箱子。" />
+	<String id="243319" string="精靈王螢光大禮包" toolTip="高機率可以獲得精靈王背包、螢光元素武器箱的禮包。&#10;&#10;使用後可以獲得下列其中一個道具：「精靈王背包」「水藍螢光元素武器箱」「火紅螢光元素武器箱」「冬季韓服: 夜雪服裝箱」「黑森林精靈時裝箱」「巨大蝴蝶結」「巨大蝴蝶結」「愛麗絲童話印記」「黑森林精靈翅膀」「紫翼天使翅膀」「勞動勇士帽子」「綠鈦強化彈」「變化的證據」「合成水晶原石 VII」「中級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「完整的水晶防護卷軸」「急速恢復藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243320" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="243321" string="Red Christmas Box" toolTip="Santa's Special Gift for someone. This box contains red items. " />
+	<String id="243322" string="Token of Friendship: Level 50" toolTip="To commemorate the occasion of reaching level 50, we present you with this token of friendship." />
+	<String id="243323" string="Token of Friendship: Level 50" toolTip="To commemorate the occasion of reaching level 50, we present you with this token of friendship." />
+	<String id="243324" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243325" string="Benjamin's Beam Weapon Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243326" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="243327" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="243328" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="243329" string="Red Christmas Box" toolTip="Santa's Special Gift for someone. This box contains red items. " />
+	<String id="243330" string="Candispinner's Collections" toolTip="A box contains XP items." />
+	<String id="243331" string="New Partner Ramdom Box I" toolTip="Randomly receive Partner, Pets (Legend, Rare, Uncommon) or Partner's item and pet 1EA. There is a chance to get New Partner Lico and Ello." />
+	<String id="243332" string="元素武器綜合扭蛋" toolTip="高機率可以獲得螢光元素武器箱的禮包。&#10;&#10;使用後可以獲得下列其中一個道具：「[稀有]火紅螢光元素武器箱」「水藍螢光元素武器箱」「寵物登錄證 : 滿月」「柔軟咕咕糕點頭飾」「勞動勇士帽子」「綠鈦強化彈」「變化的證據」「高級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「綠鈦強化彈提煉機 [傳說]」「急速恢復藥水」「凱亞的號角喇叭」「閃耀鑰匙」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243333" string="精靈王驚喜扭蛋" toolTip="&#10;高機率可以獲得精靈王背包的禮包。&#10;&#10;使用後可以獲得下列其中一個道具：「精靈王背包」「冬季韓服: 夜雪服裝箱」「黑森林精靈時裝箱」「巨大蝴蝶結」「愛麗絲童話印記」「黑森林精靈翅膀」「紫翼天使翅膀」「綠鈦強化彈」「變化的證據」「高級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「綠鈦強化彈提煉機 [傳說]」「急速恢復藥水」「凱亞的號角喇叭」「閃耀鑰匙」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243334" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243335" string="[Event] Demoros's Luminous Box" toolTip="Requires [Demoros's Mysterious Key] to open the box.$BRContains Demoros's Die and one of the following items:$BR$BR&lt;font color = '#FFBB00'>[Items]&lt;/font>$BRAccessory Amplifier II$BR(Limited Duration) Skill Advancement Tome IV" />
+	<String id="243336" string="Pocket Expansion Token 30+5" toolTip="A box containing Pocket Expansion Token x30 and bonus  x5" />
+	<String id="243337" string="Pocket Expansion Token 30+5" toolTip="A box containing Pocket Expansion Token x30 and bonus  x5" />
+	<String id="243338" string="[稀有]混沌暗黑龍武器箱" toolTip="可以獲得混沌暗黑龍武器的箱子。" />
+	<String id="243339" string="[稀有]混沌暗黑龍時裝箱" toolTip="可以獲得混沌暗黑龍時裝的箱子。" />
+	<String id="243340" string="[染色]異域星空舞姬時箱子[女生專用]" toolTip="可以獲得[染色]異域星空舞姬時裝的箱子。" />
+	<String id="243341" string="[稀有]異域星空舞姬時裝箱子[女生專用]" toolTip="可以獲得[稀有]異域星空舞姬時裝的箱子。" />
+	<String id="243342" string="異域星空舞姬時裝箱子[女生專用]" toolTip="可以獲得異域星空舞姬時裝的箱子。" />
+	<String id="243343" string="Lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff item inside the box." />
+	<String id="243344" string="Candispinner's Collections" toolTip="A box contains XP items." />
+	<String id="243345" string="異域星空舞姬時裝扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[染色]異域星空舞姬時箱子[女生專用]」「[稀有]異域星空舞姬時裝箱子[女生專用]」「異域星空舞姬時裝箱子[女生專用]」「紫蓮神秘面紗」「黃金舞姬頭冠」「星空流蘇披風」「綠鈦強化彈」「變化的證據」「高級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「綠鈦強化彈提煉機 [傳說]」「勇猛的藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243346" string="Shadow Costume Gacha" toolTip="" />
+	<String id="243347" string="New Partner Ramdom Box I" toolTip="Randomly receive Partner, Pets (Legend, Rare, Uncommon) or Partner's item and pet 1EA. There is a chance to get New Partner Lico and Ello." />
+	<String id="243348" string="Dungeon Bonus 1 Box" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="243349" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="243350" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="243351" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243352" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243353" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243354" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243355" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243356" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243357" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243358" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243359" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243360" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243361" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243362" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243363" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="243364" string="伯爵&amp;女王禮服時裝箱子" toolTip="可以獲得對應種族及性別伯爵&amp;女王禮服時裝的箱子。" />
+	<String id="243365" string="[稀有]伯爵&amp;女王禮服時裝箱子" toolTip="可以獲得對應種族及性別[稀有]伯爵&amp;女王禮服時裝的箱子。" />
+	<String id="243366" string="[染色]伯爵&amp;女王禮服時裝箱子" toolTip="可以獲得對應種族及性別[染色]伯爵&amp;女王禮服時裝的箱子。" />
+	<String id="243367" string="Shadow Weapon Gacha" toolTip="" />
+	<String id="243368" string="Shadow Costume Gacha" toolTip="" />
+	<String id="243369" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="243370" string="[稀有]超世代元素(松綠)武器箱" toolTip="可以獲得[稀有]超世代元素(松綠)武器的箱子。" />
+	<String id="243371" string="[稀有]超世代元素(深紫)武器箱" toolTip="可以獲得[稀有]超世代元素(深紫)武器的箱子。" />
+	<String id="243372" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="243373" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="243374" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243375" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="243376" string="[Lucky!] 我的幸運物 (百萬 T-Cat)" toolTip="點擊右鍵時可以獲得1,000,000 T-Cat。" />
+	<String id="243377" string="聖誕專屬派對武器箱" toolTip="可以獲得聖誕專屬派對武器的箱子。" />
+	<String id="243378" string="心動注意! T-Cat箱子" toolTip="&lt;font color = '#FFBB00'>或許我就是1,000,000 T-Cat的主人?!&lt;/font>$BR&lt;BR>內含有聯盟補給品: 萬能靈藥的T-Cat箱子&lt;BR>可以獲得聯盟補給品: 萬能靈藥1個&amp;T-Cat(300~1,000,000個)。" />
+	<String id="243379" string="Winter Stamp Gacha" toolTip="" />
+	<String id="243380" string="Emerald Chest" toolTip="Contains an emerald. Right-click to open." />
+	<String id="243381" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="243382" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243383" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243384" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243385" string="Platinum [Battle Pass] Random Reward Box" toolTip="Open to receive various items.&lt;br>Requires a Platinum [Battle Pass] Key to open." />
+	<String id="243386" string="Token of Friendship: Invitation" toolTip="To commemorate the occasion of recruiting a friend, we present you with this token of friendship." />
+	<String id="243387" string="Winter Stamp Gacha" toolTip="" />
+	<String id="243388" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243389" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243390" string="Dungeon Bonus 1 Box" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="243391" string="2020春節福袋扭蛋" toolTip="使用後可以獲得下列其中一個道具：「100%增幅內衣寶箱」「100%增幅夥伴寶箱」「100%光明飾品寶箱」「100%遺物、聖物寶箱」「100%特殊技能座騎寶箱」「綠鈦強化彈」「變化的證據」「高級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」「阿勒堡雷亞金色板金」「阿勒堡雷亞銀色板金」「阿勒堡雷亞金色碎片」「阿勒堡雷亞銀色碎片」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「綠鈦強化彈提煉機 [傳說]」「技能鍛鍊經驗值書籍 II」「技能鍛鍊經驗值書籍 III」「技能鍛鍊經驗值書籍 IV」「勇猛的藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243392" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="243393" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243394" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243395" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="243396" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="243397" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243398" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="243399" string="Dungeon Bonus 1 Box" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="243400" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="243401" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243402" string="[8階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「100%遺物，聖物寶箱」或者獲得「絕滅，黑日裝飾」" />
+	<String id="243403" string="[7階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「100%增幅內衣寶箱」或者獲得「[8階段] 開春願望寶箱」" />
+	<String id="243404" string="[6階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「100%特殊技能座騎寶箱」或者獲得「[7階段] 開春願望寶箱」" />
+	<String id="243405" string="[5階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「100%增幅夥伴寶箱」或者獲得「[6階段] 開春願望寶箱」" />
+	<String id="243406" string="[4階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「100%精品時裝寶箱」或者獲得「[5階段] 開春願望寶箱」" />
+	<String id="243407" string="[3階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「成長支援寶箱」或者獲得「[4階段] 開春願望寶箱」" />
+	<String id="243408" string="[2階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「100%寵物寶箱」或者獲得「[3階段]  開春願望寶箱」" />
+	<String id="243409" string="[1階段] 開春願望寶箱" toolTip="打開箱子時50%機率可獲得「技能鍛煉箱子」或者獲得「[2階段]  開春願望寶箱」" />
+	<String id="243410" string="Journal of Adventurer Package" toolTip="The special package for journal around Arborea. &lt;br>&lt;br>Right click to use and you will guarantee to get Village Atlas(30 Days), Travel Journal(30 Day)&lt;br>&lt;br>[Random one item from below]&lt;br>&lt;br>- Flying Skill: Rare Moon Rabbit [Red] (30 Days)&lt;br>- Flying Skill: Moon Rabbit [Blue] (30 Days)&lt;br>- Flying Skill: Skycycle MHx (30 Days)&lt;br>- Flying Skill: Jetcycle MHx (30 Days)&lt;br>- Flying Skill: Black Mane Wolf (30 Days)&lt;br>- Flying Skill: Blue Mane Ghost Wolf (30 Days)&lt;br>- Flying Skill: Pink Mane Wolf (30 Days)" />
+	<String id="243411" string="Dragon Firecracker Bundle" toolTip="Contains 10x Firecracker(Dragon)." />
+	<String id="243412" string="Smilecracker Bundle" toolTip="Contains 10x Smilecrackers." />
+	<String id="243413" string="Firecracker String Bundle" toolTip="Contains 10x Firecracker Strings." />
+	<String id="243414" string="Crystallized Snow Explosion Bundle" toolTip="Contains 10x Crystallized Snow Explosions." />
+	<String id="243415" string="Fortune Firecracker Bundle" toolTip="Contains 10x Fortune Firecrackers." />
+	<String id="243416" string="Festive Christmas Tree Bundle" toolTip="Obtain 10x Festive Christmas Trees." />
+	<String id="243417" string="Federation Supply: Elixir Bundle" toolTip="Use to obtain Federation Supply: Elixir x10." />
+	<String id="243418" string="Sapphire Chest" toolTip="Contains sapphires. Right-click to open." />
+	<String id="243419" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="243420" string="尤勒傑的粉紅色護士服寶箱[女生專用]" toolTip="可獲得尤勒傑的粉紅色護士服。" />
+	<String id="243421" string="魔法少女夢武器箱" toolTip="可獲得魔法少女夢武器。" />
+	<String id="243422" string="桃心領露肩裙襬洋裝服裝箱子[女生專用]" toolTip="可獲得桃心領露肩裙襬洋裝。" />
+	<String id="243423" string="[稀有] 桃心領露肩裙襬洋裝服裝箱子[女生專用]" toolTip="可獲得[稀有] 桃心領露肩裙襬洋裝。" />
+	<String id="243424" string="[可染色] 桃心領露肩裙襬洋裝服裝箱子[女生專用]" toolTip="可獲得[可染色] 桃心領露肩裙襬洋裝。" />
+	<String id="243425" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243426" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243427" string="火紅螢光元素時裝箱" toolTip="可以獲得火紅螢光元素時裝的箱子。" />
+	<String id="243428" string="[稀有]火紅螢光元素時裝箱" toolTip="可以獲得[稀有]火紅螢光元素時裝的箱子。" />
+	<String id="243429" string="[稀有]阿爾卑斯少女時裝箱子[女生專用]" toolTip="可以獲得[稀有]阿爾卑斯少女時裝的箱子。" />
+	<String id="243430" string="異色螢光元素扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[稀有]火紅螢光元素武器箱」「[稀有]火紅螢光元素時裝箱」「[稀有]水藍螢光元素武器箱」「[稀有]水藍螢光元素時裝箱」「火紅螢光元素時裝箱」「銀白螢光元素護面」「粉紫螢光元素護鏡」「綠鈦強化彈」「變化的證據」「高級強化材料箱」「烤魚」「蒸魚」「鮮魚湯」」「阿勒堡雷亞金色結晶體」「阿勒堡雷亞銀色結晶體」「綠鈦強化彈提煉機 [傳說]」「勇猛的藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」。" />
+	<String id="243431" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="243432" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="243433" string="Smart Box: Chambermaid's Curtsy" toolTip="A smart box containing the Chambermaid's Curtsy emote. This emote only works while wearing a Chambermaid's Dress. [Smart boxes automatically generate the corresponding emote for your character when you open them.]" />
+	<String id="243434" string="阿爾卑斯少女時裝箱子[女生專用]" toolTip="可以獲得阿爾卑斯少女時裝的箱子。" />
+	<String id="243435" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243436" string="Tera Cooking Set gacha" toolTip="" />
+	<String id="243437" string="阿爾卑斯少女時裝扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[稀有]阿爾卑斯少女時裝箱子[女生專用]」「阿爾卑斯少女時裝箱子[女生專用]」「阿爾卑斯少女披風」「阿爾卑斯少女帽子[女生專用]」「彩虹蝴蝶印記」「花田印記」「夜光花田印記」「幼苗印記」「夜光樹印記」「梅勒目修蒙的高級時尚硬幣」「綠鈦強化彈」「烤魚」「蒸魚」「鮮魚湯」「綠鈦強化彈提煉機 [傳說]」「勇猛的藥水」「凱亞的號角喇叭」「聯盟補給品：月光果實藥水100」「豬雕像」「高級飼料」「彩虹集魚餌」「寵物專用糖果」。" />
+	<String id="243438" string="Dungeon Bonus 1 Box" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="243439" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="243440" string="Shadow Weapon Gacha" toolTip="" />
+	<String id="243441" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243442" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243443" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243444" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243445" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243446" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243447" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243448" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243449" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="243450" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243451" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243452" string="Candispinner's Collections" toolTip="A box contains XP items." />
+	<String id="243453" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243454" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="243455" string="Shadow Costume Gacha" toolTip="" />
+	<String id="243456" string="斯巴達式泳裝箱子" toolTip="可以獲得對應種族及性別斯巴達式泳裝的箱子。" />
+	<String id="243457" string="[稀有]斯巴達式泳裝箱子" toolTip="可以獲得對應種族及性別[稀有]斯巴達式泳裝的箱子。" />
+	<String id="243458" string="[染色]斯巴達式泳裝箱子" toolTip="可以獲得對應種族及性別[染色]斯巴達式泳裝的箱子。" />
+	<String id="243459" string="斯巴達硬派風泳裝扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[染色]斯巴達式泳裝箱子」「[稀有]斯巴達式泳裝箱子」「斯巴達式泳裝箱子」「斯巴達式頭飾[女性專用]」「斯巴達式頭飾[男性專用]」「梅勒目修蒙的高級時尚硬幣」「豬雕像」「高級飼料」「彩虹集魚餌」「寵物專用糖果」「綠鈦強化彈提煉機 [傳說]」「裝備強化損害防止50%卷」「裝備強化度降階防止50%卷」「烤魚」「蒸魚」「鮮魚湯」「尖銳的魚類料理組合」「堅強的魚類料理組合」「守護的魚類料理組合」「起勁的蒸磯鱲魚」「回神的蒸磯鱲魚」「[特製] 起勁的蒸磯鱲魚」「[特製] 回神的蒸磯鱲魚」。" />
+	<String id="243460" string="活躍大禮包" toolTip="點擊右鍵時，可領取所有維持新鮮感的保管中道具。&lt;BR>&lt;BR>[保管中的道具]&lt;BR>尖銳的魚類料理組合 15個&lt;BR>堅強的魚類料理組合 15個&lt;BR>守護的魚類料理組合 15個&lt;BR>波波利集魚餌 100個&lt;BR>高級飼料 100個&lt;BR>波波利雕像 100個" />
+	<String id="243461" string="Journal of Adventurer Package" toolTip="The special package for journal around Arborea. &lt;br>&lt;br>Right click to use and you will guarantee to get Village Atlas(30 Days), Travel Journal(30 Day)&lt;br>&lt;br>[Random one item from below]&lt;br>&lt;br>- Flying Skill: Rare Moon Rabbit [Red] (30 Days)&lt;br>- Flying Skill: Moon Rabbit [Blue] (30 Days)&lt;br>- Flying Skill: Skycycle MHx (30 Days)&lt;br>- Flying Skill: Jetcycle MHx (30 Days)&lt;br>- Flying Skill: Black Mane Wolf (30 Days)&lt;br>- Flying Skill: Blue Mane Ghost Wolf (30 Days)&lt;br>- Flying Skill: Pink Mane Wolf (30 Days)" />
+	<String id="243462" string="Journal of Adventurer Package" toolTip="The special package for journal around Arborea. &lt;br>&lt;br>Right click to use and you will guarantee to get Village Atlas(30 Days), Travel Journal(30 Day)&lt;br>&lt;br>[Random one item from below]&lt;br>&lt;br>- Flying Skill: Rare Moon Rabbit [Red] (30 Days)&lt;br>- Flying Skill: Moon Rabbit [Blue] (30 Days)&lt;br>- Flying Skill: Skycycle MHx (30 Days)&lt;br>- Flying Skill: Jetcycle MHx (30 Days)&lt;br>- Flying Skill: Black Mane Wolf (30 Days)&lt;br>- Flying Skill: Blue Mane Ghost Wolf (30 Days)&lt;br>- Flying Skill: Pink Mane Wolf (30 Days)" />
+	<String id="243463" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243464" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243465" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="243466" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="243467" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="243468" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243469" string="Tera Cooking Set gacha" toolTip="" />
+	<String id="243470" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="243471" string="2020復刻冰與火主題扭蛋" toolTip="使用後可以獲得下列其中一個道具：「火蝶印記」「冰花印記」「[稀有]酷寒銀光龍武器箱子」「[稀有]酷寒紅光龍武器箱子」「[稀有]酷寒銀光龍盔甲箱子」「[稀有]酷寒紅光龍盔甲箱子「[稀有]酷寒銀光龍頭盔」「[稀有] 紅氣息尖甲龍頭盔」「[稀有]酷寒銀光龍翅膀」「[稀有]強力火氣息的龍翅膀」「梅勒目修蒙的高級時尚硬幣」「豬雕像」「高級飼料」「彩虹集魚餌」「寵物專用糖果」「綠鈦強化彈提煉機 [傳說]」「裝備強化損害防止50%卷」「裝備強化度降階防止50%卷」「烤魚」「蒸魚」「鮮魚湯」「尖銳的魚類料理組合」「堅強的魚類料理組合」「守護的魚類料理組合」「起勁的蒸磯鱲魚」「回神的蒸磯鱲魚」「[特製] 起勁的蒸磯鱲魚」「[特製] 回神的蒸磯鱲魚」。" />
+	<String id="243472" string="2020馬勒夏的魅力內衣扭蛋" toolTip="使用後可以獲得下列其中一個道具：「[物理增幅]2020馬勒夏的魅力內衣」「[魔法增幅]2020馬勒夏的魅力內衣」「[物理抵抗]2020馬勒夏的魅力內衣」「[魔法抵抗]2020馬勒夏的魅力內衣」「[物理爆擊]2020馬勒夏的魅力內衣」「[魔法爆擊]2020馬勒夏的魅力內衣」「[物理貫穿]2020馬勒夏的魅力內衣」「[魔法貫穿]2020馬勒夏的魅力內衣」「[物理無視]2020馬勒夏的魅力內衣」「[魔法無視]2020馬勒夏的魅力內衣」「[高階][物理增幅]2019深色絲綢內衣」「[高階][魔法增幅]2019深色絲綢內衣」「[高階][物理抵抗]2019深色絲綢內衣」「[高階][魔法抵抗]2019深色絲綢內衣」「[高階][物理暴擊]2019深色絲綢內衣」「[高階][魔法暴擊]2019深色絲綢內衣」「[物理增幅]2019淺色絲綢內衣」「[魔法增幅]2019淺色絲綢內衣」「[物理抵抗]2019淺色絲綢內衣」「[魔法抵抗]2019淺色絲綢內衣」「[物理暴擊]2019淺色絲綢內衣」「[魔法暴擊]2019淺色絲綢內衣」「梅勒目修蒙的高級時尚硬幣」「豬雕像」「高級飼料」「彩虹集魚餌」「寵物專用糖果」「綠鈦強化彈提煉機 [傳說]」「裝備強化損害防止50%卷」「裝備強化度降階防止50%卷」「烤魚」「蒸魚」「鮮魚湯」「尖銳的魚類料理組合」「堅強的魚類料理組合」「守護的魚類料理組合」「起勁的蒸磯鱲魚」「回神的蒸磯鱲魚」「[特製] 起勁的蒸磯鱲魚」「[特製] 回神的蒸磯鱲魚」。" />
+	<String id="243473" string="[稀有]速水螢光元素武器箱" toolTip="可以獲得對應職業的[稀有]速水螢光元素武器的箱子。" />
+	<String id="243474" string="速水螢光元素武器箱" toolTip="可以獲得對應職業的速水螢光元素武器的箱子。" />
+	<String id="243475" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243476" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243477" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243478" string="Emerald Chest" toolTip="Contains an emerald. Right-click to open." />
+	<String id="243479" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="243480" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="243481" string="Red Christmas Box" toolTip="Santa's Special Gift for someone. This box contains red items. " />
+	<String id="243482" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="243483" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243484" string="不滅鬥士盔甲箱子" toolTip="可以獲得對應種族及性別不滅鬥士盔甲的箱子。" />
+	<String id="243485" string="不滅鬥士時裝扭蛋" toolTip="使用後可以獲得下列其中一個道具：「不滅鬥士盔甲箱子」「[稀有]混沌暗黑龍武器箱」「[稀有]混沌暗黑龍時裝箱」「[稀有]混沌暗黑龍頭盔」「[稀有]混沌暗黑龍翅膀」「不滅鬥士披風」「不滅鬥士面罩」「不滅鬥士武器裝飾」「梅勒目修蒙的高級時尚硬幣」「豬雕像」「高級飼料」「彩虹集魚餌」「寵物專用糖果」「綠鈦強化彈提煉機 [傳說]」「裝備強化損害防止50%卷」「裝備強化度降階防止50%卷」「烤魚」「蒸魚」「鮮魚湯」「尖銳的魚類料理組合」「堅強的魚類料理組合」「守護的魚類料理組合」「起勁的蒸磯鱲魚」「回神的蒸磯鱲魚」「[特製] 起勁的蒸磯鱲魚」「[特製] 回神的蒸磯鱲魚」。" />
+	<String id="243486" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="243487" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="243488" string="軍人禮服時裝箱子" toolTip="可以獲得對應種族及性別軍人禮服時裝的箱子。" />
+	<String id="243489" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="243490" string="Serghetto's Gear Protector (100%) 10-pack" toolTip="Protects your gear from being damaged during enchanting (100% chance).&#10;&#10;&lt;font color = '#FFBB00'>[Items]&lt;/font>&#10;Annihilation Gear&#10;Dark Light Gear&#10;Kaia's Fury Gear&#10;Kaia's Wisdom Gear&#10;&#10;&lt;font color = '#FF0000'>[Caution]&lt;/font>&#10;Serghetto's Gear Protector can only be applied to a single piece of gear, and is consumed in the process.&#10;Protection is canceled when the protected gear is changed or repaired." />
+	<String id="243491" string="Serghetto's Safeguard (100%) 10-pack" toolTip="Protects your gear’s enchantment level from being reduced (100% chance).&#10;&#10;&lt;font color = '#FFBB00'>[Items]&lt;/font>&#10;Annihilation Gear&#10;Dark Light Gear&#10;Kaia's Fury Gear&#10;Kaia's Wisdom Gear&#10;&#10;&lt;font color = '#FF0000'>[Caution]&lt;/font>&#10;Serghetto's Safeguard can only be applied to a single piece of gear, and is consumed in the process.&#10;Protection is canceled when gear is changed or repaired" />
+	<String id="243492" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243493" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243494" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243495" string="Candispinner's Collections" toolTip="A box contains XP items." />
+	<String id="243496" string="萬聖節性轉女僕&amp;執事時裝箱子" toolTip="可以獲得對應角色性別的性轉服裝。" />
+	<String id="243497" string="White Cute Llma Gacha" toolTip="???????????????? Flying Skill: White Cute Llma ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: White Cute Llma]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="243498" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="243499" string="Red Christmas Box" toolTip="Santa's Special Gift for someone. This box contains red items. " />
+	<String id="243500" string="5周年 紀念特別扭蛋" toolTip="使用後可以獲得下列其中一個道具&lt;BR>傳說、稀有、高級品質「聖物、遺物」「[高階]2019深色絲綢內衣」「古人的寶箱」「暗黑碎瓷強化石箱子」「裝備強化損害/降階防止50%卷」「鑽石」「藍寶石」「綠鈦強化彈提煉機 [傳說]」。" />
+	<String id="243501" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="243502" string="Kaia's Hero Weapon Gacha Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Kaia's Faded Hero Weapon&lt;br>- Kaia's Silver Hero Weapon&lt;br>- Kaia's Gold Hero Weapon&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="243503" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243504" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243505" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="243506" string="Christmas Santa Costume Gacha" toolTip="" />
+	<String id="243507" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="243508" string="Bound Dyad Structure Box" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="243509" string="Token of Friendship: Level 50" toolTip="To commemorate the occasion of reaching level 50, we present you with this token of friendship." />
+	<String id="243510" string="Token of Friendship: Level 50" toolTip="To commemorate the occasion of reaching level 50, we present you with this token of friendship." />
+	<String id="243511" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="243512" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="243513" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+</StrSheet_Item>

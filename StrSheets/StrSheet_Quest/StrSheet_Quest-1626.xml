@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17211001" string="The Valley of the Guwangi" />
+	<String id="17211002" string="&quot;Got it.&quot;" />
+	<String id="17211003" string="&quot;This sounds like Madat.&quot;" />
+	<String id="17211004" string="Follow the trail west and look for clues about Madat's kidnapping." />
+	<String id="17211005" string="Search guwangi patrols for clues about Madat's whereabouts." />
+	<String id="17211006" string="&quot;This looks promising.&quot;" />
+	<String id="17211007" string="Search for Madat in Mjusu Kraal." />
+	<String id="17211008" string="&quot;Got it.&quot;" />
+	<String id="17211009" string="Talk to the frail man." />
+	<String id="17211010" string="Guwangis" />
+	<String id="17211011" string="Kill &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#-9807, -31902, -876&amp;type=1&amp;name=guwangis&quot;>guwangis&lt;/A>&lt;/font> and search Mjusu Kraal." />
+	<String id="17211012" string="Madat" />
+	<String id="17211013" string="That looks like Madat. Move closer." />
+	<String id="17211014" string="Find Madat deep in Mjusu Kraal." />
+	<String id="17211015" string="&quot;After you.&quot;" />
+	<String id="17211016" string="Speak with Madat." />
+	<String id="17211017" string="&quot;Understood.&quot;" />
+	<String id="17211018" string="Speak to Rhodos on the hill overlooking Mjusu Kraal." />
+	<String id="17211019" string="Found Mendara Cavern" />
+	<String id="17211020" string="This must be the cave Rhodos mentioned." />
+	<String id="17211021" string="Climb the hill and find Found Mendara Cavern." />
+	<String id="17211022" string="Guwangis and Arachnens" />
+	<String id="17211023" string="Fight your way through Mendara Cavern" />
+	<String id="17211024" string="&quot;Thank you.&quot;" />
+	<String id="17211025" string="Speak with Rhodos at the Khirian Sanctuary." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10004001" string="The Cutting Edge" />
+	<String id="10004002" string="&quot;On my way.&quot;" />
+	<String id="10004003" string="Craft metalworker's greatswords." />
+	<String id="10004004" string="Take the greatswords to Maius for inspection." />
+	<String id="10004005" string="" />
+	<String id="10004006" string="Metalworker's Greatsword" />
+	<String id="10004007" string="Deliver the greatswords to Jodoc in Crescentia." />
+	<String id="10004008" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

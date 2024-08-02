@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70203001" string="[Rootstock] Create a Farmer's Almanac" />
+	<String id="70203002" string="&quot;Sure, I can help.&quot;" />
+	<String id="70203003" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-23358.7695,-25439.4316,266.081&amp;type=1&amp;name=floretta&quot;>floretta&lt;/A>&lt;/font> and fill the first page of the Farmer's Almanac." />
+	<String id="70203004" string="You've completed page 1. To complete the next page, you need a taproot." />
+	<String id="70203005" string="Collect a &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-23199.4590,-23587.4688,207.3273&amp;type=1&amp;name=taproot&quot;>taproot&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203006" string="You've completed page 2. To complete the next page, you need a mudroot." />
+	<String id="70203007" string="Collect a &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-23657.0664,-22062.9102,304.2303&amp;type=1&amp;name=mudroot&quot;>mudroot&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203008" string="You've completed page 3. To complete the next page, you need a moongourd." />
+	<String id="70203009" string="Collect a &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-24357.5859,-21846.6113,294.7825&amp;type=1&amp;name=moongourd&quot;>moongourd&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203010" string="You've completed page 4. To complete the next page, you need a flame pepper." />
+	<String id="70203011" string="Collect a &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-24324.5938,-23385.0801,226.1874&amp;type=1&amp;name=flame pepper&quot;>flame pepper&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203012" string="You've completed page 5. To complete the next page, you need cobseed." />
+	<String id="70203013" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-24106.0762,-24709.1855,227.5103&amp;type=1&amp;name=cobseed&quot;>cobseed&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203014" string="You've completed page 6. To complete the next page, you need a shevranberry." />
+	<String id="70203015" string="Collect a &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-21661.3770,-25126.4727,471.4922&amp;type=1&amp;name=shevranberry&quot;>shevranberry&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203016" string="You've completed page 7. To complete the next page, you need a sky lotus." />
+	<String id="70203017" string="Collect a &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7003#-19529.4902,-26976.9277,2274.5364&amp;type=1&amp;name=sky lotus&quot;>sky lotus&lt;/A>&lt;/font> and fill up the next page." />
+	<String id="70203018" string="You've completed the Farmer's Almanac! Take it to Millia." />
+	<String id="70203019" string="Hand over the Farmer's Almanac." />
+	<String id="70203020" string="Take the completed Farmer's Almanac to Millia." />
+	<String id="70203021" string="Take the completed Farmer's Almanac to Millia." />
+</StrSheet_Quest>

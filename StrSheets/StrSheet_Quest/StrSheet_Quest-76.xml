@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="426001" string="Contested Territory" />
+	<String id="426002" string="Rotten devan leftovers." />
+	<String id="426003" string="And we can melt these down and use them." />
+	<String id="426004" string="Shadmetal Armor" />
+	<String id="426005" string="Kill the devan war golems and fallen devan protectors near the Delthin Mine for their shadmetal armor." />
+	<String id="426006" string="Report back to Aarinia." />
+	<String id="426007" string="&quot;Glad to have helped!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60104001" string="Collating Data" />
+	<String id="60104002" string="I need all field research notes." />
+	<String id="60104003" string="Excellent. Now we can put our hypotheses to the test." />
+	<String id="60104004" string="" />
+	<String id="60104005" string="" />
+	<String id="60104006" string="Speak with {@LinkCreature:247#3509#Helvarian} at {@Rgn:47006$$Field Base Lunacy}." />
+	<String id="60104007" string="&quot;I'll handle it.&quot;" />
+	<String id="60104008" string="&quot;Thanks. I'll head there next.&quot;" />
+	<String id="60104009" string="Get the report from {@LinkCreature:247#3506#Aymuk}." />
+	<String id="60104010" string="&quot;Got it.&quot;" />
+	<String id="60104011" string="Get the report from {@LinkCreature:247#3503#Ahnive}." />
+	<String id="60104012" string="" />
+	<String id="60104013" string="" />
+	<String id="60104014" string="Speak with {@LinkCreature:247#3510#Toray} at {@Rgn:47007$$Blightroar Research Station}." />
+	<String id="60104015" string="&quot;Thank you.&quot;" />
+	<String id="60104016" string="&quot;I appreciate it.&quot;" />
+	<String id="60104017" string="Get the addendum from {@LinkCreature:247#3505#Cloense}." />
+	<String id="60104018" string="&quot;Great!&quot;" />
+	<String id="60104019" string="Get the addendum from {@LinkCreature:247#3504#Marok}." />
+	<String id="60104020" string="&quot;Great.&quot;" />
+	<String id="60104021" string="Deliver the reports to {@LinkCreature:77#3001#Nithan} at {@Rgn:77001$$Pathfinder Post}." />
+	<String id="60104022" string="Deliver the reports to {@LinkCreature:77#3001#Nithan} at {@Rgn:77001$$Pathfinder Post}." />
+</StrSheet_Quest>

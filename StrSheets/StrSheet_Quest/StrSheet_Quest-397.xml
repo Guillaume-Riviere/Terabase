@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1509001" string="Contagious Mastermind" />
+	<String id="1509002" string="&quot;I understand.&quot;" />
+	<String id="1509003" string="&quot;I'm actually not surprised.&quot;" />
+	<String id="1509004" string="Show the fragment to Bedoram at Camp Redemption." />
+	<String id="1509005" string="&quot;I'm on my way.&quot;" />
+	<String id="1509006" string="Speak to Bedoram about the Cult of Lok." />
+	<String id="1509007" string="&quot;I'll tell him.&quot;" />
+	<String id="1509008" string="Go to Popolion with Bedoram's teleportal scroll and report to Paka.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open inventory and use Popolion Teleport Scroll.]" />
+	<String id="1509009" string="&quot;Thank you?&quot;" />
+	<String id="1509010" string="Brief Justicar Bruke about the dementalith." />
+</StrSheet_Quest>

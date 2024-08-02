@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4229001" string="Trouble on the Wing" />
+	<String id="4229002" string="Look into these feathered beings, will you?" />
+	<String id="4229003" string="I believe they're mekonaris." />
+	<String id="4229004" string="Black Feather" />
+	<String id="4229005" string="Find the black-feathered beings that have been reported nearby." />
+	<String id="4229006" string="Bring the evidence to Trikaian." />
+	<String id="4229007" string="&quot;I did my duty.&quot;" />
+</StrSheet_Quest>

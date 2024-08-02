@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2142001" string="Aye, for an Eye" />
+	<String id="2142002" string="Please, be careful." />
+	<String id="2142003" string="For the federation!" />
+	<String id="2142004" string="Basilisk Eye" />
+	<String id="2142005" string="Hunt down Bloodjaw in the southwestern part of the Vale of Graves." />
+	<String id="2142006" string="Report to Vaton at Desert Overwatch." />
+	<String id="2142007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

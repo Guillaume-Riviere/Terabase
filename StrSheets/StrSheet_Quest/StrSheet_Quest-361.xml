@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1337001" string="The Last One" />
+	<String id="1337002" string="We should take back our supplies!" />
+	<String id="1337003" string="You have saved so much more than you know..." />
+	<String id="1337004" string="Supplies" />
+	<String id="1337005" string="Fight through orcans and take back our supplies." />
+	<String id="1337006" string="Take the supplies back to Chione." />
+	<String id="1337007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

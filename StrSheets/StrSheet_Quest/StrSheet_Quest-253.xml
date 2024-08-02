@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1035001" string="Feeling the Pinch" />
+	<String id="1035002" string="Naga clawmasters are formidable. Watch out for them!" />
+	<String id="1035003" string="You executed your orders perfectly!" />
+	<String id="1035004" string="Great Claw" />
+	<String id="1035005" string="Slay naga clawmasters in the Adderkin Jungle." />
+	<String id="1035006" string="Report to Shadio at the Coastal Overwatch." />
+	<String id="1035007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

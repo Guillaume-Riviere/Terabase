@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2435001" string="Winds of War" />
+	<String id="2435002" string="I've got your back." />
+	<String id="2435003" string="It's as much a mystery as ever." />
+	<String id="2435004" string="Dark Relic" />
+	<String id="2435005" string="Destroy the eldritch warpers and blackguards east of Sand Wind Village, and recover any possessions." />
+	<String id="2435006" string="Report back to Qasimir with the Dark Relic." />
+	<String id="2435007" string="Much appreciated." />
+</StrSheet_Quest>

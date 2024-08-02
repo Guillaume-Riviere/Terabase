@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="469018" string="Decided to go to the underground with Syona." />
+	<String id="469020" string="Go to the castle grounds with Randun." />
+	<String id="46901001" string="Echo of Castle Aranea" />
+	<String id="46901002" string="Underground Passage" />
+	<String id="46901003" string="" />
+	<String id="46901004" string="Chapter 1: Continental Expedition&lt;br>&lt;br>This echo seems to relate to the Dark Continent Expedition. &lt;br>&lt;br>Join the Dark Continent Expedition to restore the Echo Arcana." />
+	<String id="46901005" string="Underground Passage" />
+	<String id="46901006" string="Randun suddenly stopped." />
+	<String id="46901007" string="Chapter 1: Continental Expedition&lt;br>&lt;br>Follow Syona, Ribina, and Randun to learn why the Dark Continent Expedition is here." />
+	<String id="46901008" string="Underground Passage" />
+	<String id="46901009" string="A beam of light shines from deep inside Castle Aranea." />
+	<String id="46901010" string="Chapter 1: Continental Expedition&lt;br>&lt;br>Find a way into Castle Aranea with the Dark Continent Expedition." />
+	<String id="46901011" string="Monstrous Arena" />
+	<String id="46901012" string="" />
+	<String id="46901013" string="Chapter 1: Continental Expedition&lt;br>&lt;br>Follow the light." />
+	<String id="46901014" string="Chapter 2: Devan Prisoner&lt;br>&lt;br>Follow the Dark Continent Expedition into the Monstrous Arena." />
+	<String id="46901015" string="Chapter 2: Devan Prisoner&lt;br>&lt;br>Defeat Greandale with Syona and Ribina." />
+	<String id="46901016" string="Chapter 3: Two Paths&lt;br>&lt;br>Nemato knows what the Dark Continent Expedition is looking for. &lt;br>&lt;br>Listen to Nemato's story." />
+	<String id="46901017" string="Underground Entrance" />
+	<String id="46901019" string="Ground Entrance" />
+	<String id="46901021" string="Chapter 3: Two Paths&lt;br>&lt;br>If you go with Syona, it leads underground, and if you go with Randun, it leads to the castle grounds. &lt;br>&lt;br>Select who you want to go with, and move to that entrance." />
+	<String id="46901022" string="Castle Dungeons" />
+	<String id="46901023" string="" />
+	<String id="46901024" string="Chapter 4: Sub-Devans&lt;br>&lt;br>Nemato speaks of a place where sub-devans like him live under the castle. &lt;br>&lt;br>Follow Nemato with Syona." />
+	<String id="46901025" string="Slave Pens Entrance" />
+	<String id="46901026" string="" />
+	<String id="46901027" string="Chapter 4: Sub-Devans&lt;br>&lt;br>There's the distinctive odor of sewage. How can sub-devans live in such a place?&lt;br>&lt;br>Keep following Nemato." />
+	<String id="46901028" string="Slave Pens Exit" />
+	<String id="46901029" string="" />
+	<String id="46901030" string="Chapter 4: Sub-Devans&lt;br>&lt;br>Nemato points to the Slave Pens where the sub-devans stay. Nemato explains how bad Imperial Puppets are. &lt;br>&lt;br>Enter the Slave Pens and defeat all Imperial Puppets." />
+	<String id="46901031" string="Castle Sewers" />
+	<String id="46901032" string="It seems there are corpses in the castle sewers." />
+	<String id="46901033" string="Chapter 4: Sub-Devans&lt;br>&lt;br>Syona is grim after seeing how the sub-devans live. Nemato seems not to be bothered and is providing guidance again. &lt;br>&lt;br>Follow Nemato with Syona." />
+	<String id="46901034" string="Torture Chamber Entrance" />
+	<String id="46901035" string="" />
+	<String id="46901036" string="Chapter 4: Sub-Devans&lt;br>&lt;br>Syona is distracted by an implement of blood magic after seeing the piles of sub-devan corpses. Continue alone until Syona finishes her investigation. &lt;br>&lt;br>Follow the path up." />
+	<String id="46901037" string="Torture Chamber Exit" />
+	<String id="46901038" string="" />
+	<String id="46901039" string="Chapter 5: Chamber Secrets&lt;br>&lt;br>Tools for torture and blood stains litter the floor. Two torturers approach with a smile. &lt;br>&lt;br>Defeat Sereken and Masuki and escape the Torture Chamber." />
+	<String id="46901040" string="Secret Passage" />
+	<String id="46901041" string="" />
+	<String id="46901042" string="Chapter 5: Chamber Secrets&lt;br>&lt;br>Get as far as possible from the Torture Chamber before another torturer shows up.&lt;br>&lt;br>Follow Nemato. " />
+	<String id="46901043" string="Secret Stairs" />
+	<String id="46901044" string="" />
+	<String id="46901045" string="Chapter 5: Chamber Secrets&lt;br>&lt;br>Nemato says there's a secret door that leads to Anea's Palace at the top of the stairs. It seems the archdevans like to stay near their toys. &lt;br>&lt;br>Go to the top of the stairs." />
+	<String id="46901046" string="Secret Stairs Exit" />
+	<String id="46901047" string="Made it inside Anea's Palace" />
+	<String id="46901048" string="Chapter 5: Chamber Secrets&lt;br>&lt;br>If Nemato  is right, Anea's Palace should be behind this wall. &lt;br>&lt;br>Find and operate the lever, then exit via the secret door." />
+	<String id="46901049" string="Elevator Ride" />
+	<String id="46901050" string="" />
+	<String id="46901051" string="Chapter 4: Scholarly Pursuit&lt;br>&lt;br>Excited after hearing about a new weapon, Randun promptly disappeared from sight. There must be an elevator nearby. &lt;br>&lt;br>Ride the elevator." />
+	<String id="46901052" string="Chapter 4: Scholarly Pursuit&lt;br>&lt;br>Randun's voice echoes down from above." />
+	<String id="46901053" string="Exit the elevator" />
+	<String id="46901054" string="Found an empty space in Castle Aranea." />
+	<String id="46901055" string="Chapter 4: Scholarly Pursuit&lt;br>&lt;br>Get off the elevator and join Randun." />
+	<String id="46901056" string="Weapons Lab" />
+	<String id="46901057" string="" />
+	<String id="46901058" string="Chapter 4: Scholarly Pursuit&lt;br>&lt;br>Be careful: Nearby soldiers will converge if we're spotted by an archdevan archer with night vision.&lt;br>&lt;br>Avoid the archdevan archers and move to the Weapons Lab." />
+	<String id="46901059" string="Chapter 5: War Machine&lt;br>&lt;br>Randun's spotted the weapon he wanted to see.&lt;br>&lt;br>Examine the War Crawler weapon." />
+	<String id="46901060" string="Chapter 5: War Machine&lt;br>&lt;br>Randun made a mess of things. Make things right before archdevans arrive.&lt;br>&lt;br>Defeat the War Crawler." />
+	<String id="46901061" string="Anea's Palace Entrance" />
+	<String id="46901062" string="" />
+	<String id="46901063" string="Chapter 5: War Machine&lt;br>&lt;br>Randun found the weapon designs. It's dangerous to move Randun when he has designs on the brain, so it's better to continue alone like he suggested.&lt;br>&lt;br>Exit the Weapons Lab and look for Anea's Palace." />
+	<String id="46901064" string="Throne Room" />
+	<String id="46901065" string="Made it to Anea's Palace." />
+	<String id="46901066" string="Chapter 5: War Machine&lt;br>&lt;br>The palace is like a fortress. Its exterior is strong and well decorated.&lt;br>&lt;br>Enter the Throne Room." />
+	<String id="46901067" string="Chapter 6: Secret Power&lt;br>&lt;br>You've reached the Throne Room. No time to wait for the dark continent expedition to join. &lt;br>&lt;br>Defeat Commander Heskia." />
+	<String id="46901068" string="Queen's Chamber" />
+	<String id="46901069" string="" />
+	<String id="46901070" string="Chapter 6: Secret Power&lt;br>&lt;br>Finally arrived at the Queen's Chamber, where Nemato claimed to see what the Dark Continent Expedition were seeking.&lt;br>&lt;br>Enter the Queen's Chamber." />
+	<String id="46901071" string="Chapter 6: Secret Power&lt;br>&lt;br>Defeat Anea." />
+	<String id="46901072" string="Chapter 7: Nemato&lt;br>&lt;br>Anea (or Aranea) continued to blame people right up until she died. Does this have something to do with what Nemato did?" />
+	<String id="46901073" string="Where Nemato disappeared" />
+	<String id="46901074" string="Nemato can't be found." />
+	<String id="46901075" string="Chapter 7: Changed Man&lt;br>&lt;br>The expedition senses the strangeness of Nemato's actions. &lt;br>&lt;br>Move to where Nemato disappeared." />
+	<String id="46901076" string="Chapter 7: Changed Man&lt;br>&lt;br>The map the expedition was looking for must be in this crate. &lt;br>&lt;br>Destroy the crate." />
+	<String id="46901077" string="Chapter 7: Changed Man&lt;br>&lt;br>It seems most of the memory was restored." />
+	<String id="46901078" string="Chapter 7: Changed Man&lt;br>&lt;br>The Echo Arcana reappeared. There must be a change in it.&lt;br>&lt;br>Take a closer look." />
+	<String id="46901079" string="Nod." />
+	<String id="46901080" string="Chapter 7: Changed Man&lt;br>&lt;br>Go back to your time and tell the barakas what memories you restored so far.&lt;br>&lt;br>Use the Teleportal to meet Gadin in Highwatch." />
+</StrSheet_Quest>

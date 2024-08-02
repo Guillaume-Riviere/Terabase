@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2003001" string="The Mystery Deepens" />
+	<String id="2003002" string="I have faith in your abilities" />
+	<String id="2003003" string="Samael...you'll pay for this." />
+	<String id="2003004" string="&quot;What kind of mission are we talking about?&quot;" />
+	<String id="2003005" string="You look at Jesper in the eyes." />
+	<String id="2003006" string="Speak to Jesper again." />
+	<String id="2003007" string="&quot;Count on me.&quot;" />
+	<String id="2003008" string="Report to Jesper." />
+	<String id="2003009" string="Teleportal" />
+	<String id="2003010" string="You found the teleportal!" />
+	<String id="2003011" string="Find the {@linkcreature:220#1501$$teleportal} in the Halls of Utterdark in the Tenebrous Mines." />
+	<String id="2003012" string="Find the Black Hood." />
+	<String id="2003013" string="The Black Hood! He's the head of the organization. He must be killed!" />
+	<String id="2003014" string="Use the {@linkcreature:220#1501$$teleportal} to reach the hidden tunnel. Then find the Black Hood." />
+	<String id="2003015" string="&quot;I understand.&quot;" />
+	<String id="2003016" string="Attack the Black Hood, then speak to Elleon." />
+	<String id="2003017" string="&quot;I understand.&quot;" />
+	<String id="2003018" string="Report to Bruke in Chebika.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> to open your inventory and use the Chebika Teleport Scroll.]" />
+	<String id="2003019" string="&quot;Thank you.&quot;" />
+	<String id="2003020" string="Report to Samael in Velika." />
+	<String id="2003021" string="Outside Headquarters" />
+	<String id="2003022" string="Report your conversation with Samael to Elleon." />
+	<String id="2003023" string="Go outside Headquarters." />
+	<String id="2003024" string="&quot;Right. Okay.&quot;" />
+	<String id="2003025" string="Find Elleon around Collegium Arcane." />
+	<String id="2003026" string="Find and kill Scions of Lok." />
+</StrSheet_Quest>

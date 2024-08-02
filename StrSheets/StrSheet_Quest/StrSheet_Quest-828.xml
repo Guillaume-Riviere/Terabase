@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3444001" string="Elusive Shards" />
+	<String id="3444002" string="There's a lot riding on those shards." />
+	<String id="3444003" string="It's not something I can control." />
+	<String id="3444004" string="&quot;I'll look into it.&quot;" />
+	<String id="3444005" string="Speak with Kilda in Bleakrock." />
+	<String id="3444006" string="Speak with the magistrate." />
+	<String id="3444007" string="Speak with Forsil in Bleakrock." />
+	<String id="3444008" string="&quot;Thank you.&quot;" />
+	<String id="3444009" string="Speak with Magistrate Mutah." />
+</StrSheet_Quest>

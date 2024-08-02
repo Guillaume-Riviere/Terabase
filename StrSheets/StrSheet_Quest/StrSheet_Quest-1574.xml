@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10103001" string="The Way of Swords" />
+	<String id="10103002" string="&quot;I can do that.&quot;" />
+	<String id="10103003" string="See Caitius in Castanica." />
+	<String id="10103004" string="" />
+	<String id="10103005" string="Design: Officer's Twin Swords" />
+	<String id="10103006" string="Take the design to Kazadian." />
+	<String id="10103007" string="&quot;Okay.&quot;" />
+</StrSheet_Quest>

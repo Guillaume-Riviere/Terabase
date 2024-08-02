@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19109001" string="Into the Fortress" />
+	<String id="19109002" string="&quot;Will do.&quot;" />
+	<String id="19109003" string="&quot;I'll give it a try.&quot;" />
+	<String id="19109004" string="Talk to Paesyn." />
+	<String id="19109005" string="&quot;Oh, shut up.&quot;" />
+	<String id="19109006" string="Use the truth serum to question a weakened Furyguard Bloodweaver. [*Use the serum when their HP is below 30%*]" />
+	<String id="19109007" string="&quot;Yes, sir!&quot;" />
+	<String id="19109008" string="Speak with Rhodos." />
+	<String id="19109009" string="&quot;Let's save her!&quot;" />
+	<String id="19109010" string="Talk to Paesyn." />
+</StrSheet_Quest>

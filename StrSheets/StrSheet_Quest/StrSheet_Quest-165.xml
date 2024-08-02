@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="721001" string="Always Outnumbered, Never Forgotten" />
+	<String id="721002" string="Even one fighter can make a difference." />
+	<String id="721003" string="You're all the reinforcements we need." />
+	<String id="721004" string="&quot;I'm on my way.&quot;" />
+	<String id="721005" string="Exit through the east gate of Lumbertown and report to Prefect Drustan at Casidhe's Stand of Celestial Hills in the southeast." />
+	<String id="721006" string="Orcan Fang" />
+	<String id="721007" string="Kill the orcans beseiging Casidhe's Stand and tear their fangs out." />
+	<String id="721008" string="Return to Drustan." />
+	<String id="721009" string="&quot;That'll teach 'em.&quot;" />
+</StrSheet_Quest>

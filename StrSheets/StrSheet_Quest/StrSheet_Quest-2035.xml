@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60521001" string="Craftania Kingdom" />
+	<String id="60521002" string="&quot;On my way.&quot;" />
+	<String id="60521003" string="" />
+	<String id="60521004" string="" />
+	<String id="60521005" string="" />
+	<String id="60521006" string="" />
+	<String id="60521007" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60521008" string="&quot;Sure thing.&quot;" />
+	<String id="60521009" string="&quot;On it.&quot;" />
+	<String id="60521010" string="Deliver {@RawItem:206812} ×2 to {@linkcreature:63#3001#Barian}." />
+	<String id="60521011" string="" />
+	<String id="60521012" string="&quot;On it.&quot;" />
+	<String id="60521013" string="Deliver {@RawItem:206813} ×2 to {@linkcreature:63#3001#Barian}." />
+	<String id="60521014" string="" />
+	<String id="60521015" string="&quot;On it.&quot;" />
+	<String id="60521016" string="Deliver {@RawItem:206814} ×2 to {@linkcreature:63#3001#Barian}." />
+	<String id="60521017" string="" />
+	<String id="60521018" string="&quot;On it.&quot;" />
+	<String id="60521019" string="Deliver {@RawItem:206815} ×2 to {@linkcreature:63#3001#Barian}." />
+	<String id="60521020" string="" />
+	<String id="60521021" string="Got it." />
+	<String id="60521022" string="Deliver {@RawItem:206816} ×2 to {@linkcreature:63#3001#Barian}." />
+	<String id="60521023" string="" />
+	<String id="60521024" string="Claim your reward." />
+	<String id="60521025" string="Claim your payment from {@LinkCreature:63#3002#Taratia}." />
+</StrSheet_Quest>

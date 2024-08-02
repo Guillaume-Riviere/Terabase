@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1351001" string="Supply and Demand" />
+	<String id="1351002" string="You should get to know the people at the base." />
+	<String id="1351003" string="Why don't you learn gathering in the meantime?" />
+	<String id="1351004" string="&quot;I'll keep that in mind.&quot;" />
+	<String id="1351005" string="Find and speak with Rutgar." />
+	<String id="1351006" string="&quot;Not yet.&quot;" />
+	<String id="1351007" string="Talk to Gurney." />
+	<String id="1351008" string="&quot;For the federation!&quot;" />
+	<String id="1351009" string="Talk to Lilni." />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5021001" string="Scientific Inquiries" />
+	<String id="5021002" string="I must learn that root's purpose." />
+	<String id="5021003" string="&quot;Absolutely.&quot;" />
+	<String id="5021004" string="Speak with Shirka." />
+	<String id="5021005" string="Get a sample of the cyrulek conduit." />
+	<String id="5021006" string="" />
+	<String id="5021007" string="{@WorkObject:103} Sample" />
+	<String id="5021008" string="Report back to Shirka." />
+	<String id="5021009" string="&quot;We'll put an end to that.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1507001" string="Plague Hunt" />
+	<String id="1507002" string="&quot;I understand.&quot;" />
+	<String id="1507003" string="&quot;I'll keep an eye out.&quot;" />
+	<String id="1507004" string="Go to Amallen at Camp Retribution and ask what he needs." />
+	<String id="1507005" string="Ordnarath" />
+	<String id="1507006" string="You see farming tool crates scattered around." />
+	<String id="1507007" string="Go to Ordnarath and retrieve the document. " />
+	<String id="1507008" string="Seach the crates for the document." />
+	<String id="1507009" string="Ordnarath Report" />
+	<String id="1507010" string="Find Bedoram at Camp Redemption and deliver the document." />
+	<String id="1507011" string="&quot;I'll do whatever I can.&quot;" />
+	<String id="1507012" string="Teleport to the wagon through {@linkcreature:215#1027$$Bedoram} and protect it." />
+	<String id="1507013" string="Protect the wagon.&#10;[Approach the wagon and select &quot;Protect the Supply Carriage&quot; to advance this quest.]" />
+	<String id="1507014" string="&quot;I can help.&quot;" />
+	<String id="1507015" string="Use {@LinkCreature:439#1004#Exit Teleportal} to return to Camp Redemption and speak with Bedoram." />
+	<String id="1507016" string="Take blood samples from the local blood fiends." />
+	<String id="1507017" string="Rush the blood samples to Bedoram at Camp Redemption." />
+	<String id="1507018" string="&quot;Glad to help.&quot;" />
+	<String id="1507019" string="&quot;Right. Okay.&quot;" />
+	<String id="1507020" string="&quot;Happy to do my part.&quot;" />
+	<String id="1507021" string="&quot;How did the analysis go?&quot;" />
+</StrSheet_Quest>

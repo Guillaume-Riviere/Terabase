@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1638001" string="Blood and a Hard Place" />
+	<String id="1638002" string="For the federation!" />
+	<String id="1638003" string="A job well done, soldier." />
+	<String id="1638004" string="Blood Stone" />
+	<String id="1638005" string="Destroy the blood mages and see whether they carry blood stones." />
+	<String id="1638006" string="Deliver the blood stones to Lene." />
+	<String id="1638007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

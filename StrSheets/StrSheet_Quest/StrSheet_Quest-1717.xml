@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19101001" string="Playing Catch-Up" />
+	<String id="19101002" string="&quot;Understood.&quot;" />
+	<String id="19101003" string="&quot;Got it.&quot;" />
+	<String id="19101004" string="Speak with Yurel." />
+	<String id="19101005" string="Where the soldiers are." />
+	<String id="19101006" string="You see Deoric." />
+	<String id="19101007" string="Find the soldiers" />
+	<String id="19101008" string="&quot;I'm on it.&quot;" />
+	<String id="19101009" string="Talk to Deoric." />
+	<String id="19101010" string="Search for the goblins." />
+	<String id="19101011" string="You found the goblins." />
+	<String id="19101012" string="Pursue the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#32878, 4234, 4978&amp;type=1&amp;name=goblins&quot;>goblins&lt;/A>&lt;/font>." />
+	<String id="19101013" string="Kill the goblins and recover the supplies." />
+	<String id="19101014" string="&quot;Curious.&quot;" />
+	<String id="19101015" string="Search the wagon." />
+	<String id="19101016" string="&quot;Got it.&quot;" />
+	<String id="19101017" string="Report back to Deoric." />
+	<String id="19101018" string="Look for the goblins." />
+	<String id="19101019" string="This must be the other group of goblins." />
+	<String id="19101020" string="Chase the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#32904, 8143, 6469&amp;type=1&amp;name=rest of the goblins&quot;>rest of the goblins&lt;/A>&lt;/font>." />
+	<String id="19101021" string="Stolen Supplies" />
+	<String id="19101022" string="Kill a goblin worker and retrieve the supplies." />
+	<String id="19101023" string="Deliver the supplies to Deoric." />
+	<String id="19101024" string="&quot;Watch yourself.&quot;" />
+	<String id="19101025" string="&quot;Thanks.&quot;" />
+	<String id="19101026" string="Talk to the centurion." />
+	<String id="19101027" string="&quot;To the very end.&quot;" />
+	<String id="19101028" string="Report to Rhodos at Domare Outpost." />
+</StrSheet_Quest>

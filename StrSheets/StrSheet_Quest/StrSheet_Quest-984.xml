@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4044001" string="Sooie-eet Deal" />
+	<String id="4044002" string="Ah, the glamorous life of a pig slayer..." />
+	<String id="4044003" string="Mind if I steal your hearts?" />
+	<String id="4044004" string="Pigling Hearts" />
+	<String id="4044005" string="Collect hearts from armored piglings and enraged armored piglings." />
+	<String id="4044006" string="Deliver the pigling hearts to {@linkcreature:240#1026$$Grada}." />
+	<String id="4044007" string="&quot;I'm glad I could help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="707001" string="Mattin's Report" />
+	<String id="707002" string="&quot;Okay.&quot;" />
+	<String id="707003" string="Go to Dougal at Velika Headquarters." />
+	<String id="707004" string="Give your report to Samael." />
+	<String id="707005" string="Bring Mattin's report to Garrison Commander Samael at Velika Headquarters." />
+	<String id="707006" string="&quot;Thank you.&quot;" />
+	<String id="707007" string="Receive reward from Samael." />
+</StrSheet_Quest>

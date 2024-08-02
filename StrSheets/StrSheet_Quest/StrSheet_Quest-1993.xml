@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60307001" string="Bag the Limit" />
+	<String id="60307002" string="Derik doesn't usually share, either." />
+	<String id="60307003" string="Nice work, my friend! You're getting better at this by the day!" />
+	<String id="60307004" string="" />
+	<String id="60307005" string="" />
+	<String id="60307006" string="" />
+	<String id="60307007" string="Go to the {@Rgn:50002$$Shroud Outpost} and find {@LinkCreature:250#3001#Derik}." />
+	<String id="60307008" string="&quot;Good sportsmanship!&quot;" />
+	<String id="60307009" string="Argon Hide" />
+	<String id="60307010" string="Hunt {@LinkCreature:50#5#akathela prowlers} near {@Rgn:50002$$Shroud Outpost} and collect their hides." />
+	<String id="60307011" string="Bring the argon hides to {@LinkCreature:250#3001#Derik}." />
+	<String id="60307012" string="&quot;No doubt.&quot;" />
+	<String id="60307013" string="Argon Hide" />
+	<String id="60307014" string="Hunt {@LinkCreature:50#10#zomgul gatherers} around the {@Rgn:50007$$Dryuul Cyasma Infuser} and collect their hides." />
+	<String id="60307015" string="Bring the argon hides to {@LinkCreature:250#3001#Derik}." />
+	<String id="60307016" string="&quot;More than I expected.&quot;" />
+	<String id="60307017" string="Argon Hide" />
+	<String id="60307018" string="Hunt {@LinkCreature:50#4#kalash devastators} north of {@Rgn:50002$$Shroud Outpost} and collect their hides." />
+	<String id="60307019" string="Bring the argon hides to {@LinkCreature:250#3001#Derik}." />
+	<String id="60307020" string="&quot;Practice keeps me sharp.&quot;" />
+</StrSheet_Quest>

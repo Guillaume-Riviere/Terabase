@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5728001" string="Two by Two, Beaks of Blue" />
+	<String id="5728002" string="Don't underestimate them!" />
+	<String id="5728003" string="You fought your way through? Impressive!" />
+	<String id="5728004" string="You...shall...not pass!" />
+	<String id="5728005" string="For Sikander!" />
+	<String id="5728006" string="You must not corrupt the temple!" />
+	<String id="5728007" string="Glory to Sikander..." />
+	<String id="5728008" string="Kill Ctholak and Pothika at the entrance to the temple." />
+	<String id="5728009" string="&quot;You're welcome!&quot;" />
+	<String id="5728010" string="Report to Sonacria at Broken Bridge Camp." />
+</StrSheet_Quest>

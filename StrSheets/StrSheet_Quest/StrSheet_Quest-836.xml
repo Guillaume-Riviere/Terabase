@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3522001" string="Thwarting Thulsa" />
+	<String id="3522002" string="He can't be allowed to get his hands on it." />
+	<String id="3522003" string="This time, we hit Thulsa where it hurts." />
+	<String id="3522004" string="&quot;For the federation!&quot;" />
+	<String id="3522005" string="Retrieve the mana ore mined by the Legion of Thulsa." />
+	<String id="3522006" string="Deliver the mana ore to Celesta at Croskurn Approach." />
+</StrSheet_Quest>

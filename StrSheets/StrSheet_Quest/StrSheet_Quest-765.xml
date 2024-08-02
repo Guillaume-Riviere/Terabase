@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3234001" string="Better than a Bouquet" />
+	<String id="3234002" string="I hope those insignias will impress Nashwa!" />
+	<String id="3234003" string="Keep this between us, all right?" />
+	<String id="3234004" string="Special Rank Insignia" />
+	<String id="3234005" string="Obtain rank insignias from the Sihran loyalists at Frigid Vigil." />
+	<String id="3234006" string="Deliver the insignias to Khasib." />
+	<String id="3234007" string="&quot;Got these for you.&quot;" />
+</StrSheet_Quest>

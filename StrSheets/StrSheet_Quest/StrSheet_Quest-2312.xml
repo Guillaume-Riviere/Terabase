@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800008001" string="Complete Saleron's Sky Garden" />
+	<String id="800008002" string="[Saleron's Sky Garden] Defeat Striktryssir!" />
+	<String id="800008003" string="Striktryssir" />
+	<String id="800008004" string="Claim your reward!" />
+</StrSheet_Quest>

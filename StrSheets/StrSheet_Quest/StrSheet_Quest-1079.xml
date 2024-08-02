@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4626001" string="Spire's Demise" />
+	<String id="4626002" string="The {@creature:46#7005#grellok spire} shouldn't be hard to dismantle." />
+	<String id="4626003" string="Parts of the {@creature:46#7005#grellok spire} are critical to our research." />
+	<String id="4626004" string="Kill {@creature:46#301} in the {@Rgn:46008$$Raga Kabash Depths}." />
+	<String id="4626005" string="Dismantle the {@creature:46#7005#grellok spire} in the {@Rgn:46025$$Raga Transmission Room} and collect grellok spire parts." />
+	<String id="4626006" string="&quot;Confirmed.&quot;" />
+	<String id="4626007" string="Collect grellok spire parts." />
+	<String id="4626008" string="Return to the {@Rgn:46016$$Mindcrown Chamber} and deliver the grellok spire parts to {@creature:246#1102$$Nevian}." />
+	<String id="4626009" string="{@creature:246#1102$$Nevian}" />
+	<String id="4626010" string="Grellok Spire Parts" />
+	<String id="4626011" string="Deliver the grellok spire parts to {@creature:246#1028$$Rhentar} in the {@Rgn:46021$$Strifecore Chamber}." />
+	<String id="4626012" string="&quot;I thank you.&quot;" />
+</StrSheet_Quest>

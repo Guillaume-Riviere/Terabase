@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1838001" string="Serving Two Masters" />
+	<String id="1838002" string="&quot;Got it.&quot;" />
+	<String id="1838003" string="&quot;Understood.&quot;" />
+	<String id="1838004" string="Hyena's Heart" />
+	<String id="1838005" string="Kill hyenas in Colossal Ruins and collect their hearts." />
+	<String id="1838006" string="Speak to Kardelen." />
+	<String id="1838007" string="Receive the reward." />
+</StrSheet_Quest>

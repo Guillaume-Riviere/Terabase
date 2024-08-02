@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2330001" string="Speaking in Jest" />
+	<String id="2330002" string="The jesters and kobolds are making trouble for us." />
+	<String id="2330003" string="This used to be such a quiet kingdom." />
+	<String id="2330004" string="Slay the malicious jesters and kobold mercenaries." />
+	<String id="2330005" string="&quot;Honored to serve.&quot;" />
+	<String id="2330006" string="Report back to Debli." />
+</StrSheet_Quest>

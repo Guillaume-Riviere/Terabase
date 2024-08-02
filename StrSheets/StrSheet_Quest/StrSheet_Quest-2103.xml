@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70120001" string="[Event—Daily] The Horn Carver's Concerns" />
+	<String id="70120002" string="This is the horn of an arachnen. Yes, I said arachnen." />
+	<String id="70120003" string="Try it on." />
+	<String id="70120004" string="Arachnen Horn" />
+	<String id="70120005" string="Get arachnen horns from Serpentis Isle." />
+	<String id="70120006" string="Deliver the arachnen horns to Dolme." />
+	<String id="70120007" string="&quot;Thanks. This is quite a helmet!&quot;" />
+</StrSheet_Quest>

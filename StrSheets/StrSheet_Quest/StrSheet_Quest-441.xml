@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1635001" string="Until Death Parts You" />
+	<String id="1635002" string="Please, help me!" />
+	<String id="1635003" string="It's not too late to save him!" />
+	<String id="1635004" string="&quot;I'll do what I can.&quot;" />
+	<String id="1635005" string="Find Alethea's husband, Sadnica." />
+	<String id="1635006" string="Sadnica" />
+	<String id="1635007" string="The Last Letter" />
+	<String id="1635008" string="Deliver Sadnica's letter to Alethea." />
+	<String id="1635009" string="&quot;I'll talk to Lene.&quot;" />
+	<String id="1635010" string="&quot;Glad to be of service.&quot;" />
+	<String id="1635011" string="Tell Alethea's story to Lene." />
+</StrSheet_Quest>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6364001" string="[Dungeon - 453] Velik’s Hold" />
+	<String id="6364002" string="I will investigate the earthquakes." />
+	<String id="6364003" string="Talk to Seir in Velika." />
+	<String id="6364004" string="Velik's Steps" />
+	<String id="6364005" string="Earth tremors can be felt more strongly here. This must be the way to the underground." />
+	<String id="6364006" string="Go to Velik's Steps and find the secret entrance to the underground." />
+	<String id="6364007" string="Velik's Underground Passage" />
+	<String id="6364008" string="Arrived at Velik's Underground Passage." />
+	<String id="6364009" string="Use the teleportal to enter Velik's Hold, and investigate the earthquakes." />
+	<String id="6364010" string="Kill all Archdevan soldiers under Velika." />
+	<String id="6364011" string="Unstable Path" />
+	<String id="6364012" string="A massive tremor shakes the area. This may be related to the Archdevan Imperial Army." />
+	<String id="6364013" string="Continue investigating." />
+	<String id="6364014" string="Defeat Kavador the Pathfinder." />
+	<String id="6364015" string="Fractured Halls" />
+	<String id="6364016" string="This place also seems to have been occupied by the Archdevan Imperial Army." />
+	<String id="6364017" string="Find clues that link the earthquakes in Velika to the Archdevan Imperial Army." />
+	<String id="6364018" string="Kill all Archdevan soldiers occupying the Fractured Halls." />
+	<String id="6364019" string="Defeat Prokyon the Cyasmic Mystic Stone." />
+	<String id="6364020" string="Velik's Passage" />
+	<String id="6364021" string="" />
+	<String id="6364022" string="Find clues that link the earthquakes in Velika to the Archdevan Imperial Army." />
+	<String id="6364023" string="Defeat Veldeg the Siegework." />
+	<String id="6364024" string="Claim reward." />
+	<String id="6364025" string="Report back to Seir." />
+</StrSheet_Quest>

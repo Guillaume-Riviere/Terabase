@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3228001" string="An Army Marches on Its Stomach" />
+	<String id="3228002" string="Frankly, I never turn down extra rations." />
+	<String id="3228003" string="I wonder who hired Stalker Company?" />
+	<String id="3228004" string="&quot;Glad to help!&quot;" />
+	<String id="3228005" string="Find and gather supplies from the Stalker Company camp in the basin to the north." />
+	<String id="3228006" string="Deliver the supplies to Nashwa." />
+</StrSheet_Quest>

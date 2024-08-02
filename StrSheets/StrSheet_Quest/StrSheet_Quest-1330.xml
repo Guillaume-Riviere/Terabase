@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5522001" string="Meating the Needs" />
+	<String id="5522002" string="These people need more than hope—they need food." />
+	<String id="5522003" string="Much improved! Nothing's better for morale than a full belly!" />
+	<String id="5522004" string="Boar Meat" />
+	<String id="5522005" string="Hunt the razortusk warthogs west of Dragonfall and collect their meat." />
+	<String id="5522006" string="Bring the meat to Yedwin in Dragonfall." />
+	<String id="5522007" string="&quot;Ready for roasting!&quot;" />
+</StrSheet_Quest>

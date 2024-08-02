@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="371001" string="Suppression Orders: Undead (Guild)" />
+	<String id="371002" string="Proof of Kill: Undead's Death" />
+	<String id="371003" string="&quot;Reporting in!&quot;" />
+	<String id="371004" string="Eliminate the undead in Berzerad Cemetery." />
+	<String id="371005" string="Report to Jalize in Crescentia when mission is complete." />
+</StrSheet_Quest>

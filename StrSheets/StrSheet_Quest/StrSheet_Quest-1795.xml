@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48701001" string="Once More unto the Breach" />
+	<String id="48701002" string="&quot;Understood.&quot;" />
+	<String id="48701003" string="&quot;What happens if I make a mistake?&quot;" />
+	<String id="48701004" string="&quot;I already know.&quot;" />
+	<String id="48701005" string="Receive information from Isla." />
+	<String id="48701006" string="&quot;Okay.&quot;" />
+	<String id="48701007" string="Grr!" />
+	<String id="48701008" string="Defeat the basilisks." />
+	<String id="48701009" string="&quot;Okay.&quot;" />
+	<String id="48701010" string="Find Ausdan in the Bestial Vale." />
+	<String id="48701011" string="&quot;Okay.&quot;" />
+	<String id="48701012" string="Receive information from Grapine in Bastion of Lok.&#10;[You must select Bastion of Lok (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.] " />
+	<String id="48701013" string="Long live the Archdevan Empire!" />
+	<String id="48701014" string="Lok...I come to you..." />
+	<String id="48701015" string="Defeat Tetra Aniask (Bastion of Lok (Solo))" />
+	<String id="48701016" string="Trespassers will be eliminated." />
+	<String id="48701017" string="Defeat Soulcrusher (Bastion of Lok (Solo)." />
+	<String id="48701018" string="My life for Lok!" />
+	<String id="48701019" string="Master... I'm on my way..." />
+	<String id="48701020" string="Eliminate Demonbinder Murdranak (Bastion of Lok (Solo)" />
+	<String id="48701021" string="Exit Bastion of Lok." />
+	<String id="48701022" string="Use the Exit Teleportal and exit the Bastion of Lok." />
+	<String id="48701023" string="&quot;I'll spread the word.&quot;" />
+	<String id="48701024" string="Report to Isla." />
+	<String id="48701025" string="&lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> Open your inventory and use Isla's Teleportal Scroll." />
+	<String id="48701026" string="&quot;Glad to help.&quot;" />
+	<String id="48701027" string="Report to Jodoc." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55003001" string="Mastering Archery, Part III" />
+	<String id="55003002" string="&quot;As ready as I'll ever be.&quot;" />
+	<String id="55003003" string="Find Hamile in Velika." />
+	<String id="55003004" string="Dungeon Clear" />
+	<String id="55003005" string="Clear two dungeons: &quot;Necromancer Tomb&quot; and/or &quot;Golden Labyrinth&quot;." />
+	<String id="55003006" string="&quot;I'll see it through to the end.&quot;" />
+	<String id="55003007" string="Report to Hamile." />
+</StrSheet_Quest>

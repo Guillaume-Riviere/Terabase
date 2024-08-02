@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="7282001" string="Have you got a Golden Ticket?" />
+	<String id="7282002" string="Do you need any help?" />
+	<String id="7282003" string="I'm sorry, a bit busy here..." />
+	<String id="7282004" string="Talk to Don A. Tion." />
+	<String id="7282005" string="&quot;All right... I'll give you just one.&quot;" />
+	<String id="7282006" string="&quot;Use it well.&quot;" />
+	<String id="7282007" string="Donate one Gold Ticket to Don A. Tion." />
+	<String id="7282008" string="Bring a {@rawitem:71468$$Gold Ticket} to Don A. Tion in the Demon's Wheel." />
+</StrSheet_Quest>

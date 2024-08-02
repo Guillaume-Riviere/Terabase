@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5623001" string="Someone Your Own Size" />
+	<String id="5623002" string="Don't let the Bleakrock tribe succeed!" />
+	<String id="5623003" string="They're no threat to anyone now." />
+	<String id="5623004" string="Shaman Staff" />
+	<String id="5623005" string="Defeat Bleakrock shamans to pacify the tribe." />
+	<String id="5623006" string="Report to Baraz at Dakonan Overwatch." />
+	<String id="5623007" string="Go to Keallach." />
+	<String id="5623008" string="Baraz" />
+	<String id="5623009" string="Shaman Staff" />
+	<String id="5623010" string="Hand the staves in to Keallach." />
+	<String id="5623011" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

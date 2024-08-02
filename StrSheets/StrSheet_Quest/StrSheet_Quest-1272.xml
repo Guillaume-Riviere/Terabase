@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5233001" string="Enemy Supplies" />
+	<String id="5233002" string="Bring back supplies taken from Thulsa's Legion." />
+	<String id="5233003" string="Their loss is our gain. Works for me." />
+	<String id="5233004" string="Thulsa's Legion Supplies" />
+	<String id="5233005" string="Eliminate the Thulsan destroyers and undead polykinds camped out near Firebase Audacity and bring back their supplies." />
+	<String id="5233006" string="Bring the Thulsa's Legion supplies to Firebase Audacity Quartermaster Gember." />
+	<String id="5233007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

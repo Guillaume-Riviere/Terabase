@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1733001" string="Burn Before Reading" />
+	<String id="1733002" string="For the federation!" />
+	<String id="1733003" string="That'll show 'em!" />
+	<String id="1733004" string="Supply Transport Ledger" />
+	<String id="1733005" string="Kill Rotcarn and search his body." />
+	<String id="1733006" string="Return the supply transport ledger to Tairun." />
+	<String id="1733007" string="&quot;This explains a lot.&quot;" />
+</StrSheet_Quest>

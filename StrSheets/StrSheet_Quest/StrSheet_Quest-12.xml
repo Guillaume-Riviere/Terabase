@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="225001" string="The Path to Peace" />
+	<String id="225002" string="Reindal should have some ideas that will help." />
+	<String id="225003" string="I'm glad you're here. We need the help." />
+	<String id="225004" string="&quot;I can help.&quot;" />
+	<String id="225005" string="Go to Reindal at Maon's Cabin." />
+</StrSheet_Quest>

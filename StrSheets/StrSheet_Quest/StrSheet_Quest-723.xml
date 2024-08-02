@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3103001" string="Freeing Kaidun" />
+	<String id="3103002" string="The Menhir of Vitality is calling you." />
+	<String id="3103003" string="Brrr...it's cold." />
+	<String id="3103004" string="Touch the stone." />
+	<String id="3103005" string="Touch the Menhir of Vitality." />
+	<String id="3103006" string="&quot;I understand.&quot;" />
+	<String id="3103007" string="Report your vision to Lastair." />
+	<String id="3103008" string="Entrance to the Necromancer Tomb." />
+	<String id="3103009" string="You found the entrance to Thulsa's research facility, the Necromancer Tomb. You can enter using the teleportal." />
+	<String id="3103010" string="Find the entrance to the &lt;A href=&quot;markmap:loc=7012#-28851, -66828, 4295&amp;type=1&amp;name=Necromancer Tomb in the Bloody Depths&quot;>Necromancer Tomb in the Bloody Depths&lt;/A>." />
+	<String id="3103011" string="&quot;I understand.&quot;" />
+	<String id="3103012" string="Join Lastair in Necromancer Tomb.&#10;[You must select Necromancer Tomb (Solo) from the {@LinkCreature:233#1501#Teleportal} to advance this quest.]  " />
+	<String id="3103013" string="&quot;I understand.&quot;" />
+	<String id="3103014" string="Speak with Behrohz." />
+	<String id="3103015" string="Akkhan" />
+	<String id="3103016" string="You found Akkhan. He's badly wounded." />
+	<String id="3103017" string="Find Akkhan, one of Kaidun's soldiers." />
+	<String id="3103018" string="&quot;I understand.&quot;" />
+	<String id="3103019" string="Speak with Akkhan." />
+	<String id="3103020" string="No one can escape the reach of Thulsa!" />
+	<String id="3103021" string="How...how can the power of Thulsa fail?" />
+	<String id="3103022" string="Eliminate Trayzadius in the Warden's Chamber." />
+	<String id="3103023" string="&quot;I understand.&quot;" />
+	<String id="3103024" string="&quot;I understand.&quot;" />
+	<String id="3103025" string="Speak with the freed soldiers." />
+	<String id="3103026" string="&quot;I understand.&quot;" />
+	<String id="3103027" string="Speak with Peskhur." />
+	<String id="3103028" string="Yaaarrrgh!" />
+	<String id="3103029" string="Destroy the necromantic devices with the liquid key and eliminate {@linkcreature:3004#13#Dalmanak} the Glutton." />
+	<String id="3103030" string="Aargh! My body! The pain!" />
+	<String id="3103031" string="Am I...finally free?" />
+	<String id="3103032" string="Take out the {@linkcreature:3004#15#monster that was Kaidun} in the Chapel of Pain to free the general's soul." />
+	<String id="3103033" string="&quot;I understand.&quot;" />
+	<String id="3103034" string="Speak with Kaidun's spirit." />
+	<String id="3103035" string="&quot;I understand.&quot;" />
+	<String id="3103036" string="Go back to Acarum and report what happened to Harule." />
+	<String id="3103037" string="&quot;Thank you.&quot;" />
+	<String id="3103038" string="Return to Allemantheia and deliver Kaidun's last words to Commander Fraya at Allemantheia Headquarters.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter.]" />
+	<String id="3103039" string="Return to Allemantheia and deliver Kaidun's last words to Commander Fraya." />
+</StrSheet_Quest>

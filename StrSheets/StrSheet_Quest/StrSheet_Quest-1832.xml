@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50529001" string="[Apex] Guilt" />
+	<String id="50529002" string="&quot;It was them or me.&quot; " />
+	<String id="50529003" string="Look back on your past failures.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50529004" string="And you call yourself a hero?" />
+	<String id="50529005" string="Speak with your memory and face your Guilt.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+</StrSheet_Quest>

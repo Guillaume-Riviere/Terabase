@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17201001" string="Supplies and Demands" />
+	<String id="17201002" string="&quot;I see.&quot;" />
+	<String id="17201003" string="Use the Airship Platform Teleport Scroll to go to Velika Outskirts and speak with Nari." />
+	<String id="17201004" string="Nari's Note" />
+	<String id="17201005" string="Talk to Jemo." />
+	<String id="17201006" string="&quot;I understand.&quot;" />
+	<String id="17201007" string="&quot;I got this.&quot;" />
+	<String id="17201008" string="Collect emberbloom flowers." />
+	<String id="17201009" string="Deliver the emberblooms to Jemo." />
+	<String id="17201010" string="Emberbloom Oil Crate" />
+	<String id="17201011" string="Deliver the emberbloom oil to Tonas." />
+	<String id="17201012" string="&quot;Okay.&quot;" />
+	<String id="17201013" string="Strong Bough" />
+	<String id="17201014" string="Hunt Leafgarb Ghilliedhus and Rotbough Mycanars." />
+	<String id="17201015" string="Deliver the boughs to Tonas." />
+	<String id="17201016" string="&quot;All right.&quot;" />
+	<String id="17201017" string="Fresh Bear Meat" />
+	<String id="17201018" string="Hunt Starving Velika Bears for their meat." />
+	<String id="17201019" string="Deliver the bear meat to Tonas." />
+	<String id="17201020" string="&quot;You're welcome.&quot;" />
+</StrSheet_Quest>

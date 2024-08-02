@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="640001" string="Operation: Shrine Subjugation" />
+	<String id="640002" string="Eliminate Lokian reavers and mystics." />
+	<String id="640003" string="Now we are in better situations than they are." />
+	<String id="640004" string="Eliminate Lokian reavers and Lokian mystics at Valselok Shrine." />
+	<String id="640005" string="&quot;Glad I could help.&quot;" />
+	<String id="640006" string="Return to Embarr." />
+</StrSheet_Quest>

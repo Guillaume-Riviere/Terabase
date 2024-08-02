@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3033001" string="Tongue Tied" />
+	<String id="3033002" string="Don't let it poison you!" />
+	<String id="3033003" string="Do you have any idea what you've just done?" />
+	<String id="3033004" string="Tentacullar Venom" />
+	<String id="3033005" string="Kill {@linkcreature:30#140#venomous tentacullars} in {@Rgn:30006$$Brightleaf Glade} and get their poison." />
+	<String id="3033006" string="Deliver the poison to the {@linkcreature:230#1018#veteran itinerant miner}." />
+	<String id="3033007" string="&quot;Understood.&quot;" />
+	<String id="3033008" string="" />
+	<String id="3033009" string="Tentacullar Venom" />
+	<String id="3033010" string="Show the poison to the {@linkcreature:230#1017$$novice itinerant miner}, a coworker of the {@linkcreature:230#1018$$veteran itinerant miner}." />
+	<String id="3033011" string="&quot;How do I get into these things?&quot;" />
+	<String id="3033012" string="&quot;For the federation.&quot;" />
+	<String id="3033013" string="Go tell {@linkcreature:230#1065$$Libinienn} what happened to the {@linkcreature:230#1018#veteran itinerant miner}." />
+</StrSheet_Quest>

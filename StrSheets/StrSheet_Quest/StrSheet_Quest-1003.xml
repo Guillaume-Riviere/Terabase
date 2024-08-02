@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4134001" string="Black Claw Warriors" />
+	<String id="4134002" string="These potions don't just influence you—they empower you!" />
+	<String id="4134003" string="They'll pay for their dishonor." />
+	<String id="4134004" string="Keltaria" />
+	<String id="4134005" string="Mind Control Potion" />
+	<String id="4134006" string="Take the potion to Karba at Emissary Point." />
+	<String id="4134007" string="&quot;I'll do it.&quot;" />
+	<String id="4134008" string="Warrior's Token" />
+	<String id="4134009" string="Kill Black Claw tribe fighters and take their warrior tokens." />
+	<String id="4134010" string="Take the warrior tokens to Karba at Emissary Point." />
+	<String id="4134011" string="&quot;I'm glad I could help.&quot;" />
+</StrSheet_Quest>

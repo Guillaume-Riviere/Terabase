@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1326001" string="Mana out of Mudmen" />
+	<String id="1326002" string="Mark creatures on your map by clicking their names in the quest log." />
+	<String id="1326003" string="Your assistance is appreciated." />
+	<String id="1326004" string="Mana Crystal" />
+	<String id="1326005" string="Collect mana crystals from the sporewalkers around the Tower Base." />
+	<String id="1326006" string="Deliver the crystals to Jirash." />
+	<String id="1326007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

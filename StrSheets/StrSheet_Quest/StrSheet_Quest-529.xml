@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2122001" string="Checking the Movement of the Kulkaris" />
+	<String id="2122002" string="Be careful! I've got soldiers dropping like flies." />
+	<String id="2122003" string="Perhaps it's been too quiet..." />
+	<String id="2122004" string="&quot;Interesting.&quot;" />
+	<String id="2122005" string="Find Hebbin." />
+</StrSheet_Quest>

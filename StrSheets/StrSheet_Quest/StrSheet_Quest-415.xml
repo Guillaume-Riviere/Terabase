@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1536001" string="Nothing to Bury" />
+	<String id="1536002" string="Time to set them free." />
+	<String id="1536003" string="For the federation." />
+	<String id="1536004" string="Service Amulet" />
+	<String id="1536005" string="Kill mutant recruits on the road to Pora Elinu and retrieve their service amulets." />
+	<String id="1536006" string="Deliver the service amulets to Amallen at Camp Retribution." />
+	<String id="1536007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

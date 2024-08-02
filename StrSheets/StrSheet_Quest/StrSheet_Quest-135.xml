@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="622001" string="Ore, Really?" />
+	<String id="622002" string="When I get that {@RawItem:206808}, I'll be in business." />
+	<String id="622003" string="This is a big help. Thanks." />
+	<String id="622004" string="&quot;For the federation!&quot;" />
+	<String id="622005" string="Collect {@RawItem:206808}." />
+	<String id="622006" string="Deliver the {@RawItem:206808} to Delaile at Two Oaks Ranch." />
+</StrSheet_Quest>

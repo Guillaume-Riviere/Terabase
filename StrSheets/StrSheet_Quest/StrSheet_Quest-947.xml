@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3934001" string="Paths of the Dead" />
+	<String id="3934002" string="Report to Janash when you've found them." />
+	<String id="3934003" string="Pity we meet under these circumstances." />
+	<String id="3934004" string="&quot;Rest well, my friend.&quot;" />
+	<String id="3934005" string="Find the missing villagers." />
+	<String id="3934006" string="&quot;Be at peace.&quot;" />
+	<String id="3934007" string="Find the dreadfang's victims." />
+	<String id="3934008" string="&quot;I'm sorry I couldn't do more.&quot;" />
+	<String id="3934009" string="Report to Janash." />
+</StrSheet_Quest>

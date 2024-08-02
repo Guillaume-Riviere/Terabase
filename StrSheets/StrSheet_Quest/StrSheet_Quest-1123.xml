@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4803001" string="War Veteran" />
+	<String id="4803002" string="&quot;Who's here?&quot;" />
+	<String id="4803003" string="&quot;I'll check it out.&quot;" />
+	<String id="4803004" string="&quot;What's that song?&quot;" />
+	<String id="4803005" string="Where the Song Came From" />
+	<String id="4803006" string="Omeros is singing a poem. " />
+	<String id="4803007" string="Approach Omeros. " />
+	<String id="4803008" string="&quot;I understand.&quot;" />
+	<String id="4803009" string="Ask Omeros what the song is about. " />
+	<String id="4803010" string="&quot;Thanks.&quot;" />
+	<String id="4803011" string="Talk to Verikam at Sanctuary of Illumination. " />
+	<String id="4803012" string="Receive the letter." />
+	<String id="4803013" string="Talk to Dougal." />
+	<String id="4803014" string="Read Tamur's letter." />
+	<String id="4803015" string="Tamur is asking for help. Speak with Garm." />
+	<String id="4803016" string="&quot;Thanks.&quot;" />
+	<String id="4803017" string="Tell Rhodos that you've been dispatched to the war." />
+	<String id="4803018" string="&quot;Let's go.&quot;" />
+	<String id="4803019" string="Show Tamur's letter to Garm." />
+	<String id="4803020" string="&quot;Right. Okay.&quot;" />
+	<String id="4803021" string="&quot;I understand.&quot;" />
+	<String id="4803022" string="Head to the {@Rgn:48001$$Khanovar Front} and speak with {@linkcreature:248#2003#Wilza} at {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="4803023" string="&quot;I understand.&quot;" />
+	<String id="4803024" string="Talk with Scout {@linkcreature:78#1010#Riavata} at {@Rgn:78001$$Zulfikar Fortress} about the situation along the Khanovar Front." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48872001" string="(Guild) Suppression Orders: Malgarios" />
+	<String id="48872002" string="Proof of Kill: Malgarios" />
+	<String id="48872003" string="&quot;For the federation!&quot;" />
+	<String id="48872004" string="Defeat Malgarios in Sinestral Manor.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="48872005" string="Report to the nearest guild quest reward coordinator." />
+</StrSheet_Quest>

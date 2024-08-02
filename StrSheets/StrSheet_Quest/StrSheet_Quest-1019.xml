@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4225001" string="Poison for Poison" />
+	<String id="4225002" string="We need that fungus to cure the venom." />
+	<String id="4225003" string="I'll start working on an antidote at once." />
+	<String id="4225004" string="&quot;Thank you.&quot;" />
+	<String id="4225005" string="Gather adderfungus from the corridors around the Ecdysi Atrium." />
+	<String id="4225006" string="Return to Odrun at the Ecdysi Atrium." />
+</StrSheet_Quest>

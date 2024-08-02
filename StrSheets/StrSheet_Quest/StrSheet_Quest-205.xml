@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="839001" string="Show Your Work" />
+	<String id="839002" string="Deliver this to Karina at once!" />
+	<String id="839003" string="You've got more than just my attention." />
+	<String id="839004" string="Karina" />
+	<String id="839005" string="Scouting Report" />
+	<String id="839006" string="Report to Karina at Avenger Outpost." />
+	<String id="839007" string="&quot;Good luck!&quot;" />
+</StrSheet_Quest>

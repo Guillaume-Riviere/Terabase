@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60415001" string="The Pause that Refreshes" />
+	<String id="60415002" string="Now I'll have time to compound those potions!" />
+	<String id="60415003" string="Now, what was I doing again?" />
+	<String id="60415004" string="&quot;Okay. Must be good tea.&quot;" />
+	<String id="60415005" string="Find {@LinkCreature:230#3002#Ersilla}." />
+	<String id="60415006" string="Collect flower seeds." />
+	<String id="60415007" string="Find {@LinkCreature:230#3013#bellflowers} in the {@Rgn:30009$$Fallen Shrine Site} and collect their seeds." />
+	<String id="60415008" string="Collect flower seeds." />
+	<String id="60415009" string="Find {@LinkCreature:230#3014#silver bellflowers} and collect their seeds." />
+	<String id="60415010" string="Collect flower seeds." />
+	<String id="60415011" string="Find {@LinkCreature:230#3015#primroses} and collect their seeds." />
+	<String id="60415012" string="&quot;I doubt it.&quot;" />
+	<String id="60415013" string="Deliver the flower seeds to {@LinkCreature:230#3002#Ersilla}." />
+	<String id="60415014" string="Deliver the flower seeds to {@LinkCreature:230#3002#Ersilla}." />
+</StrSheet_Quest>

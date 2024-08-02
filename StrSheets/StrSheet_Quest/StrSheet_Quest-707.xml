@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3048001" string="Oshar's Biggest Secret" />
+	<String id="3048002" string="Hee hee hee...&#10;Make sure Deresk knows how sorry I am." />
+	<String id="3048003" string="Ha ha!&#10;Transformed by the very human magic you looked down upon, Deresk!" />
+	<String id="3048004" string="&quot;Perhaps.&quot;" />
+	<String id="3048005" string="Meet {@linkcreature:230#1100$$Deresk}." />
+	<String id="3048006" string="&quot;Uh oh.&quot;" />
+	<String id="3048007" string="Talk to transformed {@linkcreature:230#1056$$Deresk}." />
+	<String id="3048008" string="&quot;For the federation.&quot;" />
+	<String id="3048009" string="Report back to {@linkcreature:230#1036$$Filine}." />
+</StrSheet_Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60419001" string="Peaceful Warriors" />
+	<String id="60419002" string="&quot;That actually sounds good.&quot;" />
+	<String id="60419003" string="Visit {@LinkCreature:71#3001#Arisel} in {@Rgn:71001$$Bastion}." />
+</StrSheet_Quest>

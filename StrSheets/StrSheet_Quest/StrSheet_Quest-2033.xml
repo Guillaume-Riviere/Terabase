@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60519001" string="All For One, Am I Right?" />
+	<String id="60519002" string="&quot;I'll talk to her.&quot;" />
+	<String id="60519003" string="" />
+	<String id="60519004" string="" />
+	<String id="60519005" string="Talk to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60519006" string="&quot;I'll do my best.&quot;" />
+	<String id="60519007" string="Proof of Kill: Juggernauts" />
+	<String id="60519008" string="Thin out {@LinkCreature:9#1400#azarel's juggernauts} in {@Rgn:9002$$Azarel's Labyrinth} and deliver the proof to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60519009" string="" />
+	<String id="60519010" string="&quot;I hope this helps.&quot;" />
+	<String id="60519011" string="Proof of Kill: Stalkers" />
+	<String id="60519012" string="Hunt {@LinkCreature:9#1410#labyrinthine stalkers} in {@Rgn:9002$$Azarel's Labyrinth} and deliver the proof to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60519013" string="" />
+	<String id="60519014" string="&quot;I hope this helps.&quot;" />
+	<String id="60519015" string="&quot;Good luck.&quot;" />
+	<String id="60519016" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

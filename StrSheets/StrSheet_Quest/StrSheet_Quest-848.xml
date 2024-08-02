@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3534001" string="You'll Be a Dentist" />
+	<String id="3534002" string="I hate those things." />
+	<String id="3534003" string="Now, on to the real reason we're here." />
+	<String id="3534004" string="Imp's Tooth" />
+	<String id="3534005" string="Kill feisty ebon imps in Deathgorge and gather their teeth." />
+	<String id="3534006" string="Report to Viel at Jagged Crest." />
+	<String id="3534007" string="&quot;Save me a necklace.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2127001" string="Holy Statue" />
+	<String id="2127002" string="The relics must be retrieved!" />
+	<String id="2127003" string="Now we can proceed with our research! Wonderful!" />
+	<String id="2127004" string="Holy Statue" />
+	<String id="2127005" string="Kill the Crag Stalkers to the west of the Desert Research Station. Retrieve the holy statues." />
+	<String id="2127006" string="Deliver the statues to Liska at the Desert Research Station." />
+	<String id="2127007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

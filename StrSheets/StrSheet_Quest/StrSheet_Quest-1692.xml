@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18362001" string="[Event] Underworld Veteran" />
+	<String id="18362002" string="&quot;Here you are.&quot;" />
+	<String id="18362003" string="Combine 50 [Event] Underworld Nightmare Shards to obtain an [Event] Underworld Nightmare Fragment." />
+	<String id="18362004" string="Go to [Champion] Kaia." />
+</StrSheet_Quest>

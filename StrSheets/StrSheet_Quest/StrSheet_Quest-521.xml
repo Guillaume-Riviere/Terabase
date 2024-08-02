@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2033001" string="A Token Effort" />
+	<String id="2033002" string="Victory for Valkyon!" />
+	<String id="2033003" string="Well done." />
+	<String id="2033004" string="Fighter's Scrip" />
+	<String id="2033005" string="Kill the Lokian reapers, devan outriders, and assassins in the Halls of Utterdark and collect their tokens." />
+	<String id="2033006" string="Take the scrip to Kurbain in the northern part of the Halls of Utterdark." />
+	<String id="2033007" string="&quot;It's an honor to serve.&quot;" />
+</StrSheet_Quest>

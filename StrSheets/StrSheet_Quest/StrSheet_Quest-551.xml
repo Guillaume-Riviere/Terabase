@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2170001" string="(Guild) Suppression Orders: Crag Stalkers" />
+	<String id="2170002" string="Proof of Kill: Crag Stalker Deaths" />
+	<String id="2170003" string="&quot;For the federation!&quot;" />
+	<String id="2170004" string="Kill the crag stalkers throughout Basilisk Crag." />
+	<String id="2170005" string="Report to Kayina in Chebika." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5092001" string="No Problem Too Big" />
+	<String id="5092002" string="Proof of Kill: Argon Behemoths" />
+	<String id="5092003" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="5092004" string="Kill argon behemoths throughout {@Rgn:50001}." />
+	<String id="5092005" string="Report to {@LinkCreature:250#1009}." />
+</StrSheet_Quest>

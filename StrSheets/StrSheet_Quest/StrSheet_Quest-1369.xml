@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5628001" string="Get the Word Out" />
+	<String id="5628002" string="We've got to reclaim the roads." />
+	<String id="5628003" string="Victory for Valkyon." />
+	<String id="5628004" string="Clear the road north for a runner from Blackspring Camp." />
+	<String id="5628005" string="&quot;Every bit helps.&quot;" />
+	<String id="5628006" string="Inform Finbarr you've cleared the road." />
+</StrSheet_Quest>

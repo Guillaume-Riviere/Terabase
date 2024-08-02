@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18105001" string="Little Lost Lambs" />
+	<String id="18105002" string="&quot;I can help you, if you're ready to go.&quot;" />
+	<String id="18105003" string="Speak to the scared researcher." />
+	<String id="18105004" string="&quot;You can count on me.&quot;" />
+	<String id="18105005" string="Thank you! I have to report Hagand that I have returned. Will you please go and console my friend Rogan that I've returned safe and sound?" />
+	<String id="18105006" string="Escort a researcher to Qeldar Station." />
+	<String id="18105007" string="&quot;I'm happy to help.&quot;" />
+	<String id="18105008" string="Talk to Rogand." />
+</StrSheet_Quest>

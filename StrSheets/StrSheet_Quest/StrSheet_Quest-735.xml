@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3132001" string="The Gulas' Secret Treasure" />
+	<String id="3132002" string="No, no, X doesn't mark the spot. I used circles instead." />
+	<String id="3132003" string="I love the anticipation before opening a treasure chest." />
+	<String id="3132004" string="Take the chest." />
+	<String id="3132005" string="Search for the frozen chest around the shipwreck, Batia's Hulk, east of Frostclaw Lake." />
+	<String id="3132006" string="Bosun's Old Key" />
+	<String id="3132007" string="Obtain keys from the drowned gula bosuns around Frostclaw Lake." />
+	<String id="3132008" string="Deliver the keys and chest to Tantan." />
+	<String id="3132009" string="&quot;What's inside?&quot;" />
+	<String id="3132010" string="&quot;I'll take it!&quot;" />
+	<String id="3132011" string="The chest is open. Speak to Tantan again." />
+	<String id="3132012" string="Tantan" />
+	<String id="3132013" string="Mysterious Map" />
+	<String id="3132014" string="Find Yasper at the Beacon Point Garrison." />
+	<String id="3132015" string="&quot;Thank you!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4892001" string="Size Matters Not" />
+	<String id="4892002" string="Proof of Kill: Argon Battle Leaders" />
+	<String id="4892003" string="&quot;You're welcome.&quot;" />
+	<String id="4892004" string="Kill gilgash guardians and akalath devastators along the Khanovar Front." />
+	<String id="4892005" string="Report to {@LinkCreature:248#1002}." />
+</StrSheet_Quest>

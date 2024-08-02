@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800110001" string="Clean up the Lake of Tears" />
+	<String id="800110002" string="[Lake of Tears] Defeat the conspirators and their allies." />
+	<String id="800110003" string="Rebel Army" />
+	<String id="800110004" string="Claim your reward!" />
+</StrSheet_Quest>

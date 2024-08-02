@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2439001" string="Guarding the Ruins" />
+	<String id="2439002" string="They're not good, but their mana is." />
+	<String id="2439003" string="An orb is an orb is an orb." />
+	<String id="2439004" string="Eldritch Heart" />
+	<String id="2439005" string="Collect eldritch hearts from eldritch masters and skullcleavers guarding the Storst Ruins." />
+	<String id="2439006" string="Bring the eldritch hearts to Loseith at Torrent Outpost." />
+	<String id="2439007" string="&quot;Have a heart.&quot;" />
+	<String id="2439008" string="&quot;At your service.&quot;" />
+	<String id="2439009" string="Bring the eldritch hearts to Elsine at Torrent Outpost." />
+</StrSheet_Quest>

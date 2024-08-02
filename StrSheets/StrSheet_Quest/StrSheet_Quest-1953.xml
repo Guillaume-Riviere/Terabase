@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60103001" string="The Dog Whimperer" />
+	<String id="60103002" string="This jerky might help with the dogs." />
+	<String id="60103003" string="I have the cutest sweaters for them, too." />
+	<String id="60103004" string="" />
+	<String id="60103005" string="" />
+	<String id="60103006" string="" />
+	<String id="60103007" string="" />
+	<String id="60103008" string="Speak with {@LinkCreature:77#3002#Paruru}." />
+	<String id="60103009" string="&quot;I'll do my best.&quot;" />
+	<String id="60103010" string="&quot;There's a nice doggy.&quot;" />
+	<String id="60103011" string="Use the smoked jerky to lure {@LinkCreature:77#3015#Sweetie} home." />
+	<String id="60103012" string="&quot;There's a nice doggy.&quot;" />
+	<String id="60103013" string="Use the smoked jerky to lure {@LinkCreature:77#3017#Sweetie} home." />
+	<String id="60103014" string="&quot;There's a nice doggy.&quot;" />
+	<String id="60103015" string="Use the smoked jerky to lure {@LinkCreature:77#3018#Sweetie} home." />
+	<String id="60103016" string="&quot;There's a nice doggy.&quot;" />
+	<String id="60103017" string="Use the smoked jerky to lure {@LinkCreature:77#3019#Sweetie} home." />
+	<String id="60103018" string="" />
+	<String id="60103019" string="" />
+	<String id="60103020" string="" />
+	<String id="60103021" string="" />
+	<String id="60103022" string="" />
+	<String id="60103023" string="" />
+	<String id="60103024" string="Speak with {@LinkCreature:77#3002#Paruru}." />
+	<String id="60103025" string="&quot;You're welcome.&quot;" />
+	<String id="60103026" string="&quot;Want some smoked meat? There's plenty more at home.&quot;" />
+	<String id="60103027" string="Use the smoked jerky to lure {@LinkCreature:245#3517#Prince} home." />
+	<String id="60103028" string="&quot;Want some smoked meat? There's plenty more at home.&quot;" />
+	<String id="60103029" string="Use the smoked jerky to lure {@LinkCreature:245#3518#Prince} home." />
+	<String id="60103030" string="&quot;Want some smoked meat? There's plenty more at home.&quot;" />
+	<String id="60103031" string="Use the smoked jerky to lure {@LinkCreature:245#3519#Prince} home." />
+	<String id="60103032" string="&quot;Want some smoked meat? There's plenty more at home.&quot;" />
+	<String id="60103033" string="Use the smoked jerky to lure {@LinkCreature:247#3515#Prince} home." />
+	<String id="60103034" string="&quot;Want some smoked meat? There's plenty more at home.&quot;" />
+	<String id="60103035" string="Use the smoked jerky to lure {@LinkCreature:247#3516#Prince} home." />
+	<String id="60103036" string="&quot;Want some smoked meat? There's plenty more at home.&quot;" />
+	<String id="60103037" string="Use the smoked jerky to lure {@LinkCreature:247#3517#Prince} home." />
+	<String id="60103038" string="&quot;Just keep an eye on your pets.&quot;" />
+	<String id="60103039" string="Report back to {@LinkCreature:77#3002#Paruru}." />
+</StrSheet_Quest>

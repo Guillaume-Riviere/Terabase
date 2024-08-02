@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="42524001" string="Balder's Final Test" />
+	<String id="42524002" string="Break jars until you release the dimensional mirror, and then enter the Room of Relics and destroy {@LinkCreature:425#8005}.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="42524003" string="&quot;Smashing.&quot;" />
+	<String id="42524004" string="Return to the {@LinkCreature:425#10004#dimensional mirror}.&lt;BR>(Only normal mode will advance quests.)" />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800066001" string="Clean up the Bloodblades" />
+	<String id="800066002" string="[Mount Tyrannas] Clear out the Bloodblade mercenary camp." />
+	<String id="800066003" string="Mercenaries" />
+	<String id="800066004" string="Claim your reward!" />
+</StrSheet_Quest>

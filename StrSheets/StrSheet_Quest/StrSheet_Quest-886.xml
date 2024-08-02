@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3702001" string="Fragment of Hope" />
+	<String id="3702002" string="We must save Muhrak!" />
+	<String id="3702003" string="&quot;I understand.&quot;" />
+	<String id="3702004" string="Striktryssir's Horn" />
+	<String id="3702005" string="Obtain {@LinkCreature:38#45#Striktryssir}'s Horn at Barbtail Coulee." />
+	<String id="3702006" string="Bring Striktryssir's Horn to {@LinkCreature:238#1100#Torsten}, near the pyramid at Thunder Hold." />
+	<String id="3702007" string="Go to the top of the pyramid." />
+	<String id="3702008" string="The relic fragment grants you its power!" />
+	<String id="3702009" string="Go to the top of the pyramid on the right at Thunder Hold, then absorb the relic fragment's power." />
+	<String id="3702010" string="Grigelt's Wrath" />
+	<String id="3702011" string="Obtain {@LinkCreature:35#1000#Grigelt}'s Wrath at Deathgorge." />
+	<String id="3702012" string="Bring Grigelt's wrath to Torsten, near the altar in Deathgorge." />
+	<String id="3702013" string="Go to the top of the altar." />
+	<String id="3702014" string="Behold the relic fragment's power!" />
+	<String id="3702015" string="Go to Deathgorge and bring the relic fragment to the altar to release its power." />
+	<String id="3702016" string="&quot;Right. Okay.&quot;" />
+	<String id="3702017" string="Go back to the altar and speak with Torsten again." />
+	<String id="3702018" string="&quot;I'm ready! Do it!&quot;" />
+	<String id="3702019" string="Go to Torsten, near the teleportal in Blood Valley." />
+	<String id="3702020" string="Jester's Villa" />
+	<String id="3702021" string="You sense the presence of Killian, God of Terror, nearby..." />
+	<String id="3702022" string="{@LinkCreature:236#1006#Teleport} in, eliminate Killian, and retrieve the last relic fragment." />
+	<String id="3702023" string="Eliminate Killian's pet, Snaharzim." />
+	<String id="3702024" string="&quot;Thanks.&quot;" />
+	<String id="3702025" string="Go back to Commander Fraya at Allemantheia Headquarters and tell her you have three of the four relic fragments.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter the Allemantheia Headquarters.]" />
+	<String id="3702026" string="&quot;I'll find the blacksmith.&quot;" />
+	<String id="3702027" string="Go back to Kaiator and tell Kaia at Kaiator Command Center that you have three relic fragments and a substitute for the fourth.&#10;[Speak with {@linkcreature:84#1088#Yunari} to enter.]" />
+	<String id="3702028" string="&quot;Thank you.&quot;" />
+	<String id="3702029" string="Go to Tamur at Kaiator Command Center and receive information of the legendary blacksmith." />
+</StrSheet_Quest>

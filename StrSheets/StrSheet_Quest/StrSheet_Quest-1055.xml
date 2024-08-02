@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4532001" string="Tuwangis in the Mist" />
+	<String id="4532002" string="Just stun them, yes?" />
+	<String id="4532003" string="I couldn't have done it without you." />
+	<String id="4532004" string="Capture {@creature:45#4002$$argonomorph tuwangis} east of {@Rgn:45009$$Camp Insanity}." />
+	<String id="4532005" string="&quot;It was nothing, really.&quot;" />
+	<String id="4532006" string="Collect stunned tuwangis." />
+	<String id="4532007" string="Return to Gelta with the unconscious tuwangis." />
+</StrSheet_Quest>

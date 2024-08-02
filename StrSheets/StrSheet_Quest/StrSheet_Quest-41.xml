@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="306001" string="Sinister Ritual" />
+	<String id="306002" string="&quot;You can count on me.&quot;" />
+	<String id="306003" string="Devan Encampment Entrance" />
+	<String id="306004" string="Somebody came!" />
+	<String id="306005" string="Go to the place where Secret Agents managed to infiltrate." />
+	<String id="306006" string="&quot;I'll handle it.&quot;" />
+	<String id="306007" string="Talk to Kamia." />
+	<String id="306008" string="Destroy vortex shards in the Devan Encampment." />
+	<String id="306009" string="&quot;Yes. Let's do this!&quot;" />
+	<String id="306010" string="Talk to Kamia, hidden in the bush." />
+	<String id="306011" string="Devan Raiders" />
+	<String id="306012" string="Clear the escape route by defeating devas." />
+	<String id="306013" string="&quot;We'll have to look for her.&quot;" />
+	<String id="306014" string="Talk to Kamia." />
+</StrSheet_Quest>

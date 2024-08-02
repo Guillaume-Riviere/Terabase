@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1045001" string="Nuggets of Joy" />
+	<String id="1045002" string="Oh, my head aches like the aftermath of a week in Castanica!" />
+	<String id="1045003" string="Oh, thank you so much!" />
+	<String id="1045004" string="&quot;It was a joy.&quot;" />
+	<String id="1045005" string="Gather iridescent nuggets from Dagon's Tomb." />
+	<String id="1045006" string="Deliver the iridescent nuggets to Hapna at the Coastal Overwatch." />
+</StrSheet_Quest>

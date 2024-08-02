@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3924001" string="Peel More Spiders" />
+	<String id="3924002" string="Yet more arachnen shells?" />
+	<String id="3924003" string="Ex-shell-ent! Ha!" />
+	<String id="3924004" string="Hard Shells" />
+	<String id="3924005" string="Hunt arachnen {@linkcreature:39#130#matriarchs} and {@linkcreature:39#131#matrons} in the central lair. Collect their shells." />
+	<String id="3924006" string="Deliver the shells to Paicha at Roughneck Outpost." />
+	<String id="3924007" string="&quot;As requested.&quot;" />
+</StrSheet_Quest>

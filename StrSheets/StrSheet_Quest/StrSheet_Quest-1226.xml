@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5091001" string="Applying Pressure" />
+	<String id="5091002" string="Proof of Kill: Argons" />
+	<String id="5091003" string="&quot;My pleasure.&quot;" />
+	<String id="5091004" string="Kill argons throughout {@Rgn:50001}." />
+	<String id="5091005" string="Report to {@LinkCreature:250#1007}." />
+</StrSheet_Quest>

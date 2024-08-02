@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="434001" string="Reinforcing the Ramparts" />
+	<String id="434002" string="Flamewood's darned useful stuff. Tough, too." />
+	<String id="434003" string="This will do nicely! Looks hot." />
+	<String id="434004" string="Flamewood" />
+	<String id="434005" string="Collect flamewood from the raging arbosks." />
+	<String id="434006" string="Deliver the flamewood to Grennis." />
+	<String id="434007" string="&quot;Just doing my duty.&quot;" />
+</StrSheet_Quest>

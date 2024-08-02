@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800114001" string="Clean up Essenian Crest" />
+	<String id="800114002" string="[Essenian Crest] Defeat the Brogar Legion and their allies." />
+	<String id="800114003" string="Brogar Legion" />
+	<String id="800114004" string="Claim your reward!" />
+</StrSheet_Quest>

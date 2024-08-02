@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5082001" string="Suppression Orders: Argon Behemoths" />
+	<String id="5082002" string="Proof of Kill: Argon Behemoths" />
+	<String id="5082003" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="5082004" string="Kill argon behemoths throughout {@Rgn:50001}." />
+	<String id="5082005" string="Report to Ayva." />
+</StrSheet_Quest>

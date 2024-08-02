@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="632001" string="Bloody Comradeship" />
+	<String id="632002" string="I just want them dead." />
+	<String id="632003" string="Revenge is actually pretty sweet." />
+	<String id="632004" string="Gutrend's Head" />
+	<String id="632005" string="Eliminate Gutrend kulkaris and clawtamers in the east and bring back their heads." />
+	<String id="632006" string="Deliver the heads to Dakona." />
+	<String id="632007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

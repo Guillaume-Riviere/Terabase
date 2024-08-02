@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5632001" string="A Murder of Mekonaris" />
+	<String id="5632002" string="Put those mekonaris down!" />
+	<String id="5632003" string="Now maybe we can stop this ritual." />
+	<String id="5632004" string="Warding Amulet" />
+	<String id="5632005" string="Clear the mekonari templars from the Raven Altar and take their warding amulets." />
+	<String id="5632006" string="Bring the amulets to Arshak." />
+	<String id="5632007" string="&quot;Victory for Valkyon.&quot;" />
+</StrSheet_Quest>

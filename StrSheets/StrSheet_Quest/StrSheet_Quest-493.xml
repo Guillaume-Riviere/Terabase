@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1924001" string="This Heart of Stone" />
+	<String id="1924002" string="Don't stand around..." />
+	<String id="1924003" string="What in the...?" />
+	<String id="1924004" string="Stone Heart" />
+	<String id="1924005" string="Collect stone hearts from wild and crazed harvester golems in Thrallfield." />
+	<String id="1924006" string="Deliver stone hearts to Bural at Velik's Vigil." />
+	<String id="1924007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4826001" string="I'm Going to Try Science" />
+	<String id="4826002" string="There's supposed to be an argon-shattering kaboom." />
+	<String id="4826003" string="Thanks for your help!" />
+	<String id="4826004" string="(Quarter 1 Choice Text)" />
+	<String id="4826005" string="(Quarter 2 Choice Text)" />
+	<String id="4826006" string="(Quarter 3 Choice Text)" />
+	<String id="4826007" string="Talk to {@LinkCreature:248#1017} at the {@Rgn:48004}." />
+	<String id="4826008" string="&quot;I'll do what I can.&quot;" />
+	<String id="4826009" string="Receive argon flux modulator." />
+	<String id="4826010" string="Talk to {@LinkCreature:248#1017} at the {@Rgn:48004}." />
+	<String id="4826011" string="Use the argon flux modulator on {@LinkCreature:48#5#hulrap bashers} near {@Rgn:48008}." />
+	<String id="4826012" string="&quot;Keep trying!&quot;" />
+	<String id="4826013" string="Report your findings to {@LinkCreature:248#1017}." />
+	<String id="4826014" string="Receive argon flux modulator." />
+	<String id="4826015" string="Talk to {@LinkCreature:248#1017} at {@Rgn:48004}." />
+	<String id="4826016" string="Use the argon flux modulator on {@LinkCreature:48#5#hulrap bashers} near {@Rgn:48008}." />
+	<String id="4826017" string="&quot;Don't worry, you'll get there.&quot;" />
+	<String id="4826018" string="Report your findings to {@LinkCreature:248#1017}." />
+	<String id="4826019" string="Receive argon flux modulator." />
+	<String id="4826020" string="Talk to {@LinkCreature:248#1017} at the {@Rgn:48004}." />
+	<String id="4826021" string="Use the argon flux modulator on {@LinkCreature:48#5#hulrap bashers} near {@Rgn:48008}." />
+	<String id="4826022" string="&quot;Yeah, that didn't work.&quot;" />
+	<String id="4826023" string="Report your findings to {@LinkCreature:248#1017}." />
+</StrSheet_Quest>

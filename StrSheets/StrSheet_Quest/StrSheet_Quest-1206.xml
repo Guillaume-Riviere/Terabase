@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5025001" string="Bloody Harvest" />
+	<String id="5025002" string="&quot;I'm on it.&quot;" />
+	<String id="5025003" string="Find {@LinkCreature:250#1016} in the {@Rgn:50004}." />
+	<String id="5025004" string="Iteris Shard" />
+	<String id="5025005" string="Kill the suulvir harvesters in the {@Rgn:50004} and take their iteris shards." />
+	<String id="5025006" string="Report back to {@LinkCreature:250#1016}." />
+	<String id="5025007" string="&quot;You're welcome.&quot;" />
+</StrSheet_Quest>

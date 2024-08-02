@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3622001" string="All Demand, No Supply" />
+	<String id="3622002" string="Don't make me send someone looking for you, too." />
+	<String id="3622003" string="We don't have all the facts here." />
+	<String id="3622004" string="Supply Carriage from Allemantheia" />
+	<String id="3622005" string="You've found the destroyed supply carriage." />
+	<String id="3622006" string="Search for the supply carriage north of Runner's Watch." />
+	<String id="3622007" string="Take the weapon." />
+	<String id="3622008" string="Investigate the destroyed carriage." />
+	<String id="3622009" string="Ishuram" />
+	<String id="3622010" string="Trace of Ambush" />
+	<String id="3622011" string="Report to Tarnan at Runner's Watch." />
+	<String id="3622012" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

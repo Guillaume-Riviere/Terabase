@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3425001" string="Repo Work" />
+	<String id="3425002" string="Without those shards, this place would die." />
+	<String id="3425003" string="You've saved us." />
+	<String id="3425004" string="Recover the stolen shard packs." />
+	<String id="3425005" string="Speak with Dena at Bleakrock." />
+	<String id="3425006" string="Shard Packs" />
+	<String id="3425007" string="The federation is finished in Frost Reach!" />
+	<String id="3425008" string="Blast and damnation!" />
+	<String id="3425009" string="These shards belong to the Junaidar!" />
+	<String id="3425010" string="Those shards are mine!" />
+	<String id="3425011" string="Take the shards, if you can!" />
+	<String id="3425012" string="So...cold." />
+	<String id="3425013" string="Slay the Junaidar forces along Ice Trail and recover the shard packs." />
+	<String id="3425014" string="Return the shard packs to Dena in Bleakrock." />
+	<String id="3425015" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

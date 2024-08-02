@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800119001" string="Clean up the Citadel of Torment" />
+	<String id="800119002" string="[Citadel of Torment] Defeat the Blood Guards and their allies." />
+	<String id="800119003" string="Blood Guard Invaders" />
+	<String id="800119004" string="Claim your reward!" />
+</StrSheet_Quest>

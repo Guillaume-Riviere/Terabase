@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4126001" string="A Symbol of Peace" />
+	<String id="4126002" string="It's possible that there'll be peace, but it depends on them!" />
+	<String id="4126003" string="The only way forward is peace." />
+	<String id="4126004" string="Karba the Revered" />
+	<String id="4126005" string="Peace Statue" />
+	<String id="4126006" string="Bring the statue to Talkad at Experior Outpost." />
+	<String id="4126007" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

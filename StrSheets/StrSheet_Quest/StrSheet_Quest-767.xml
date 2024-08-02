@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3236001" string="Deserting Fighters" />
+	<String id="3236002" string="The templars are the backbone of Kaidun's army." />
+	<String id="3236003" string="I admire their dedication, but they chose the wrong side." />
+	<String id="3236004" string="Kill Sihran templars on the Gloomy Tundra." />
+	<String id="3236005" string="&quot;For Valkyon!&quot;" />
+	<String id="3236006" string="Report to Warda." />
+</StrSheet_Quest>

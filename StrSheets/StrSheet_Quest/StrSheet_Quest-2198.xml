@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200323001" string="Internal Maneuver II" />
+	<String id="200323002" string="&quot;I'm going.&quot;" />
+	<String id="200323003" string="" />
+	<String id="200323004" string="" />
+	<String id="200323005" string="" />
+	<String id="200323006" string="" />
+	<String id="200323007" string="Defeat Draakon Watchers." />
+	<String id="200323008" string="&quot;What is it?&quot;" />
+	<String id="200323009" string="Speak with Aheaf." />
+</StrSheet_Quest>

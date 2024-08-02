@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5223001" string="Keep the Scouts Away" />
+	<String id="5223002" string="Hit them hard!" />
+	<String id="5223003" string="Thanks for clearing the passage. Great job!" />
+	<String id="5223004" string="Eliminate Thulsa's Scout Brigade, camped out nearby." />
+	<String id="5223005" string="&quot;For the federation!&quot;" />
+	<String id="5223006" string="Report to Dorice at the Remote Lodge." />
+</StrSheet_Quest>

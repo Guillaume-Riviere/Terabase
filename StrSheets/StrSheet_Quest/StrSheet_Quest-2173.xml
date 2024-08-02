@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200021001" string="Research Activity II" />
+	<String id="200021002" string="&quot;If you say so.&quot;" />
+	<String id="200021003" string="" />
+	<String id="200021004" string="" />
+	<String id="200021005" string="Thorny Stinger" />
+	<String id="200021006" string="Hunt Spiny Eyestalkers and Thorny Eyestalkers and collect their thorny stingers." />
+	<String id="200021007" string="Speak with Amarre." />
+	<String id="200021008" string="&quot;Okay.&quot;" />
+</StrSheet_Quest>

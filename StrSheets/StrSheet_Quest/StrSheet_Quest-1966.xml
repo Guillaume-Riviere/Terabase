@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60116001" string="Bad Doggies" />
+	<String id="60116002" string="They leave the house so often. I may run out of smoked jerky. Hahaha." />
+	<String id="60116003" string="Here is the smoked jerky {@LinkCreature:77#3008#Varaz} gave me. Try it! It's really good!" />
+	<String id="60116004" string="" />
+	<String id="60116005" string="" />
+	<String id="60116006" string="" />
+	<String id="60116007" string="" />
+	<String id="60116008" string="Speak with {@LinkCreature:77#3002#Paruru} at {@Rgn:77001$$Pathfinder Post}." />
+	<String id="60116009" string="&quot;I'll do my best.&quot;" />
+	<String id="60116010" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116011" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:77#3015}, and lure it home with smoked jerky." />
+	<String id="60116012" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116013" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:77#3017}, and lure it home with smoked jerky." />
+	<String id="60116014" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116015" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:77#3018}, and lure it home with smoked jerky." />
+	<String id="60116016" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116017" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:77#3019}, and lure it home with smoked jerky." />
+	<String id="60116018" string="" />
+	<String id="60116019" string="" />
+	<String id="60116020" string="" />
+	<String id="60116021" string="" />
+	<String id="60116022" string="" />
+	<String id="60116023" string="" />
+	<String id="60116024" string="Speak with {@LinkCreature:77#3002#Paruru}." />
+	<String id="60116025" string="&quot;That's a punishment?&quot;" />
+	<String id="60116026" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116027" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:245#3517}, and lure it home with smoked jerky." />
+	<String id="60116028" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116029" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:245#3518}, and lure it home with smoked jerky." />
+	<String id="60116030" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116031" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:245#3519}, and lure it home with smoked jerky." />
+	<String id="60116032" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116033" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:245#3517}, and lure it home with smoked jerky." />
+	<String id="60116034" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116035" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:245#3518}, and lure it home with smoked jerky." />
+	<String id="60116036" string="&quot;Let's get you home to Paruru.&quot;" />
+	<String id="60116037" string="Find {@LinkCreature:77#3002#Paruru}'s missing dog, {@LinkCreature:245#3519}, and lure it home with smoked jerky." />
+	<String id="60116038" string="&quot;Yeah, you're hard-core.&quot;" />
+	<String id="60116039" string="Return to {@LinkCreature:77#3002#Paruru}." />
+</StrSheet_Quest>

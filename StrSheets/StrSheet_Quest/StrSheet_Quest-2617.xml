@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999897001" string="Clean up the Mingor Cliffs" />
+	<String id="999897002" string="[Arx Umbra] Eliminate demokron experiments in the Mingor Cliffs." />
+	<String id="999897003" string="Failed Experiments and Corroded Experiments" />
+	<String id="999897004" string="Claim your reward!" />
+</StrSheet_Quest>

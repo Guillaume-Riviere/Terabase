@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3034001" string="A Clean Slate" />
+	<String id="3034002" string="Go at once!" />
+	<String id="3034003" string="The restoration will be quite a puzzle." />
+	<String id="3034004" string="&quot;I'm on it.&quot;" />
+	<String id="3034005" string="Check in with {@linkcreature:230#1019$$Sestena}." />
+	<String id="3034006" string="&quot;For the federation.&quot;" />
+	<String id="3034007" string="[{@Rgn:30009$$Upper Archive}]&#10;Collect stone boxes all over the {@Rgn:30009$$Upper Archive}." />
+	<String id="3034008" string="Deliver the archive tablets to {@linkcreature:230#1026$$Meterok}." />
+</StrSheet_Quest>

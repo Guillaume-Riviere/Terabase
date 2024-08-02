@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61903001" string="[Fishing] Let's Sell Some Fish" />
+	<String id="61903002" string="&quot;Let's go.&quot;" />
+	<String id="61903003" string="Speak with {@linkcreature:62#9904#Cordi} and teleport to the Lake of Tears Fishery." />
+	<String id="61903004" string="&quot;Yes&quot;" />
+	<String id="61903005" string="&quot;Sure thing.&quot;" />
+	<String id="61903006" string="Go to {@linkcreature:223#9904#Lushan} at the Lake of Tears Fishery." />
+	<String id="61903007" string="&quot;Let's do this!&quot;" />
+	<String id="61903008" string="Craft and deliver a Fish Crate I to {@linkcreature:223#9904#Lushan}." />
+	<String id="61903009" string="" />
+	<String id="61903010" string="&quot;No problem.&quot;" />
+	<String id="61903011" string="Go to {@linkcreature:223#9905#Genn} at the Lake of Tears Fishery." />
+	<String id="61903012" string="Lake of Tears" />
+	<String id="61903013" string="Seek out Genn." />
+	<String id="61903014" string="" />
+	<String id="61903015" string="Complete delivery to Genn." />
+	<String id="61903016" string="&quot;I got it.&quot;" />
+	<String id="61903017" string="Go to {@linkcreature:223#9925#Genn} at the Lake of Tears Fishery." />
+	<String id="61903018" string="&quot;I got it.&quot;" />
+	<String id="61903019" string="Go to {@linkcreature:223#9904#Lushan} at the Lake of Tears Fishery." />
+</StrSheet_Quest>

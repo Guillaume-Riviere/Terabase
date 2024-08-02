@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1330001" string="Horned Horrors" />
+	<String id="1330002" string="They say these hit a little harder, but I haven't noticed..." />
+	<String id="1330003" string="Well done, rookie!" />
+	<String id="1330004" string="Kill horned ghilliedhus west of the Tower Base." />
+	<String id="1330005" string="&quot;For the federation!&quot;" />
+	<String id="1330006" string="Check in with Taras." />
+</StrSheet_Quest>

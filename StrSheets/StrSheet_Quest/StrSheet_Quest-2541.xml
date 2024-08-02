@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999701001" string="Hunt Brutal Basilisks" />
+	<String id="999701002" string="[Island of Dawn] Hunt brutal basilisks and collect basilisk eyes." />
+	<String id="999701003" string="Basilisk Eye" />
+	<String id="999701004" string="Claim your reward!" />
+</StrSheet_Quest>

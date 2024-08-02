@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4527001" string="Shooting from the High Ground" />
+	<String id="4527002" string="Climb down east of {@Rgn:45006$$Field Base Reciprocity}. It's a shortcut." />
+	<String id="4527003" string="Welcome to {@Rgn:45008$$Field Base Valiance}." />
+	<String id="4527004" string="Kill {@creature:45#3001#argonomorph Lokian archers} around {@Rgn:45006$$Field Base Reciprocity}." />
+	<String id="4527005" string="&quot;I'm at your service.&quot;" />
+	<String id="4527006" string="Report to {@Creature:245#1005$$Lahiah} at {@Rgn:45008$$Field Base Valiance}." />
+</StrSheet_Quest>

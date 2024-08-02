@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4571001" string="(Guild) Suppression Orders: Lesser Argons" />
+	<String id="4571002" string="We don't want them building up their forces." />
+	<String id="4571003" string="Well fought, soldier." />
+	<String id="4571004" string="Proof of Kill: Lesser Argons" />
+	<String id="4571005" string="&quot;For the federation!&quot;" />
+	<String id="4571006" string="Kill {@LinkCreature:45#1001#kelba chargers}, {@LinkCreature:45#1002#argonomorph dwarf orcans}, and {@LinkCreature:45#1003#argonomorph runekeepers} near the {@Rgn:45002$$Tower Approach}." />
+	<String id="4571007" string="Report to Laetesha at Pathfinder Post." />
+</StrSheet_Quest>

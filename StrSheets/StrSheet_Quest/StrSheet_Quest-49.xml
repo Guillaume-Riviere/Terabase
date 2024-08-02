@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="330001" string="The Spore of the Problem" />
+	<String id="330002" string="I never cared much for sporewalkers anyway." />
+	<String id="330003" string="These will help a lot." />
+	<String id="330004" string="Agitated Spore" />
+	<String id="330005" string="Collect spores from the agitated sporewalkers wandering around Berzerad Cemetery." />
+	<String id="330006" string="Return the spores to Esedran." />
+	<String id="330007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59909001" string="For Anya's Sake" />
+	<String id="59909002" string="Receive the note." />
+	<String id="59909003" string="Go to Dougal who’s waiting for you." />
+	<String id="59909004" string="Read Captain Emun’s note.&lt;br>&lt;br>Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open up the Inventory window and right-click the note to read it." />
+	<String id="59909005" string="&quot;Okay.&quot;" />
+	<String id="59909006" string="Show Emun’s Letter to Dougal." />
+	<String id="59909007" string="&quot;Okay.&quot;" />
+	<String id="59909008" string="Talk to Bertell, who is tending the injured soldiers." />
+</StrSheet_Quest>

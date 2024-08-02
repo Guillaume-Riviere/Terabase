@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4794001" string="Frontier Justice" />
+	<String id="4794002" string="We have to keep reducing their numbers." />
+	<String id="4794003" string="Proof of Kill: Argonomorphs" />
+	<String id="4794004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4794005" string="Hunt {@LinkCreature:47#4002#argonomorph naga wyrmlings}, {@LinkCreature:47#1002#argonomorph Tirkai grizzlies}, and {@LinkCreature:47#4003#argonomorph gula smashers} on the {@Rgn:47005$$Argon Frontier}." />
+	<String id="4794006" string="See {@Creature:247#1005$$Chenace} at {@Rgn:47007$$Blightroar Research Station} for your reward." />
+</StrSheet_Quest>

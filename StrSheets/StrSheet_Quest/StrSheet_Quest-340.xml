@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1315001" string="Putting the Pieces Together" />
+	<String id="1315002" string="Kill Kugai the Mighty and search his corpse for clues." />
+	<String id="1315003" string="Kugai the Mighty" />
+	<String id="1315004" string="Strange Scroll" />
+	<String id="1315005" string="Take the strange scroll back to Sersine." />
+	<String id="1315006" string="&quot;You can count on me!&quot;" />
+</StrSheet_Quest>

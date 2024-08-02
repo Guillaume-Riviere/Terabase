@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1825001" string="Merchant King Dethroned" />
+	<String id="1825002" string="I'll be big in commerce!" />
+	<String id="1825003" string="What a waste..." />
+	<String id="1825004" string="&quot;Looks like the kulkari took it.&quot;" />
+	<String id="1825005" string="Find the caravan carrying Bumon's goods near Mags Kurata." />
+	<String id="1825006" string="Blue Spice" />
+	<String id="1825007" string="Recover Bumon's shipment from the {@linkcreature:18#3#Desert Fire ragers} and {@linkcreature:18#5#Desert Fire miners} near Mags Kurata." />
+	<String id="1825008" string="Take the blue spice to Bumon at Camp Marrakeen." />
+	<String id="1825009" string="&quot;No problem.&quot;" />
+</StrSheet_Quest>

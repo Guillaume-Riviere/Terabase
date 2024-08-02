@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="300201001" string="Jumpstart: Sinestral Manor (Solo)" />
+	<String id="300201002" string="Defeat the final boss in Sinestral Manor (Solo).&lt;br>&lt;br>Sinestral Manor (Solo) can be entered through a teleportal. To teleport to the entry use Vanguard Initiative UI." />
+	<String id="300201003" string="&quot;Thanks.&quot;" />
+	<String id="300201004" string="Talk to Uriela in Velika." />
+</StrSheet_Quest>

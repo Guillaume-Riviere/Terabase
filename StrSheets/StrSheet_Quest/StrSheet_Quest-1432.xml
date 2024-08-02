@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6327001" string="You'd Make a Wonderful Dread Pirate" />
+	<String id="6327002" string="&quot;Avast, indeed.&quot;" />
+	<String id="6327003" string="Collect materials for a pirate hat." />
+	<String id="6327004" string="Deliver the materials to Meruma." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999888001" string="Collect Taproots" />
+	<String id="999888002" string="[Harvest Festival] Collect taproots for tuwangi lunchboxes." />
+	<String id="999888003" string="Taproot" />
+	<String id="999888004" string="Claim your reward!" />
+	<String id="999888005" string="Taproot" />
+</StrSheet_Quest>

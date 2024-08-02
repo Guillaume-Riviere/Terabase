@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55018001" string="[Event] Victory in Fraywind Canyon" />
+	<String id="55018002" string="Win 3 battles in Fraywind Canyon" />
+	<String id="55018003" string="" />
+	<String id="55018004" string="&quot;Thank you.&quot;" />
+	<String id="55018005" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

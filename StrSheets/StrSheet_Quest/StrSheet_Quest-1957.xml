@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60107001" string="Research Vectors" />
+	<String id="60107002" string="I wonder what he's studying now?" />
+	<String id="60107003" string="Incredible. Who'd have thought?" />
+	<String id="60107004" string="" />
+	<String id="60107005" string="" />
+	<String id="60107006" string="" />
+	<String id="60107007" string="Speak with {@LinkCreature:247#3510#Toray} at {@Rgn:47007$$Blightroar Research Station}." />
+	<String id="60107008" string="&quot;No problem.&quot;" />
+	<String id="60107009" string="Resonant Shard" />
+	<String id="60107010" string="Kill contaminated wendigos near {@Rgn:47007$$Blightroar Research Station} and collect their shards." />
+	<String id="60107011" string="Deliver the shards to {@LinkCreature:247#3510#Toray}." />
+	<String id="60107012" string="&quot;Good luck.&quot;" />
+	<String id="60107013" string="Augmented Hide" />
+	<String id="60107014" string="Kill argonomorph nagas near {@Rgn:47007$$Blightroar Research Station} and collect their hides." />
+	<String id="60107015" string="Deliver the hides to {@LinkCreature:247#3510#Toray}." />
+	<String id="60107016" string="&quot;Glad I could help.&quot;" />
+	<String id="60107017" string="Contaminated Yolk" />
+	<String id="60107018" string="Find the contaminated naga eggs in the well near {@Rgn:47007$$Blightroar Research Station} and collect the yolks." />
+	<String id="60107019" string="Deliver the yolks to {@LinkCreature:247#3510#Toray}." />
+	<String id="60107020" string="&quot;I wish you much success.&quot;" />
+</StrSheet_Quest>

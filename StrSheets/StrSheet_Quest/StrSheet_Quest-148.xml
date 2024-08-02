@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="636001" string="Small Revenge" />
+	<String id="636002" string="I'll try about anything to be rid of those Gutrends." />
+	<String id="636003" string="Gutrends will find nothing to eat here. They'll have to move elsewhere." />
+	<String id="636004" string="Eliminate hillwalker warthogs and scavenging bears, the Gutrends' main source of food" />
+	<String id="636005" string="&quot;I did my duty.&quot;" />
+	<String id="636006" string="Speak with Mirim." />
+</StrSheet_Quest>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200101001" string="[Important] Help from a Stranger" />
+	<String id="200101002" string="&quot;Okay.&quot;" />
+	<String id="200101003" string="Speak with Elleon at the Platform - Rogash's Garden." />
+	<String id="200101004" string="&quot;I'll have a word with Elleon.&quot;" />
+	<String id="200101005" string="Speak with Titus at the Platform - Exodor Farmlands." />
+	<String id="200101006" string="&quot;Yes, let's talk about this together.&quot; " />
+	<String id="200101007" string="Speak with Elleon at the Platform - Exodor Farmlands." />
+	<String id="200101008" string="&quot;I'm ready.&quot; " />
+	<String id="200101009" string="Speak with Elleon." />
+	<String id="200101010" string="&quot;Let's hurry.&quot;" />
+	<String id="200101011" string="Speak with Elleon on the path to Azura Farm." />
+	<String id="200101012" string="Jelena's Scouting Area" />
+	<String id="200101013" string="You've found Jelena." />
+	<String id="200101014" string="Search Jelena's Scouting Area with Elleon." />
+	<String id="200101015" string="&quot;I'm on it.&quot;" />
+	<String id="200101016" string="Speak with Jelena." />
+	<String id="200101017" string="Camp Nagas" />
+	<String id="200101018" string="Defeat the Camp Nagas." />
+	<String id="200101019" string="Camp where the villagers are captured" />
+	<String id="200101020" string="You see the captured villagers." />
+	<String id="200101021" string="Go to where the villagers are captured." />
+	<String id="200101022" string="&quot;Interesting.&quot; " />
+	<String id="200101023" string="Speak with the villagers in the Naga Camp." />
+	<String id="200101024" string="&quot;Okay.&quot;" />
+	<String id="200101025" string="Speak with the captured naga in the Naga Camp." />
+	<String id="200101026" string="Free Exodor Base Southeast Passage" />
+	<String id="200101027" string="Go to the Free Exodor Base Southeast Passage." />
+	<String id="200101028" string="Activate the Signal Device and send a signal to the naga." />
+	<String id="200101029" string="Follow Regarn." />
+	<String id="200101030" string="Vogzu is at the Square." />
+	<String id="200101031" string="Follow Regarn inside the Free Exodor Base." />
+	<String id="200101032" string="Cave Square" />
+	<String id="200101033" string="You arrived at the Cave Square." />
+	<String id="200101034" string="You found Elleon and Jelena." />
+	<String id="200101035" string="&quot;Give me more details.&quot;" />
+	<String id="200101036" string="Speak with Vogzu in the square." />
+	<String id="200101037" string="&quot;Thanks.&quot;" />
+	<String id="200101038" string="Speak with Vogzu in the square." />
+	<String id="200101039" string="&quot;Having allies is good.&quot; " />
+	<String id="200101040" string="Speak with Elleon in the Free Exodor Base." />
+</StrSheet_Quest>

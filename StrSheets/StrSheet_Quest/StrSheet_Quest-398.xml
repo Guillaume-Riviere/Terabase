@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1510001" string="Blood Will Always Tell" />
+	<String id="1510002" string="&quot;You have my word.&quot;" />
+	<String id="1510003" string="Report to Prefect Paka in Popolion." />
+	<String id="1510004" string="&quot;I'm on my way.&quot;" />
+	<String id="1510005" string="Use the Teleportal to go to the Runicar Research Camp." />
+	<String id="1510006" string="&quot;I'll take care of him.&quot;" />
+	<String id="1510007" string="Find Jelena and secure her help.&#10;[Use {@LinkCreature:67#1022#Teleportal} to go to Runicar Research Camp.]" />
+	<String id="1510008" string="Surdek's Notes" />
+	<String id="1510009" string="Find and kill Surdek." />
+	<String id="1510010" string="Return the notes to Jelena." />
+	<String id="1510011" string="&quot;Right. Okay.&quot;" />
+</StrSheet_Quest>

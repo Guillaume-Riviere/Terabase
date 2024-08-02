@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60204001" string="Fighting on an Empty Stomach" />
+	<String id="60204002" string="Soldiers can't fight without food. We need those rations in the field." />
+	<String id="60204003" string="The Shariar thank you!" />
+	<String id="60204004" string="&quot;I'll get these to the fighters.&quot;" />
+	<String id="60204005" string="Meet {@LinkCreature:78#3008#Artur} at {@Rgn:78001$$Zulfikar Fortress} and collect the emergency rations." />
+	<String id="60204006" string="" />
+	<String id="60204007" string="" />
+	<String id="60204008" string="Speak with {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60204009" string="&quot;I won't fail you.&quot;" />
+	<String id="60204010" string="&quot;Some food to keep you in the fight!&quot;" />
+	<String id="60204011" string="Deliver the emergency rations to Dooran at {@Rgn:48006$$Carnage Vale}." />
+	<String id="60204012" string="&quot;Some food to keep you in the fight!&quot;" />
+	<String id="60204013" string="Deliver the emergency rations to Kasadana at {@Rgn:48006$$Carnage Vale}." />
+	<String id="60204014" string="&quot;Some food to keep you in the fight!&quot;" />
+	<String id="60204015" string="Deliver the emergency rations to Neiran at {@Rgn:48006$$Carnage Vale}." />
+	<String id="60204016" string="&quot;Some food to keep you in the fight!&quot;" />
+	<String id="60204017" string="Deliver the emergency rations to Vatra at {@Rgn:48006$$Carnage Vale}." />
+	<String id="60204018" string="&quot;Some food to keep you in the fight!&quot;" />
+	<String id="60204019" string="Deliver the emergency rations to {@LinkCreature:248#3010#Orveras} in {@Rgn:48003$$Peril Cavern}." />
+	<String id="60204020" string="&quot;Some food to keep you in the fight!&quot;" />
+	<String id="60204021" string="Deliver the emergency rations to Akamak in {@Rgn:48003$$Peril Cavern}." />
+	<String id="60204022" string="&quot;Glad I could help.&quot;" />
+	<String id="60204023" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+</StrSheet_Quest>

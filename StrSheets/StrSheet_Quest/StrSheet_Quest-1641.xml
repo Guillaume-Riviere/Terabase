@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18108001" string="Non Compos Mentis" />
+	<String id="18108002" string="&quot;I'll take care of it.&quot;" />
+	<String id="18108003" string="Talk to Remam." />
+	<String id="18108004" string="Collect Composure Philter." />
+	<String id="18108005" string="Check Medicine Chests for Mind Recovery Potions." />
+	<String id="18108006" string="&quot;I'm still looking.&quot;" />
+	<String id="18108007" string="Give Composure Philter to First Baraka Survivor." />
+	<String id="18108008" string="&quot;You have my word.&quot;" />
+	<String id="18108009" string="Give Composure Philter to Second Baraka Survivor." />
+	<String id="18108010" string="&quot;We're coming for you, archdeva!&quot;" />
+	<String id="18108011" string="Talk to Suspicious Soldier." />
+	<String id="18108012" string="&quot;What are friends for?&quot;" />
+	<String id="18108013" string="Inform Remam of the archdeva disguised as a Highwatch soldier." />
+</StrSheet_Quest>

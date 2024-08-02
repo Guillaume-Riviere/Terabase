@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200001001" string="[Important] The Way to Exodor" />
+	<String id="200001002" string="&quot;I'll take a look at it.&quot;" />
+	<String id="200001003" string="Speak with Ryshan in Spring Valley." />
+	<String id="200001004" string="Read Amarre's Report. " />
+	<String id="200001005" string="&quot;That's a good idea.&quot; " />
+	<String id="200001006" string="Speak with Ryshan." />
+	<String id="200001007" string="&quot;I'll get them now.&quot; " />
+	<String id="200001008" string="Speak with Amarre in Stronghold of Blood." />
+	<String id="200001009" string="Pheromone" />
+	<String id="200001010" string="Defeat the Mournwings and collect pheromones." />
+	<String id="200001011" string="Deliver the pheromones to Amarre." />
+	<String id="200001012" string="&quot;Let's go.&quot;" />
+	<String id="200001013" string="Use the Pheromone Concentrate in your inventory at {@LinkCreature:27#1184#the hill nearby Stronghold of Blood Camp Delta} to lure the Murderwings." />
+	<String id="200001014" string="Capture the first Murderwing." />
+	<String id="200001015" string="Capture a Murderwing." />
+	<String id="200001016" string="Capture the second Murderwing." />
+	<String id="200001017" string="Capture another Murderwing." />
+	<String id="200001018" string="Capture the third Murderwing." />
+	<String id="200001019" string="Capture another Murderwing." />
+	<String id="200001020" string="&quot;Okay.&quot;" />
+	<String id="200001021" string="Deliver the Murderwings to Amarre." />
+	<String id="200001022" string="Transport the Murderwings to {@LinkCreature:182#6074#Parthian Overwatch} and release them near Ryshan." />
+	<String id="200001023" string="&quot;Me? Of course, it's me.&quot;" />
+	<String id="200001024" string="Speak with Ryshan." />
+	<String id="200001025" string="&quot;He's the best in the land.&quot;" />
+	<String id="200001026" string="Speak with Amarre." />
+	<String id="200001027" string="&quot;Let's go.&quot;" />
+	<String id="200001028" string="Speak with Titus." />
+	<String id="200001029" string="Exodor" />
+	<String id="200001030" string="Speak with Ryshan and ride the Murderwing to Exodor." />
+	<String id="200001031" string="&quot;Let's do so.&quot;" />
+	<String id="200001032" string="Speak with Amarre in Exodor." />
+</StrSheet_Quest>

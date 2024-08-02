@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="641001" string="Justicars in the Shrine" />
+	<String id="641002" string="We have to get rid of those justicars first." />
+	<String id="641003" string="Now that the justicars are gone, we can attack more easily." />
+	<String id="641004" string="Eliminate Scion justicars at Valselok Shrine." />
+	<String id="641005" string="&quot;For the federation!&quot;" />
+	<String id="641006" string="Return to Embarr." />
+</StrSheet_Quest>

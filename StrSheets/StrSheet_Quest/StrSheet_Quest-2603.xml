@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999876001" string="Hunt Parthian Bowmen" />
+	<String id="999876002" string="[Spring Valley] Kill Parthian bowmen and collect their talismans." />
+	<String id="999876003" string="Mysterious Talisman" />
+	<String id="999876004" string="Claim your reward!" />
+</StrSheet_Quest>

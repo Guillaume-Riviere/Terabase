@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4821001" string="Tactical Bacon" />
+	<String id="4821002" string="An army travels on its stomach." />
+	<String id="4821003" string="Their meat is so succulent!" />
+	<String id="4821004" string="Pigling Meat" />
+	<String id="4821005" string="Kill young piglings near {@Rgn:78001} and collect their meat." />
+	<String id="4821006" string="Deliver the meat to {@LinkCreature:78#1009} in {@Rgn:78001}." />
+	<String id="4821007" string="&quot;Save some for me.&quot;" />
+</StrSheet_Quest>

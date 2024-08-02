@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5501001" string="The Gauntlet Thrown Down" />
+	<String id="5501002" string="Move quickly! Don't let Kanmur's death be in vain!" />
+	<String id="5501003" string="&quot;Right. Okay.&quot;" />
+	<String id="5501004" string="Report to Commander Fraya at Allemantheia Headquarters and speak with her about Thulsa's movements.&#10;[Speak to {@linkcreature:72#1103#Arshadh} to enter the Allemantheia Headquarters.]" />
+	<String id="5501005" string="&quot;I'd be honored.&quot;" />
+	<String id="5501006" string="Take a {@linkcreature:72#1012#pegasus} to Kaiator. Find Commander Tamur and ask for Kaiator's aid in stopping Thulsa." />
+	<String id="5501007" string="Forgeheart" />
+	<String id="5501008" string="You've arrived at the Plaza of Triumph!" />
+	<String id="5501009" string="Follow Commander Tamur to the Plaza of Triumph." />
+	<String id="5501010" string="&quot;I'll take care of it.&quot;" />
+	<String id="5501011" string="The situation has suddenly changed. Go to Adjutant Daakem and inquire what you should do now." />
+	<String id="5501012" string="&quot;We will!&quot;" />
+	<String id="5501013" string="Take Tamur's news to Ragnar." />
+	<String id="5501014" string="&quot;You're welcome.&quot;" />
+	<String id="5501015" string="Take Tamur's news to Garuk." />
+	<String id="5501016" string="Thanks." />
+	<String id="5501017" string="Tell Karima that you're ready to speak to Tamur." />
+	<String id="5501018" string="&quot;Right. Okay.&quot;" />
+	<String id="5501019" string="Report to Tamur.&#10;[Speak with Karima to visit the Kaiator Headquarters.]" />
+	<String id="5501020" string="Kaia wants to speak with you." />
+	<String id="5501021" string="Speak with Tamur." />
+	<String id="5501022" string="&quot;I understand.&quot;" />
+	<String id="5501023" string="Speak with Kaia." />
+</StrSheet_Quest>

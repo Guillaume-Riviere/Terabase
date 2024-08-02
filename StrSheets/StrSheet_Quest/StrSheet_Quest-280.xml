@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1125001" string="Kellonis's Panacea" />
+	<String id="1125002" string="Your time is much appreciated, kind soldier." />
+	<String id="1125003" string="Thanks to you, I can get to work." />
+	<String id="1125004" string="&quot;Glad to be of service.&quot;" />
+	<String id="1125005" string="Gather pigweed petals from golden pigweed on the West Jagged Coast." />
+	<String id="1125006" string="Deliver pigweed petals to Kellonis in the Jungle Patrol Camp." />
+</StrSheet_Quest>

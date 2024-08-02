@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="570001" string="(Guild) Suppression Orders: Mirelings" />
+	<String id="570002" string="Proof of Kill: Mireling Deaths" />
+	<String id="570003" string="&quot;For the federation!&quot;" />
+	<String id="570004" string="Eliminate the muddy sporewalkers, hungry cullars, and tentacullars around Tuwangi Mire." />
+	<String id="570005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

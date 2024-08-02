@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4724001" string="Supply Chain" />
+	<String id="4724002" string="We need that road open." />
+	<String id="4724003" string="Thanks to you, we'll get our supplies." />
+	<String id="4724004" string="Kill {@creature:47#2001#argonomorph caprin imps} near the {@Rgn:47010$$Argon Power Lattice}." />
+	<String id="4724005" string="&quot;Thank you.&quot;" />
+	<String id="4724006" string="Report to {@creature:247#1001$$Jadora} at {@Rgn:47006$$Field Base Lunacy}." />
+</StrSheet_Quest>

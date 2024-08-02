@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4125001" string="Dead Basilisk Equals Good Basilisk" />
+	<String id="4125002" string="I hate basilisks!" />
+	<String id="4125003" string="What possessed the titans to dream up basilisks?" />
+	<String id="4125004" string="Basilisk Tusks" />
+	<String id="4125005" string="Collect tusks from ravenous basilisks for {@linkcreature:241#1018#Kurak}." />
+	<String id="4125006" string="Collect tusks from ravenous basilisks for {@linkcreature:241#1018#Kurak}." />
+	<String id="4125007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55030001" string="To the Front Lines VI" />
+	<String id="55030002" string="Hunt 10 Brutal Bloodbound Teraliths on the Island of Dawn.&lt;br>&lt;br>(You can teleport directly to a BAM-hunting area via the Vanguard Requests window.)" />
+	<String id="55030003" string="&quot;Thank you!&quot;" />
+	<String id="55030004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

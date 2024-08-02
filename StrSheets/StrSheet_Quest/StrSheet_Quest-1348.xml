@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5572001" string="(Guild) Suppression Orders: Darkquaver Denizens" />
+	<String id="5572002" string="Proof of Kill: Darkquaver Denizens" />
+	<String id="5572003" string="&quot;Always happy to help out.&quot;" />
+	<String id="5572004" string="Eliminate the feystalker sabertooths, Bloodgulper orcans, and unstable mycanars around Ceravin Point." />
+	<String id="5572005" string="Report to Laena at Ceravin Point." />
+</StrSheet_Quest>

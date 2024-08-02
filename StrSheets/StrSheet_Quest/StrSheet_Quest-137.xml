@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="624001" string="Yield to the Sheep" />
+	<String id="624002" string="Blasted noruks..." />
+	<String id="624003" string="Maybe we could send some noruk meat to the refugees." />
+	<String id="624004" string="Hunt grazing noruks around Two Oaks Ranch." />
+	<String id="624005" string="&quot;For the federation!&quot;" />
+	<String id="624006" string="Go back to Furlan at Two Oaks Ranch." />
+</StrSheet_Quest>

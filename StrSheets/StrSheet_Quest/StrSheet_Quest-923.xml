@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3839001" string="Sleeping Giant" />
+	<String id="3839002" string="The giants must not return to power." />
+	<String id="3839003" string="To think there might be more..." />
+	<String id="3839004" string="You prepare your mind." />
+	<String id="3839005" string="Go to the teleportal at the top of the pyramid in Thunder Hold." />
+	<String id="3839006" string="You will not defeat me. I am Giras!" />
+	<String id="3839007" string="For Tithus!" />
+	<String id="3839008" string="Enter the pyramid in Thunder Hold and defeat Giras." />
+	<String id="3839009" string="&quot;One battle at a time.&quot;" />
+	<String id="3839010" string="Return to Jerad at Wyvern Watch." />
+</StrSheet_Quest>

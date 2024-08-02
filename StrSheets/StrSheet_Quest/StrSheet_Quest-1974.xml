@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60206001" string="Swarms of Blue and Black" />
+	<String id="60206002" string="The only good argon's a dead argon." />
+	<String id="60206003" string="You're damned good at killing things, my friend." />
+	<String id="60206004" string="" />
+	<String id="60206005" string="" />
+	<String id="60206006" string="" />
+	<String id="60206007" string="" />
+	<String id="60206008" string="" />
+	<String id="60206009" string="" />
+	<String id="60206010" string="Speak with {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60206011" string="&quot;I'll do my best.&quot;" />
+	<String id="60206012" string="Kill {@LinkCreature:48#15#kelba clawguards} in {@Rgn:48006$$Carnage Vale}." />
+	<String id="60206013" string="Kill {@LinkCreature:48#17#chamas stabbers} in {@Rgn:48006$$Carnage Vale}." />
+	<String id="60206014" string="Kill {@LinkCreature:48#10#athakela hunters} in {@Rgn:48006$$Carnage Vale}." />
+	<String id="60206015" string="Kill {@LinkCreature:48#15#kelba clawguards} in {@Rgn:48006$$Carnage Vale}." />
+	<String id="60206016" string="Kill {@LinkCreature:48#17#chamas stabbers} in {@Rgn:48006$$Carnage Vale}." />
+	<String id="60206017" string="Kill {@LinkCreature:48#12#Zariik cyclopes} in {@Rgn:48006$$Carnage Vale}." />
+	<String id="60206018" string="&quot;Happy to lend a hand.&quot;" />
+	<String id="60206019" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+</StrSheet_Quest>

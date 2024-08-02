@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3230001" string="Cursed Arrows" />
+	<String id="3230002" string="There's something about their archers..." />
+	<String id="3230003" string="These are infused with necromantic magic!" />
+	<String id="3230004" string="Stalker Company Cursed Arrows" />
+	<String id="3230005" string="Here! All the arrows your corpse can hold!" />
+	<String id="3230006" string="Take the arrows of the snipers located in the Bloodblade Mercenary Camp." />
+	<String id="3230007" string="Deliver the arrows to Uzair." />
+	<String id="3230008" string="&quot;Here you are!&quot;" />
+</StrSheet_Quest>

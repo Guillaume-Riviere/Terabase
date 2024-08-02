@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60403001" string="Trying to Be the Shepherd" />
+	<String id="60403002" string="Done talking!" />
+	<String id="60403003" string="Enjoy the day, hero!" />
+	<String id="60403004" string="" />
+	<String id="60403005" string="" />
+	<String id="60403006" string="Find {@LinkCreature:71#3003#Ruma} in {@Rgn:71001$$Bastion}." />
+	<String id="60403007" string="&quot;I'm on it!&quot;" />
+	<String id="60403008" string="Find and herd the sheep." />
+	<String id="60403009" string="Baa! Baa!" />
+	<String id="60403010" string="Herd the {@LinkCreature:71#3016#sheep} to {@LinkCreature:71#3003#Ruma}." />
+	<String id="60403011" string="Find and herd the sheep." />
+	<String id="60403012" string="Baa! Baa!" />
+	<String id="60403013" string="Walk the {@LinkCreature:71#3016#sheep} to Ruma." />
+	<String id="60403014" string="&quot;Thanks. Really, thanks.&quot;" />
+	<String id="60403015" string="Talk to {@LinkCreature:71#3003#Ruma}." />
+</StrSheet_Quest>

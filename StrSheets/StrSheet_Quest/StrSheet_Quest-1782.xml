@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47621001" string="Redistribution of Death" />
+	<String id="47621002" string="We'll impose a death tax on them. Hah!" />
+	<String id="47621003" string="All coins will go to the families of soldiers who died on the battlefield." />
+	<String id="47621004" string="Gold Coin" />
+	<String id="47621005" string="Eliminate Killian's mercenaries in Shriekaal Hall and collect their gold coins.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]" />
+	<String id="47621006" string="Bring the mercenaries' gold coins to Asena at the Furnace Approach." />
+	<String id="47621007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

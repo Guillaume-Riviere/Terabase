@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="310101001" string="[Dungeon - 463] Dawn of the Butterflies" />
+	<String id="310101002" string="&quot;Okay.&quot; " />
+	<String id="310101003" string="Speak with Amarre in Stronghold of Blood Camp Delta." />
+	<String id="310101004" string="&quot;Okay.&quot; " />
+	<String id="310101005" string="Ask Kailey what happened." />
+	<String id="310101006" string="Close the book." />
+	<String id="310101007" string="Read the crystallization Research Journal. " />
+	<String id="310101008" string="&quot;Okay.&quot; " />
+	<String id="310101009" string="Speak with Barurung in Stronghold of Blood Camp Delta." />
+	<String id="310101010" string="&quot;Okay.&quot; " />
+	<String id="310101011" string="Speak with Amarre." />
+	<String id="310101012" string="Entrance" />
+	<String id="310101013" string="You see Mournwings swarming the Stronghold of Blood." />
+	<String id="310101014" string="Go to the Stronghold of Blood Entrance." />
+	<String id="310101015" string="&quot;That's fine.&quot; " />
+	<String id="310101016" string="Speak with Barurung in the Stronghold of Blood Entrance." />
+	<String id="310101017" string="Defeat the Mournwings and clear the entry path to Stronghold of Blood. " />
+	<String id="310101018" string="Abandoned Camp" />
+	<String id="310101019" string="Barurung and Amarre are running to catch up with you." />
+	<String id="310101020" string="Go deeper into the Stronghold of Blood." />
+	<String id="310101021" string="&quot;Let's go.&quot; " />
+	<String id="310101022" string="Speak with Barurung." />
+	<String id="310101023" string="The site of the largest concentration of butterflies" />
+	<String id="310101024" string="Elleon should be here already." />
+	<String id="310101025" string="Go to where the butterflies are gathered." />
+	<String id="310101026" string="&quot;Sounds good.&quot; " />
+	<String id="310101027" string="Speak with Elleon." />
+	<String id="310101028" string="A new location" />
+	<String id="310101029" string="The thorns have a strange aura. What could it be?" />
+	<String id="310101030" string="Go to the place that Elleon discovered." />
+	<String id="310101031" string="&quot;Let's check it out.&quot; " />
+	<String id="310101032" string="Speak with Amarre." />
+	<String id="310101033" string="&quot;You can count on me.&quot; " />
+	<String id="310101034" string="Speak with Elleon." />
+</StrSheet_Quest>

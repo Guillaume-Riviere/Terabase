@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3026001" string="Salve a Rash, Feed a Fever" />
+	<String id="3026002" string="You're both kind and honorable." />
+	<String id="3026003" string="By the gods, I feel better already!" />
+	<String id="3026004" string="&quot;Certainly!&quot;" />
+	<String id="3026005" string="&quot;I'll be back!&quot;" />
+	<String id="3026006" string="Ask {@Creature:230#1007$$Lashinuk} about ghilliedhu pollen." />
+	<String id="3026007" string="&quot;Thanks.&quot;" />
+	<String id="3026008" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7015#-9257.7725,70158.5156,495.8517&amp;type=1&amp;name=moon shadow plants&quot;>moon shadow plants&lt;/A>&lt;/FONT> in {@Rgn:30005$$Seren's Garden}." />
+	<String id="3026009" string="Deliver the moon shadow plants to {@Creature:230#1007$$Lashinuk}." />
+	<String id="3026010" string="" />
+	<String id="3026011" string="Moon Shadow Salve" />
+	<String id="3026012" string="Give the salve to {@linkcreature:230#1006$$Dunav}." />
+	<String id="3026013" string="&quot;Say no more.&quot;" />
+</StrSheet_Quest>

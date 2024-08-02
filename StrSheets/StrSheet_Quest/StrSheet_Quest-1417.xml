@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6050001" string="The Missing Ingredient" />
+	<String id="6050002" string="Hand over the ingredient." />
+	<String id="6050003" string="Find the Missing Ingredient in the TERA Shop!" />
+	<String id="6050004" string="Talk to Ackerly in Lumbertown." />
+</StrSheet_Quest>

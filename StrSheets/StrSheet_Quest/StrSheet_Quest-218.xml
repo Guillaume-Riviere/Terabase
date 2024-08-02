@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="923001" string="Missing Supplies from Velika" />
+	<String id="923002" string="We need those {@RawItem:206819}, fast." />
+	<String id="923003" string="Victory for Valkyon!" />
+	<String id="923004" string="&quot;Happy to be of service.&quot;" />
+	<String id="923005" string="Collect {@RawItem:206819}." />
+	<String id="923006" string="Report to Tryphena at the Relic Hunter Outpost." />
+</StrSheet_Quest>

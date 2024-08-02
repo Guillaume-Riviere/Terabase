@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4935001" string="The Tree of Knowledge" />
+	<String id="4935002" string="I place myself under your protection." />
+	<String id="4935003" string="Such a magnificent tree, despite the argons' corruption." />
+	<String id="4935004" string="&quot;Let's go.&quot;" />
+	<String id="4935005" string="Escort {@LinkCreature:49#1006} to the {@Rgn:49005}." />
+	<String id="4935006" string="&quot;Glad I could help.&quot;" />
+	<String id="4935007" string="Speak with {@LinkCreature:249#1001}." />
+</StrSheet_Quest>

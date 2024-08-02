@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3372001" string="(Guild) Suppression Orders: Rotting Creatures" />
+	<String id="3372002" string="Proof of Kill: Rotting Creatures" />
+	<String id="3372003" string="&quot;For the federation!&quot;" />
+	<String id="3372004" string="Defeat rotting creatures in the Citidel of Torment." />
+	<String id="3372005" string="Report to Alyssa in Acarum." />
+</StrSheet_Quest>

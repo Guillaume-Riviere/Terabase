@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3030001" string="Leshoff's Luxurious Lotion" />
+	<String id="3030002" string="Ghilliedhu tree honey is the secret ingredient. Keep it under your bonnet." />
+	<String id="3030003" string="Once we start production, I'll give you a local franchise!" />
+	<String id="3030004" string="Ghilliedhu Tree Honey" />
+	<String id="3030005" string="Kill {@linkcreature:30#160#azureroot ghilliedhus} in {@Rgn:30006$$Brightleaf Glade} and collect ghilliedhu tree honey." />
+	<String id="3030006" string="Deliver ghilliedhu tree honey to {@linkcreature:230#1016$$Leshoff}." />
+	<String id="3030007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1076001" string="(Guild) Fall of the Naga" />
+	<String id="1076002" string="Proof of Kill: Dagon's Tomb Nagas" />
+	<String id="1076003" string="&quot;For the federation!&quot;" />
+	<String id="1076004" string="Eliminate the nagas guarding Dagon's Tomb." />
+	<String id="1076005" string="Report to the reward coordinator." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="49302001" string="Purging the Plague" />
+	<String id="49302002" string="We must stop Thulsa." />
+	<String id="49302003" string="Enter Akasha's Hall and kill Akasha." />
+	<String id="49302004" string="&quot;I understand.&quot;" />
+	<String id="49302005" string="Speak with Elleon at Akasha's Hideout Entrance." />
+</StrSheet_Quest>

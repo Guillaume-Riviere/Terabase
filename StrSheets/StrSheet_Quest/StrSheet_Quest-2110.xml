@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70205001" string="[Rootstock—Daily] Dish Delivery" />
+	<String id="70205002" string="&quot;What can I do?&quot;" />
+	<String id="70205003" string="Make popped cobseed." />
+	<String id="70205004" string="Make mudroot salad." />
+	<String id="70205005" string="Make grilled pigling." />
+	<String id="70205006" string="Talk to Melsa." />
+	<String id="70205007" string="&quot;I'll help.&quot;" />
+	<String id="70205008" string="&quot;Anytime.&quot;" />
+	<String id="70205009" string="Make popped cobseed. (Melsa has a recipe.)" />
+	<String id="70205010" string="Take the completed dish to Melsa." />
+	<String id="70205011" string="&quot;Anytime.&quot;" />
+	<String id="70205012" string="Make mudroot salad. (Melsa has a recipe.)" />
+	<String id="70205013" string="Take the completed dish to Melsa." />
+	<String id="70205014" string="&quot;Anytime.&quot;" />
+	<String id="70205015" string="Make grilled pigling. (Melsa has a recipe.)" />
+	<String id="70205016" string="Take the completed dish to Melsa." />
+</StrSheet_Quest>

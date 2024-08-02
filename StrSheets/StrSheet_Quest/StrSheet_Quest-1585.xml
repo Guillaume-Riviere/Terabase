@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10114001" string="Disc Delivery" />
+	<String id="10114002" string="&quot;I did what I could.&quot;" />
+	<String id="10114003" string="Create artificer discs for the war effort." />
+	<String id="10114004" string="Bring the discs to Anelle in the Quarantine Zone Research Center." />
+</StrSheet_Quest>

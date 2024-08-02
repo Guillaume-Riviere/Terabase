@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2427001" string="Ancient Relic" />
+	<String id="2427002" string="We're in this together, right?" />
+	<String id="2427003" string="These will turn a profit." />
+	<String id="2427004" string="The pleasure was all mine." />
+	<String id="2427005" string="Scour the central region of Aurum Road and collect ancient relics." />
+	<String id="2427006" string="Return to Elston at the West Watchpost." />
+</StrSheet_Quest>

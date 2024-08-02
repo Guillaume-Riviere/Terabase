@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60408001" string="Sun Worship" />
+	<String id="60408002" string="Done talking!" />
+	<String id="60408003" string="Enough is enough. I'm sick of being hassled by Aris!" />
+	<String id="60408004" string="&quot;Certainly!&quot;" />
+	<String id="60408005" string="Meet {@LinkCreature:230#3001#Semas}." />
+	<String id="60408006" string="Find {@WorkObject:95} in the center of {@Rgn:30007$$Balder's Pavilion} and switch it back on." />
+	<String id="60408007" string="&quot;Wow.&quot;" />
+	<String id="60408008" string="Return to {@LinkCreature:230#3001#Semas}." />
+</StrSheet_Quest>

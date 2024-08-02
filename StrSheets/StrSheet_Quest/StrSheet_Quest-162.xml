@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="705001" string="Scruffy Kumas Herders" />
+	<String id="705002" string="&quot;Sure, I can do that.&quot;" />
+	<String id="705003" string="&quot;Alright.&quot;" />
+	<String id="705004" string="Report to Jodoc in Crescentia." />
+	<String id="705005" string="&quot;Okay.&quot;" />
+	<String id="705006" string="Report to Heroth at Godric's Farm in Celestial Hills." />
+	<String id="705007" string="Eliminate Radat." />
+	<String id="705008" string="&quot;Okay.&quot;" />
+	<String id="705009" string="Report back to Heroth." />
+	<String id="705010" string="&quot;Okay.&quot;" />
+	<String id="705011" string="Find Siria in central Omphalos Plains." />
+	<String id="705012" string="Kumasi Amulet" />
+	<String id="705013" string="Kill Kadas and retrieve his amulet." />
+	<String id="705014" string="Take the amulet to Siria." />
+	<String id="705015" string="&quot;Okay.&quot;" />
+	<String id="705016" string="&quot;So what's next?&quot;" />
+	<String id="705017" string="Investigate the baetyliths in the Omphalos Plains and collect shards for Siria." />
+	<String id="705018" string="Take the shards back to Siria." />
+	<String id="705019" string="&quot;Okay.&quot;" />
+	<String id="705020" string="Speak with Siria." />
+	<String id="705021" string="Investigate the sparking baetyliths in the Omphalos Plains and eliminate their {@LinkObject:45#protectors}." />
+	<String id="705022" string="&quot;Okay.&quot;" />
+	<String id="705023" string="Report back to Siria." />
+	<String id="705024" string="Siria" />
+	<String id="705025" string="Siria's Report" />
+	<String id="705026" string="Report to Mattin at the Sanctum Mysterium." />
+	<String id="705027" string="&quot;My pleasure.&quot;" />
+</StrSheet_Quest>

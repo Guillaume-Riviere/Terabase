@@ -1,0 +1,760 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="244500" string="Cold War Bomber Box" toolTip="A smart box containing a permanent bomber jacket outfit suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244501" string="Arctic Bomber Box" toolTip="A smart box containing a permanent dyeable bomber jacket outfit suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244502" string="Personalized Gym Uniform Gift Box" toolTip="Thanks for sending gifts to your friends! This smart box contains a permanent, account-bound gym uniform suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244503" string="Chromaplasm Weapon Skin Gift Box" toolTip="Thanks for sending gifts to your friends! This smart box contains a permanent, account-bound chromaplasm weapon skin suitable for your class.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244504" string="Party Dress Smart Box" toolTip="A smart box containing a permanent silver party dress (for female characters) suitable for your race.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244505" string="Cocktail Dress Smart Box" toolTip="A smart box containing a permanent golden party dress (for female characters) suitable for your race.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244506" string="Disco Dress Smart Box" toolTip="A smart box containing a permanent dyeable party dress (for female characters) suitable for your race.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244507" string="Glacial Dragon Armor Smart Box" toolTip="A smart box containing an elemental armor costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244508" string="Volcanic Dragon Armor Smart Box" toolTip="A smart box containing an elemental armor costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244509" string="Obsidian Dragon Armor Smart Box" toolTip="A smart box containing an elemental armor costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244510" string="Winter Coat Box" toolTip="Fashion knows no seasonal boundaries.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Arctic Bomber Box (2%)&lt;BR>Earmuffs (2%)&lt;BR>Modular Fashion Forward Chest (3–4) (5%)&lt;BR>Modular Fish Dish Chest (3–4) (10%)&lt;BR>Modular Noctenium Nation Chest (3–4) (40%)&lt;BR>Modular Potion Notion Chest (3–4) (25%)&lt;BR>Modular Pet Treat Chest (3–4) (5%)&lt;BR>Modular Cut Gem Chest (3–4) (6%)&lt;BR>Modular Great Bait Chest (3–4) (5%)" />
+	<String id="244511" string="Personalized Gym Uniform Loot Box" toolTip="Remember to put your name on all your clothes. For reasons.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Personalized Workout Bag (2%)&lt;BR>Modular Fashion Forward Chest (3–4) (5%)&lt;BR>Modular Fish Dish Chest (3–4) (10%)&lt;BR>Modular Noctenium Nation Chest (3–4) (40%)&lt;BR>Modular Potion Notion Chest (3–4) (25%)&lt;BR>Modular Pet Treat Chest (3–4) (5%)&lt;BR>Modular Cut Gem Chest (3–4) (8%)&lt;BR>Modular Great Bait Chest (3–4) (5%)" />
+	<String id="244512" string="Chromaplasm Weapon Skin Loot Box" toolTip="Chromaplasm! It's what's for dinner.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Chromaplasm Smart Box (1.5%)&lt;BR>Modular Fashion Forward Chest (3–4) (5%)&lt;BR>Modular Fish Dish Chest (3–4) (10%)&lt;BR>Modular Noctenium Nation Chest (3–4) (40%)&lt;BR>Modular Potion Notion Chest (3–4) (25.5%)&lt;BR>Modular Pet Treat Chest (3–4) (5%)&lt;BR>Modular Cut Gem Chest (3–4) (8%)&lt;BR>Modular Great Bait Chest (3–4) (5%)" />
+	<String id="244513" string="Skycycle Loot Box" toolTip="Vroom. VROOOM!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Skycycle MHZ (2%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (8%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="244514" string="Jetcycle Loot Box" toolTip="Vroom. VROOOM!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Jetcycle MHZ (2%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (8%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="244515" string="Ladies' Night Loot Box" toolTip="Have you heard the good news? It's Lady's Night!&lt;BR>&lt;BR>Guaranteed to contain a Disco Ball. Also contains one of the following items:&lt;BR>Disco Dress Smart Box (1.5%)&lt;BR>Modular Fashion Forward Chest (3–4) (5%)&lt;BR>Modular Fish Dish Chest (3–4) (10%)&lt;BR>Modular Noctenium Nation Chest (3–4) (40%)&lt;BR>Modular Potion Notion Chest (3–4) (25.5%)&lt;BR>Modular Pet Treat Chest (3–4) (5%)&lt;BR>Modular Cut Gem Chest (3–4) (8%)&lt;BR>Modular Great Bait Chest (3–4) (5%)" />
+	<String id="244516" string="Volcanic Armor Loot Box" toolTip="These costume pieces are burning up, yet somehow still safe to handle.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Volcanic Dragon Helmet (1%)&lt;BR>Volcanic Dragon Armor Smart Box (0.5%)&lt;BR>Volcanic Dragon Wings (1%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (7.5%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="244517" string="Volcanic Weapon Loot Box" toolTip="These weapon skins are burning up, yet somehow still safe to handle.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Volcanic Dragon Weapon Skin Smart Box (2%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (8%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="244518" string="Angora Air Loot Box" toolTip="Run, Rabbit, Run. And FLY!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Angora (2%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (8%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="244519" string="Lilac Harelines Loot Box" toolTip="Run, Rabbit, Run. And FLY!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Lilac (2%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (8%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="244520" string="Dummy Smart Box20" toolTip="Dummy Smart Box" />
+	<String id="244521" string="Dummy Smart Box19" toolTip="Dummy Smart Box" />
+	<String id="244522" string="Dummy Smart Box18" toolTip="Dummy Smart Box" />
+	<String id="244523" string="Dummy Smart Box17" toolTip="Dummy Smart Box" />
+	<String id="244524" string="Dummy Smart Box16" toolTip="Dummy Smart Box" />
+	<String id="244525" string="Dummy Smart Box15" toolTip="Dummy Smart Box" />
+	<String id="244526" string="Dummy Smart Box14" toolTip="Dummy Smart Box" />
+	<String id="244527" string="Dummy Smart Box13" toolTip="Dummy Smart Box" />
+	<String id="244528" string="Dummy Smart Box12" toolTip="Dummy Smart Box" />
+	<String id="244529" string="Dummy Smart Box11" toolTip="Dummy Smart Box" />
+	<String id="244530" string="Dummy Gacha20" toolTip="Dummy Gacha" />
+	<String id="244531" string="Dummy Gacha19" toolTip="Dummy Gacha" />
+	<String id="244532" string="Dummy Gacha18" toolTip="Dummy Gacha" />
+	<String id="244533" string="Dummy Gacha17" toolTip="Dummy Gacha" />
+	<String id="244534" string="Dummy Gacha16" toolTip="Dummy Gacha" />
+	<String id="244535" string="Dummy Gacha15" toolTip="Dummy Gacha" />
+	<String id="244536" string="Dummy Gacha14" toolTip="Dummy Gacha" />
+	<String id="244537" string="Dummy Gacha13" toolTip="Dummy Gacha" />
+	<String id="244538" string="Dummy Gacha12" toolTip="Dummy Gacha" />
+	<String id="244539" string="Dummy Gacha11" toolTip="Dummy Gacha" />
+	<String id="244540" string="Dummy Smart Box30" toolTip="Dummy Smart Box" />
+	<String id="244541" string="Dummy Smart Box29" toolTip="Dummy Smart Box" />
+	<String id="244542" string="Dummy Smart Box28" toolTip="Dummy Smart Box" />
+	<String id="244543" string="Dummy Smart Box27" toolTip="Dummy Smart Box" />
+	<String id="244544" string="Dummy Smart Box26" toolTip="Dummy Smart Box" />
+	<String id="244545" string="Dummy Smart Box25" toolTip="Dummy Smart Box" />
+	<String id="244546" string="Dummy Smart Box24" toolTip="Dummy Smart Box" />
+	<String id="244547" string="Dummy Smart Box23" toolTip="Dummy Smart Box" />
+	<String id="244548" string="Dummy Smart Box22" toolTip="Dummy Smart Box" />
+	<String id="244549" string="Dummy Smart Box21" toolTip="Dummy Smart Box" />
+	<String id="244550" string="Dummy Gacha30" toolTip="Dummy Gacha" />
+	<String id="244551" string="Dummy Gacha29" toolTip="Dummy Gacha" />
+	<String id="244552" string="Dummy Gacha28" toolTip="Dummy Gacha" />
+	<String id="244553" string="Dummy Gacha27" toolTip="Dummy Gacha" />
+	<String id="244554" string="Dummy Gacha26" toolTip="Dummy Gacha" />
+	<String id="244555" string="Dummy Gacha25" toolTip="Dummy Gacha" />
+	<String id="244556" string="Dummy Gacha24" toolTip="Dummy Gacha" />
+	<String id="244557" string="Dummy Gacha23" toolTip="Dummy Gacha" />
+	<String id="244558" string="Dummy Gacha22" toolTip="Dummy Gacha" />
+	<String id="244559" string="Dummy Gacha21" toolTip="Dummy Gacha" />
+	<String id="244560" string="Wedding Dress Costume box" toolTip="A smart box containing a Wedding Dress suitable for your race.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244561" string="Dyeable Wedding Dress Costume box" toolTip="A smart box containing a dyeable Wedding Dress suitable for your race.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244562" string="Extensive Alkahest Box" toolTip="A loot box guaranteed to contain extensive alkahests and a mystery bonus surprise." />
+	<String id="244563" string="Spellbind Box" toolTip="A loot box guaranteed to contain spellbinds." />
+	<String id="244564" string="Blessed Enigmatic Scroll Case" toolTip="Guaranteed to contain five blessed enigmatic scrolls. May also contain more blessed or noble enigmatic scrolls." />
+	<String id="244565" string="Pet Food Box" toolTip="A loot box guaranteed to contain pet food. May occasionally contain a pet as well." />
+	<String id="244566" string="Celestial Spirit Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a celestial spirit weapon skin (via smart box)." />
+	<String id="244567" string="Ice Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May occasionally contain an Icegrip weapon skin." />
+	<String id="244568" string="Ice Drake Weapon Crate" toolTip="A loot box guaranteed to contain an instance reset scroll. May also contain a Blizzat's Remembrance weapon skin smart box, alkahests, or other consumables. [Smart boxes automatically generate an exact match to the character who opens it. Blizzat's Remembrance does not work for brawlers, gunners, or reapers.]" />
+	<String id="244569" string="Fire Drake Weapon Crate" toolTip="A loot box guaranteed to contain an instance reset scroll. May also contain a Vesel's Remembrance weapon skin smart box, alkahests, or other consumables. [Smart boxes automatically generate an exact match to the character who opens it. Vesel's Remembrance does not work for brawlers, gunners, or reapers.]" />
+	<String id="244570" string="Elleon's Nobility Box" toolTip="A loot box guaranteed to contain a Noblesse Token. May also contain a Silver Noblesse smart box, alkahests, or spellbinds!" />
+	<String id="244571" string="Elleon's Bravery Box" toolTip="A loot box guaranteed to contain a Noblesse Token. May also contain a Golden Noblesse smart box, alkahests, or spellbinds!" />
+	<String id="244572" string="Dress for Success Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Dress for Success Costume Box, alkahests, or other consumables. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="244573" string="Dress to Impress Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Formal Wear Costume Box, Fancy Party Costume box, alkahests, or other consumables. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="244574" string="Hero's Cape Box" toolTip="&quot;No hero is complete without a white cape.&quot; Guaranteed to contain a semi-enigmatic scroll. May occasionally contain a general's cape, a noble's cape, or a frosty mantle of indifference." />
+	<String id="244575" string="Rainy Day Loot Box" toolTip="This loot box is guaranteed to contain a blessed enigmatic scroll, and may also contain a dyeable elin Spring Shower Raincoat, alkahests, spellbinds, or other consumables." />
+	<String id="244576" string="Avenging Angel Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. It may also contain a wing back-slot item?either Golden Gliders or Fiery Feathers?alkahests, or other consumables." />
+	<String id="244577" string="Guardian Angel Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. It may also contain a wing back-slot item?either Purple Pennons or Pink Pinions?alkahests, or other consumables." />
+	<String id="244578" string="Technicolor Yawn Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Rainblow Cloud, alkahests, spellbinds, or other consumables." />
+	<String id="244579" string="Red Wolf Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Cinderheart, the HP and MP-restoring wolf mount." />
+	<String id="244580" string="Blue Wolf Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Blue Wolf, the HP and MP-restoring wolf mount." />
+	<String id="244581" string="Purple Wolf Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Purple Wolf, the HP and MP-restoring wolf mount." />
+	<String id="244582" string="Gold Wolf Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Gold Wolf, the HP and MP-restoring wolf mount." />
+	<String id="244583" string="Snarlheart Wolfrider Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Snarlheart, the HP and MP-restoring wolf mount." />
+	<String id="244584" string="Gloryheart Wolfrider Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Gloryheart, the HP and MP-restoring wolf mount." />
+	<String id="244585" string="Fiery Birdcage" toolTip="This loot box is guaranteed to contain a semi-enigmatic scroll and may contain Ember, the fiery HP and MP-restoring struthio." />
+	<String id="244586" string="Violet Birdcage" toolTip="This loot box is guaranteed to contain a semi-enigmatic scroll and may contain Peep, the violet HP and MP-restoring struthio." />
+	<String id="244587" string="Steamer Wardrobe" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a permanent dyeable steampunk costume smart box. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="244588" string="Steampunked Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Steampunked Weapon Skin smart box, alkahests, or other consumables. [Smart boxes automatically generate an exact match to the character who opens it. Steampunked weapon skins do not work for brawlers, gunners, or reapers.]" />
+	<String id="244589" string="Dummy Smart Box1" toolTip="Dummy Smart Box" />
+	<String id="244590" string="Dummy Smart Box2" toolTip="Dummy Smart Box" />
+	<String id="244591" string="Dummy Smart Box3" toolTip="Dummy Smart Box" />
+	<String id="244592" string="Dummy Smart Box4" toolTip="Dummy Smart Box" />
+	<String id="244593" string="Dummy Smart Box5" toolTip="Dummy Smart Box" />
+	<String id="244594" string="Dummy Smart Box6" toolTip="Dummy Smart Box" />
+	<String id="244595" string="Dummy Smart Box7" toolTip="Dummy Smart Box" />
+	<String id="244596" string="Dummy Smart Box8" toolTip="Dummy Smart Box" />
+	<String id="244597" string="Dummy Smart Box9" toolTip="Dummy Smart Box" />
+	<String id="244598" string="Dummy Smart Box10" toolTip="Dummy Smart Box" />
+	<String id="244599" string="Dummy Smart Box11" toolTip="Dummy Smart Box" />
+	<String id="244600" string="Dummy Smart Box12" toolTip="Dummy Smart Box" />
+	<String id="244601" string="Dummy Smart Box13" toolTip="Dummy Smart Box" />
+	<String id="244602" string="Dummy Smart Box14" toolTip="Dummy Smart Box" />
+	<String id="244603" string="Dummy Smart Box15" toolTip="Dummy Smart Box" />
+	<String id="244604" string="Dummy Smart Box16" toolTip="Dummy Smart Box" />
+	<String id="244605" string="Dummy Smart Box17" toolTip="Dummy Smart Box" />
+	<String id="244606" string="Dummy Smart Box18" toolTip="Dummy Smart Box" />
+	<String id="244607" string="Dummy Smart Box19" toolTip="Dummy Smart Box" />
+	<String id="244608" string="Dummy Smart Box20" toolTip="Dummy Smart Box" />
+	<String id="244609" string="Dummy Smart Box21" toolTip="Dummy Smart Box" />
+	<String id="244610" string="Dummy Smart Box22" toolTip="Dummy Smart Box" />
+	<String id="244611" string="Dummy Smart Box23" toolTip="Dummy Smart Box" />
+	<String id="244612" string="Dummy Smart Box24" toolTip="Dummy Smart Box" />
+	<String id="244613" string="Dummy Smart Box25" toolTip="Dummy Smart Box" />
+	<String id="244614" string="Dummy Smart Box26" toolTip="Dummy Smart Box" />
+	<String id="244615" string="Dummy Smart Box27" toolTip="Dummy Smart Box" />
+	<String id="244616" string="Dummy Smart Box28" toolTip="Dummy Smart Box" />
+	<String id="244617" string="Dummy Smart Box29" toolTip="Dummy Smart Box" />
+	<String id="244618" string="Dummy Smart Box30" toolTip="Dummy Smart Box" />
+	<String id="244619" string="Dummy Gacha1" toolTip="Dummy Gacha" />
+	<String id="244620" string="Dummy Gacha2" toolTip="Dummy Gacha" />
+	<String id="244621" string="Dummy Gacha3" toolTip="Dummy Gacha" />
+	<String id="244622" string="Dummy Gacha4" toolTip="Dummy Gacha" />
+	<String id="244623" string="Dummy Gacha5" toolTip="Dummy Gacha" />
+	<String id="244624" string="Dummy Gacha6" toolTip="Dummy Gacha" />
+	<String id="244625" string="Dummy Gacha7" toolTip="Dummy Gacha" />
+	<String id="244626" string="Dummy Gacha8" toolTip="Dummy Gacha" />
+	<String id="244627" string="Dummy Gacha9" toolTip="Dummy Gacha" />
+	<String id="244628" string="Dummy Gacha10" toolTip="Dummy Gacha" />
+	<String id="244629" string="Dummy Gacha11" toolTip="Dummy Gacha" />
+	<String id="244630" string="Dummy Gacha12" toolTip="Dummy Gacha" />
+	<String id="244631" string="Dummy Gacha13" toolTip="Dummy Gacha" />
+	<String id="244632" string="Dummy Gacha14" toolTip="Dummy Gacha" />
+	<String id="244633" string="Dummy Gacha15" toolTip="Dummy Gacha" />
+	<String id="244634" string="Dummy Gacha16" toolTip="Dummy Gacha" />
+	<String id="244635" string="Dummy Gacha17" toolTip="Dummy Gacha" />
+	<String id="244636" string="Dummy Gacha18" toolTip="Dummy Gacha" />
+	<String id="244637" string="Dummy Gacha19" toolTip="Dummy Gacha" />
+	<String id="244638" string="Dummy Gacha20" toolTip="Dummy Gacha" />
+	<String id="244639" string="Dummy Gacha21" toolTip="Dummy Gacha" />
+	<String id="244640" string="Dummy Gacha22" toolTip="Dummy Gacha" />
+	<String id="244641" string="Dummy Gacha23" toolTip="Dummy Gacha" />
+	<String id="244642" string="Dummy Gacha24" toolTip="Dummy Gacha" />
+	<String id="244643" string="Dummy Gacha25" toolTip="Dummy Gacha" />
+	<String id="244644" string="Dummy Gacha26" toolTip="Dummy Gacha" />
+	<String id="244645" string="Dummy Gacha27" toolTip="Dummy Gacha" />
+	<String id="244646" string="Dummy Gacha28" toolTip="Dummy Gacha" />
+	<String id="244647" string="Dummy Gacha29" toolTip="Dummy Gacha" />
+	<String id="244648" string="Dummy Gacha30" toolTip="Dummy Gacha" />
+	<String id="244649" string="Dummy Gacha31" toolTip="Dummy Gacha" />
+	<String id="244650" string="Dummy Gacha32" toolTip="Dummy Gacha" />
+	<String id="244651" string="Dummy Gacha33" toolTip="Dummy Gacha" />
+	<String id="244652" string="Dummy Gacha34" toolTip="Dummy Gacha" />
+	<String id="244653" string="Dummy Gacha35" toolTip="Dummy Gacha" />
+	<String id="244654" string="Dummy Gacha36" toolTip="Dummy Gacha" />
+	<String id="244655" string="Dummy Gacha37" toolTip="Dummy Gacha" />
+	<String id="244656" string="Dummy Gacha38" toolTip="Dummy Gacha" />
+	<String id="244657" string="Dummy Gacha39" toolTip="Dummy Gacha" />
+	<String id="244658" string="Dummy Gacha40" toolTip="Dummy Gacha" />
+	<String id="244659" string="Dummy Gacha41" toolTip="Dummy Gacha" />
+	<String id="244660" string="Dummy Gacha42" toolTip="Dummy Gacha" />
+	<String id="244661" string="Dummy Gacha43" toolTip="Dummy Gacha" />
+	<String id="244662" string="Dummy Gacha44" toolTip="Dummy Gacha" />
+	<String id="244663" string="Dummy Gacha45" toolTip="Dummy Gacha" />
+	<String id="244664" string="Dummy Gacha46" toolTip="Dummy Gacha" />
+	<String id="244665" string="Dummy Gacha47" toolTip="Dummy Gacha" />
+	<String id="244666" string="Dummy Gacha48" toolTip="Dummy Gacha" />
+	<String id="244667" string="Dummy Gacha49" toolTip="Dummy Gacha" />
+	<String id="244668" string="Dummy Gacha50" toolTip="Dummy Gacha" />
+	<String id="244669" string="Dummy Smart Box31" toolTip="Dummy Smart Box" />
+	<String id="244670" string="Dummy Smart Box32" toolTip="Dummy Smart Box" />
+	<String id="244671" string="Dummy Smart Box33" toolTip="Dummy Smart Box" />
+	<String id="244672" string="Dummy Smart Box34" toolTip="Dummy Smart Box" />
+	<String id="244673" string="Dummy Smart Box35" toolTip="Dummy Smart Box" />
+	<String id="244674" string="Dummy Smart Box36" toolTip="Dummy Smart Box" />
+	<String id="244675" string="Dummy Smart Box37" toolTip="Dummy Smart Box" />
+	<String id="244676" string="Dummy Smart Box38" toolTip="Dummy Smart Box" />
+	<String id="244677" string="Dummy Smart Box39" toolTip="Dummy Smart Box" />
+	<String id="244678" string="Dummy Smart Box40" toolTip="Dummy Smart Box" />
+	<String id="244679" string="Dummy Smart Box41" toolTip="Dummy Smart Box" />
+	<String id="244680" string="Dummy Smart Box42" toolTip="Dummy Smart Box" />
+	<String id="244681" string="Dummy Smart Box43" toolTip="Dummy Smart Box" />
+	<String id="244682" string="Dummy Smart Box44" toolTip="Dummy Smart Box" />
+	<String id="244683" string="Dummy Smart Box45" toolTip="Dummy Smart Box" />
+	<String id="244684" string="Dummy Smart Box46" toolTip="Dummy Smart Box" />
+	<String id="244685" string="Dummy Smart Box47" toolTip="Dummy Smart Box" />
+	<String id="244686" string="Dummy Smart Box48" toolTip="Dummy Smart Box" />
+	<String id="244687" string="Dummy Smart Box49" toolTip="Dummy Smart Box" />
+	<String id="244688" string="Dummy Smart Box50" toolTip="Dummy Smart Box" />
+	<String id="244689" string="Surprise Smart Box 51" toolTip="Surprise Smart Box" />
+	<String id="244690" string="Surprise Smart Box 52" toolTip="Surprise Smart Box" />
+	<String id="244691" string="Flying Skillbook Loot Box" toolTip="Flying Skillbook Loot Box" />
+	<String id="244692" string="Normal Mechanic Costume Loot Box" toolTip="Normal Mechanic Costume Loot Box" />
+	<String id="244693" string="Dyeable Mechanic Costume Loot Box" toolTip="Dyeable Mechanic Costume Loot Box" />
+	<String id="244694" string="Retro Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Cathodyne Smart Box, alkahests, or other consumables.&#10;[Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="244695" string="Emulator Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Prismatronic Smart Box, alkahests, or other consumables.&#10;[Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="244696" string="Maid's Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. Any special items within are only usable by elins." />
+	<String id="244697" string="Lucky Cat Carrier" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll, and may also contain Felicity, the lucky cat with auto-gather, emotes, and Pet Pocket storage." />
+	<String id="244698" string="Shadowlaced Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Shadowlaced Weapon Smart Box, alkahests, or other consumables.&#10;[Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="244699" string="Blackguard's Tool Kit" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Blackguard's Leathers smart box, alkahests, or other consumables.&#10;[Smart boxes automatically generate an exact match to the character who opens it. Blackguard's Leathers smart box will only work for female characters.]" />
+	<String id="244700" string="Aurumheart Dragonrider Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Aurumheart, the golden dragon that restores HP and MP." />
+	<String id="244701" string="Crimsonheart Dragonrider Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Crimsonheart, the fiery red dragon that restores HP and MP." />
+	<String id="244702" string="Empowering Trousseau" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior empowering spider-silk innerwear for females that increases Power." />
+	<String id="244703" string="Fortified Trousseau" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior fortified spider-silk innerwear for females that increases Crit Factor." />
+	<String id="244704" string="Performance Trousseau" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior performance spider-silk innerwear for females that replenishes MP." />
+	<String id="244705" string="Fitness Trousseau" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior fitness spider-silk innerwear for females that increases max HP." />
+	<String id="244706" string="Endurance Trousseau" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior endurance spider-silk innerwear for females that increases Endurance." />
+	<String id="244707" string="Empowering Innerwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior empowering dragon-silk innerwear that increases Power." />
+	<String id="244708" string="Fortified Innerwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior fortified dragon-silk innerwear that increases Crit Factor." />
+	<String id="244709" string="Performance Innerwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior performance dragon-silk innerwear that replenishes MP." />
+	<String id="244710" string="Fitness Innerwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior fitness dragon-silk innerwear that increases max HP." />
+	<String id="244711" string="Endurance Innerwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain alkahests, other consumables, or uncommon, rare, or superior endurance dragon-silk innerwear that increases Endurance." />
+	<String id="244712" string="Spider Silk Trousseau" toolTip="A box guaranteed to contain uncommon, rare, or superior spider-silk innerwear for females and a self-confidence potion to show it off." />
+	<String id="244713" string="Dragon Silk Innerwear" toolTip="A box guaranteed to contain uncommon, rare, or superior dragon-silk innerwear and a self-confidence potion to show it off." />
+	<String id="244714" string="True Ultimate Elin Elite Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an elin elite ninja-themed costume or other useful loot." />
+	<String id="244715" string="Chromaplasm Weapon Skin Loot Box" toolTip="This loot box is guaranteed to contain a semi-enigmatic scroll, and may also contain a Chromaplasm smart box, spellbinds, or alkahests. [Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="244716" string="Dire Crimson Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Red Master Plasma weapon skin smart box, alkahests, or other consumables." />
+	<String id="244717" string="Foreboding Purple Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Purple Master Plasma weapon skin smart box, alkahests, or other consumables." />
+	<String id="244718" string="Shocking Green Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Green Master Plasma weapon skin smart box, alkahests, or other consumables." />
+	<String id="244719" string="Electric Blue Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Blue Master Plasma weapon skin smart box, alkahests, or other consumables." />
+	<String id="244720" string="Airborne Assault Loot Box" toolTip="A loot box guaranteed to contain a blessed enigmatic scroll. May also contain alkahests, spellbinds, or one of three rare flying mounts: Eclipse, Hellwing, or Argo." />
+	<String id="244721" string="High on the Hog Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a flying pig mount?such as Flitch, Cloudswallow, Spamtasia, or Major Swine?or alkahests, spellbinds, or other consumables!" />
+	<String id="244722" string="Governess Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Housekeeper Costume Box, alkahests, or other consumables.&#10;[Smart boxes automatically generate an exact match to the character who opens it. Costume Box will only work for female characters.]" />
+	<String id="244723" string="Elin Housemaid Loot Box" toolTip="A loot box guaranteed to contain five federation bills. May also contain a special rare housekeeper uniform for an elin, alkahest, or other useful loot." />
+	<String id="244724" string="Black Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May contain a Black Cat Club costume for an elin." />
+	<String id="244725" string="Kitty Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May contain a Kitty Cat Club costume for an elin." />
+	<String id="244726" string="Skycycle Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Skycycle MHZ, spellbinds, or alkahests." />
+	<String id="244727" string="Jetcycle Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Jetcycle MHZ, spellbinds, or alkahests." />
+	<String id="244728" string="Royal Crimson Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Royal Crimson Dragon, alkahests, or spellbinds!" />
+	<String id="244729" string="Royal Iron Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Royal Iron Dragon, alkahests, or spellbinds!" />
+	<String id="244730" string="Royal Diamond Dragonlord Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Royal Diamond Dragon skill manual, dragon tokens, alkahests, or spellbinds!" />
+	<String id="244731" string="Royal Ghost Dragonlord Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Royal Ghost Dragon skill manual, dragon tokens, alkahests, or spellbinds!" />
+	<String id="244732" string="Empowered Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Empowered Black Innerwear, Empowered Signature Innerwear, alkahests, or spellbinds!" />
+	<String id="244733" string="Fitness Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Fitness Black Innerwear, Fitness Signature Innerwear, alkahests, or spellbinds!" />
+	<String id="244734" string="Fortified Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Fortified Black Innerwear, Fortified Signature Innerwear, alkahests, or spellbinds!" />
+	<String id="244735" string="Insulated Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Insulated Black Innerwear, Insulated Signature Innerwear, alkahests, or spellbinds!" />
+	<String id="244736" string="Performance Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Performance Black Innerwear, Performance Signature Innerwear, alkahests, or spellbinds!" />
+	<String id="244737" string="True Ultimate Power Weapon Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a rare Nightfall weapon skin (via smart box)." />
+	<String id="244738" string="Llama Loot Box" toolTip="Season Pass Llama loot box" />
+	<String id="244739" string="Dyeable Striped Bikini Leisure Shorts Loot Box" toolTip="Dyeable Striped Bikini Leisure Shorts Loot Box" />
+	<String id="244740" string="Dyeable Peachstringer Fitted Beach Wear Loot Box" toolTip="Dyeable Peachstringer Fitted Beach Wear Loot Box" />
+	<String id="244741" string="Dyeable Deep Jammers Loot Box" toolTip="Dyeable Deep Jammers Loot Box" />
+	<String id="244742" string="Dyeable Duckie Swimsuit Loot Box" toolTip="Dyeable Duckie Swimsuit Loot Box" />
+	<String id="244743" string="Castanic Female Croptop Loot Box" toolTip="Castanic Female Croptop Loot Box" />
+	<String id="244744" string="Dyeable Bleachstringer and Fundoshi Loot Box" toolTip="Dyeable Bleachstringer and Fundoshi Loot Box" />
+	<String id="244745" string="Dyeable Silver Bikini and Speeders Loot Box" toolTip="Dyeable Silver Bikini and Speeders Loot Box" />
+	<String id="244746" string="Summer Now Swimwear Crate" toolTip="Summer Now Swimwear Crate" />
+	<String id="244747" string="School Bag Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Uniform Box (Allemantheia Prep, Velika Vocational, or Kai Poly), emotes, alkahests, or other consumables.&#10;[Smart boxes automatically generate an exact match to the character who opens it. Uniform Boxes will only work for female characters.]" />
+	<String id="244748" string="Seren's Night School Locker" toolTip="Guaranteed to contain a semi-enigmatic scroll. May also contain a dyeable Seren's Night School uniform." />
+	<String id="244749" string="Airy Aurora Loot Box" toolTip="A loot box guaranteed to contain 300 Metamorphic Emblems. May also contain an elin Airy Aurora dress, dyad niveot structures, golden talents, more emblems, or other consumables." />
+	<String id="244750" string="Squad Captain Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Cheer Squad Captain Smart Box, alkahests, or other consumables. [Costume boxes will only work for elins, human females, high elf females, and castanic females.]" />
+	<String id="244751" string="Color Guard Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Drill Team Color Guard Smart Box, alkahests, or other consumables. [Costume boxes will only work for elins, human females, high elf females, and castanic females.]" />
+	<String id="244752" string="Post-Grad Loot Box" toolTip="This loot box is guaranteed to contain a blessed enigmatic scroll, and may also contain a Ladies' Track and Field Smart Box, a Prim and Proper Smart Box, a Study Hard Smart Box, a Prep School Smart Box, or Sinestral Studies Smart Box, or alkahests, spellbinds, or other consumables." />
+	<String id="244753" string="Level 10 Box" toolTip="Event Reward" />
+	<String id="244754" string="Level 20 Box" toolTip="Event Reward" />
+	<String id="244755" string="Level 30 Box" toolTip="Event Reward" />
+	<String id="244756" string="Level 40 Box" toolTip="Event Reward" />
+	<String id="244757" string="Level 45 Box" toolTip="Event Reward" />
+	<String id="244758" string="Level 50 Box" toolTip="Event Reward" />
+	<String id="244759" string="Level 55 Box" toolTip="Event Reward" />
+	<String id="244760" string="Level 60 Box" toolTip="Event Reward" />
+	<String id="244761" string="Level 65 Box" toolTip="Event Reward" />
+	<String id="244762" string="Striped Bikini Leisure Shorts Box" toolTip="This smart box contains a Striped Bikini or Leisure Shorts swimsuit costume suitable for your race and gender. (Elin characters receive a Striped One-Piece costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244763" string="Butterfly Plunge Fitted Beach Wear Box" toolTip="This smart box contains a Butterfly Plunge or Fitted Beach Wear swimsuit costume suitable for your race and gender. (Elin characters receive a Beach Cadet costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244764" string="Dyeable Striped Bikini Leisure Shorts Box" toolTip="This smart box contains a dyeable Striped Bikini or Leisure Shorts swimsuit costume suitable for your race and gender. (Elin characters receive a dyeable Striped One-Piece costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244765" string="Dyeable Peachstringer Fitted Beach Wear Box" toolTip="This smart box contains a dyeable Peachstringer or Fitted Beach Wear swimsuit costume suitable for your race and gender. (Elin characters receive a dyeable Sailorsuit costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244766" string="Deep Blue Jammers Box" toolTip="This smart box contains a Deep Blue V or Blue Jammers swimsuit costume suitable for your race and gender. (Elin characters receive a Blue Frill Bikini costume. Baraka and popori characters receive an Orange Life Vest costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244767" string="Yellow Duckie Swimsuit Box" toolTip="This smart box contains a yellow duckie swimsuit costume suitable for your race and gender. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244768" string="Dyeable Duckie Swimsuit Box" toolTip="This smart box contains a dyeable duckie swimsuit costume suitable for your race and gender. (Elin characters receive a White-Stockings Maillot costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244769" string="Bleachwear and Fundoshi Smart Box" toolTip="This smart box contains a Bleachwear or Fundoshi swimsuit costume suitable for your race and gender. (Note: This smart box is not usable by baraka or popori characters. Elin characters receive a Sailorsuit costume.)" />
+	<String id="244770" string="Bikini and Golden Speeders Smart Box" toolTip="This smart box contains a Bleachwear or Fundoshi swimsuit costume suitable for your race and gender. (Note: This smart box is not usable by baraka or popori characters. Elin characters receive a Sailorsuit costume.)" />
+	<String id="244771" string="Dyeable Bleachstringer and Fundoshi Box" toolTip="This smart box contains a dyeable Bleachstringer or Fundoshi swimsuit costume suitable for your race and gender. (Note: This smart box is not usable by baraka or popori characters. Elin characters receive a dyeable Party Hostess costume.) [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244772" string="Dyeable Silver Bikini and Speeders Smart Box" toolTip="This smart box contains a dyeable Silver Bikini or Speeders swimsuit costume suitable for your race and gender. (Note: This smart box is not usable by baraka or popori characters. Elin characters receive a dyeable Black-Stockings Maillot costume.)&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244773" string="Dyeable Deep Jammers Box" toolTip="This smart box contains a dyeable Deep V or dyeable Jammers swimsuit costume suitable for your race and gender. (Elin characters receive a dyeable White-Stockings Maillot costume. Baraka and popori characters receive a dyeable Life Vest costume.)&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244774" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244775" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244776" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244777" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244778" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244779" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244780" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244781" string="Dummy Smartbox" toolTip="Dummy Smartbox" />
+	<String id="244782" string="Personalized Gym Uniform Loot Box" toolTip="This loot box is guaranteed to contain a semi-enigmatic scroll, and may also contain a personalized workout bag, spellbinds, or alkahests." />
+	<String id="244783" string="Purple Master Plasma Smart Box" toolTip="This smart box contains a purple master plasma weapon skin suitable for your class. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="244784" string="Surprise Gacha51" toolTip="Surprise Gacha" />
+	<String id="244785" string="Surprise Gacha52" toolTip="Surprise Gacha" />
+	<String id="244786" string="Surprise Gacha53" toolTip="Surprise Gacha" />
+	<String id="244787" string="Surprise Gacha54" toolTip="Surprise Gacha" />
+	<String id="244788" string="Surprise Gacha55" toolTip="Surprise Gacha" />
+	<String id="244789" string="Surprise Gacha56" toolTip="Surprise Gacha" />
+	<String id="244790" string="Surprise Gacha57" toolTip="Surprise Gacha" />
+	<String id="244791" string="Surprise Gacha58" toolTip="Surprise Gacha" />
+	<String id="244792" string="Surprise Gacha59" toolTip="Surprise Gacha" />
+	<String id="244793" string="Surprise Gacha60" toolTip="Surprise Gacha" />
+	<String id="244794" string="Surprise Gacha61" toolTip="Surprise Gacha" />
+	<String id="244795" string="Surprise Gacha62" toolTip="Surprise Gacha" />
+	<String id="244796" string="Surprise Gacha63" toolTip="Surprise Gacha" />
+	<String id="244797" string="Surprise Gacha64" toolTip="Surprise Gacha" />
+	<String id="244798" string="Surprise Gacha65" toolTip="Surprise Gacha" />
+	<String id="244799" string="Surprise Gacha66" toolTip="Surprise Gacha" />
+	<String id="244800" string="Surprise Gacha67" toolTip="Surprise Gacha" />
+	<String id="244801" string="Surprise Gacha68" toolTip="Surprise Gacha" />
+	<String id="244802" string="Surprise Gacha69" toolTip="Surprise Gacha" />
+	<String id="244803" string="Surprise Gacha70" toolTip="Surprise Gacha" />
+	<String id="244804" string="Surprise Gacha71" toolTip="Surprise Gacha" />
+	<String id="244805" string="Surprise Gacha72" toolTip="Surprise Gacha" />
+	<String id="244806" string="Surprise Gacha73" toolTip="Surprise Gacha" />
+	<String id="244807" string="Surprise Gacha74" toolTip="Surprise Gacha" />
+	<String id="244808" string="Surprise Gacha75" toolTip="Surprise Gacha" />
+	<String id="244809" string="Surprise Gacha76" toolTip="Surprise Gacha" />
+	<String id="244810" string="Surprise Gacha77" toolTip="Surprise Gacha" />
+	<String id="244811" string="Surprise Gacha78" toolTip="Surprise Gacha" />
+	<String id="244812" string="Surprise Gacha79" toolTip="Surprise Gacha" />
+	<String id="244813" string="Surprise Gacha80" toolTip="Surprise Gacha" />
+	<String id="244814" string="Surprise Smart Box51" toolTip="Surprise Smart Box" />
+	<String id="244815" string="Surprise Smart Box52" toolTip="Surprise Smart Box" />
+	<String id="244816" string="Surprise Smart Box53" toolTip="Surprise Smart Box" />
+	<String id="244817" string="Surprise Smart Box54" toolTip="Surprise Smart Box" />
+	<String id="244818" string="Surprise Smart Box55" toolTip="Surprise Smart Box" />
+	<String id="244819" string="Surprise Smart Box56" toolTip="Surprise Smart Box" />
+	<String id="244820" string="Surprise Smart Box57" toolTip="Surprise Smart Box" />
+	<String id="244821" string="Surprise Smart Box58" toolTip="Surprise Smart Box" />
+	<String id="244822" string="Surprise Smart Box59" toolTip="Surprise Smart Box" />
+	<String id="244823" string="Surprise Smart Box60" toolTip="Surprise Smart Box" />
+	<String id="244824" string="Surprise Smart Box61" toolTip="Surprise Smart Box" />
+	<String id="244825" string="Surprise Smart Box62" toolTip="Surprise Smart Box" />
+	<String id="244826" string="Surprise Smart Box63" toolTip="Surprise Smart Box" />
+	<String id="244827" string="Surprise Smart Box64" toolTip="Surprise Smart Box" />
+	<String id="244828" string="Surprise Smart Box65" toolTip="Surprise Smart Box" />
+	<String id="244829" string="Surprise Smart Box66" toolTip="Surprise Smart Box" />
+	<String id="244830" string="Surprise Smart Box67" toolTip="Surprise Smart Box" />
+	<String id="244831" string="Surprise Smart Box68" toolTip="Surprise Smart Box" />
+	<String id="244832" string="Surprise Smart Box69" toolTip="Surprise Smart Box" />
+	<String id="244833" string="Surprise Smart Box70" toolTip="Surprise Smart Box" />
+	<String id="244834" string="Surprise Smart Box71" toolTip="Surprise Smart Box" />
+	<String id="244835" string="Surprise Smart Box72" toolTip="Surprise Smart Box" />
+	<String id="244836" string="Surprise Smart Box73" toolTip="Surprise Smart Box" />
+	<String id="244837" string="Surprise Smart Box74" toolTip="Surprise Smart Box" />
+	<String id="244838" string="Surprise Smart Box75" toolTip="Surprise Smart Box" />
+	<String id="244839" string="Surprise Smart Box76" toolTip="Surprise Smart Box" />
+	<String id="244840" string="Surprise Smart Box77" toolTip="Surprise Smart Box" />
+	<String id="244841" string="Surprise Smart Box78" toolTip="Surprise Smart Box" />
+	<String id="244842" string="Surprise Smart Box79" toolTip="Surprise Smart Box" />
+	<String id="244843" string="Surprise Smart Box80" toolTip="Surprise Smart Box" />
+	<String id="244844" string="Fire and Ice Mount Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Night Mare mount, a Sleipnir mount, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244845" string="Waddles and Barnstorm Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Waddles pig mount, a Barnstorm flying pig mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244846" string="Harry Porker and Flitch Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Harry Porker pig mount, a Flitch flying pig mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244847" string="Petunia and Spamtasia Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Petunia pig mount, a Spamtasia flying pig mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244848" string="Boss and Cloudswallow Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Boss pig mount, a Cloudswallow flying pig mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244849" string="Harley and Major Swine Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Boss pig mount, a Airboss flying pig mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244850" string="Wolf Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Blitzheart, Cinderheart, Slasheart, or Glimmerheart wolf mount that retores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244851" string="Tiger Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a tiger mount, an armored tiger mount, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244852" string="Ladylove and Cherry Blossom Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Lady Love pink wolf mount that restores your HP and MP, a Cherry Blossom flying pink wolf mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244853" string="Obsidian and Noble Moon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Noble Moon dark wolf mount that restores your HP and MP, an Obsidian flying dark wolf mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244854" string="Snarlheart, Noble Timber, and Thunderbolt  Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Snarlheart red wolf mount that restores your HP and MP, a Noble Timber green wolf mount that restores your HP and MP, a Thunderbolt flying ghost wolf mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244855" string="Ni Hao and Mei Mei Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Ni Hao  panda mount, a Mei Mei panda mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244856" string="Ice and Arctos Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Ice polar bear mount, an Arctos polar bear mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244857" string="Beetle Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Noble Cutter, or Noble Buzzer beetle mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244858" string="Sushi-Cat Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Noble Salty or Noble Socks sushi-cat mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244859" string="Crimson and Shadow Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Noble Shadowmare or Noble Crimsonmare horse mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244860" string="Pegasus Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Winterwing flying pegasus mount, an Eclipse flying pegasus mount, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244861" string="Flying Lion Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Argo flying lion mount, a Sirocco flying lion mount, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244862" string="Fiery Flying Lion Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Hellwing flying lion mount, a Boreas flying lion mount, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244863" string="Baby and Powderpuff Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Baby flying llama mount, a Powderpuff flying llama mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244864" string="Andy and Drama Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Andy flying llama mount, a Drama flying llama mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244865" string="Prue and Bellbottom Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Prue flying llama mount, a Bellbottom flying llama mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244866" string="Clive and Sultan Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Clive flying llama mount, a Sultan flying llama mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244867" string="Royal Iron Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Ironhide flying dragon mount that restores your HP and MP and has a Movement Speed of 290, a Royal Iron Dragon flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244868" string="Royal Crimson Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Crimsonhide flying dragon mount that restores your HP and MP and has a Movement Speed of 290, a Royal Crimson Dragon flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244869" string="Royal Diamond Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Glitterclaw flying dragon mount that restores your HP and MP and has a Movement Speed of 290, a Royal Diamond Dragon flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244870" string="Royal Ghost Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Dracoshade flying dragon mount that restores your HP and MP and has a Movement Speed of 290, a Royal Ghost Dragon flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244871" string="Ultrafury Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Ultraclaw flying dragon mount that restores your HP and MP and has a Movement Speed of 290, an Ultraclaw flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244872" string="Nightfury Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Nightclaw flying dragon mount that restores your HP and MP and has a Movement Speed of 290, a Nightfury flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244873" string="Bonefury Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Boneclaw flying dragon mount that restores your HP and MP and has a Movement Speed of 290, a Bonefury flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244874" string="Astrafury Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Astraclaw flying dragon mount that restores your HP and MP and has a Movement Speed of 290, an Astrafury flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244875" string="Ashfury Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Ashclaw flying dragon mount that restores your HP and MP and has a Movement Speed of 290, an Ashfury flying dragon mount that restores your HP and MP, has a Movement Speed of 290, increases the Movement Speed of nearby group members, and grants you the passive skill Draconis Rex, which grants a chance to double your Crit Power against monsters, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244876" string="Mopsy and Angora Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Mopsy flying bunny mount, an Angora flying bunny mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244877" string="Flopsy and Lilac Dragon Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Flopsy flying bunny mount, a Lilac flying bunny mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244878" string="Bank Pet Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Caddy, Totes, or Cheeks pet each with 72-slots of portable storage, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244879" string="Jetcycle and Skycycle Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Jetcycle or Skycyle flying mount that restores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244880" string="Performance Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Performance Pinkalicious Innerwear, alkahests, or spellbinds." />
+	<String id="244881" string="Insulated Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Insulated Pinkalicious Innerwear, alkahests, or spellbinds." />
+	<String id="244882" string="Fortified Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Fortified Pinkalicious Innerwear, alkahests, or spellbinds." />
+	<String id="244883" string="Fitness Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Fitness Pinkalicious Innerwear, alkahests, or spellbinds." />
+	<String id="244884" string="Empowered Inner Armor Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain Empowered Pinkalicious Innerwear, alkahests, or spellbinds." />
+	<String id="244885" string="Elin Housemaid Loot Box" toolTip="A loot box guaranteed to contain five federation bills. May also contain a special rare housekeeper uniform for an elin, alkahest, or other useful loot." />
+	<String id="244886" string="Black Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May contain a Black Cat Club costume for an elin." />
+	<String id="244887" string="Kitty Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May contain a Kitty Cat Club costume for an elin." />
+	<String id="244888" string="Lucky Cat Carrier" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll, and may also contain Felicity, the lucky cat with auto-gather, emotes, and Pet Pocket storage." />
+	<String id="244889" string="Aurumheart and Crimsonheart Loot Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Crimsonheart or Aurumheart dragon mount that retores your HP and MP, alkahests, master enigmatic scrolls, spellbinds, or health potions!" />
+	<String id="244890" string="Surprise Loot Box 81" toolTip="Box full of surprises" />
+	<String id="244891" string="Surprise Loot Box 82" toolTip="Box full of surprises" />
+	<String id="244892" string="Surprise Loot Box 83" toolTip="Box full of surprises" />
+	<String id="244893" string="Surprise Loot Box 84" toolTip="Box full of surprises" />
+	<String id="244894" string="Surprise Loot Box 85" toolTip="Box full of surprises" />
+	<String id="244895" string="Surprise Loot Box 86" toolTip="Box full of surprises" />
+	<String id="244896" string="Surprise Loot Box 87" toolTip="Box full of surprises" />
+	<String id="244897" string="Surprise Loot Box 88" toolTip="Box full of surprises" />
+	<String id="244898" string="Surprise Loot Box 89" toolTip="Box full of surprises" />
+	<String id="244899" string="Surprise Loot Box 90" toolTip="Box full of surprises" />
+	<String id="244900" string="Surprise Loot Box 91" toolTip="Box full of surprises" />
+	<String id="244901" string="Surprise Loot Box 92" toolTip="Box full of surprises" />
+	<String id="244902" string="Surprise Loot Box 93" toolTip="Box full of surprises" />
+	<String id="244903" string="Surprise Loot Box 94" toolTip="Box full of surprises" />
+	<String id="244904" string="Surprise Loot Box 95" toolTip="Box full of surprises" />
+	<String id="244905" string="Surprise Loot Box 96" toolTip="Box full of surprises" />
+	<String id="244906" string="Surprise Loot Box 97" toolTip="Box full of surprises" />
+	<String id="244907" string="Surprise Loot Box 98" toolTip="Box full of surprises" />
+	<String id="244908" string="Surprise Loot Box 99" toolTip="Box full of surprises" />
+	<String id="244909" string="Surprise Loot Box 101" toolTip="Box full of surprises" />
+	<String id="244910" string="Surprise Loot Box 102" toolTip="Box full of surprises" />
+	<String id="244911" string="Surprise Loot Box 103" toolTip="Box full of surprises" />
+	<String id="244912" string="Surprise Loot Box 104" toolTip="Box full of surprises" />
+	<String id="244913" string="Surprise Loot Box 105" toolTip="Box full of surprises" />
+	<String id="244914" string="Surprise Loot Box 106" toolTip="Box full of surprises" />
+	<String id="244915" string="Surprise Loot Box 107" toolTip="Box full of surprises" />
+	<String id="244916" string="Surprise Loot Box 108" toolTip="Box full of surprises" />
+	<String id="244917" string="Surprise Loot Box 109" toolTip="Box full of surprises" />
+	<String id="244918" string="Surprise Loot Box 110" toolTip="Box full of surprises" />
+	<String id="244919" string="Surprise Loot Box 111" toolTip="Box full of surprises" />
+	<String id="244920" string="Surprise Loot Box 112" toolTip="Box full of surprises" />
+	<String id="244921" string="Surprise Loot Box 113" toolTip="Box full of surprises" />
+	<String id="244922" string="Surprise Loot Box 114" toolTip="Box full of surprises" />
+	<String id="244923" string="Surprise Loot Box 115" toolTip="Box full of surprises" />
+	<String id="244924" string="Surprise Loot Box 116" toolTip="Box full of surprises" />
+	<String id="244925" string="Surprise Loot Box 117" toolTip="Box full of surprises" />
+	<String id="244926" string="Surprise Loot Box 118" toolTip="Box full of surprises" />
+	<String id="244927" string="Surprise Loot Box 119" toolTip="Box full of surprises" />
+	<String id="244928" string="Surprise Loot Box 121" toolTip="Box full of surprises" />
+	<String id="244929" string="Surprise Loot Box 122" toolTip="Box full of surprises" />
+	<String id="244930" string="Surprise Loot Box 123" toolTip="Box full of surprises" />
+	<String id="244931" string="Surprise Loot Box 124" toolTip="Box full of surprises" />
+	<String id="244932" string="Surprise Loot Box 125" toolTip="Box full of surprises" />
+	<String id="244933" string="Surprise Loot Box 126" toolTip="Box full of surprises" />
+	<String id="244934" string="Surprise Loot Box 127" toolTip="Box full of surprises" />
+	<String id="244935" string="Surprise Loot Box 128" toolTip="Box full of surprises" />
+	<String id="244936" string="Surprise Loot Box 129" toolTip="Box full of surprises" />
+	<String id="244937" string="Surprise Loot Box 130" toolTip="Box full of surprises" />
+	<String id="244938" string="Surprise Loot Box 131" toolTip="Box full of surprises" />
+	<String id="244939" string="Surprise Loot Box 132" toolTip="Box full of surprises" />
+	<String id="244940" string="Surprise Loot Box 133" toolTip="Box full of surprises" />
+	<String id="244941" string="Surprise Loot Box 134" toolTip="Box full of surprises" />
+	<String id="244942" string="Surprise Loot Box 135" toolTip="Box full of surprises" />
+	<String id="244943" string="Surprise Loot Box 136" toolTip="Box full of surprises" />
+	<String id="244944" string="Surprise Loot Box 137" toolTip="Box full of surprises" />
+	<String id="244945" string="Surprise Loot Box 138" toolTip="Box full of surprises" />
+	<String id="244946" string="Surprise Loot Box 139" toolTip="Box full of surprises" />
+	<String id="244947" string="Surprise Box 81" toolTip="Box full of surprises" />
+	<String id="244948" string="Surprise Box 82" toolTip="Box full of surprises" />
+	<String id="244949" string="Surprise Box 83" toolTip="Box full of surprises" />
+	<String id="244950" string="Surprise Box 84" toolTip="Box full of surprises" />
+	<String id="244951" string="Surprise Box 85" toolTip="Box full of surprises" />
+	<String id="244952" string="Surprise Box 86" toolTip="Box full of surprises" />
+	<String id="244953" string="Surprise Box 87" toolTip="Box full of surprises" />
+	<String id="244954" string="Surprise Box 88" toolTip="Box full of surprises" />
+	<String id="244955" string="Surprise Box 89" toolTip="Box full of surprises" />
+	<String id="244956" string="Surprise Box 90" toolTip="Box full of surprises" />
+	<String id="244957" string="Surprise Box 91" toolTip="Box full of surprises" />
+	<String id="244958" string="Surprise Box 92" toolTip="Box full of surprises" />
+	<String id="244959" string="Surprise Box 93" toolTip="Box full of surprises" />
+	<String id="244960" string="Surprise Box 94" toolTip="Box full of surprises" />
+	<String id="244961" string="Surprise Box 95" toolTip="Box full of surprises" />
+	<String id="244962" string="Surprise Box 96" toolTip="Box full of surprises" />
+	<String id="244963" string="Surprise Box 97" toolTip="Box full of surprises" />
+	<String id="244964" string="Surprise Box 98" toolTip="Box full of surprises" />
+	<String id="244965" string="Surprise Box 99" toolTip="Box full of surprises" />
+	<String id="244966" string="Surprise Box 101" toolTip="Box full of surprises" />
+	<String id="244967" string="Surprise Box 102" toolTip="Box full of surprises" />
+	<String id="244968" string="Surprise Box 103" toolTip="Box full of surprises" />
+	<String id="244969" string="Surprise Box 104" toolTip="Box full of surprises" />
+	<String id="244970" string="Surprise Box 105" toolTip="Box full of surprises" />
+	<String id="244971" string="Surprise Box 106" toolTip="Box full of surprises" />
+	<String id="244972" string="Surprise Box 107" toolTip="Box full of surprises" />
+	<String id="244973" string="Surprise Box 108" toolTip="Box full of surprises" />
+	<String id="244974" string="Surprise Box 109" toolTip="Box full of surprises" />
+	<String id="244975" string="Surprise Box 110" toolTip="Box full of surprises" />
+	<String id="244976" string="Surprise Box 111" toolTip="Box full of surprises" />
+	<String id="244977" string="Surprise Box 112" toolTip="Box full of surprises" />
+	<String id="244978" string="Surprise Box 113" toolTip="Box full of surprises" />
+	<String id="244979" string="Surprise Box 114" toolTip="Box full of surprises" />
+	<String id="244980" string="Surprise Box 115" toolTip="Box full of surprises" />
+	<String id="244981" string="Surprise Box 116" toolTip="Box full of surprises" />
+	<String id="244982" string="Surprise Box 117" toolTip="Box full of surprises" />
+	<String id="244983" string="Surprise Box 118" toolTip="Box full of surprises" />
+	<String id="244984" string="Surprise Box 119" toolTip="Box full of surprises" />
+	<String id="244985" string="Surprise Box 121" toolTip="Box full of surprises" />
+	<String id="244986" string="Surprise Box 122" toolTip="Box full of surprises" />
+	<String id="244987" string="Surprise Box 123" toolTip="Box full of surprises" />
+	<String id="244988" string="Surprise Box 124" toolTip="Box full of surprises" />
+	<String id="244989" string="Surprise Box 125" toolTip="Box full of surprises" />
+	<String id="244990" string="Surprise Box 126" toolTip="Box full of surprises" />
+	<String id="244991" string="Surprise Box 127" toolTip="Box full of surprises" />
+	<String id="244992" string="Surprise Box 128" toolTip="Box full of surprises" />
+	<String id="244993" string="Surprise Box 129" toolTip="Box full of surprises" />
+	<String id="244994" string="Surprise Box 130" toolTip="Box full of surprises" />
+	<String id="244995" string="Surprise Box 131" toolTip="Box full of surprises" />
+	<String id="244996" string="Surprise Box 132" toolTip="Box full of surprises" />
+	<String id="244997" string="Surprise Box 133" toolTip="Box full of surprises" />
+	<String id="244998" string="Surprise Box 134" toolTip="Box full of surprises" />
+	<String id="244999" string="Surprise Box 135" toolTip="Box full of surprises" />
+	<String id="245000" string="Surprise Box 136" toolTip="Box full of surprises" />
+	<String id="245001" string="Surprise Box 137" toolTip="Box full of surprises" />
+	<String id="245002" string="Surprise Box 138" toolTip="Box full of surprises" />
+	<String id="245003" string="Surprise Box 139" toolTip="Box full of surprises" />
+	<String id="245004" string="Surprise Box 141" toolTip="Box full of surprises" />
+	<String id="245005" string="Surprise Box 142" toolTip="Box full of surprises" />
+	<String id="245006" string="Surprise Box 143" toolTip="Box full of surprises" />
+	<String id="245007" string="Surprise Box 144" toolTip="Box full of surprises" />
+	<String id="245008" string="Surprise Box 145" toolTip="Box full of surprises" />
+	<String id="245009" string="Surprise Box 146" toolTip="Box full of surprises" />
+	<String id="245010" string="Surprise Box 147" toolTip="Box full of surprises" />
+	<String id="245011" string="Surprise Box 148" toolTip="Box full of surprises" />
+	<String id="245012" string="Surprise Box 149" toolTip="Box full of surprises" />
+	<String id="245013" string="Surprise Box 150" toolTip="Box full of surprises" />
+	<String id="245014" string="Surprise Box 151" toolTip="Box full of surprises" />
+	<String id="245015" string="Surprise Box 152" toolTip="Box full of surprises" />
+	<String id="245016" string="Surprise Box 153" toolTip="Box full of surprises" />
+	<String id="245017" string="Surprise Box 154" toolTip="Box full of surprises" />
+	<String id="245018" string="Surprise Box 155" toolTip="Box full of surprises" />
+	<String id="245019" string="Surprise Box 156" toolTip="Box full of surprises" />
+	<String id="245020" string="Surprise Box 157" toolTip="Box full of surprises" />
+	<String id="245021" string="Surprise Box 158" toolTip="Box full of surprises" />
+	<String id="245022" string="Surprise Box 159" toolTip="Box full of surprises" />
+	<String id="245023" string="Surprise Box 161" toolTip="Box full of surprises" />
+	<String id="245024" string="Surprise Box 162" toolTip="Box full of surprises" />
+	<String id="245025" string="Surprise Box 163" toolTip="Box full of surprises" />
+	<String id="245026" string="Surprise Box 164" toolTip="Box full of surprises" />
+	<String id="245027" string="Surprise Box 165" toolTip="Box full of surprises" />
+	<String id="245028" string="Surprise Box 166" toolTip="Box full of surprises" />
+	<String id="245029" string="Surprise Box 167" toolTip="Box full of surprises" />
+	<String id="245030" string="Surprise Box 168" toolTip="Box full of surprises" />
+	<String id="245031" string="Surprise Box 169" toolTip="Box full of surprises" />
+	<String id="245032" string="Surprise Box 170" toolTip="Box full of surprises" />
+	<String id="245033" string="Surprise Box 171" toolTip="Box full of surprises" />
+	<String id="245034" string="Surprise Box 172" toolTip="Box full of surprises" />
+	<String id="245035" string="Surprise Box 173" toolTip="Box full of surprises" />
+	<String id="245036" string="Surprise Box 174" toolTip="Box full of surprises" />
+	<String id="245037" string="Surprise Box 175" toolTip="Box full of surprises" />
+	<String id="245038" string="Surprise Box 176" toolTip="Box full of surprises" />
+	<String id="245039" string="Surprise Box 177" toolTip="Box full of surprises" />
+	<String id="245040" string="Surprise Box 178" toolTip="Box full of surprises" />
+	<String id="245041" string="Surprise Box 179" toolTip="Box full of surprises" />
+	<String id="245042" string="Surprise Box 181" toolTip="Box full of surprises" />
+	<String id="245043" string="Surprise Box 182" toolTip="Box full of surprises" />
+	<String id="245044" string="Surprise Box 183" toolTip="Box full of surprises" />
+	<String id="245045" string="Surprise Box 184" toolTip="Box full of surprises" />
+	<String id="245046" string="Surprise Box 185" toolTip="Box full of surprises" />
+	<String id="245047" string="Surprise Box 186" toolTip="Box full of surprises" />
+	<String id="245048" string="Surprise Box 187" toolTip="Box full of surprises" />
+	<String id="245049" string="Surprise Box 188" toolTip="Box full of surprises" />
+	<String id="245050" string="Surprise Box 189" toolTip="Box full of surprises" />
+	<String id="245051" string="Surprise Box 190" toolTip="Box full of surprises" />
+	<String id="245052" string="Surprise Box 191" toolTip="Box full of surprises" />
+	<String id="245053" string="Surprise Box 192" toolTip="Box full of surprises" />
+	<String id="245054" string="Surprise Box 193" toolTip="Box full of surprises" />
+	<String id="245055" string="Surprise Box 194" toolTip="Box full of surprises" />
+	<String id="245056" string="Surprise Box 195" toolTip="Box full of surprises" />
+	<String id="245057" string="Surprise Box 196" toolTip="Box full of surprises" />
+	<String id="245058" string="Surprise Box 197" toolTip="Box full of surprises" />
+	<String id="245059" string="Surprise Box 198" toolTip="Box full of surprises" />
+	<String id="245060" string="Surprise Box 199" toolTip="Box full of surprises" />
+	<String id="245061" string="PUBG Combat Casualwear" toolTip="This bundle contains a PUBG Combat Casual costume, suitable for your race and gender, as well as a PUBG Pan back-slot accessory.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245062" string="PUBG Weekend Warfare" toolTip="This deluxe bundle contains a PUBG Weekend Warrior costume, suitable for your race and gender, as well as a PUBG Pan back-slot accessory, Ricochet Racer footsteps, and a Chicken-Dinner Cheeks pet (auto-loot and auto-gold-loot)!&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245063" string="PUBG Citizen Soldier" toolTip="This smart box contains a PUBG Citizen Soldier costume suitable for your race and gender. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245064" string="PUBG Comrades-in-Arms (7-Day)" toolTip="This smart box contains a PUBG Citizen Soldier 7-day costume suitable for your race and gender. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245065" string="PUBG Airdrop Box" toolTip="This loot box is guaranteed to contain 400 Metamorphic Emblems, and may also contain a PUBG Citizen Soldier suitable for your race and gender, PUBG Hard Charger footsteps, dyad niveot structures, Golden or Silver Talents, Superior Noctenium Elixirs, Health Potions, Crafter's Cures, or more Metamorphic Emblems.&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245066" string="PUBG Care Package" toolTip="This loot box is guaranteed to contain 400 Metamorphic Emblems, and may also contain a Spetznaz Cheeks (PUBG) pet, dyad niveot structures, Golden or Silver Talents, Superior Noctenium Elixirs, Health Potions, Crafter's Cures, or more Metamorphic Emblems.&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245067" string="PUBG Flare Drop Box" toolTip="This smart box contains a PUBG Comrades-in-Arms (7-Day) smart box (a Citizen Soldier costume suitable for your race and gender), PUBG Hard Charger (7-Day) footsteps, and a PUBG Pan (7-Day) back-slot accessory.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;BR>&lt;BR>ⓒ2019 PUBG CORPORATION. ALL RIGHTS RESERVED." />
+	<String id="245068" string="New Season Dragon Mount Loot Box 2 (Blue)" toolTip="New Season Dragon Mount Loot Box 2 (Blue)" />
+	<String id="245069" string="New Season Dragon Mount Loot Box 1 (Red)" toolTip="New Season Dragon Mount Loot Box 1 (Red)" />
+	<String id="245070" string="School Uniform (Common) 2019 Costume Box" toolTip="School Uniform (Common) 2019 Costume Box" />
+	<String id="245071" string="School Uniform (Rare) 2019 (7-day) Costume Box" toolTip="School Uniform (Rare) 2019 (7-day) Costume Box" />
+	<String id="245072" string="School Uniform (Rare) 2019 Costume Box" toolTip="School Uniform (Rare) 2019 Costume Box" />
+	<String id="245073" string="School Uniform (Common) 2019 (7-day) Costume Box" toolTip="School Uniform (Common) 2019 (7-day) Costume Box" />
+	<String id="245074" string="School Uniform (Common) 2019 Costume Box" toolTip="School Uniform (Common) 2019 Costume Box" />
+	<String id="245075" string="School Uniform (Rare) 2019 (7-day) Costume Box" toolTip="School Uniform (Rare) 2019 (7-day) Costume Box" />
+	<String id="245076" string="School Uniform (Rare) 2019 Costume Box" toolTip="School Uniform (Rare) 2019 Costume Box" />
+	<String id="245077" string="School Uniform (Common) 2019 (7-day) Costume Box" toolTip="School Uniform (Common) 2019 (7-day) Costume Box" />
+	<String id="245078" string="School Uniform (Rare) 2019 Loot Box" toolTip="School Uniform (Rare) 2019 Loot Box" />
+	<String id="245079" string="Hanbok A (Blue) Costume Smart Box" toolTip="Hanbok A (Blue) Costume Smart Box" />
+	<String id="245080" string="Hanbok A (Blue) (7-Day) Costume Smart Box" toolTip="Hanbok A (Blue) (7-Day) Costume Smart Box" />
+	<String id="245081" string="Hanbok B (Green) Costume Smart Box" toolTip="Hanbok B (Green) Costume Smart Box" />
+	<String id="245082" string="Hanbok B (Green) (7-Day) Costume Smart Box" toolTip="Hanbok B (Green) (7-Day) Costume Smart Box" />
+	<String id="245083" string="Hanbok C (Purple) Costume Smart Box" toolTip="Hanbok C (Purple) Costume Smart Box" />
+	<String id="245084" string="Hanbok C (Purple) (7-Day) Costume Smart Box" toolTip="Hanbok C (Purple) (7-Day) Costume Smart Box" />
+	<String id="245085" string="Hanbok Dyeable Costume Smart Box" toolTip="Hanbok Dyeable Costume Smart Box" />
+	<String id="245086" string="Hanbok Dyeable (7-Day) Costume Smart Box" toolTip="Hanbok Dyeable (7-Day) Costume Smart Box" />
+	<String id="245087" string="Hanbok Dyeable Costume Loot Box" toolTip="Hanbok Dyeable Costume Loot Box" />
+	<String id="245088" string="Cherry Footsteps Loot Box (250EMP)" toolTip="Cherry Footsteps A or B (250EMP)" />
+	<String id="245089" string="Hatless Hatter Costume (3-day) Smart Box" toolTip="Hatless Hatter Costume (3-day) Smart Box (Female Only)" />
+	<String id="245090" string="Alice Dress Costume Smart Box" toolTip="Alice Dress Costume Smart Box (Female Only)" />
+	<String id="245091" string="Alice Dress Costume (3-day) Smart Box" toolTip="Alice Dress Costume (3-day) Smart Box (Female Only)" />
+	<String id="245092" string="Alice Dress Dyeable Costume Smart Box" toolTip="Alice Dress Dyeable Costume Smart Box (Female Only)" />
+	<String id="245093" string="Alice Dress Dyeable Costume (3-day) Smart Box" toolTip="Alice Dress Dyeable Costume (3-day) Smart Box (Female Only)" />
+	<String id="245094" string="Alice Dress Loot Box (495EMP)" toolTip="Alice Dress Loot Box (Female Only) (495EMP)" />
+	<String id="245095" string="Koinobori Rainbow School Loot Box (250EMP)" toolTip="Koinobori Red, Blue, Black, and All Loot Box. (250EMP)." />
+	<String id="245096" string="Kkultteok Loot Box" toolTip="Kkultteok Loot Box" />
+	<String id="245097" string="Snowy Penguin Loot Box" toolTip="Snowy Penguin Loot Box" />
+	<String id="245098" string="Winter Penguin Loot Box" toolTip="Winter Penguin Loot Box" />
+	<String id="245099" string="Personal Maid Uniform 2019 Common Personal Smart Box (Non-Tradeable)" toolTip="Personal Maid Uniform 2019 Common Personal Smart Box (Non-Tradeable)" />
+	<String id="245100" string="Maid Uniform 2019 Common Smart Box (Tradeable)" toolTip="Maid Uniform 2019 Common Smart Box (Tradeable)" />
+	<String id="245101" string="Maid Uniform 2019 Common Smart Box (7-day)" toolTip="Maid Uniform 2019 Common Smart Box (7-day)" />
+	<String id="245102" string="Maid Uniform 2019 Dyeable Smart Box" toolTip="Maid Uniform 2019 Dyeable Smart Box" />
+	<String id="245103" string="Maid Uniform 2019 Dyeable Smart Box (7-day)" toolTip="Maid Uniform 2019 Dyeable Smart Box (7-day)" />
+	<String id="245104" string="Maid Uniform 2019 Rare01 Personal Smart Box (Non-Tradeable)" toolTip="Maid Uniform 2019 Rare01 Personal Smart Box (Non-Tradeable)" />
+	<String id="245105" string="Maid Uniform 2019 Rare01 Smart Box (Tradeable)" toolTip="Maid Uniform 2019 Rare01 Smart Box (Tradeable)" />
+	<String id="245106" string="Maid Uniform 2019 Rare01 Smart Box (7-day)" toolTip="Maid Uniform 2019 Rare01 Smart Box (7-day)" />
+	<String id="245107" string="Maid Uniform 2019 Rare02 Smart Box" toolTip="Maid Uniform 2019 Rare02 Smart Box" />
+	<String id="245108" string="Maid Uniform 2019 Rare02 Smart Box (7-day)" toolTip="Maid Uniform 2019 Rare02 Smart Box (7-day)" />
+	<String id="245109" string="Maid Uniform 2019 Dyeable Loot Box" toolTip="Maid Uniform 2019 Dyeable plus Accessories (250MP)" />
+	<String id="245110" string="Maid Uniform 2019 Dyeable with Accessories Fixed Box (7-day)" toolTip="Maid Uniform 2019 Dyeable with Accessories Fixed Box (7-day)" />
+	<String id="245111" string="2019 Swimwear (Rare) Smart Box" toolTip="2019 Swimwear (Rare) Smart Box" />
+	<String id="245112" string="2019 Swimwear (Normal) Smart Box" toolTip="2019 Swimwear (Normal) Smart Box" />
+	<String id="245113" string="2019 Swimwear Social Emote Smart Box" toolTip="2019 Swimwear Social Emote Smart Box" />
+	<String id="245114" string="2019 Swimwear (Dyeable) Smart Box" toolTip="2019 Swimwear (Dyeable) Smart Box" />
+	<String id="245115" string="Flagtastic Smart Box" toolTip="Flagtastic Smart Box" />
+	<String id="245116" string="2019 Swimwear Loot Box (295EMP)" toolTip="2019 Swimwear Loot Box (295EMP)" />
+	<String id="245117" string="Golden Dragon Weapon Skin Smart Box" toolTip="Golden Dragon Weapon Skin Smart Box" />
+	<String id="245118" string="Golden Dragon Costume Smart Box" toolTip="Golden Dragon Costume Smart Box" />
+	<String id="245119" string="Golden Bunny Loot Box (150EMP)" toolTip="Golden Bunny Loot Box (150EMP)" />
+	<String id="245120" string="Golden Dragon Loot Box (250EMP)" toolTip="Golden Dragon Loot Box (250EMP)" />
+	<String id="245121" string="Golden Dragon Weapon Skin Loot Box (150EMP)" toolTip="Golden Dragon Weapon Skin Loot Box (150EMP)" />
+	<String id="245122" string="Golden Dragon Costume Loot Box (150EMP)" toolTip="Golden Dragon Costume Loot Box (150EMP)" />
+	<String id="245123" string="[Random] Enchanting Materials" toolTip="May contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for enchanting materials.$BR$BR[Can be exchanged for]$BRSupreme Metal$BRSpringy Draco Limb$BRWeight Pendulum$BRSacred Mallet$BRRefined Lepidoptera Crystal Dust$BRRefined Lepidoptera Crystal Powder" />
+	<String id="245124" string="[Random] XP Potion Box" toolTip="Open to obtain one Swift XP Potion. Elite status doubles the effect of a Swift XP Potion." />
+	<String id="245125" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="245126" string="Adventurous Federation Crate" toolTip="A loot box containing between 100 and 1200 Adventure Coins." />
+	<String id="245127" string="Yukata Common Costume Smart Box" toolTip="Yukata Common Costume Smart Box" />
+	<String id="245128" string="Yukata Common Costume Smart Box (7-day)" toolTip="Yukata Common Costume Smart Box (7-day)" />
+	<String id="245129" string="Yukata Dyeable Costume Smart Box" toolTip="Yukata Dyeable Costume Smart Box" />
+	<String id="245130" string="Yukata Rare Costume Smart Box (7-day)" toolTip="Yukata Rare Costume Smart Box (7-day)" />
+	<String id="245131" string="Yukata Rare Costume Smart Box" toolTip="Yukata Rare Costume Smart Box" />
+	<String id="245132" string="Yukata Dyeable Costume Smart Box (7-day)" toolTip="Yukata Dyeable Costume Smart Box (7-day)" />
+	<String id="245133" string="Yukata Dyeable Costume Loot Box (195EMP)" toolTip="Yukata Dyeable Costume Loot Box (195EMP)" />
+	<String id="245134" string="Partner Costume Bundle Box" toolTip="Partner Costume Bundle Box" />
+	<String id="245135" string="2019 Innerwear - Defense (250 EMP)" toolTip="2019 Innerwear - Defense (250 EMP)" />
+	<String id="245136" string="2019 Innerwear - Crit (250 EMP)" toolTip="2019 Innerwear - Crit (250 EMP)" />
+	<String id="245137" string="2019 Innerwear - AMP (250 EMP)" toolTip="2019 Innerwear - AMP (250 EMP)" />
+	<String id="245138" string="Autumn Dancer Dyeable Smart Box" toolTip="Autumn Dancer Dyeable Smart Box" />
+	<String id="245139" string="Autumn Dancer Rare Transparent Personal Smart Box" toolTip="Autumn Dancer Rare Transparent Personal Smart Box (no-trade for event)" />
+	<String id="245140" string="Autumn Dancer Rare Transparent Smart Box" toolTip="Autumn Dancer Rare Transparent Smart Box" />
+	<String id="245141" string="Autumn Dancer Common Purple Smart Box" toolTip="Autumn Dancer Common Purple Smart Box" />
+	<String id="245142" string="Autumn Footsteps Loot Box (250EMP)" toolTip="Autumn Footsteps A or B (250EMP)" />
+	<String id="245143" string="Fall 2019 Companion Loot Box" toolTip="This loot box is guaranteed to contain 300 Metamorphic Emblems. May also contain a Fall Partner, pet, or other companion system consumables." />
+	<String id="245144" string="Autumn Dancer Loot Box (295 EMP)" toolTip="Autumn Dancer Loot Box (295 EMP)" />
+	<String id="245145" string="Midnight Blue Hanbok Costume Smart Box" toolTip="Midnight Blue Hanbok Costume Smart Box" />
+	<String id="245146" string="Dyeable Spring Hanbok Loot Box (250 EMP)" toolTip="Dyeable Spring Hanbok Loot Box (250 EMP)" />
+	<String id="245147" string="Halloween Critter Crate (250 EMP)" toolTip="Loot Box that may contain the Rare Halloween 2019 Mount, Halloween 2019 Pet, Pet: Boo, Pet: Miss Katonic, Pet: Zero, Pet: Bonzai, Pet: Addams." />
+	<String id="245148" string="Common Halloween 2019 Costume" toolTip="Common Halloween 2019 Costume" />
+	<String id="245149" string="Dyeable Halloween 2019 Costume" toolTip="Dyeable Halloween 2019 Costume" />
+	<String id="245150" string="Rare Halloween 2019 Costume" toolTip="Rare Halloween 2019 Costume" />
+	<String id="245151" string="Dyeable Halloween Costume Loot Box (250 EMP)" toolTip="Dyeable Halloween Costume Loot Box (250 EMP)" />
+	<String id="245152" string="Aquamarine Spellforged Weapon Skin" toolTip="&quot;Crystal-blue neon that cuts through the night like a ray of hope.&quot;$BR$BRThis smart box contains an Aquamarine weapon skin suitable for your class. [Smart boxes automatically generate an exact match to the character who opens them.]" />
+	<String id="245153" string="Ultraviolet Spellforged Weapon Skin" toolTip="&quot;Crackling purple neon that feels like holding dark rage in your bare hands.&quot;$BR$BRThis smart box contains an Ultraviolet weapon skin suitable for your class. [Smart boxes automatically generate an exact match to the character who opens them.]" />
+	<String id="245154" string="Personal Aquamarine Spellforged Weapon Skin" toolTip="&quot;Crystal-blue neon that cuts through the night like a ray of hope.&quot;$BR$BRThis smart box contains a non-tradeable Aquamarine weapon skin suitable for your class. [Smart boxes automatically generate an exact match to the character who opens them.]" />
+	<String id="245155" string="Personal Ultraviolet Spellforged Weapon Skin" toolTip="&quot;Crackling purple neon that feels like holding dark rage in your bare hands.&quot;$BR$BRThis smart box contains a non-tradeable Ultraviolet weapon skin suitable for your class. [Smart boxes automatically generate an exact match to the character who opens them.]" />
+	<String id="245156" string="Ultraviolet Spellforged Loot Box" toolTip="So Ultra. Much Violet.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Ultraviolet Spellforged Weapon Skin (2%)&lt;BR>Modular Fashion Forward Chest (5–6) (5%)&lt;BR>Modular Fish Dish Chest (5–6) (10%)&lt;BR>Modular Noctenium Nation Chest (5–6) (40%)&lt;BR>Modular Potion Notion Chest (5–6) (25%)&lt;BR>Modular Pet Treat Chest (5–6) (5%)&lt;BR>Modular Cut Gem Chest (5–6) (8%)&lt;BR>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="245157" string="Aquamarine Spellforged Loot Box" toolTip="It may have a funny name, but it works just fine!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Aquamarine Spellforged Weapon Skin ( 2%)&lt;BR>Modular Fashion Forward Chest (5–6) (5%)&lt;BR>Modular Fish Dish Chest (5–6) (10%)&lt;BR>Modular Noctenium Nation Chest (5–6) (40%)&lt;BR>Modular Potion Notion Chest (5–6) (25%)&lt;BR>Modular Pet Treat Chest (5–6) (5%)&lt;BR>Modular Cut Gem Chest (5–6) (8%)&lt;BR>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="245158" string="Friendship is Magic Loot Box" toolTip="FRIENDSHIP IS MAGIC, YO!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Ultracorn (3%)&lt;BR>Flying Skill: Magasus ( 1%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (6%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="245159" string="Series 2 Companion Costume Bundle" toolTip="Contains two Series 2 &lt;font color ='FFA500'>companion costumes&lt;/font>. You must summon the appropriate companion to equip the costume.$BR$BRCoral Princess Eco$BRPico the Barbarian" />
+	<String id="245160" string="Stormcry Accessories" toolTip="Contains Stormcry accessories.&lt;br>&lt;br>Requires 10 empty inventory slots." />
+	<String id="245161" string="Stormcry: Warrior" toolTip="Contains a full set of Stormcry gear, suitable for a warrior.&lt;br>Can only be used by a warrior.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245162" string="Stormcry: Lancer" toolTip="Contains a full set of Stormcry gear, suitable for a lancer.&lt;br>Can only be used by a lancer.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245163" string="Stormcry: Slayer" toolTip="Contains a full set of Stormcry gear, suitable for a slayer.&lt;br>Can only be used by a slayer.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245164" string="Stormcry: Berserk" toolTip="Contains a full set of Stormcry gear, suitable for a berserk.&lt;br>Can only be used by a berserk.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245165" string="Stormcry: Sorcerer" toolTip="Contains a full set of Stormcry gear, suitable for a sorcerer.&lt;br>Can only be used by a sorcerer.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245166" string="Stormcry: Archer" toolTip="Contains a full set of Stormcry gear, suitable for a archer.&lt;br>Can only be used by a archer.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245167" string="Stormcry: Priest" toolTip="Contains a full set of Stormcry gear, suitable for a priest.&lt;br>Can only be used by a priest.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245168" string="Stormcry: Mystic" toolTip="Contains a full set of Stormcry gear, suitable for a mystic.&lt;br>Can only be used by a mystic.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245169" string="Stormcry: Reaper" toolTip="Contains a full set of Stormcry gear, suitable for a reaper.&lt;br>Can only be used by a reaper.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245170" string="Stormcry: Gunner" toolTip="Contains a full set of Stormcry gear, suitable for a gunner.&lt;br>Can only be used by a gunner.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245171" string="Stormcry: Brawler" toolTip="Contains a full set of Stormcry gear, suitable for a brawler.&lt;br>Can only be used by a brawler.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245172" string="Stormcry: Ninja" toolTip="Contains a full set of Stormcry gear, suitable for a ninja.&lt;br>Can only be used by a ninja.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245173" string="Stormcry: Valkyrie" toolTip="Contains a full set of Stormcry gear, suitable for a valkyrie.&lt;br>Can only be used by a valkyrie.&lt;br>Requires 17 empty inventory slots." />
+	<String id="245174" string="Full Stormcry Smart Box" toolTip="Contains a full set of Stormcry gear, suitable for your class.$BR$BR[Smart boxes automatically generate an exact match to the character who opens them.]" />
+	<String id="245175" string="Paddle-Power Loot Box" toolTip="This loot box is guaranteed to contain 300 Metamorphic Emblems. It may also contain a Royal Dragon Boat flying mount, dyad niveot structures, Golden or Silver Talents, Superior Noctenium Elixirs, Health Potions, Crafter’s Cures, or additional Metamorphic Emblems." />
+	<String id="245176" string="Surprise Pet Box" toolTip="Open this box to receive one of the following pets at random: Havana, Maltese, Brownie, Mouser, Simon, Totes, Cheeks, Felicity, Candyspinner, Dragonette, Rambo, Carnivorous Plant, Prince, Nugget, Fetch, Miss Kitty, Willoe, Dundee, Chef, Rocky, Madmartigan, Bam Bam, Bonzai, Addams, Clawd, Juicy, or Flaps!" />
+	<String id="245177" string="Level-Up Box" toolTip="Open this box to receive a Swift XP Potion (200%) (1 Day), plus a Skill Advancement 15% (1 Day)." />
+	<String id="245178" string="Terachic Boutique Bonanza Box" toolTip="Open this box to receive from 2,500 to 10,000 Terachic Boutique Coins!" />
+	<String id="245179" string="True Companion Box" toolTip="Open this box to receive one of the following companions, at random: Loo Superior, Kuncun Superior, Cocomin Superior, Eco Superior, Pico Superior, Loo Rare, Kuncun Rare, Cocomin Rare, Eco Rare, Pico Rare, Loo Uncommon, Kuncun Uncommon, Cocomin Uncommon, Eco Uncommon, or Pico Uncommon." />
+	<String id="245180" string="Fast Level-Up Box" toolTip="Open this box to receive an XP Giveaway (500 Million XP), plus a Swift XP Potion (350%) (1 Hour)." />
+	<String id="245181" string="Dragon's Dream Chest" toolTip="Open this chest to receive one of the following flying mounts at random: Iron Dragon Crimson Dragon, Diamond Dragon, Fang, Murk, Ignite, Brumal, Fume, or the Golden Dragon." />
+	<String id="245182" string="Perfect Wish Box VIII" toolTip="Open this box for a 50% chance to receive 5 Perfect Halidom &amp; Relic Tokens, or a 50% chance to receive a Perfect Accessory Token." />
+	<String id="245183" string="Perfect Wish Box VII" toolTip="Open this box for a 50% chance to receive a Dragon's Dream Chest, or a 50% chance to receive a Perfect Wish Box VIII." />
+	<String id="245184" string="Perfect Wish Box VI" toolTip="Open this box for a 50% chance to receive a Perfect Halidom &amp; Relic Token, or a 50% chance to receive a Perfect Wish Box VII." />
+	<String id="245185" string="Perfect Wish Box V" toolTip="Open this box for a 50% chance to receive a Fast Level-Up Box, or a 50% chance to receive a Perfect Wish Box VI." />
+	<String id="245186" string="Perfect Wish Box IV" toolTip="Open this box for a 50% chance to receive a True Companion Box, or a 50% chance to receive a Perfect Wish Box V." />
+	<String id="245187" string="Perfect Wish Box III" toolTip="Open this box for a 50% chance to receive a Terachic Boutique Bonanza Box, or a 50% chance to receive a Perfect Wish Box IV." />
+	<String id="245188" string="Perfect Wish Box II" toolTip="Open this box for a 50% chance to receive a Level-Up Box, or a 50% chance to receive a Perfect Wish Box III." />
+	<String id="245189" string="Perfect Wish Box I" toolTip="Open this box for a 50% chance to receive a 100% Pet Box, or a 50% chance to receive a Perfect Wish Box II." />
+	<String id="245190" string="Yule War 2019 Weapon Skin Smart Box" toolTip="This smart box contains a Yule War 2019 weapon skin suitable for your class. [Smart boxes automatically generate an exact match to the character who opens them.]" />
+	<String id="245191" string="Yule War 2019 Festive Footsteps Loot Box" toolTip="This loot box is guaranteed to contain 300 Metamorphic Emblems. It may also contain Footsteps: Freindly Festive or Footsteps: Frosty Festive, a Tree of Lights, dyad niveot structures, Golden or Silver Talents, Superior Noctenium Elixirs, Health Potions, Crafter’s Cures, or additional Metamorphic Emblems." />
+	<String id="245192" string="Yule War 2019 Weapon Skin Loot Box" toolTip="Packed full of holiday cheer!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Yule War 2019 Weapon Skin Smart Box (2%)&lt;BR>Tree of Lights (8%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (39%)&lt;BR>Modular Potion Notion Chest (4–5) (20%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (6%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="245193" string="Rare Guinea Pig Pet Loot Box (195 EMP)" toolTip="Rare Guinea Pig Pet Loot Box (195 EMP)" />
+	<String id="245194" string="Rare Black Bear Pet Loot Box (195 EMP)" toolTip="Rare Black Bear Pet Loot Box (195 EMP)" />
+	<String id="245195" string="Dyeable Angelic Costume Smartbox" toolTip="Dyeable Angelic Costume Smartbox" />
+	<String id="245196" string="Dyeable Fairy Costume Smartbox" toolTip="Dyeable Fairy Costume Smartbox" />
+	<String id="245197" string="Dyeable Royal Arcadia Costume Smartbox" toolTip="Dyeable Royal Arcadia Costume Smartbox" />
+	<String id="245198" string="Dyeable 2017 Maid Costume Smartbox (female only)" toolTip="Dyeable 2017 Maid Costume Smartbox (female only)" />
+	<String id="245199" string="[Dyeable] Apron Costume Smartbox (female only)" toolTip="[Dyeable] Apron Costume Smartbox (female only)" />
+	<String id="245200" string="[Unique] Apron Costume Smartbox (female only)" toolTip="[Unique] Apron Costume Smartbox (female only)" />
+	<String id="245201" string="[Normal] Apron Costume Smartbox (female only)" toolTip="[Normal] Apron Costume Smartbox (female only)" />
+	<String id="245202" string="Cute Headband Smartbox" toolTip="Cute Headband Smartbox" />
+	<String id="245203" string="Magical Weapon Smartbox" toolTip="Magical Weapon Smartbox" />
+	<String id="245204" string="Off-Shoulder Dress (Common)" toolTip="Off-Shoulder Dress (Common)" />
+	<String id="245205" string="Off-Shoulder Dress (Rare)" toolTip="Off-Shoulder Dress (Rare)" />
+	<String id="245206" string="Off-Shoulder Dress (Dyeable)" toolTip="Off-Shoulder Dress (Dyeable)" />
+	<String id="245207" string="Frozen Sakura (Common)" toolTip="Frozen Sakura (Common)" />
+	<String id="245208" string="Frozen Sakura (Rare)" toolTip="Frozen Sakura (Rare)" />
+	<String id="245209" string="Frozen Sakura Costume Loot Box (150 EMP)" toolTip="Frozen Sakura Costume Loot Box (150 EMP)" />
+	<String id="245210" string="Off-Shoulder Dress (Dyeable) Loot Box (195 EMP)" toolTip="Off-Shoulder Dress (Dyeable) Loot Box (195 EMP)" />
+	<String id="245211" string="Fishing Bag" toolTip="Fishing Bag" />
+	<String id="245212" string="Gem Bag" toolTip="Gem Bag" />
+	<String id="245213" string="Pet Bag" toolTip="Pet Bag" />
+	<String id="245214" string="Potions Bag" toolTip="Potions Bag" />
+	<String id="245215" string="Strength Bag" toolTip="Strength Bag" />
+	<String id="245216" string="Food Bag" toolTip="Food Bag" />
+	<String id="245217" string="Fashion Bag" toolTip="Fashion Bag" />
+	<String id="245218" string="Little Red costume (Common)" toolTip="Little Red costume (Common)" />
+	<String id="245219" string="Little Red costume (Rare)" toolTip="Little Red costume (Rare)" />
+	<String id="245220" string="Wolf costume(smartbox)" toolTip="Wolf costume(smartbox)" />
+	<String id="245221" string="Fairytale Friends (150 EMP)" toolTip="Fairytale Friends (150 EMP)" />
+	<String id="245222" string="Little Big Snow Puff Lootbox (195 EMP)" toolTip="Little Big Snow Puff Lootbox (195 EMP)" />
+	<String id="245223" string="Little Red and Fluffy Wolf Lootbox (195 EMP)" toolTip="Little Red and Fluffy Wolf Lootbox (195 EMP)" />
+	<String id="245224" string="Balder's Golden Weapon Skin Smart Box" toolTip="This smart box contains a Balder’s Golden Weapon Skin suitable for your class.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245225" string="Balder's Radiant Weapon Skin Smart Box" toolTip="This smart box contains a Balder’s Radiant Weapon Skin suitable for your class.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245226" string="Balder's Radiant Weapon Skin Loot Box" toolTip="May your weapons shine like the sky above!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>&lt;BR>Balder’s Radiant Weapon Skin Smart Box (0.5%)&lt;BR>Balder’s Golden Weapon Skin Smart Box (1.5%)&lt;BR>Modular Fashion Forward Chest (5-6) (5%)&lt;BR>Modular Fish Dish Chest (5-6) (10%)&lt;BR>Modular Noctenium Nation Chest (5-6) (40%)&lt;BR>Modular Potion Notion Chest (5-6) (25%)&lt;BR>Modular Pet Treat Chest (5-6) (5%)&lt;BR>Modular Cut Gem Chest (5-6) (8%)&lt;BR>Modular Great Bait Chest (5-6) (5%)" />
+	<String id="245227" string="Crimson Spellracer Loot Box" toolTip="Get on your bikes and ride!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>&lt;BR>Flying Skill: Crimson Spellracer (HP/MP+) (2%)&lt;BR>Modular Fashion Forward Chest (3-4) (5%)&lt;BR>Modular Fish Dish Chest (3-4) (10%)&lt;BR>Modular Noctenium Nation Chest (3-4) (40%)&lt;BR>Modular Potion Notion Chest (3-4 (25%)&lt;BR>Modular Pet Treat Chest (3-4) (5%)&lt;BR>Modular Cut Gem Chest (3-4) (8%)&lt;BR>Modular Great Bait Chest (3-4) (5%)" />
+	<String id="245228" string="Deluxe Sharkfighter Suit Smart Box" toolTip="A smart box containing a Deluxe Sharkfighter Suit costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245229" string="Dyeable Sharkfighter Suit Smart Box" toolTip="A smart box containing a Dyeable Sharkfighter Suit costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245230" string="Dyeable Sharkfighter Suit Loot Box" toolTip="You've got a lot of learning to do until you're a Sharkfighting master. First lesson, SWIM!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Contains one of the following items:&amp;lt;BR&amp;gt;Dyeable Sharkfighter Suit Smart Box (2%)&amp;lt;BR&amp;gt;Silver Shark Ribbon (1%)&amp;lt;BR&amp;gt;Black Boatswain’s Patch (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="245231" string="Platinum Modular Accessory Box" toolTip="Contains a Platinum Modular Helmet, Platinum Modular Wings, and a flight skill. (Requires a Modular Flight Suit to fly.)" />
+	<String id="245232" string="Golden Modular Accessory Box" toolTip="Contains a Golden Modular Helmet, Golden Modular Wings, and a flight skill. (Requires a Modular Flight Suit to fly.)" />
+	<String id="245233" string="Dyeable Modular Flight Suit Smart Box" toolTip="Contains a Dyeable Modular Flight Suit suitable for your race and gender. Modular Flight Suits require a flight skill (Mechanical Flight, Single Core Flight, Dual Core Flight) to fly.&lt;br>&lt;br>Using a flight skill while wearing a Modular Flight suit may also grant combat and restorative effects.&lt;br>&lt;br>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245234" string="Golden Modular Flight Suit Smart Box" toolTip="Contains a Golden Modular Flight Suit suitable for your race and gender. Modular Flight Suits require a flight skill (Mechanical Flight, Single Core Flight, Dual Core Flight) to fly.&lt;br>&lt;br>Using a flight skill while wearing a Modular Flight suit may also grant combat and restorative effects.&lt;br>&lt;br>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245235" string="Platinum Modular Flight Suit Bundle" toolTip="Contains a Platinum Modular Accessory box (ncluding a flight skill) and a non-tradable Platinum Modular Flight Suit.&lt;br>&lt;br>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245236" string="Dyeable Modular Flight Suit Loot Box" toolTip="Look, up in the sky! It's a polychromatic wonder of the world!&lt;br>&lt;br>Contains one of the following items:&lt;br>Dyeable Modular Flight Suit Smart Box (1%)&lt;br>Platinum Modular Wings (2%)&lt;br>Platinum Modular Helmet (2%)&lt;br>Modular Fashion Forward Chest (5–6) (5%)&lt;br>Modular Fish Dish Chest (5–6) (10%)&lt;br>Modular Noctenium Nation Chest (5–6) (40%)&lt;br>Modular Potion Notion Chest (5–6) (25%)&lt;br>Modular Pet Treat Chest (5–6) (5%)&lt;br>Modular Cut Gem Chest (5–6) (5%)&lt;br>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="245237" string="Casual Yukata Smart Box" toolTip="Contains a Casual Yukata costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245238" string="Distinguished Yukata Smart Box" toolTip="Contains a Distinguished Yukata costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245239" string="Dyeable Distinguished Yukata Smart Box" toolTip="Contains a Dyeable Distinguished Yukata costume suitable for your race and gender.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245240" string="Hagufna's Body Armor Smart Box" toolTip="Contains a costume piece in the style of Hagufna's signature look. While stylish, it does not confer immortality.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245241" string="Tidal Weapon Skin Smart Box" toolTip="A smart box containing a permanent Tidal weapon skin.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245242" string="Raging Torrent Smart Box" toolTip="A smart box containing a permanent Raging Torrent weapon skin.&lt;BR>[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="245243" string="Punkimus Rockimus Loot Box" toolTip="More Dinosaur than any one box can hold!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Rockimus Rex (0.5%)&lt;BR>Flying Skill: Punkimus Rex (1.5%)&lt;BR>Modular Fashion Forward Chest (6–8) (5%)&lt;BR>Modular Fish Dish Chest (6–8) (10%)&lt;BR>Modular Noctenium Nation Chest (6–8) (40%)&lt;BR>Modular Potion Notion Chest (6–8) (25%)&lt;BR>Modular Pet Treat Chest (6–8) (5%)&lt;BR>Modular Cut Gem Chest (6–8) (8%)&lt;BR>Modular Great Bait Chest (6–8) (5%)" />
+	<String id="245244" string="Stichimus Patchimus Loot Box" toolTip="More Dinosaur than any one box can hold!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Stichimus Rex (0.5%)&lt;BR>Flying Skill: Patchimus Rex (1.5%)&lt;BR>Modular Fashion Forward Chest (6–8) (5%)&lt;BR>Modular Fish Dish Chest (6–8) (10%)&lt;BR>Modular Noctenium Nation Chest (6–8) (40%)&lt;BR>Modular Potion Notion Chest (6–8) (25%)&lt;BR>Modular Pet Treat Chest (6–8) (5%)&lt;BR>Modular Cut Gem Chest (6–8) (8%)&lt;BR>Modular Great Bait Chest (6–8) (5%)" />
+	<String id="245245" string="Burnimus Fragimus Loot Box" toolTip="More Dinosaur than any one box can hold!&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Burnimus Rex (0.5%)&lt;BR>Flying Skill: Fragimus Rex (1.5%)&lt;BR>Modular Fashion Forward Chest (6–8) (5%)&lt;BR>Modular Fish Dish Chest (6–8) (10%)&lt;BR>Modular Noctenium Nation Chest (6–8) (40%)&lt;BR>Modular Potion Notion Chest (6–8) (25%)&lt;BR>Modular Pet Treat Chest (6–8) (5%)&lt;BR>Modular Cut Gem Chest (6–8) (8%)&lt;BR>Modular Great Bait Chest (6–8) (5%)" />
+	<String id="245246" string="Royal Mournwing Loot Box" toolTip="She may not look sturdy, but she's got it where it counts, kid.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Flying Skill: Royal Mournwing (HP/MP) (2%)&lt;BR>Modular Fashion Forward Chest (4–5) (5%)&lt;BR>Modular Fish Dish Chest (4–5) (10%)&lt;BR>Modular Noctenium Nation Chest (4–5) (40%)&lt;BR>Modular Potion Notion Chest (4–5) (25%)&lt;BR>Modular Pet Treat Chest (4–5) (5%)&lt;BR>Modular Cut Gem Chest (4–5) (8%)&lt;BR>Modular Great Bait Chest (4–5) (5%)" />
+	<String id="245247" string="Dyeable Distinguished Yukata Loot Box" toolTip="Pants-free fashion in whatever color you desire.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Dyeable Distinguished Yukata Smart Box (2%)&lt;BR>Modular Fashion Forward Chest (5–6) (5%)&lt;BR>Modular Fish Dish Chest (5–6) (10%)&lt;BR>Modular Noctenium Nation Chest (5–6) (40%)&lt;BR>Modular Potion Notion Chest (5–6) (25%)&lt;BR>Modular Pet Treat Chest (5–6) (5%)&lt;BR>Modular Cut Gem Chest (5–6) (8%)&lt;BR>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="245248" string="Personal Yukata Accessory Bundle" toolTip="Contains Parasols and Hairpins in several colors to match your favorite outfit." />
+	<String id="245249" string="Stylish Yukata Accessory Bundle" toolTip="Contains Flower Fans and TERAsols in several colors to match your favorite outfit." />
+	<String id="245250" string="Tidal Torrent Loot Box" toolTip="The ocean is dangerous. Never turn your back on the ocean.&lt;BR>&lt;BR>Contains one of the following items:&lt;BR>Raging Torrent Smart Box (0.5%)&lt;BR>Tidal Weapon Skin Smart Box (1.5%)&lt;BR>Modular Fashion Forward Chest (5–6) (5%)&lt;BR>Modular Fish Dish Chest (5–6) (10%)&lt;BR>Modular Noctenium Nation Chest (5–6) (40%)&lt;BR>Modular Potion Notion Chest (5–6) (25%)&lt;BR>Modular Pet Treat Chest (5–6) (5%)&lt;BR>Modular Cut Gem Chest (5–6) (8%)&lt;BR>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="245251" string="Rare Militray Costume Smartbox" toolTip="Rare Militray Costume Smartbox" />
+	<String id="245252" string="Dyeable Militray Costume Smartbox" toolTip="Dyeable Militray Costume Smartbox" />
+	<String id="245253" string="Common Militray Costume and Backpack Bundle" toolTip="Common Militray Costume and Backpack Bundle" />
+	<String id="245254" string="Military Costume Lootbox (250EMP)" toolTip="Military Costume Lootbox (250EMP)" />
+	<String id="245255" string="Pink Shark Lootbox (150EMP)" toolTip="Pink Shark Lootbox (150EMP)" />
+	<String id="245256" string="Blue Shark Lootbox (150EMP)" toolTip="Blue Shark Lootbox (150EMP)" />
+</StrSheet_Item>

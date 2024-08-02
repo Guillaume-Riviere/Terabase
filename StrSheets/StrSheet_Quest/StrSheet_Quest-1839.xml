@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50536001" string="[Solo] Olivung's Beginner Cooking Class" />
+	<String id="50536002" string="&quot;Okay.&quot;" />
+	<String id="50536003" string="Go to Meren in Highwatch." />
+	<String id="50536004" string="Use Personal Teleport Scroll: Olivung.&lt;br>&lt;br>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click Personal Teleport Scroll: Olivung to use.]" />
+	<String id="50536005" string="Island of Dawn — Southern Checkpoint" />
+	<String id="50536006" string="The cooking aroma is giving you an appetite." />
+	<String id="50536007" string="Approach Olivung at the Southern Checkpoint." />
+	<String id="50536008" string="&quot;Okay.&quot;" />
+	<String id="50536009" string="Speak with Olivung at the Southern Checkpoint." />
+	<String id="50536010" string="Bloodbound Teralith Core" />
+	<String id="50536011" string="Obtain a Brutal Bloodbound Teralith's Core and deliver it to Olivung." />
+	<String id="50536012" string="Taste the Bloodbound Salad." />
+	<String id="50536013" string="Try the Bloodbound Salad. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory, and select the Bloodbound Salad.]" />
+	<String id="50536014" string="Obtain the first piece of the Aspiration Stone." />
+	<String id="50536015" string="Speak with Olivung at the Southern Checkpoint." />
+	<String id="50536016" string="Use the first piece of the Aspiration Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory, and select the Aspiration Stone - First Piece.]" />
+	<String id="50536017" string="Claim reward." />
+	<String id="50536018" string="Speak with Olivung at the Southern Checkpoint." />
+</StrSheet_Quest>

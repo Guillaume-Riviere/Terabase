@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1385001" string="Always After Me Lucky Charms" />
+	<String id="1385002" string="Use this onslaught charm while standing next to a campfire." />
+	<String id="1385003" string="You can use up to three charms at once." />
+	<String id="1385004" string="Use an onslaught charm. To receive benefits, wait until your Stamina is 100%." />
+	<String id="1385005" string="You have successfully used the onslaught charm!" />
+	<String id="1385006" string="&quot;For the federation!&quot;" />
+	<String id="1385007" string="Successfully used charm. Talk to Milene for additional information." />
+</StrSheet_Quest>

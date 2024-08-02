@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19105001" string="Unravelling the Mystery" />
+	<String id="19105002" string="&quot;Understood.&quot;" />
+	<String id="19105003" string="&quot;I will.&quot;" />
+	<String id="19105004" string="Talk to Tirina Silverlane." />
+	<String id="19105005" string="Search the Parthian corpse." />
+	<String id="19105006" string="Look for &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#36378, 24041, 9087&amp;type=1&amp;name=another corpse&quot;>another corpse&lt;/A>&lt;/font>." />
+	<String id="19105007" string="Look for &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#36378, 24041, 9087&amp;type=1&amp;name=another corpse&quot;>another corpse&lt;/A>&lt;/font>." />
+	<String id="19105008" string="Parthian Corpse" />
+	<String id="19105009" string="Archdevan Seal" />
+	<String id="19105010" string="Report back to Tirene." />
+	<String id="19105011" string="&quot;Take your time.&quot;" />
+	<String id="19105012" string="&quot;Then do it. Lives hang in the balance.&quot;" />
+	<String id="19105013" string="Speak with Tirene." />
+	<String id="19105014" string="&quot;With his life!&quot;" />
+	<String id="19105015" string="Speak with Rhodos." />
+</StrSheet_Quest>

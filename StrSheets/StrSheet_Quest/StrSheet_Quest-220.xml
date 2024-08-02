@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="925001" string="Desperate Struggle for Survival" />
+	<String id="925002" string="Don't just stand there!" />
+	<String id="925003" string="Ugh! Disgusting!" />
+	<String id="925004" string="&quot;Glad to help.&quot;" />
+	<String id="925005" string="Collect mugato musk from mugato piles in the forest east of the camp." />
+	<String id="925006" string="Deliver the musk to Haitribus at the Relic Hunter Outpost." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1311001" string="Redeployment" />
+	<String id="1311002" string="The mission starts." />
+	<String id="1311003" string="&quot;I'll do that.&quot;" />
+	<String id="1311004" string="Talk to Bipi." />
+	<String id="1311005" string="Thin the orcan ranks." />
+	<String id="1311006" string="&quot;Stay safe!&quot;" />
+	<String id="1311007" string="Collect supply crates." />
+	<String id="1311008" string="Talk to Chione." />
+</StrSheet_Quest>

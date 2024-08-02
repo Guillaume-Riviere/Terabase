@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4722001" string="Supply Shortage" />
+	<String id="4722002" string="I'm sure salt will make it safe to eat." />
+	<String id="4722003" string="Brilliant idea!" />
+	<String id="4722004" string="Bear Meat" />
+	<String id="4722005" string="Kill {@creature:47#1001#Tirkai grizzlies} in the {@Rgn:47002$$Whitefrost Forest} southeast of {@Rgn:77001$$Pathfinder Post} and collect their meat." />
+	<String id="4722006" string="Go to {@Rgn:47006$$Field Base Lunacy} and deliver the bear meat to {@creature:247#1001$$Jadora}." />
+	<String id="4722007" string="&quot;Salt it really well.&quot;" />
+</StrSheet_Quest>

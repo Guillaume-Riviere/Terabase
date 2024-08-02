@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5586001" string="Suppression Orders: Mekonaris" />
+	<String id="5586002" string="Proof of Kill: Mekonaris" />
+	<String id="5586003" string="&quot;Always happy to lend a hand.&quot;" />
+	<String id="5586004" string="Kill the mekonari arcanathieves and depredators in the Plaza of the Fallen." />
+	<String id="5586005" string="Report to Jola at Valumnir Outpost." />
+</StrSheet_Quest>

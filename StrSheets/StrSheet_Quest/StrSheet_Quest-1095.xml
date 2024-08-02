@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4701001" string="Cleansing Tirkai" />
+	<String id="4701002" string="Meeting Point" />
+	<String id="4701003" string="Seir is waiting for you." />
+	<String id="4701004" string="Return to Velika and meet {@creature:63#1102$$Seir} in the Velika Consul Office." />
+	<String id="4701005" string="“Of course. How can I help?”" />
+	<String id="4701006" string="&quot;Has something happened?&quot;" />
+	<String id="4701007" string="Speak with {@creature:63#1102$$Seir} at Velika." />
+	<String id="4701008" string="&quot;I understand.&quot;" />
+	<String id="4701009" string="&quot;Huh?&quot;" />
+	<String id="4701010" string="Tell {@creature:63#1102$$Seir} that you're ready." />
+	<String id="4701011" string="&quot;I understand.&quot;" />
+	<String id="4701012" string="Talk to {@creature:63#1102$$Seir}." />
+	<String id="4701013" string="&quot;Yes, sir!&quot;" />
+	<String id="4701014" string="Report to Decurion {@creature:247#2001$$Verge} at Pathfinder Post.&#10;[Go to Flight Manager {@linkcreature:63#1009#Adela} or use a Pathfinder Post Teleport Scroll.]" />
+	<String id="4701015" string="&quot;I understand.&quot;" />
+	<String id="4701016" string="Report to {@creature:247#2002$$Yasring} at {@Rgn:47006$$Field Base Lunacy}.&#10;[Use the {@LinkCreature:77#1008#Teleportal} to go to Field Base Lunacy.]" />
+	<String id="4701017" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7023#-2969, -23444, 1019&amp;type=1&amp;name=contaminated mushrooms&quot;>{@RawItem:45271$$contaminated mushrooms}&lt;/A>&lt;/font> for Yasring's cleansing orbs." />
+	<String id="4701018" string="Hunt {@LinkCreature:47#2001#argonomorph caprin imps} and get ingredients for {@creature:247#2002$$Yasring}'s cleansing orbs." />
+	<String id="4701019" string="&quot;I understand.&quot;" />
+	<String id="4701020" string="Deliver the ingredients to Yasring." />
+	<String id="4701021" string="&quot;I understand.&quot;" />
+	<String id="4701022" string="Talk to {@creature:247#2002$$Yasring} in {@Rgn:47006$$Field Base Lunacy}." />
+	<String id="4701023" string="Use the orbs at {@Rgn:47003$$Bridgehead} to prevent the spread of contamination." />
+	<String id="4701024" string="Use the cleansing orb." />
+	<String id="4701025" string="Use the cleansing orb." />
+	<String id="4701026" string="Use the cleansing orb." />
+	<String id="4701027" string="Use the purifying orb to cleanse the corpses floating in the lake." />
+	<String id="4701028" string="&quot;I'll give them your orders.&quot;" />
+	<String id="4701029" string="Tell {@creature:247#2003$$Cheniel} at {@Rgn:47003$$Bridgehead} you purified the lake." />
+	<String id="4701030" string="&quot;I'll give them your orders.&quot;" />
+	<String id="4701031" string="Ask {@creature:247#2004$$Shemi} at {@Rgn:47003$$Bridgehead} to show you the trees." />
+	<String id="4701032" string="Tree of Life" />
+	<String id="4701033" string="The trees are just ahead." />
+	<String id="4701034" string="Go to the &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=trees&quot;>trees&lt;/A>&lt;/font>." />
+	<String id="4701035" string="Restore the tree with the Purifying Orb." />
+	<String id="4701036" string="&quot;Okay.&quot;" />
+	<String id="4701037" string="Tell {@creature:247#2003$$Cheniel} that you restored the trees." />
+</StrSheet_Quest>

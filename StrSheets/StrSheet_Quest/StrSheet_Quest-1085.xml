@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4632001" string="Evolving into Energy" />
+	<String id="4632002" string="Destroy {@creature:46#7004#aquaas extractors} and collect samples." />
+	<String id="4632003" string="Such highly evolved plants!" />
+	<String id="4632004" string="Evolved Plant Sample" />
+	<String id="4632005" string="Destroy {@creature:46#7004#aquaas extractors} in the {@Rgn:46010$$Raga Evala Spire} of {@Rgn:46001$$the Three Towers} and collect evolved plant samples." />
+	<String id="4632006" string="Deliver the evolved plant samples to {@creature:246#1036$$Jesspan}." />
+	<String id="4632007" string="&quot;I'll spread the word.&quot;" />
+	<String id="4632008" string="&quot;Thank you.&quot;" />
+	<String id="4632009" string="Go to {@Creature:246#1103$$Lensa} at {@Rgn:46014$$Three Towers Research Base} on the {@Rgn:46018$$Three Towers Upper Level}." />
+</StrSheet_Quest>

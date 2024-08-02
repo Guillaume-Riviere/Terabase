@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47226001" string="Grandpa's Stories" />
+	<String id="47226002" string="Please bring me the treasures of Baracos. I've spent my entire life dreaming about them!" />
+	<String id="47226003" string="What else is a lie? Do we really even exist?" />
+	<String id="47226004" string="Take the dagger." />
+	<String id="47226005" string="Take the bracelet." />
+	<String id="47226006" string="Examine treasure chests in the Golden Labyrinth.&#10;[You must select Golden Labyrinth (Solo) from the {@LinkCreature:208#1501#Teleportal} to advance this quest.] " />
+	<String id="47226007" string="&quot;Sorry I couldn't help more.&quot;" />
+	<String id="47226008" string="Deliver the recovered goods to Avil." />
+</StrSheet_Quest>

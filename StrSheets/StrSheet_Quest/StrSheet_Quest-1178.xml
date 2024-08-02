@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4942001" string="{@Creature:76#1011}'s Missive" />
+	<String id="4942002" string="Take the note." />
+	<String id="4942003" string="Find the stone grave with Linkia's next clue." />
+	<String id="4942004" string="Read {@LinkCreature:76#1011}'s note." />
+	<String id="4942005" string="Claim your reward." />
+	<String id="4942006" string="Find the stone grave with Linkia's next clue." />
+</StrSheet_Quest>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4802001" string="The Goddess of War" />
+	<String id="4802002" string="&quot;I'll do my best.&quot;" />
+	<String id="4802003" string="Report to {@LinkCreature:248#2001#Tamur} at {@Rgn:48002$$Khanovar Citadel} that you've collected the Sarjalod Components. " />
+	<String id="4802004" string="&quot;I understand.&quot;" />
+	<String id="4802005" string="Speak with {@LinkCreature:248#2010#Kaia} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="4802006" string="&quot;I understand.&quot;" />
+	<String id="4802007" string="Tell {@LinkCreature:248#2010#Kaia} at {@Rgn:48002$$Khanovar Citadel} that you're ready to fight the argons." />
+	<String id="4802008" string="Khanovar Gauntlet" />
+	<String id="4802009" string="Stand by Kaia." />
+	<String id="4802010" string="Head to the {@Rgn:9014001$$Khanovar Gauntlet} with {@LinkCreature:248#2010#Kaia}.&#10;[Speak with {@LinkCreature:248#2010#Goddess Kaia} to teleport to the Khanovar Gauntlet.]" />
+	<String id="4802011" string="Khanovar Gauntlet" />
+	<String id="4802012" string="Kaia enters the fray!" />
+	<String id="4802013" string="Stand at {@LinkCreature:248#2001$$War Goddess Kaia}'s side and prepare for battle." />
+	<String id="4802014" string="Defeat the swarming argons with {@LinkCreature:414#2001#Goddess Kaia} at {@Rgn:9014001$$Khanovar Gauntlet}." />
+	<String id="4802015" string="&quot;I understand.&quot;" />
+	<String id="4802016" string="Talk to {@LinkCreature:248#2001#Tamur} at {@Rgn:48002$$Khanovar Citadel}." />
+</StrSheet_Quest>

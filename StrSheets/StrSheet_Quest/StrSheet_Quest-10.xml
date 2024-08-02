@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="223001" string="Ribs to Spare" />
+	<String id="223002" string="Hunt warthogs near Woodcutter Palisade." />
+	<String id="223003" string="This well feed a lot of people." />
+	<String id="223004" string="Warthog Meat" />
+	<String id="223005" string="Collect meat from nearby warthogs." />
+	<String id="223006" string="Deliver the meat to Audburn at the Woodcutter Palisade." />
+	<String id="223007" string="&quot;Anything else?&quot;" />
+</StrSheet_Quest>

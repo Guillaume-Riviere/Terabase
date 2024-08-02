@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18202001" string="Intercepted Transmission" />
+	<String id="18202002" string="&quot;Thanks!&quot;" />
+	<String id="18202003" string="&quot;Let's go ask folks.&quot;" />
+	<String id="18202004" string="Speak with Zolyn." />
+	<String id="18202005" string="Temporary Cave Storage" />
+	<String id="18202006" string="Ask if anyone saw where the archdevan sorcerer went." />
+	<String id="18202007" string="Go to the Temporary Cave Storage and find the escaping archdevan sorcerer." />
+	<String id="18202008" string="&quot;Got it.&quot;" />
+	<String id="18202009" string="Find a witness." />
+	<String id="18202010" string="&quot;Thanks!&quot;" />
+	<String id="18202011" string="Ask at the west of the camp if anyone saw the archdevan sorcerer." />
+	<String id="18202012" string="&quot;Wait...what are you doing?&quot;" />
+	<String id="18202013" string="Head to the Skyshrine and confront the archdevan sorcerer." />
+	<String id="18202014" string="&quot;Good idea.&quot;" />
+	<String id="18202015" string="Tell Dougal about the archdevan sorcerer." />
+</StrSheet_Quest>

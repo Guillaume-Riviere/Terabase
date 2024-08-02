@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5730001" string="A Duty Forsworn" />
+	<String id="5730002" string="Thank you for your service to my people." />
+	<String id="5730003" string="This is a great tragedy." />
+	<String id="5730004" string="Crest of Sikander" />
+	<String id="5730005" string="Hunt the sikandari defenders around the Temple of Sikander." />
+	<String id="5730006" string="Report to Galaht at Broken Bridge Camp." />
+	<String id="5730007" string="&quot;I assure you, they won't be.&quot;" />
+</StrSheet_Quest>

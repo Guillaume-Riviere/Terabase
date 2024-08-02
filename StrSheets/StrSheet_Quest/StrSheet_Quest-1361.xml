@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5602001" string="Sikander's Bane" />
+	<String id="5602002" string="&quot;Right. Okay.&quot;" />
+	<String id="5602003" string="Ask Sonacria to help you locate the ritual." />
+	<String id="5602004" string="Amena Quatla—Sanctum of Resurrection Entrance" />
+	<String id="5602005" string="It seems to be a teleportal to the Sanctum of Resurrection." />
+	<String id="5602006" string="Climb the steps of the Temple of Sikander and look for a way to the sanctum." />
+	<String id="5602007" string="Sanctum of Resurrection" />
+	<String id="5602008" string="What kind of place is this?" />
+	<String id="5602009" string="Travel to the sanctum through the {@LinkCreature:257#1501#teleportal}." />
+	<String id="5602010" string="&quot;Right. Okay.&quot;" />
+	<String id="5602011" string="Speak with Avatar of Kaia." />
+	<String id="5602012" string="This ritual must succeed!" />
+	<String id="5602013" string="No! The ritual..." />
+	<String id="5602014" string="Sikander! Hear us!" />
+	<String id="5602015" string="So...close..." />
+	<String id="5602016" string="No! We won't fail, not after so long!" />
+	<String id="5602017" string="Sikander...please forgive..." />
+	<String id="5602018" string="Sikander! Give me strength!" />
+	<String id="5602019" string="Curse you! Curse...you all..." />
+	<String id="5602020" string="Eliminate the sikandari priests. Stop the ritual!&#10;[The priests will not take damage if the guards keep their food.]" />
+	<String id="5602021" string="&quot;Isrenia!&quot;" />
+	<String id="5602022" string="Protect Isrenia until she is ready." />
+	<String id="5602023" string="Defeat Kelsaik!&#10;[Kelsaik's HP has been reduced. This quest may proceed abnormally when Kelsaik is defeated.]" />
+	<String id="5602024" string="...I can't..." />
+	<String id="5602025" string="Speak with Avatar of Kaia." />
+	<String id="5602026" string="&quot;Let's go.&quot;" />
+	<String id="5602027" string="Speak with Avatar of Kaia again." />
+	<String id="5602028" string="&quot;I understand.&quot;" />
+	<String id="5602029" string="&quot;Thank you.&quot;" />
+	<String id="5602030" string="Speak to Kaia in Kaiator Command Center" />
+</StrSheet_Quest>

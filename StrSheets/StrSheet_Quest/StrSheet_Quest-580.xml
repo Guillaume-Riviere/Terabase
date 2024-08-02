@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2306001" string="Sibling Rivalry" />
+	<String id="2306002" string="&quot;Thank you.&quot;" />
+	<String id="2306003" string="Go to Rupeush at the Emergency Camp east of Pora Elinu." />
+	<String id="2306004" string="&quot;I'm ready.&quot;" />
+	<String id="2306005" string="Speak with Porthea." />
+	<String id="2306006" string="Speak with Rida and give her the hypnotic draught." />
+	<String id="2306007" string="Her expression softens as the draught takes effect. Suddenly, her eyes flash and she glares at you!" />
+	<String id="2306008" string="&quot;Count on me.&quot;" />
+	<String id="2306009" string="Speak with Princess Rida and convince her to make peace with Arin." />
+	<String id="2306010" string="Rhokasi's Heart" />
+	<String id="2306011" string="Kill Rhokasi the Mad at the Bloodtalon Camp east of the Lake of Tears." />
+	<String id="2306012" string="Bring Rhokasi's heart to Princess Rida in the Bloodtalon Camp." />
+	<String id="2306013" string="&quot;Very fair, Princess.&quot;" />
+	<String id="2306014" string="&quot;Okay.&quot;" />
+	<String id="2306015" string="Bring Princess Rida's letter to Princess Arin of Pora Elinu." />
+	<String id="2306016" string="&quot;I'll consider it.&quot;" />
+	<String id="2306017" string="Return to Pora Elinu and speak with Rida." />
+	<String id="2306018" string="&quot;Farewell, Princess.&quot;" />
+	<String id="2306019" string="Speak with Princess Arin." />
+	<String id="2306020" string="&quot;I'll do my best.&quot;" />
+	<String id="2306021" string="Speak with Lienyn." />
+</StrSheet_Quest>

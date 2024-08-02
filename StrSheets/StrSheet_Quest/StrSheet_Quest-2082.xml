@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61912001" string="[Fishing] When It's Time To Relax I" />
+	<String id="61912002" string="Hand over the Fish Soup." />
+	<String id="61912003" string="Deliver Fish Soup to {@linkcreature:83#9905#Ainve} at the Celsian Lake Fishery." />
+	<String id="61912004" string="" />
+	<String id="61912005" string="&quot;I got it.&quot;" />
+	<String id="61912006" string="Go to {@linkcreature:83#9905#Ainve} at the Celsian Lake Fishery." />
+	<String id="61912007" string="Ice Trail" />
+	<String id="61912008" string="You see a Crane Flower. Gather it." />
+	<String id="61912009" string="Go to the northern side of the Celsian Lake Fishery and find the Crane Flower." />
+	<String id="61912010" string="Gather the Crane Flower." />
+	<String id="61912011" string="" />
+	<String id="61912012" string="Crane Flower" />
+	<String id="61912013" string="Deliver the Crane Flower to {@linkcreature:83#9905#Ainve} at the Celsian Lake Fishery." />
+	<String id="61912014" string="Hand over the Crane Flower." />
+	<String id="61912015" string="Hand over the Silver Trout." />
+	<String id="61912016" string="Deliver Silver Trout ×3 to {@linkcreature:83#9905#Ainve} at the Celsian Lake Fishery." />
+	<String id="61912017" string="" />
+	<String id="61912018" string="Claim the reward." />
+	<String id="61912019" string="Go to {@linkcreature:83#9905#Ainve} in Celsian Lake." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5136001" string="Justice Must Be Served" />
+	<String id="5136002" string="They don't seem to have learned their previous lesson." />
+	<String id="5136003" string="Well fought, my friend." />
+	<String id="5136004" string="You puny whelp! No one can stop us!" />
+	<String id="5136005" string="But...Thulsa promised us immortality..." />
+	<String id="5136006" string="Kill the glacial giants in Raseri Festning." />
+	<String id="5136007" string="&quot;They will indeed.&quot;" />
+	<String id="5136008" string="Report back to Centurion Eildan." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51041001" string="Safety...No...Profit First!" />
+	<String id="51041002" string="&quot;Let's go.&quot;" />
+	<String id="51041003" string="Escort the Wagon to {@LinkCreature:207#6000#Gazarun} in Casidhe's Stand." />
+	<String id="51041004" string="Talk to Gazarun." />
+	<String id="51041005" string="Speak with {@LinkCreature:207#6000#Gazuarun}." />
+</StrSheet_Quest>

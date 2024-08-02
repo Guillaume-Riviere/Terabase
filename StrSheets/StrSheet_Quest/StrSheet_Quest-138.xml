@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="625001" string="Life-Risking Message" />
+	<String id="625002" string="Say hello to Zackran for me." />
+	<String id="625003" string="They're driving me nuts!" />
+	<String id="625004" string="&quot;For the federation!&quot;" />
+	<String id="625005" string="Go to Zackran at Echo Ranch." />
+</StrSheet_Quest>

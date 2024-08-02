@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4631001" string="Unbelievable Evolution" />
+	<String id="4631002" string="Treat the nightmare fiend blood like it's poison." />
+	<String id="4631003" string="We're close to figuring this whole thing out." />
+	<String id="4631004" string="Nightmare Blood" />
+	<String id="4631005" string="Kill {@creature:46#402#argonomorph nightmare fiends} in the {@Rgn:46011$$Raga Shadi Spire} of {@Rgn:46001$$the Three Towers} and collect their nightmare blood." />
+	<String id="4631006" string="Deliver the collected nightmare blood to {@creature:246#1035$$Flinton}." />
+	<String id="4631007" string="&quot;For the federation.&quot;" />
+	<String id="4631008" string="&quot;For the federation.&quot;" />
+	<String id="4631009" string="Go to {@Creature:246#1036$$Jesspan} in the {@Rgn:46024$$Soulsurge Chamber}." />
+</StrSheet_Quest>

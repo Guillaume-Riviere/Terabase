@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999924001" string="Collect Lime Deposits" />
+	<String id="999924002" string="[Spring Valley] Gather lime from deposits around the Hina Hot Springs." />
+	<String id="999924003" string="Lime Deposit" />
+	<String id="999924004" string="Claim your reward!" />
+	<String id="999924005" string="Lime Deposit" />
+</StrSheet_Quest>

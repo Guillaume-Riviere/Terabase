@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1229001" string="The Untrustworthy" />
+	<String id="1229002" string="Don't just stand there—get to work!" />
+	<String id="1229003" string="Nice work." />
+	<String id="1229004" string="Pirate's Weapon" />
+	<String id="1229005" string="Collect weapons from Red Lash killers near the northern Desolate Coast." />
+	<String id="1229006" string="Return to Kelius at the Vindicator Basecamp." />
+	<String id="1229007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

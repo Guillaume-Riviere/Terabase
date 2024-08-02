@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1224001" string="Dirken's Directive: Annoying Pirates" />
+	<String id="1224002" string="See if they ever challenge me again! Get it? Nevermind, get outta here!" />
+	<String id="1224003" string="That's the kind of message I like to send." />
+	<String id="1224004" string="Pirate's Eye" />
+	<String id="1224005" string="Defeat the Red Lash enforcers along Cutthroat Beach and collect their eyes." />
+	<String id="1224006" string="Deliver the eyes to Sidara." />
+	<String id="1224007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

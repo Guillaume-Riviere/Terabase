@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="526001" string="Understanding for a Price" />
+	<String id="526002" string="Good luck!" />
+	<String id="526003" string="You did very well!" />
+	<String id="526004" string="Drink the potion." />
+	<String id="526005" string="You drank the potion." />
+	<String id="526006" string="&quot;I will.&quot;" />
+	<String id="526007" string="Report to Jaedon." />
+	<String id="526008" string="Report to Jaedon." />
+	<String id="526009" string="Interrogate the tuwangi captive." />
+	<String id="526010" string="&quot;For the federation.&quot;" />
+	<String id="526011" string="Report to Jaedon." />
+</StrSheet_Quest>

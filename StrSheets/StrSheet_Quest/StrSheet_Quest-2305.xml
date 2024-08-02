@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800001001" string="Complete the Bastion of Lok!" />
+	<String id="800001002" string="[Bastion of Lok] Defeat Murdranak!" />
+	<String id="800001003" string="Claim your reward!" />
+</StrSheet_Quest>

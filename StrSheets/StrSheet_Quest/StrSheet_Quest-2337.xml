@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800047001" string="Hunt Sandlurker Lizards" />
+	<String id="800047002" string="[Tor Exsul] Hunt sandlurker lizards in the Raintree Oasis." />
+	<String id="800047003" string="Sandlurker Lizard" />
+	<String id="800047004" string="Claim your reward!" />
+</StrSheet_Quest>

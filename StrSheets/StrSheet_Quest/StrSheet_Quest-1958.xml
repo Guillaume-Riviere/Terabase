@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60108001" string="All in the Name of Science" />
+	<String id="60108002" string="See if you can assist Surdan." />
+	<String id="60108003" string="Ah, fresh specimens! Excellent." />
+	<String id="60108004" string="" />
+	<String id="60108005" string="" />
+	<String id="60108006" string="" />
+	<String id="60108007" string="Go see {@LinkCreature:245#3510#Surdan} at {@Rgn:45007$$Field Base Tenacity} in {@Rgn:45001$$Thrallhold}." />
+	<String id="60108008" string="&quot;Sure thing.&quot;" />
+	<String id="60108009" string="Argonomorph Horntoad Ichor" />
+	<String id="60108010" string="Kill {@LinkCreature:45#2002#argonomorph horntoads} near the {@Rgn:45003$$Vale of the Reaper} and collect their ichor." />
+	<String id="60108011" string="Deliver the ichor to {@LinkCreature:245#3510#Surdan} at {@Rgn:45007$$Field Base Tenacity}." />
+	<String id="60108012" string="&quot;You're welcome.&quot;" />
+	<String id="60108013" string="Tainted Fiend Blood" />
+	<String id="60108014" string="Kill {@LinkCreature:45#2001#argonomorph blood fiends} around the {@Rgn:45003$$Vale of the Reaper} and collect their blood." />
+	<String id="60108015" string="Deliver the blood samples to {@LinkCreature:245#3510#Surdan} at {@Rgn:45007$$Field Base Tenacity}." />
+	<String id="60108016" string="&quot;Happy to help.&quot;" />
+	<String id="60108017" string="&quot;My pleasure.&quot;" />
+	<String id="60108018" string="Collect samples of duckweed growing in the {@Rgn:45003$$Vale of the Reaper}." />
+	<String id="60108019" string="Deliver the duckweed to {@LinkCreature:245#3510#Surdan} at {@Rgn:45007$$Field Base Tenacity}." />
+</StrSheet_Quest>

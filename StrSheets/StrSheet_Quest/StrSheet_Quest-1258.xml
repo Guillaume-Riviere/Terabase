@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5204001" string="Thulsa's Doom" />
+	<String id="5204002" string="&quot;I understand.&quot;" />
+	<String id="5204003" string="Go to the cave at the northern end, where the Valkyon Federation soldiers are preparing to launch an attack on the Ebon Tower. Then meet with Centurion Traveron and find out about the tower." />
+	<String id="5204004" string="Enter the Ebon Tower." />
+	<String id="5204005" string="Go to the Ebon Tower {@LinkCreature:251#1501#teleportal} with Killian's gem." />
+	<String id="5204006" string="Go to the Ebon Tower teleportal with Killian's gem." />
+	<String id="5204007" string="Enter the Ebon Tower and defeat {@LinkCreature:3009#2101#Maceris}.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]  " />
+	<String id="5204008" string="Intruders...shall...die..." />
+	<String id="5204009" string="Forgive me, Thulsa!" />
+	<String id="5204010" string="Defeat {@LinkCreature:3009#5102#Kaersidar}." />
+	<String id="5204011" string="Defeat {@LinkCreature:3009#5101#Bloodstone}." />
+	<String id="5204012" string="I'll grant you death..." />
+	<String id="5204013" string="This can't be...I should have the power!" />
+	<String id="5204014" string="Go to the Altar of Death and defeat Thulsa." />
+	<String id="5204015" string="Inner Chamber of the Ebon Tower" />
+	<String id="5204016" string="I think Thulsa escaped through the teleportal!" />
+	<String id="5204017" string="Go after Thulsa! He's escaping!" />
+	<String id="5204018" string="Chase after Thulsa." />
+	<String id="5204019" string="Investigate the Ebon Tower {@LinkCreature:251#1501#teleportal} in Vale of Spires to find traces of Thulsa." />
+</StrSheet_Quest>

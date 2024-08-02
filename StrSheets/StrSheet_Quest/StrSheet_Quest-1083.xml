@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4630001" string="We Interrupt This Program" />
+	<String id="4630002" string="Confront the {@creature:46#401}s—off with their heads!" />
+	<String id="4630003" string="I don't know what I expected, but I didn't expect this!" />
+	<String id="4630004" string="Warlord Head" />
+	<String id="4630005" string="Kill {@creature:46#401}s in the {@Rgn:46012$$Raga Kabash Spire} and collect warlord heads." />
+	<String id="4630006" string="Go to the {@Rgn:46017$$Shadowspark Chamber} and deliver the golem heads to {@Creature:246#1033$$Hapian}." />
+	<String id="4630007" string="&quot;On my way.&quot;" />
+	<String id="4630008" string="&quot;Thanks for this.&quot;" />
+	<String id="4630009" string="Go to {@creature:246#1035$$Flinton} in the {@Rgn:46023$$Twistblood Chamber}." />
+</StrSheet_Quest>

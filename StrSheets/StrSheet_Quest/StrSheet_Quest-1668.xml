@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18301001" string="Making Connections" />
+	<String id="18301002" string="&quot;Count on me.&quot;" />
+	<String id="18301003" string="In front of Velika teleportal guard" />
+	<String id="18301004" string="" />
+	<String id="18301005" string="Talk to Garm, then use the teleportal to go to Velika." />
+	<String id="18301006" string="&quot;Got it.&quot;" />
+	<String id="18301007" string="Talk to Gulan in Velika." />
+	<String id="18301008" string="In front of Highwatch teleportal guard" />
+	<String id="18301009" string="" />
+	<String id="18301010" string="Talk to Gulan, then use the teleportal to return to Highwatch." />
+	<String id="18301011" string="&quot;Thank you, Garm.&quot;" />
+	<String id="18301012" string="Talk to Garm." />
+</StrSheet_Quest>

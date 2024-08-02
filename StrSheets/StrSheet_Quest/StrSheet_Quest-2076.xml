@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61906001" string="[Fishing] Catch a Giant Catfish" />
+	<String id="61906002" string="&quot;I got it.&quot;" />
+	<String id="61906003" string="Go to {@linkcreature:207#1001#Mattin} in Sanctum Mysterium." />
+	<String id="61906004" string="&quot;I got it.&quot;" />
+	<String id="61906005" string="Go to {@linkcreature:207#9903#Duridine} at the Muricai Fishery." />
+	<String id="61906006" string="&quot;Got the Giant Catfish.&quot;" />
+	<String id="61906007" string="Go to {@linkcreature:207#1001#Mattin} after catching a Giant Catfish at the Muricai Fishery." />
+	<String id="61906008" string="" />
+	<String id="61906009" string="&quot;I got it.&quot;" />
+	<String id="61906010" string="Go to {@linkcreature:207#9903#Duridine} at the Muricai Fishery." />
+</StrSheet_Quest>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1372001" string="Lancer Training" />
+	<String id="1372002" string="Time to learn new skills!" />
+	<String id="1372003" string="Impressive. Could I ask you to do something even harder?" />
+	<String id="1372004" string="Learn new skills." />
+	<String id="1372005" string="Receive information on how to learn combat skills from Junia at Dulari's Camp." />
+	<String id="1372006" string="Learn Shield Barrage from the Instructor or the Skills menu (K key)." />
+	<String id="1372007" string="You have learned Shield Barrage!" />
+	<String id="1372008" string="&quot;Understood.&quot;" />
+	<String id="1372009" string="Report to Junia." />
+	<String id="1372010" string="&quot;Understood.&quot;" />
+	<String id="1372011" string="Speak with Dulari again." />
+	<String id="1372012" string="Noruk Hide" />
+	<String id="1372013" string="Hunt the noruks and collect their hides." />
+	<String id="1372014" string="Go and visit Nivek." />
+	<String id="1372015" string="&quot;Understood.&quot;" />
+</StrSheet_Quest>

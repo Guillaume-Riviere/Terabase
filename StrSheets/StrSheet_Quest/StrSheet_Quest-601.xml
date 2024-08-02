@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2371001" string="(Guild) Suppression Orders: Molten Fangspawns" />
+	<String id="2371002" string="Proof of Kill: Fangspawn Deaths" />
+	<String id="2371003" string="&quot;For Valkyon!&quot;" />
+	<String id="2371004" string="Eliminate the molten fangspawn in the Lake of Tears." />
+	<String id="2371005" string="Report to Nidella in Pora Elinu." />
+</StrSheet_Quest>

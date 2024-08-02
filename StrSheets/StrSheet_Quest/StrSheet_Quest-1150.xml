@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4849001" string="Downsizing the Argons" />
+	<String id="4849002" string="Watch out for the iknephars." />
+	<String id="4849003" string="Your contributions will be noted in my report to high command." />
+	<String id="4849004" string="Kill iknephar prelates and kalash sentinels in Valgurati Stronghold." />
+	<String id="4849005" string="&quot;For the federation.&quot;" />
+	<String id="4849006" string="Report to {@LinkCreature:248#1043}." />
+</StrSheet_Quest>

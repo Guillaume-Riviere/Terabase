@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3901001" string="Unveil the Mask" />
+	<String id="3901002" string="&quot;Let's go.&quot;" />
+	<String id="3901003" string="Ask {@linkcreature:240#1050#Fraya} what to do after you find the source of the material. " />
+	<String id="3901004" string="&quot;I understand.&quot;" />
+	<String id="3901005" string="Fraya" />
+	<String id="3901006" string="Morbolith Fragment" />
+	<String id="3901007" string="Bring the morbolith fragment to Ryshan at Mysterium Headquarters in Allemantheia." />
+	<String id="3901008" string="&quot;I understand.&quot;" />
+	<String id="3901009" string="Ryshan" />
+	<String id="3901010" string="Morbolith Fragment" />
+	<String id="3901011" string="Talk to Malachai while Ryshan is busy." />
+	<String id="3901012" string="&quot;I understand.&quot;" />
+	<String id="3901013" string="&quot;I understand.&quot;" />
+	<String id="3901014" string="Confirm this change is okay with Ryshan." />
+	<String id="3901015" string="&quot;I understand.&quot;" />
+	<String id="3901016" string="Find Fraya in Frontera, and give her your report." />
+	<String id="3901017" string="&quot;I understand.&quot;" />
+	<String id="3901018" string="Speak with {@linkcreature:240#1034#Kaleon} in Arachne's Bane.&#10;[Use the {@linkcreature:75#1015#Teleportal} to go to Arachne's Bane.]" />
+	<String id="3901019" string="&quot;Let's go.&quot;" />
+	<String id="3901020" string="Speak with {@linkcreature:240#1034#Kaleon}." />
+	<String id="3901021" string="&quot;I understand.&quot;" />
+	<String id="3901022" string="&quot;I understand.&quot;" />
+	<String id="3901023" string="Speak with {@linkcreature:239#1100#Kaleon} at Retribution Point in Arachnaea." />
+	<String id="3901024" string="Kill the enemies of Thulsa!" />
+	<String id="3901025" string="Thulsa...I've failed you!" />
+	<String id="3901026" string="Defeat {@linkcreature:39#250#Kaligos} and {@linkcreature:39#260#Telremnas} guarding the morbolith mills." />
+	<String id="3901027" string="Activate the {@LinkObject:37#mill}, then pick up a morbolith fragment." />
+	<String id="3901028" string="Morbolith Fragment" />
+	<String id="3901029" string="Bring the morbolith fragments to {@linkcreature:239#1050#Kaleon} at the Wary Vigil." />
+	<String id="3901030" string="&quot;I understand.&quot;" />
+	<String id="3901031" string="Use the purifying flame on the sanctified mill to destroy it." />
+	<String id="3901032" string="&quot;I understand.&quot;" />
+	<String id="3901033" string="Inform {@linkcreature:239#1100#Kaleon} at the Wary Vigil that you destroyed the Sanctified Mill." />
+	<String id="3901034" string="&quot;I understand.&quot;" />
+	<String id="3901035" string="Ask Fraya why the research was stopped." />
+	<String id="3901036" string="Fraya" />
+	<String id="3901037" string="This must be the place you're meeting Fraya." />
+	<String id="3901038" string="Go to the {@linkcreature:239#1039#meeting location} at Wary Vigil." />
+	<String id="3901039" string="&quot;I understand.&quot;" />
+	<String id="3901040" string="Talk to Fraya." />
+	<String id="3901041" string="I've got you now!" />
+	<String id="3901042" string="Lord Thulsa, we've failed!" />
+	<String id="3901043" string="Use the {@linkcreature:239#1040#teleportal} to team up with Fraya in the Hidden Shrine and defeat Brigadier Akeldama." />
+	<String id="3901044" string="&quot;I understand.&quot;" />
+	<String id="3901045" string="Speak with {@linkcreature:407#1004#Fraya} in the Hidden Shrine.&lt;BR>[Use the {@LinkCreature:239#1040#teleportal} to enter Hidden Shrine." />
+	<String id="3901046" string="&quot;I understand.&quot;" />
+	<String id="3901047" string="Speak with {@linkcreature:72#1134#Alnosk} at Malachai's Lab. " />
+	<String id="3901048" string="Fools!" />
+	<String id="3901049" string="What? How can this be?" />
+	<String id="3901050" string="Use the {@linkcreature:72#1061#teleportal} to enter Malachai's Lab. Tell {@linkcreature:408#1007#Fraya} you're ready, then defeat Thulsa.&lt;BR>[Thulsa appears after you answer Fraya.]" />
+	<String id="3901051" string="&quot;Thank you.&quot;" />
+	<String id="3901052" string="Speak with Fraya inside Malachai's Lab." />
+</StrSheet_Quest>

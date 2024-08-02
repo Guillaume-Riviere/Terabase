@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6368001" string="Purchase Authorization - Master Supplies" />
+	<String id="6368002" string="OK." />
+	<String id="6368003" string="Talk to Supply Comissioner {@creature:63#6115$$Mia}." />
+</StrSheet_Quest>

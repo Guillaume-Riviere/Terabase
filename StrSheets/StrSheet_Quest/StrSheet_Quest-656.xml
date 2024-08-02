@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2571001" string="(Guild) Suppression Orders: Undead Soldiers" />
+	<String id="2571002" string="Proof of Kill: Undead Soldier Deaths" />
+	<String id="2571003" string="&quot;Glad to be of service.&quot;" />
+	<String id="2571004" string="Eliminate the undead and cultists in the Shattered City." />
+	<String id="2571005" string="Report to Delwen in Tulufan." />
+</StrSheet_Quest>

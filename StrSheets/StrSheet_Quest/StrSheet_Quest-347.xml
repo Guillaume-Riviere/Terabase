@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1323001" string="Getting Some Answers" />
+	<String id="1323002" string="Ghilliedhus turn red when enraged. Be careful!" />
+	<String id="1323003" string="Good samples!" />
+	<String id="1323004" string="Ghilliedhu Claws" />
+	<String id="1323005" string="Hunt ghilliedhus and collect ghilliedhu claws." />
+	<String id="1323006" string="Take the claws to Dulari at his camp." />
+	<String id="1323007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

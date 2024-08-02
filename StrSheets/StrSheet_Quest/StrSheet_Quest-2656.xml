@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999945001" string="Hunt the Bloodthrall Corps" />
+	<String id="999945002" string="[Arx Umbra] Hunt down the Parthian Bloodthrall Corps and take their sigils." />
+	<String id="999945003" string="Parthian Sigil" />
+	<String id="999945004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3422001" string="An Elf's Best Friend" />
+	<String id="3422002" string="He's willing to pay well for them." />
+	<String id="3422003" string="Just what I needed!" />
+	<String id="3422004" string="&quot;Thank you.&quot;" />
+	<String id="3422005" string="Collect barbed diamonds along the Ice Trail south of Bleakrock." />
+	<String id="3422006" string="Deliver the barbed diamonds to Forsil in Bleakrock." />
+</StrSheet_Quest>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2308001" string="The Precocious Apprentice" />
+	<String id="2308002" string="Confront Taera in Serena's Park and take her diary." />
+	<String id="2308003" string="&quot;Okay.&quot;" />
+	<String id="2308004" string="Take Taera's diary to Wheelow." />
+	<String id="2308005" string="Take Taera's diary to Wheelow." />
+	<String id="2308006" string="&quot;I'll get going.&quot;" />
+	<String id="2308007" string="Find Tarin at the Professors Redoubt." />
+	<String id="2308008" string="&quot;Sure, I can do that.&quot;" />
+	<String id="2308009" string="Find Cordella in the Malefic Laboratories." />
+	<String id="2308010" string="&quot;I'll do what I can.&quot;" />
+	<String id="2308011" string="Use the teleportal in the Hall of Vadoma to follow Hallie, and protect her at all costs." />
+	<String id="2308012" string="Reactivate the ephemeral guardian." />
+	<String id="2308013" string="Protect Hallie while she restores the ephemeral guardian." />
+	<String id="2308014" string="Okay." />
+	<String id="2308015" string="Speak with Hallie." />
+	<String id="2308016" string="Activate the ephemeral guardian." />
+	<String id="2308017" string="&quot;I'll do my best.&quot;" />
+	<String id="2308018" string="Return to Beryn at Pora Elinu." />
+</StrSheet_Quest>

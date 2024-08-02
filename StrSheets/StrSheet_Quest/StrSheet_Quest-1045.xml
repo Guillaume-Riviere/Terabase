@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4521001" string="A Little Help" />
+	<String id="4521002" string="You're passing through. We have to stay." />
+	<String id="4521003" string="We kill them, but there are always more." />
+	<String id="4521004" string="Kill {@Creature:45#1001#kelba chargers} east of the {@Rgn:45002$$Tower Approach}." />
+	<String id="4521005" string="&quot;Thanks.&quot;" />
+	<String id="4521006" string="Go to {@Rgn:45010$$Valor Watchpoint} and talk to Laskan." />
+</StrSheet_Quest>

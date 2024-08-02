@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="801001" string="Whereabouts of the Core" />
+	<String id="801002" string="&quot;Alright.&quot;" />
+	<String id="801003" string="Report to Fraya at Allemantheia Headquarters.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter the Allemantheia Headquarters.]" />
+	<String id="801004" string="&quot;Okay.&quot;" />
+	<String id="801005" string="Go to Velika and find Priestess Ciebel at Velik's Steps." />
+	<String id="801006" string="&quot;Okay.&quot;" />
+	<String id="801007" string="Meet with Elleon in Castanica in Ostgarath Province." />
+	<String id="801008" string="&quot;Okay.&quot;" />
+	<String id="801009" string="Speak with Commander Fraya in Castanica." />
+	<String id="801010" string="&quot;Okay.&quot;" />
+	<String id="801011" string="Go to the Hungry Caverns and find Smernav at the Avenger Outpost.&#10;[Use the {@linkcreature:61#1009#Teleportal} to go to Avenger Outpost.]" />
+	<String id="801012" string="Kill Dulinka and his mekkitars at the southern end of the Cavern of Shackles.&#10;[Use the elevator or speak with {@linkcreature:208#2000#Tadan} to go to Hungry Caverns Vaults.]" />
+	<String id="801013" string="&quot;Okay.&quot;" />
+	<String id="801014" string="Interrogate the gula leader Gluorn." />
+	<String id="801015" string="&quot;Let's go.&quot;" />
+	<String id="801016" string="Elleon is nearby. Report to {@linkcreature:208#1041#Elleon} that you obtained Gluorn's Ledger." />
+	<String id="801017" string="&quot;I understand.&quot;" />
+	<String id="801018" string="Bring Gluorn's Ledger to Commander Fraya in Castanica." />
+	<String id="801019" string="Gluorn's Ledger" />
+	<String id="801020" string="Bring Gluorn's Ledger to Commander Fraya in Castanica." />
+	<String id="801021" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

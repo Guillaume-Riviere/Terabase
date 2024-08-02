@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700127001" string="Complete Velik's Hold" />
+	<String id="700127002" string="[Velik's Hold] Defeat Veldeg!" />
+	<String id="700127003" string="Claim your reward!" />
+</StrSheet_Quest>

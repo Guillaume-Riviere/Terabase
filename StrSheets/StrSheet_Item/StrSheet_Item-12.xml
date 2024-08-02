@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="370001" string="HP Recovery&lt;br>Upon Kill +3%" toolTip="Recovers +3% HP upon killing an enemy." />
+	<String id="370002" string="+4% Damage Against&lt;br>Knocked-Down Enemies" toolTip="Increases damage by 4% against knocked-down enemies." />
+	<String id="370003" string="Damage Reduction&lt;br>While Knocked Down -4%" toolTip="Decreases damage received when knocked down by 4%." />
+	<String id="370004" string="+3% Damage Against&lt;br>Enemies Below 30% HP" toolTip="Increases damage by 3% against enemies below 30% HP." />
+	<String id="370005" string="-2% Damage Below 50% HP" toolTip="Decreases damage received by 2% when HP falls below 50%." />
+	<String id="370006" string="+5% Crit Power When&lt;br>Attacking From Behind" toolTip="Increases Crit Power by 5% when attacking from behind." />
+	<String id="370007" string="Attack Increase&lt;br>(Level 8+) +4%" toolTip="Increases Attack by 4% when your level is 8 or above." />
+	<String id="370008" string="Attack Bonus +1%" toolTip="Increases Attack by 1%." />
+	<String id="370009" string="Attack Bonus +0.5%" toolTip="Increases Attack by 0.5%." />
+	<String id="370010" string="Crit Factor Bonus +15" toolTip="Increases Crit Factor by 15." />
+	<String id="370011" string="Crit Factor Bonus +10" toolTip="Increases Crit Factor by 10." />
+	<String id="370012" string="Crit Power Bonus +0.03" toolTip="Increases Crit Power by 0.03." />
+	<String id="370013" string="Crit Power Bonus +0.02" toolTip="Increases Crit Power by 0.02." />
+	<String id="370014" string="Attack Speed Bonus +1.5" toolTip="Increases Attack Speed by 1.5." />
+	<String id="370015" string="Attack Speed Bonus +1" toolTip="Increases Attack Speed by 1." />
+	<String id="370016" string="Damage Reduction&lt;br>Bonus +1%" toolTip="Decreases damage received by 1%." />
+	<String id="370017" string="Damage Reduction&lt;br>Bonus +0.5%" toolTip="Decreases damage received by 0.5%." />
+	<String id="370018" string="Crit Resist&lt;br>Factor Bonus +24" toolTip="Increases Crit Resist Factor by 24." />
+	<String id="370019" string="Crit Resist&lt;br>Factor Bonus +12" toolTip="Increases Crit Resist Factor by 12." />
+	<String id="370020" string="Crit Damage&lt;br>Reduction Bonus +0.04" toolTip="Decreases Crit Damage received by 0.04." />
+	<String id="370021" string="Crit Damage&lt;br>Reduction +0.02" toolTip="Decreases Crit Damage received by 0.02." />
+	<String id="370022" string="HP Regen per 5 Sec +130" toolTip="Recovers 130 HP per 5 seconds." />
+	<String id="370023" string="HP Regen per 5 Sec +65" toolTip="Recovers 65 HP per 5 seconds." />
+	<String id="370024" string="Max HP Bonus +700" toolTip="Increases Max HP by 700." />
+	<String id="370025" string="Max HP Bonus +350" toolTip="Increases Max HP by 350." />
+	<String id="370026" string="Movement Bonus +2" toolTip="Increases Movement Speed by 2." />
+	<String id="370027" string="Movement Bonus +1.5" toolTip="Increases Movement Speed by 1.5." />
+	<String id="371101" string="Medieval Knight Braga Fragment" toolTip="Wiseguard" />
+	<String id="371102" string="SWAT Braga Fragment" toolTip="Wiseguard" />
+	<String id="371201" string="Hero Dougal Fragment" toolTip="Velika Garrison Consul" />
+	<String id="371202" string="Death Knight Dougal Fragment" toolTip="Velika Garrison Consul" />
+	<String id="371301" string="Fragment: Officer Rhodos" toolTip="Khirian Commander" />
+	<String id="371302" string="Fragment: Passionate Rhodos" toolTip="Khirian Commander" />
+	<String id="371401" string="Pool Party Fraya Fragment" toolTip="Commander of Allemantheia" />
+	<String id="371402" string="Shirt Fraya Fragment" toolTip="Commander of Allemantheia" />
+	<String id="371501" string="Tailcoat Elleon Fragment" toolTip="Valkyon Federation Hero" />
+	<String id="371502" string="Sportswear Elleon Fragment" toolTip="Valkyon Federation Hero" />
+	<String id="371601" string="Cheerleader Shizuna Fragment" toolTip="Shadow of Elinu" />
+	<String id="371602" string="Skilled Cadet Shizuna Fragment" toolTip="Shadow of Elinu" />
+	<String id="371701" string="Pilot Teolung Fragment" toolTip="Veteran Mercenary" />
+	<String id="371702" string="Clown Teolung Fragment" toolTip="Veteran Mercenary" />
+	<String id="371801" string="Secret Agent Ciebel Fragment" toolTip="Agent of Velik" />
+	<String id="371802" string="Sailor Ciebel Fragment" toolTip="Agent of Velik" />
+	<String id="371901" string="Count Ryshan Fragment" toolTip="Master Sorcerer" />
+	<String id="371902" string="Steampunk Ryshan Fragment" toolTip="Master Sorcerer" />
+	<String id="372001" string="Fragment: Maid Niniel" toolTip="Battlefield Star" />
+	<String id="372002" string="Fragment: Nurse Niniel" toolTip="Battlefield Star" />
+	<String id="372101" string="Student Councilor Zolyn Fragment" toolTip="Paraanon Protectors" />
+	<String id="372102" string="Magician Zolyn Fragment" toolTip="Paraanon Protectors" />
+	<String id="372201" string="Snowboarder Astina Fragment" toolTip="Seeker of Truth" />
+	<String id="372202" string="TGIF Astina Fragment" toolTip="Seeker of Truth" />
+	<String id="372401" string="Cowboy Erhaan Fragment" toolTip="Troubled Scholar" />
+	<String id="372402" string="Dark Erhaan Fragment" toolTip="Troubled Scholar" />
+	<String id="372501" string="Fragment: Dragon Knight Kaia" toolTip="Goddess of War" />
+	<String id="372502" string="Fragment: Light Warrior Kaia" toolTip="Goddess of War" />
+	<String id="372601" string="Sky Captain Dixie Fragment" toolTip="Crimson Wolf Pirate" />
+	<String id="372602" string="Hanbok Dixie Fragment" toolTip="Crimson Wolf Pirate" />
+	<String id="372901" string="Hiphop Shaoron Fragment" toolTip="Wandering Martial Artist" />
+	<String id="372902" string="Serious Business Shaoron Fragment" toolTip="Wandering Martial Artist" />
+	<String id="373001" string="Duck Woopu Fragment" toolTip="Prodigal Gunner" />
+	<String id="373002" string="Pink Bear Woopu Fragment" toolTip="Prodigal Gunner" />
+	<String id="373101" string="Pool Titus Fragment" toolTip="Explosives Expert" />
+	<String id="373102" string="Bully Titus Fragment" toolTip="Explosives Expert" />
+	<String id="373301" string="Goblin Chef Paesyn Fragment" toolTip="Federation Engineer" />
+	<String id="373302" string="Yell Leader Paesyn Fragment" toolTip="Federation Engineer" />
+	<String id="373401" string="Robot Mutar Fragment" toolTip="Ruthless Slayer" />
+	<String id="373402" string="Fasting Mutar Fragment" toolTip="Ruthless Slayer" />
+	<String id="373501" string="Master Cleaner Liwon Fragment" toolTip="Storm of the Battlefield" />
+	<String id="373502" string="Fragment: Innocent Student Liwon" toolTip="Storm of the Battlefield" />
+	<String id="379001" string="Braga Fragment" toolTip="Wiseguard" />
+	<String id="379002" string="Dougal Fragment" toolTip="Velika Garrison Consul" />
+	<String id="379003" string="Fragment: Rhodos" toolTip="Khirian Commander" />
+	<String id="379004" string="Fraya Fragment" toolTip="Commander of Allemantheia" />
+	<String id="379005" string="Elleon Fragment" toolTip="Valkyon Federation Hero" />
+	<String id="379006" string="Shizuna Fragment" toolTip="Shadow of Elinu" />
+	<String id="379007" string="Teolung Fragment" toolTip="Veteran Mercenary" />
+	<String id="379008" string="Ciebel Fragment" toolTip="Agent of Velik" />
+	<String id="379009" string="Ryshan Fragment" toolTip="Master Sorcerer" />
+	<String id="379010" string="Fragment: Niniel" toolTip="Battlefield Star" />
+	<String id="379011" string="Zolyn Fragment" toolTip="Paraanon Protectors" />
+	<String id="379012" string="Astina Fragment" toolTip="Seeker of Truth" />
+	<String id="379014" string="Erhaan Fragment" toolTip="Troubled Scholar" />
+	<String id="379015" string="Fragment: Kaia" toolTip="Goddess of War" />
+	<String id="379016" string="Dixie Fragment" toolTip="Crimson Wolf Pirate" />
+	<String id="379019" string="Shaoron Fragment" toolTip="Wandering Martial Artist" />
+	<String id="379020" string="Woopu Fragment" toolTip="Prodigal Gunner" />
+	<String id="379021" string="Titus Fragment" toolTip="Explosives Expert" />
+	<String id="379023" string="Paesyn Fragment" toolTip="Federation Engineer" />
+	<String id="379024" string="Mutar Fragment" toolTip="Ruthless Slayer" />
+	<String id="379025" string="Liwon Fragment" toolTip="Storm of the Battlefield" />
+	<String id="380001" string="Braga" toolTip="" />
+	<String id="380002" string="Dougal" toolTip="" />
+	<String id="380003" string="Rhodos" toolTip="" />
+	<String id="380004" string="Fraya" toolTip="" />
+	<String id="380005" string="Elleon" toolTip="" />
+	<String id="380006" string="Shizuna" toolTip="" />
+	<String id="380007" string="Teolung" toolTip="" />
+	<String id="380008" string="Ciebel" toolTip="" />
+	<String id="380009" string="Ryshan" toolTip="" />
+	<String id="380010" string="Niniel" toolTip="" />
+	<String id="380011" string="Zolyn" toolTip="" />
+	<String id="380012" string="Astina" toolTip="" />
+	<String id="380014" string="Erhan" toolTip="" />
+	<String id="380015" string="Kaia" toolTip="" />
+	<String id="380016" string="Dixie" toolTip="" />
+	<String id="380019" string="Xiao Long" toolTip="" />
+	<String id="380020" string="Woopu" toolTip="" />
+	<String id="380021" string="Titus" toolTip="" />
+	<String id="380023" string="Paesyn" toolTip="" />
+	<String id="380024" string="Mutar" toolTip="" />
+	<String id="380025" string="Liwon" toolTip="" />
+	<String id="381101" string="Medieval Knight Braga" toolTip="" />
+	<String id="381102" string="SWAT Braga" toolTip="" />
+	<String id="381201" string="Hero Dougal" toolTip="" />
+	<String id="381202" string="Death Knight Dougal" toolTip="" />
+	<String id="381301" string="Officer Rhodos" toolTip="" />
+	<String id="381302" string="Passionate Rhodos" toolTip="" />
+	<String id="381401" string="Ruined Wedding Fraya" toolTip="" />
+	<String id="381402" string="Shirt Fraya" toolTip="" />
+	<String id="381403" string="Flamingo Fraya" toolTip="" />
+	<String id="381501" string="Tailcoat Elleon" toolTip="" />
+	<String id="381502" string="Sportswear Elleon" toolTip="" />
+	<String id="381601" string="Cheerleader Shizuna" toolTip="" />
+	<String id="381602" string="Kindergartener Shizuna" toolTip="" />
+	<String id="381701" string="Pilot Teolung" toolTip="" />
+	<String id="381702" string="Clown Teolung" toolTip="" />
+	<String id="381801" string="Secret Agent Ciebel" toolTip="" />
+	<String id="381802" string="Marine Girl Ciebel" toolTip="" />
+	<String id="381803" string="Ciebel (black)" toolTip="" />
+	<String id="381901" string="Count Ryshan" toolTip="" />
+	<String id="381902" string="Steampunk Ryshan" toolTip="" />
+	<String id="382001" string="Maid Niniel" toolTip="" />
+	<String id="382002" string="Nurse Niniel" toolTip="" />
+	<String id="382101" string="Student Councilor Zolyn" toolTip="" />
+	<String id="382102" string="Magician Zolyn" toolTip="" />
+	<String id="382103" string="Uniform Zolyn" toolTip="" />
+	<String id="382201" string="Snowboarder Astina" toolTip="" />
+	<String id="382202" string="TGIF Astina" toolTip="" />
+	<String id="382203" string="Astina (pink)" toolTip="" />
+	<String id="382401" string="Cowboy Erhan" toolTip="" />
+	<String id="382402" string="Dark Eydis" toolTip="" />
+	<String id="382403" string="Femme Fatale Erhaan" toolTip="" />
+	<String id="382501" string="Dragon Knight Kaia" toolTip="" />
+	<String id="382502" string="Light Warrior Kaia" toolTip="" />
+	<String id="382601" string="Federation Captain Dixie" toolTip="" />
+	<String id="382602" string="Hanbok Dixie" toolTip="" />
+	<String id="382901" string="Hiphop Xiao Long" toolTip="" />
+	<String id="382902" string="Mafia Xiao Long" toolTip="" />
+	<String id="383001" string="Duck Woopu" toolTip="" />
+	<String id="383002" string="Pink Bear Woopu" toolTip="" />
+	<String id="383101" string="Pool Titus" toolTip="" />
+	<String id="383102" string="Bully Titus" toolTip="" />
+	<String id="383301" string="Goblin Chef Paesyn" toolTip="" />
+	<String id="383302" string="Yell Leader Paesyn" toolTip="" />
+	<String id="383401" string="Robot Mutah" toolTip="" />
+	<String id="383402" string="Fastening Mutar" toolTip="" />
+	<String id="383501" string="Master Cleaner Liwon" toolTip="" />
+	<String id="383502" string="Innocent Student Liwon" toolTip="" />
+	<String id="390001" string="Ornament" toolTip="" />
+	<String id="398000" string="Extensive Federation Bill Bundle" toolTip="TBA Extensive Federation Bill Bundle" />
+	<String id="398001" string="Hero Fragment Crate" toolTip="Random Hero Fragment Crate" />
+	<String id="398002" string="[Battle Arena] Hero Fragment Crate" toolTip="Open to receive 1 fragment for a playable hero. $BR$BRYou can exchange the fragments you collect for a hero. If you already have the hero, you can dismantle them for Arena Coins." />
+	<String id="398100" string="Tikat Arena Bag" toolTip="Use to receive 60 Arena Coins.$BRYou also receive 600 to 100,000 Tikat." />
+	<String id="398101" string="Large Tikat Arena Bag" toolTip="Use to receive 150 Arena Coins.$BRYou also receive 3,000 to 500,000 Tikat." />
+	<String id="398102" string="Tikat Arena Box" toolTip="Use to receive 1,110 Arena Coins.$BRYou also receive 23,000 to 800,000 Tikat." />
+	<String id="398103" string="Large Tikat Arena Box" toolTip="Use to receive 1,860 Arena Coins.$BRYou also receive 37,500 to 1,000,000 Tikat." />
+	<String id="398200" string="[Battle Arena] Tikat Bag (10)" toolTip="Use to receive 10 Tikat." />
+	<String id="398201" string="[Battle Arena] Tikat Bag (100)" toolTip="Use to receive 100 Tikat." />
+	<String id="398202" string="[Battle Arena] Tikat Bag (1,000)" toolTip="Use to receive 1,000 Tikat." />
+	<String id="398300" string="[Battle Arena] Tikat Bundle (900)" toolTip="Tikat Bundle (900)" />
+	<String id="398301" string="[Battle Arena] Tikat Bundle (10,300)" toolTip="Tikat Bundle (10,300)" />
+	<String id="398302" string="[Battle Arena] Tikat Bundle (32,100)" toolTip="Tikat Bundle (32,100)" />
+	<String id="398303" string="[Battle Arena] Tikat Bundle (56,000)" toolTip="Tikat Bundle (56,000)" />
+	<String id="398304" string="[Battle Arena] Tikat Bundle (118,000)" toolTip="Tikat Bundle (118,000)" />
+	<String id="398900" string="Arena Coin Box (100)" toolTip="Use to receive 100 Arena Coins." />
+	<String id="398901" string="Arena Coin Box (300)" toolTip="Use to receive 300 Arena Coins." />
+	<String id="398902" string="Arena Coin Box (500)" toolTip="Use to receive 500 Arena Coins." />
+	<String id="398903" string="Arena Coin Box (1,000)" toolTip="Use to receive 1000 Arena Coins." />
+	<String id="399500" string="Account XP +100" toolTip="" />
+	<String id="399600" string="Premium Arena Pass" toolTip="" />
+	<String id="399601" string="Super-Premium Arena Pass" toolTip="" />
+	<String id="399700" string="Arena Pass XP +100" toolTip="" />
+	<String id="399701" string="Arena Pass XP +300" toolTip="" />
+	<String id="399702" string="Arena Pass XP +20" toolTip="" />
+	<String id="399900" string="A.C" toolTip="Arena Coin" />
+	<String id="399901" string="Arena Pass Token" toolTip="" />
+</StrSheet_Item>

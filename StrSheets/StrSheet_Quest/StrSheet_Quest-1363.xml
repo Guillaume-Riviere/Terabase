@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5622001" string="So Near, So Far" />
+	<String id="5622002" string="Her name's Veora!" />
+	<String id="5622003" string="Why her? It should have been me! Me!" />
+	<String id="5622004" string="Search for Bearach's wife among the Bleakrock destroyers." />
+	<String id="5622005" string="&quot;She's gone. I'm sorry, Bearach.&quot;" />
+	<String id="5622006" string="Give up the search and return to Bearach." />
+</StrSheet_Quest>

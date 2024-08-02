@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18304001" string="Berserker Training: Overwhelm" />
+	<String id="18304002" string="&quot;Understood.&quot;" />
+	<String id="18304003" string="Use Overwhelm on a Training Dummy." />
+	<String id="18304004" string="&quot;Understood.&quot;" />
+	<String id="18304005" string="Speak with Tarkloon." />
+</StrSheet_Quest>

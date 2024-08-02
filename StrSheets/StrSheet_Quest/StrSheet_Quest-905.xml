@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3737001" string="Checking the Argons in the Crypt" />
+	<String id="3737002" string="Argon supply crates are found near the Jurnagg Column." />
+	<String id="3737003" string="Well done!" />
+	<String id="3737004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="3737005" string="Collect argon supply crates in the Crypt of the Damned." />
+	<String id="3737006" string="Report to Maelcum at Uprising Redoubt." />
+</StrSheet_Quest>

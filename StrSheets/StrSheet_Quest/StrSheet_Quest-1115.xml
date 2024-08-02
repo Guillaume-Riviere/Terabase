@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4783001" string="Order to Subjugate the Blightroar" />
+	<String id="4783002" string="Continuous subjugation always brings peace" />
+	<String id="4783003" string="Thank you for your hard work" />
+	<String id="4783004" string="Token of Subjugating the Blightroar" />
+	<String id="4783005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4783006" string="Kill {@Creature:47#3001#contaminated wendigos}, {@Creature:47#3002#argonomorph wendigos}, and {@Creature:47#3003#argonomorph wendigo shamans} around {@Rgn:47004$$Blightroar} and collect tokens." />
+	<String id="4783007" string="Get reward from the village reward coordinator." />
+</StrSheet_Quest>

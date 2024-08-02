@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4036001" string="A Piercing Problem" />
+	<String id="4036002" string="I want you to put those mutants down." />
+	<String id="4036003" string="I hope I never end up like them." />
+	<String id="4036004" string="Hunt mutated tribladers near Blighted Village." />
+	<String id="4036005" string="&quot;Happy to help.&quot;" />
+	<String id="4036006" string="Report to Lashirah at the Research Center." />
+</StrSheet_Quest>

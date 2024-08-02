@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60202001" string="Waste Not, Want Not" />
+	<String id="60202002" string="The foundry represents our best hope for victory on the Khanovar Front." />
+	<String id="60202003" string="Good work out there. Thanks." />
+	<String id="60202004" string="" />
+	<String id="60202005" string="" />
+	<String id="60202006" string="" />
+	<String id="60202007" string="" />
+	<String id="60202008" string="" />
+	<String id="60202009" string="" />
+	<String id="60202010" string="Head to the {@Rgn:48004$$Cyanocannon Foundry} and meet {@LinkCreature:248#3014#Damian}." />
+	<String id="60202011" string="&quot;I'm on it.&quot;" />
+	<String id="60202012" string="&quot;Glad I could help.&quot;" />
+	<String id="60202013" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#53502.3750,-7259.8418,-397.1198&amp;type=1&amp;name=Argon Components&quot;>argon components&lt;/A>&lt;/FONT> on the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60202014" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+	<String id="60202015" string="&quot;Glad I could help.&quot;" />
+	<String id="60202016" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#59834.8281,-2551.6060,-539.6696&amp;type=1&amp;name=Siege Cannon Components&quot;>siege weapon components&lt;/A>&lt;/FONT> on the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60202017" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+	<String id="60202018" string="&quot;Glad I could help.&quot;" />
+	<String id="60202019" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#53502.3750,-7259.8418,-397.1198&amp;type=1&amp;name=Argon Components&quot;>argon components&lt;/A>&lt;/FONT> on the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60202020" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+	<String id="60202021" string="&quot;Glad I could help.&quot;" />
+	<String id="60202022" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#59834.8281,-2551.6060,-539.6696&amp;type=1&amp;name=Siege Cannon Components&quot;>siege weapon components&lt;/A>&lt;/FONT> on the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60202023" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+	<String id="60202024" string="&quot;Glad I could help.&quot;" />
+	<String id="60202025" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#53502.3750,-7259.8418,-397.1198&amp;type=1&amp;name=Argon Components&quot;>argon components&lt;/A>&lt;/FONT> on the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60202026" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+	<String id="60202027" string="&quot;Glad I could help.&quot;" />
+	<String id="60202028" string="Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#59834.8281,-2551.6060,-539.6696&amp;type=1&amp;name=Siege Cannon Components&quot;>siege weapon componenets&lt;/A>&lt;/FONT> on the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60202029" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+</StrSheet_Quest>

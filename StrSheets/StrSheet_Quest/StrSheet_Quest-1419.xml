@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6140001" string="[Dungeon - 473] Bahaar’s Sanctum" />
+	<String id="6140002" string="Use Seir's Order to go to Firebase Intrepid. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> to open your inventory and right-click the Order: Fyrmount Support to teleport to Firebase Intrepid.]" />
+	<String id="6140003" string="Firebase Intrepid" />
+	<String id="6140004" string="So much is happening...with all the Toxic Gas...so many wounded..." />
+	<String id="6140005" string="Ask {@linkcreature:204#1003#Kimuk} at Firebase Intrepid where Sophilia is." />
+	<String id="6140006" string="&quot;I got it.&quot;" />
+	<String id="6140007" string="Ask {@linkcreature:204#1003#Kimuk} at Firebase Intrepid where Sophilia is." />
+	<String id="6140008" string="Sophilia's Location" />
+	<String id="6140009" string="" />
+	<String id="6140010" string="Go to Blazing Vale where {@LinkCreature:4#904401#Sophilia} is rescuing civilians." />
+	<String id="6140011" string="&quot;I got it.&quot;" />
+	<String id="6140012" string="Tell Sophilia that you came to help." />
+	<String id="6140013" string="&quot;I'll be there.&quot;" />
+	<String id="6140014" string="Listen to Loomey's explanation of the phenomenon." />
+	<String id="6140015" string="&quot;I'll handle it.&quot;" />
+	<String id="6140016" string="Talk to Sophilia." />
+	<String id="6140017" string="&quot;Sounds like...fun?&quot;" />
+	<String id="6140018" string="Speak with {@LinkCreature:4#904403#Loomey} just outside Firebase Valor." />
+	<String id="6140019" string="Use the Talisman and break the link between the {@LinkObject:44401#Enlarged Smoldering Bloodshard} and the volcano." />
+	<String id="6140020" string="&quot;What source of power?&quot;" />
+	<String id="6140021" string="Tell Loomey what happened." />
+	<String id="6140022" string="Enlarged Smoldering Bloodshard Location" />
+	<String id="6140023" string="Loomey seems dumbstruck and devastated, staring at Bahaar's Maw." />
+	<String id="6140024" string="Go after {@LinkCreature:4#904404#Loomey}." />
+	<String id="6140025" string="&quot;I'm listening.&quot;" />
+	<String id="6140026" string="Speak with Loomey." />
+	<String id="6140027" string="&quot;I'm already on my way.&quot;" />
+	<String id="6140028" string="Speak with Halrath." />
+	<String id="6140029" string="Bahaar's Sanctum Entrance" />
+	<String id="6140030" string="" />
+	<String id="6140031" string="Go to Bahaar's Sanctum Entrance at Fyrmount.&#10;[You must have a flying mount to go to Bahaar's Sanctum Entrance.]" />
+	<String id="6140032" string="&quot;I'm ready to go inside.&quot;" />
+	<String id="6140033" string="Speak with Halrath at Bahaar's Sanctum Entrance." />
+	<String id="6140034" string="Bahaar's Sanctum" />
+	<String id="6140035" string="Someone...or something...must have broken in." />
+	<String id="6140036" string="Use the {@LinkCreature:4#9044#teleportal} to enter Bahaar's Sanctum." />
+	<String id="6140037" string="&quot;Halrath...what's going on?&quot;" />
+	<String id="6140038" string="Investigate the broken seal." />
+	<String id="6140039" string="&quot;I'll hold him as long as possible.&quot;" />
+	<String id="6140040" string="Speak with Halrath." />
+	<String id="6140041" string="Enter Bahaar's Sanctum and defeat Bahaar." />
+	<String id="6140042" string="&quot;Glad to be of service.&quot;" />
+	<String id="6140043" string="Tell Halrath that you've defeated Bahaar." />
+</StrSheet_Quest>

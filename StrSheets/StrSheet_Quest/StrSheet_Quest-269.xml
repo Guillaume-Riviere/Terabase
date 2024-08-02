@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1073001" string="(Guild) Master the Battlemasters" />
+	<String id="1073002" string="Naga Battlemaster Scale" />
+	<String id="1073003" string="&quot;For the federation!&quot;" />
+	<String id="1073004" string="Eliminate the naga battlemasters on Serpentis Isle and collect their scales." />
+	<String id="1073005" string="Report to the reward coordinator." />
+</StrSheet_Quest>

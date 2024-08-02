@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55004001" string="Mastering Archery, Part IV" />
+	<String id="55004002" string="&quot;Yes, I'm ready.&quot;" />
+	<String id="55004003" string="Find Hamile in Velika." />
+	<String id="55004004" string="Dungeon Clear" />
+	<String id="55004005" string="Clear two dungeons: &quot;Saleron's Sky Garden&quot;, and/or &quot;Labyrinth of Terror&quot;, or/and &quot;Ebon Tower&quot;." />
+	<String id="55004006" string="&quot;Same here.&quot;" />
+	<String id="55004007" string="Report to Hamile." />
+</StrSheet_Quest>

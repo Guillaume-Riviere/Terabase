@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4124001" string="Raise Your Arms if You're Evil" />
+	<String id="4124002" string="Take the fight to the Black Claw tribe." />
+	<String id="4124003" string="I trust the other guy looks worse?" />
+	<String id="4124004" string="Orcan Arm" />
+	<String id="4124005" string="Collect arms from Black Claw fighters and raiders for {@linkcreature:241#1003$$Jaebel}." />
+	<String id="4124006" string="Collect arms from Black Claw fighters and raiders for {@linkcreature:241#1003$$Jaebel}." />
+	<String id="4124007" string="&quot;I did my duty.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50546001" string="[Important] Guardian Legion Gear" />
+	<String id="50546002" string="Higher Item Level is always better!" />
+	<String id="50546003" string="&quot;Thank you!&quot;" />
+	<String id="50546004" string="Speak with Marmundam." />
+	<String id="50546005" string="Marmundam's gift.&lt;br>&lt;BR>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory and select the Twistshard Weapon Box.]" />
+	<String id="50546006" string="Fantastic!." />
+	<String id="50546007" string="&quot;Thank you!&quot;" />
+	<String id="50546008" string="Talk to Marmundam." />
+</StrSheet_Quest>

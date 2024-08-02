@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1834001" string="These Fragments I Have Shored against My Ruins" />
+	<String id="1834002" string="Get moving!" />
+	<String id="1834003" string="For Valkyon!" />
+	<String id="1834004" string="Fragments with Writings" />
+	<String id="1834005" string="Eliminate." />
+	<String id="1834006" string="Mal...func...tion..." />
+	<String id="1834007" string="Eliminate the wheelwatch golems near the Temple of Tithus and collect fragments with writings." />
+	<String id="1834008" string="Bring the fragments to Nema in the Temple of Tithus." />
+	<String id="1834009" string="&quot;It was my pleasure.&quot;" />
+</StrSheet_Quest>

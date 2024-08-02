@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810105001" string="Clean up the Cliffs of Insanity" />
+	<String id="810105002" string="[Cliffs of Insanity] Eliminate crazed beasts and mutants." />
+	<String id="810105003" string="Insane Monsters" />
+	<String id="810105004" string="Claim your reward!" />
+</StrSheet_Quest>

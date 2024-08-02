@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4233001" string="Who Dropped This?" />
+	<String id="4233002" string="Show this feather to Penucha." />
+	<String id="4233003" string="The mekonaris and nagas are allied!" />
+	<String id="4233004" string="Speak with Trikaian." />
+	<String id="4233005" string="Talk with Penucha on the second level of the Ecdysi Atrium." />
+	<String id="4233006" string="&quot;I'll bring back proof.&quot;" />
+	<String id="4233007" string="Talk with Trikaian on the second level of the Ecdysi Atrium." />
+	<String id="4233008" string="Oath of Alliance" />
+	<String id="4233009" string="Get oaths of alliance from the mekonaris in the Chamber of Mighty Souls." />
+	<String id="4233010" string="Bring the oaths of alliance to Trikaian." />
+	<String id="4233011" string="&quot;On my way.&quot;" />
+	<String id="4233012" string="&quot;Thanks.&quot;" />
+	<String id="4233013" string="Find Darim on the third level of the Ecdysi Atrium." />
+</StrSheet_Quest>

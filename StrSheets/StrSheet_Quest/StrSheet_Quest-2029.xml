@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60515001" string="Trophy Hunting" />
+	<String id="60515002" string="&quot;I accept.&quot;" />
+	<String id="60515003" string="" />
+	<String id="60515004" string="" />
+	<String id="60515005" string="" />
+	<String id="60515006" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60515007" string="&quot;I'm on it.&quot;" />
+	<String id="60515008" string="Hunting Trophies" />
+	<String id="60515009" string="Hunt {@LinkCreature:23#9#molten fangspawns} near the {@Rgn:23001#Lake of Tears} and deliver their armor to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60515010" string="" />
+	<String id="60515011" string="&quot;Thanks.&quot;" />
+	<String id="60515012" string="Hunting Trophies" />
+	<String id="60515013" string="Hunt {@LinkCreature:23#13#searing fangspawns} near the {@Rgn:23001#Lake of Tears} and deliver their armor to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60515014" string="" />
+	<String id="60515015" string="&quot;Thanks.&quot;" />
+	<String id="60515016" string="Hunting Trophies" />
+	<String id="60515017" string="Hunt {@LinkCreature:23#14#lurking teraliths} near the {@Rgn:23001#Lake of Tears} and deliver their dust to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60515018" string="" />
+	<String id="60515019" string="&quot;Thanks.&quot;" />
+	<String id="60515020" string="&quot;It was my pleasure.&quot;" />
+	<String id="60515021" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

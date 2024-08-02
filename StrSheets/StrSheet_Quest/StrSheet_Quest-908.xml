@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3772001" string="(Guild) Suppression Orders: Argons" />
+	<String id="3772002" string="Proof of Kill: Argon Deaths" />
+	<String id="3772003" string="&quot;For the federation!&quot;" />
+	<String id="3772004" string="Defeat the argons in the Crypt of the Damned." />
+	<String id="3772005" string="Report to Taira at Uprising Redoubt." />
+</StrSheet_Quest>

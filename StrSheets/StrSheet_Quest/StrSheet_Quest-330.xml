@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1304001" string="Making the Rounds" />
+	<String id="1304002" string="Check in with the commanders of each encampment, and then report to Tribune Adria." />
+	<String id="1304003" string="Exploring the island by yourself? Impressive!" />
+	<String id="1304004" string="&quot;I can do that.&quot;" />
+	<String id="1304005" string="Check in with Kishale at the Northern Checkpoint." />
+	<String id="1304006" string="Ghilliedhu Claws" />
+	<String id="1304007" string="Kill ghilliedhus and obtain ghilliedhu claws." />
+	<String id="1304008" string="Check in with Dulari at Dulari's Camp." />
+	<String id="1304009" string="&quot;Understood.&quot;" />
+</StrSheet_Quest>

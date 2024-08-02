@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4585001" string="Order to Subjugate Draelteryx" />
+	<String id="4585002" string="Token of Subjugating the {@linkcreature:45#4005#Draelteryx}" />
+	<String id="4585003" string="&quot;Thanks.&quot;" />
+	<String id="4585004" string="Kill {@linkcreature:45#4005#Draelteryx} and collect tokens" />
+	<String id="4585005" string="Report to Coordinator" />
+</StrSheet_Quest>

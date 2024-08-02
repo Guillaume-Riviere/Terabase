@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1138001" string="The Priceless Diaries" />
+	<String id="1138002" string="For the federation!" />
+	<String id="1138003" string="Victory for Valkyon!" />
+	<String id="1138004" string="Bosun's Diary" />
+	<String id="1138005" string="Collect bosun's diaries from the Red Lash mates and drillers in the North Bosuns' Roost." />
+	<String id="1138006" string="Deliver the diaries to Piarto on the planks." />
+	<String id="1138007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

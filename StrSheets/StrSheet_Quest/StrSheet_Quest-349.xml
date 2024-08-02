@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1325001" string="The Perfect Cut" />
+	<String id="1325002" string="Mark creatures on your map by clicking their names in the quest log." />
+	<String id="1325003" string="That's exactly the kind of thing you need to be working on. Good job!" />
+	<String id="1325004" string="Clean Kill" />
+	<String id="1325005" string="Practice fighting large groups—against piglings." />
+	<String id="1325006" string="Return to Leolin for his assessment." />
+	<String id="1325007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1530001" string="Fangs of a Dilemma" />
+	<String id="1530002" string="Go get 'em!" />
+	<String id="1530003" string="Thank you, soldier." />
+	<String id="1530004" string="&quot;Any time, sir.&quot;" />
+	<String id="1530005" string="Report to Gamra at Popolion's south gate." />
+	<String id="1530006" string="Sabertooth Fang" />
+	<String id="1530007" string="Hunt sulking inky sabertooths south of Popolion." />
+	<String id="1530008" string="Turn in sabertooth fangs to Madron at Camp Vigilance." />
+	<String id="1530009" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

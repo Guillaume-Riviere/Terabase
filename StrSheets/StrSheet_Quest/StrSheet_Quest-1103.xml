@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4729001" string="Rage On" />
+	<String id="4729002" string="Clean that base out for us." />
+	<String id="4729003" string="I'll make sure to report it. Thanks a lot." />
+	<String id="4729004" string="Kill {@creature:47#3002#argononomorph wendigos} near the {@Rgn:47012$$Argon Shield Emitter}." />
+	<String id="4729005" string="&quot;Glad to help.&quot;" />
+	<String id="4729006" string="Report to {@creature:247#1020$$Lecias} at the {@Rgn:47007$$Blightroar Research Station}." />
+</StrSheet_Quest>

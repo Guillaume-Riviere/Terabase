@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800126001" string="Clean up the Darkquaver Woods" />
+	<String id="800126002" string="[Darkquaver Woods] Defeat the Ksharan Shadow Army and their allies." />
+	<String id="800126003" string="Shadow Army" />
+	<String id="800126004" string="Claim your reward!" />
+</StrSheet_Quest>

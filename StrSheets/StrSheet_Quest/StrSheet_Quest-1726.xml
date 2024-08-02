@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19110001" string="Never Let Go" />
+	<String id="19110002" string="&quot;Let's go!&quot;" />
+	<String id="19110003" string="The Gallery" />
+	<String id="19110004" string="You've found Dakuryon!" />
+	<String id="19110005" string="Open the door and go into the room." />
+	<String id="19110006" string="Kill the Furyguards." />
+	<String id="19110007" string="Defeat Zolyn." />
+	<String id="19110008" string="&quot;Damn straight!&quot;" />
+	<String id="19110009" string="Speak with Rhodos." />
+</StrSheet_Quest>

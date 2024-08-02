@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10044001" string="Carry a Tunic" />
+	<String id="10044002" string="&quot;Right away.&quot;" />
+	<String id="10044003" string="Craft clothworker's tunics." />
+	<String id="10044004" string="Take the tunics to Maius for inspection." />
+	<String id="10044005" string="" />
+	<String id="10044006" string="Clothworker's Tunic" />
+	<String id="10044007" string="Deliver the tunics to Prefect Paka in Popolion." />
+	<String id="10044008" string="&quot;Enjoy them!&quot;" />
+</StrSheet_Quest>

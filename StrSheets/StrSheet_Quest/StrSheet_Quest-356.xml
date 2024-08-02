@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1332001" string="They'll Eat Anything" />
+	<String id="1332002" string="Shaggy noruks tend to roam to the south." />
+	<String id="1332003" string="Kamarnu is not one to shirk responsibility. But the gauges are returned—no complaints." />
+	<String id="1332004" string="Power Gauge" />
+	<String id="1332005" string="Recover power gauges from the shaggy noruks around the Southern Checkpoint." />
+	<String id="1332006" string="Take the gauges to Jehan at Leander's Outpost." />
+	<String id="1332007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

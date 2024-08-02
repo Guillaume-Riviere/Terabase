@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6341001" string="[Event] Victory in Corsairs' Stronghold" />
+	<String id="6341002" string="Win a match in Corsairs' Stronghold." />
+	<String id="6341003" string="" />
+	<String id="6341004" string="&quot;Thanks.&quot;" />
+	<String id="6341005" string="Talk to Dougal in Velika." />
+</StrSheet_Quest>

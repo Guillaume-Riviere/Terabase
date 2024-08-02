@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4725001" string="Poison Mushrooms" />
+	<String id="4725002" string="Please kill the {@Creature:47#1003#argon mugatos} that interrupt our work, and join us in removing petrified mushrooms." />
+	<String id="4725003" string="They explode quite nicely, don't they?" />
+	<String id="4725004" string="While killing {@creature:47#1003#argon mugatos} in the {@Rgn:47003$$Bridgehead}, use bombs or weapons to break {@creature:47#7004#spore emitters}." />
+	<String id="4725005" string="Thanks." />
+	<String id="4725006" string="Go to {@Rgn:47008$$Eastwatch} and report to {@creature:247#1018$$Lenon Timbus}." />
+</StrSheet_Quest>

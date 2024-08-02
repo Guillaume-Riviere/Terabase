@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1123001" string="Useful Material" />
+	<String id="1123002" string="Watch your back, soldier!" />
+	<String id="1123003" string="Good work." />
+	<String id="1123004" string="Kamara Skin" />
+	<String id="1123005" string="Collect skins from spiketail kamaras at the Jagged Coast near the Jungle Patrol Camp." />
+	<String id="1123006" string="Bring the skins to Heksun at the Jungle Patrol Camp." />
+	<String id="1123007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

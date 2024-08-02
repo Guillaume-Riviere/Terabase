@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5036001" string="Forged in Fire, Tempered with Kindness" />
+	<String id="5036002" string="I'll never forget you." />
+	<String id="5036003" string="&quot;Certainly.&quot;" />
+	<String id="5036004" string="Talk to {@LinkCreature:76#1018}." />
+	<String id="5036005" string="&quot;Good luck, young soldier!&quot;" />
+	<String id="5036006" string="Speak with {@LinkCreature:84#1222} in {@Rgn:84001}." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3043001" string="Dust Beneath My Wings" />
+	<String id="3043002" string="It could be worse. Oshar could want their...interior parts." />
+	<String id="3043003" string="Someday you'll thank me." />
+	<String id="3043004" string="Wing Dust" />
+	<String id="3043005" string="Kill {@linkcreature:30#150#fiery tentacullars} on the {@Rgn:30013$$Archive Grounds} and collect wing dust." />
+	<String id="3043006" string="Deliver the wing dust to {@linkcreature:230#1028$$Lihish}." />
+	<String id="3043007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

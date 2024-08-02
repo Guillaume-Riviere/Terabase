@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2431001" string="The Vanguard" />
+	<String id="2431002" string="I hope Qasimir's still alive." />
+	<String id="2431003" string="Ready to fight?" />
+	<String id="2431004" string="Eliminate Sand Wind scavengers along the southwest Aurum Road." />
+	<String id="2431005" string="&quot;For the federation!&quot;" />
+	<String id="2431006" string="Go to Qasimir hiding near the Sand Wind Village entrance on South Aurum Road." />
+</StrSheet_Quest>

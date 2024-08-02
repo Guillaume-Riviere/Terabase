@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="323001" string="Hope Chests Spring Eternal" />
+	<String id="323002" string="I'm going broke without my merchandise!" />
+	<String id="323003" string="Thanks. You've saved me a lot of money." />
+	<String id="323004" string="&quot;Time to find a new shop.&quot;" />
+	<String id="323005" string="Go to the Brigand's Den in Blood Run and search the chests for stolen valuables." />
+	<String id="323006" string="Return the chests to Foledus." />
+</StrSheet_Quest>

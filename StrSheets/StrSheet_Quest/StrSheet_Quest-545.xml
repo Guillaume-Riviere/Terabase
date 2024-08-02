@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2140001" string="Seeking Permission" />
+	<String id="2140002" string="Many thanks, soldier." />
+	<String id="2140003" string="I'm sorry I couldn't be more help." />
+	<String id="2140004" string="Daien" />
+	<String id="2140005" string="Daien's Request" />
+	<String id="2140006" string="Deliver the entry permit to Rhysart in the Desert Overwatch." />
+	<String id="2140007" string="&quot;Understood.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3632001" string="Dyed in Blood" />
+	<String id="3632002" string="Maybe there's more than one of him. Horrible thought." />
+	<String id="3632003" string="I know we'll have work for you." />
+	<String id="3632004" string="&quot;Got it.&quot;" />
+	<String id="3632005" string="Go to Belei in the cave that leads to Checkpoint Ebony." />
+	<String id="3632006" string="&quot;Glad to help!&quot;" />
+	<String id="3632007" string="Go to Loshud at Checkpoint Ebony." />
+</StrSheet_Quest>

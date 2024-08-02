@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5250001" string="Crimson Pyrites" />
+	<String id="5250002" string="Our enemy provides us with gifts!" />
+	<String id="5250003" string="It's been a good day!" />
+	<String id="5250004" string="&quot;It was my pleasure.&quot;" />
+	<String id="5250005" string="Destroy Thulsa's crimson shards, installed on the snowfields around the Gravewatch of the Exiled." />
+	<String id="5250006" string="Bring the crimson fragments to Zanok at the Gravewatch of the Exiled." />
+</StrSheet_Quest>

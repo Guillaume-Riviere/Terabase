@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70105001" string="[Event—Daily] Combating Sloth" />
+	<String id="70105002" string="Squalid Temple" />
+	<String id="70105003" string="" />
+	<String id="70105004" string="Enter the Squalid Temple." />
+	<String id="70105005" string="Dispose of sloth droppings." />
+	<String id="70105006" string="Pull weeds." />
+	<String id="70105007" string="Clean the fountain." />
+	<String id="70105008" string="Talk to Davor." />
+	<String id="70105009" string="&quot;I suppose someone has to do it.&quot;" />
+	<String id="70105010" string="Put waste in receptacle." />
+	<String id="70105011" string="Get rid of the sloth droppings." />
+	<String id="70105012" string="Dispose of waste." />
+	<String id="70105013" string="Put waste in receptacle." />
+	<String id="70105014" string="Pull weeds." />
+	<String id="70105015" string="Dispose of waste." />
+	<String id="70105016" string="Clean the fountain." />
+	<String id="70105017" string="&quot;Perhaps I'll help again tomorrow.&quot;" />
+	<String id="70105018" string="Talk to Renmi." />
+</StrSheet_Quest>

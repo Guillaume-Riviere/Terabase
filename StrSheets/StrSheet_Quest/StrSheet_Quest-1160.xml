@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4902001" string="Cyasma Spire" />
+	<String id="4902002" string="&quot;I'll get ready right away.&quot;" />
+	<String id="4902003" string="Ask {@LinkCreature:249#2006#Celtan} in {@Rgn:76001$$Kanstria} if he knows anything about the argon structures." />
+	<String id="4902004" string="&quot;Let's go.&quot;" />
+	<String id="4902005" string="Tell {@LinkCreature:249#2006#Celtan} that you'll go to investigate the {@Rgn:49003$$Agnurok Engine}." />
+	<String id="4902006" string="&quot;Right. Okay.&quot;" />
+	<String id="4902007" string="&quot;I guess we'll find out.&quot;" />
+	<String id="4902008" string="Speak with {@LinkCreature:249#2004#Ronalt} at the {@Rgn:49003$$Agnurok Engine} entrance." />
+	<String id="4902009" string="&quot;I understand.&quot;" />
+	<String id="4902010" string="Speak with {@LinkCreature:249#2005$$Hasmina}." />
+	<String id="4902011" string="Go inside." />
+	<String id="4902012" string="Look for a {@LinkCreature:249#2014#teleportal} to enter the {@Rgn:9013001$$Cyasma Spire}." />
+	<String id="4902013" string="Inside the Cyasma Spire." />
+	<String id="4902014" string="You've successfully infiltrated the {@Rgn:9013001$$Cyasma Spire}." />
+	<String id="4902015" string="Use the {@LinkCreature:249#2014#teleportal} to infiltrate the {@Rgn:9013001$$Cyasma Spire}." />
+	<String id="4902016" string="&quot;I understand.&quot;" />
+	<String id="4902017" string="Speak with {@LinkCreature:413#2002#Kuni} in {@Rgn:9013001$$Cyasma Spire}." />
+	<String id="4902018" string="Inside the Cyasma Spire." />
+	<String id="4902019" string="You see a chamber full of cyasma coils." />
+	<String id="4902020" string="Follow the arrows into the {@Rgn:9013001$$Cyasma Spire}." />
+	<String id="4902021" string="Destroy the cyasma coils in the {@Rgn:9013001$$Cyasma Spire} Transmission Device." />
+	<String id="4902022" string="Primary Energy Transmitter" />
+	<String id="4902023" string="It looks like the primary energy transmitter." />
+	<String id="4902024" string="Approach the {@Rgn:9013001$$Cyasma Spire} energy transmitter." />
+	<String id="4902025" string="&quot;I understand.&quot;" />
+	<String id="4902026" string="Destroy the energy transmitter and report back to {@LinkCreature:249#2002#Ceidos} in {@Rgn:76001$$Kanstria}." />
+	<String id="4902027" string="For the Federation!" />
+	<String id="4902028" string="Return to {@Rgn:84001$$Kaiator} and report what happened at {@Rgn:49001$$Argonea} to {@LinkCreature:528#5005#Tamur}." />
+</StrSheet_Quest>

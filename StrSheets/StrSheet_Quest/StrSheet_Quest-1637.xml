@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18104001" string="Harrier and Harrier" />
+	<String id="18104002" string="&quot;I'll do what I can.&quot;" />
+	<String id="18104003" string="Havenstone Ruins" />
+	<String id="18104004" string="" />
+	<String id="18104005" string="Go to Havenstone Ruins via Highwatch Southern Gate." />
+	<String id="18104006" string="Demokron Shock Trooper" />
+	<String id="18104007" string="Kill &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#18592, -4869, 3352&amp;type=1&amp;name=Demokron Shock Troopers&quot;>Demokron Shock Troopers&lt;/A>&lt;/font>." />
+	<String id="18104008" string="&quot;I hope what I am doing is helping.&quot;" />
+	<String id="18104009" string="Talk to Dadam." />
+</StrSheet_Quest>

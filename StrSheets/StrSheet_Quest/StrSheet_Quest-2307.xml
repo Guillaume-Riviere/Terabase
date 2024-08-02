@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800003001" string="Complete Saravash's Ascent!" />
+	<String id="800003002" string="[Saravash's Ascent] Defeat Saravash!" />
+	<String id="800003003" string="Claim your reward!" />
+</StrSheet_Quest>

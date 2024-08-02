@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19102001" string="Parts Are Parts" />
+	<String id="19102002" string="&quot;As ordered.&quot;" />
+	<String id="19102003" string="&quot;I'm on it.&quot;" />
+	<String id="19102004" string="Speak with Tyrius" />
+	<String id="19102005" string="Archdevan Infantry" />
+	<String id="19102006" string="Help the federation soldiers fight the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#37177, 18078, 7644&amp;type=1&amp;name=archdevas&quot;>archdevas&lt;/A>&lt;/font>." />
+	<String id="19102007" string="&quot;Certainly.&quot;" />
+	<String id="19102008" string="Report to Lordan" />
+	<String id="19102009" string="&quot;Glad I could help.&quot;" />
+	<String id="19102010" string="Find the lost boxes of parts." />
+	<String id="19102011" string="Deliver the boxes to Garog." />
+</StrSheet_Quest>

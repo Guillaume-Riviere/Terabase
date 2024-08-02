@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1532001" string="These Boots Are Made for Envy" />
+	<String id="1532002" string="Help me! Please! Somebody!" />
+	<String id="1532003" string="Oh, sweet satisfaction!" />
+	<String id="1532004" string="Basilisk Leather Pauldron" />
+	<String id="1532005" string="Kill disturbed constructs and eerie polykind near the bulwark west of Camp Vigilance." />
+	<String id="1532006" string="Give the pauldrons to Tunvi at Camp Vigilance." />
+	<String id="1532007" string="&quot;There's no way this will end well.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2307001" string="The Domain of Witches" />
+	<String id="2307002" string="Never a moment's rest!" />
+	<String id="2307003" string="&quot;That's reasonable.&quot;" />
+	<String id="2307004" string="Talk to Dullulu." />
+	<String id="2307005" string="&quot;I'll do my best.&quot;" />
+	<String id="2307006" string="Find Hamni on the Eldritch Academy Grounds." />
+	<String id="2307007" string="&quot;I'll do my best.&quot;" />
+	<String id="2307008" string="Speak with Wheelow at the Eldritch Bastion." />
+</StrSheet_Quest>

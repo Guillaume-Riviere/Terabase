@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18103001" string="Stairway to Wisdom" />
+	<String id="18103002" string="&quot;Thank you again.&quot;" />
+	<String id="18103003" string="Ask Rimun for permission of entrance to Hall of Knowledge." />
+	<String id="18103004" string="&quot;Sure, I can do that.&quot;" />
+	<String id="18103005" string="Ask Falim where Halran is." />
+	<String id="18103006" string="(Collect the Book of the Wise.)" />
+	<String id="18103007" string="Climb the steps, gathering books." />
+	<String id="18103008" string="(Collect the Book of the Learned.)" />
+	<String id="18103009" string="Climb the steps, gathering books." />
+	<String id="18103010" string="(Collect the Book of the Sage.)" />
+	<String id="18103011" string="Climb the steps, gathering books." />
+	<String id="18103012" string="(Collect the Book of the Cunning.)" />
+	<String id="18103013" string="Climb the steps, gathering books." />
+	<String id="18103014" string="&quot;I am.&quot;" />
+	<String id="18103015" string="Find Halran and deliver the books." />
+	<String id="18103016" string="" />
+	<String id="18103017" string="&quot;It's not...clear.&quot;" />
+	<String id="18103018" string="Commune with Mystel's Arcana." />
+	<String id="18103019" string="&quot;It wouldn't be the first time.&quot;" />
+	<String id="18103020" string="Consult with Halran." />
+	<String id="18103021" string="&quot;Hagand. Got it. And thank you.&quot;" />
+	<String id="18103022" string="Talk to Halran." />
+</StrSheet_Quest>

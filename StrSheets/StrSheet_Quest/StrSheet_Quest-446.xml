@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1640001" string="Seeing Red" />
+	<String id="1640002" string="Victory will be ours!" />
+	<String id="1640003" string="Now I can finally have eyes in the back of my head! Sorry, bad joke." />
+	<String id="1640004" string="Ovolith Eyes" />
+	<String id="1640005" string="Destroy ovoliths and collect their eyes." />
+	<String id="1640006" string="Report to Segodun." />
+	<String id="1640007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

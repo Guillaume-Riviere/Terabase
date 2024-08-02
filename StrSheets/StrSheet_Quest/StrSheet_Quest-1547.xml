@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10040001" string="Elven Elegance" />
+	<String id="10040002" string="&quot;Of course.&quot;" />
+	<String id="10040003" string="Craft veteran's jerkins." />
+	<String id="10040004" string="Deliver the jerkins to Adjani." />
+</StrSheet_Quest>

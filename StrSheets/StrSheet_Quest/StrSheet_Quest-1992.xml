@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60306001" string="Wary Prey" />
+	<String id="60306002" string="Not our usual quarry." />
+	<String id="60306003" string="I'll tell Keinbara you deserve a special bonus. Good job!" />
+	<String id="60306004" string="" />
+	<String id="60306005" string="" />
+	<String id="60306006" string="" />
+	<String id="60306007" string="Go to the {@Rgn:50003$$Underrock Camp} in {@Rgn:50001$$Granarkus} and meet {@LinkCreature:250#3002#Sunkuvil}." />
+	<String id="60306008" string="&quot;It would be my pleasure!&quot;" />
+	<String id="60306009" string="Slaughter the {@LinkCreature:50#9#prismar watchers} east of {@Rgn:50003$$Helkir Grotto}." />
+	<String id="60306010" string="Clear away {@LinkCreature:50#9#prismar watchers} east of {@Rgn:50003$$Helkir Grotto}." />
+	<String id="60306011" string="Hunt {@LinkCreature:50#9#prismar watchers} east of {@Rgn:50003$$Helkir Grotto}." />
+	<String id="60306012" string="&quot;It was nothing!&quot;" />
+	<String id="60306013" string="Report to {@LinkCreature:250#3002#Sunkuvil} at {@Rgn:50003$$Helkir Grotto}." />
+</StrSheet_Quest>

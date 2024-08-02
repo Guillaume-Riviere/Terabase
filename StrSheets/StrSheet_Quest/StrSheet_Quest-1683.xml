@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18336001" string="[Event] Complete the Timescape" />
+	<String id="18336002" string="[Timescape] Defeat Valona!" />
+	<String id="18336003" string="&quot;Thank you.&quot;" />
+	<String id="18336004" string="Talk to Talk to Tarkloon in Val Oriyn." />
+</StrSheet_Quest>

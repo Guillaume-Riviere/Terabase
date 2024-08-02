@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="80101001" string="Investigating Nexus Traverse" />
+	<String id="80101002" string="Please examine the monsters in the Nexus Traverse. You're the only one who can get to the truth." />
+	<String id="80101003" string="Thank you. You exceeded my expectations." />
+	<String id="80101004" string="Sovereign's Core" />
+	<String id="80101005" string="Enter the Nexus Traverse and retrieve the sovereign's core." />
+	<String id="80101006" string="Report back to the Inquisitor." />
+	<String id="80101007" string="&quot;A hard lesson learned.&quot;" />
+</StrSheet_Quest>

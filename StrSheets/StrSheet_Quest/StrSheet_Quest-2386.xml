@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800129001" string="Clean up the Doomcrypt" />
+	<String id="800129002" string="[Doomcrypt] Defeat the prion forces and their allies." />
+	<String id="800129003" string="Crypt Invaders" />
+	<String id="800129004" string="Claim your reward!" />
+</StrSheet_Quest>

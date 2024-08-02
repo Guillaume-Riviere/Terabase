@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5023001" string="Death of the Shaper" />
+	<String id="5023002" string="Proceed with caution...and haste." />
+	<String id="5023003" string="We'll find a way to exploit this new opportunity." />
+	<String id="5023004" string="Kill {@LinkCreature:50#3}." />
+	<String id="5023005" string="&quot;For the federation!&quot;" />
+	<String id="5023006" string="Report back to {@LinkCreature:250#1014}." />
+</StrSheet_Quest>

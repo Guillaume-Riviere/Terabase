@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1933001" string="Sidurek's Secret" />
+	<String id="1933002" string="We need to find out what this plan was about." />
+	<String id="1933003" string="So much tragedy from something so small..." />
+	<String id="1933004" string="Follow the clues in the journal." />
+	<String id="1933005" string="Find Sidurek's Journal in the ruins north of the encampment." />
+	<String id="1933006" string="Take out the object." />
+	<String id="1933007" string="Search the old barrel for Sidurek's hidden clue." />
+	<String id="1933008" string="" />
+	<String id="1933009" string="Strange Orb" />
+	<String id="1933010" string="Take the strange orb to Cardis of Velik's Vigil in Freeholds." />
+	<String id="1933011" string="Hand over the orb." />
+</StrSheet_Quest>

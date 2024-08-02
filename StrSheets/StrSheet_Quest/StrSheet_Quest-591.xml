@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2329001" string="Those Little Witches" />
+	<String id="2329002" string="We must deal with those rogues!" />
+	<String id="2329003" string="We'll rest easier with those witches dead." />
+	<String id="2329004" string="Stop the rogue elin witches and their pet piglings." />
+	<String id="2329005" string="&quot;Thank you.&quot;" />
+	<String id="2329006" string="Report back to Debli." />
+</StrSheet_Quest>

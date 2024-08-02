@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48824001" string="New Converts" />
+	<String id="48824002" string="Bleed those bluebloods!" />
+	<String id="48824003" string="Where do they recruit these idiots?" />
+	<String id="48824004" string="Escort Token" />
+	<String id="48824005" string="Collect escort tokens from ducal loyalists and bodyguards in Sinestral Manor.&#10;[You must select Sinestral Manor (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.]" />
+	<String id="48824006" string="Report to Kasador at the Sinestral Manor Servants' Entrance." />
+	<String id="48824007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

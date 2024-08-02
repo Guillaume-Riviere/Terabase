@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60101001" string="The Beatings Will Continue until Reliability Improves" />
+	<String id="60101002" string="Kick the blasted thing if you must, but get it working again." />
+	<String id="60101003" string="Ah, sweet flow of data..." />
+	<String id="60101004" string="Operate the argon detector placed near {@Rgn:47006$$Field Base Lunacy}." />
+	<String id="60101005" string="Operate the argon detector placed near {@Rgn:47007$$Blightroar Research Station}." />
+	<String id="60101006" string="&quot;Glad I could help.&quot;" />
+	<String id="60101007" string="Report to {@LinkCreature:77#3001#Nithan} at {@Rgn:77001$$Pathfinder Post}." />
+</StrSheet_Quest>

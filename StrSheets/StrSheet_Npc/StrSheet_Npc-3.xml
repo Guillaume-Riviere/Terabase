@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Npc>
+	<String id="500000001" string="Shop" />
+	<String id="500000002" string="Underwear" />
+	<String id="500000003" string="Shop" />
+	<String id="500000004" string="Underwear" />
+	<String id="500000005" string="Shop" />
+	<String id="500000006" string="Underwear" />
+	<String id="500000007" string="Shop" />
+	<String id="500000008" string="Vellum" />
+	<String id="500000009" string="Shop" />
+	<String id="500000010" string="Vellum" />
+	<String id="500000011" string="Shop" />
+	<String id="500000012" string="Vellum" />
+	<String id="500000013" string="Shop" />
+	<String id="500000014" string="Vellum" />
+	<String id="500000015" string="Dinobone Shop" />
+	<String id="500000016" string="Dinos" />
+	<String id="500000017" string="Immortalis Shop" />
+	<String id="500000018" string="Selection" />
+	<String id="500000019" string="Essences" />
+	<String id="500000020" string="Fragments" />
+	<String id="500000021" string="Shop" />
+	<String id="500000022" string="Shop" />
+	<String id="500000023" string="30 Days" />
+	<String id="500000024" string="60 Days" />
+	<String id="500000025" string="30 Days" />
+	<String id="500000026" string="60 Days" />
+</StrSheet_Npc>

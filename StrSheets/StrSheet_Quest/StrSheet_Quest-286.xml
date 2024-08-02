@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1131001" string="I'm Logging This" />
+	<String id="1131002" string="Victory will be ours!" />
+	<String id="1131003" string="For the federation!" />
+	<String id="1131004" string="Logbook" />
+	<String id="1131005" string="Collect logbooks from the Red Lash veterans in the Underground Repository." />
+	<String id="1131006" string="Deliver the logbooks to Armantes." />
+	<String id="1131007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

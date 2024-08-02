@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810125001" string="Clean up the Hungry Caverns" />
+	<String id="810125002" string="[Hungry Caverns] Defeat the Kaazur Syndicate and their allies." />
+	<String id="810125003" string="Syndicate Operatives" />
+	<String id="810125004" string="Claim your reward!" />
+</StrSheet_Quest>

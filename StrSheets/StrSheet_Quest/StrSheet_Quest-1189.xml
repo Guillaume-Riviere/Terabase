@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4953001" string="Miner Problems" />
+	<String id="4953002" string="I'm sure a veteran like you can handle this." />
+	<String id="4953003" string="Thanks! Now I can return to my backbreaking work." />
+	<String id="4953004" string="Kill kelba refiners near the {@Rgn:49002}." />
+	<String id="4953005" string="&quot;Much obliged.&quot;" />
+	<String id="4953006" string="Report back to {@LinkCreature:249#1021}." />
+</StrSheet_Quest>

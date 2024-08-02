@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800111001" string="Clean up the Colossal Ruins" />
+	<String id="800111002" string="[Colossal Ruins] Defeat the Desert Fire kulkari and their allies." />
+	<String id="800111003" string="Desert Fire Invaders" />
+	<String id="800111004" string="Claim your reward!" />
+</StrSheet_Quest>

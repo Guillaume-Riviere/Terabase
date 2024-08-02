@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2029001" string="Skull Collection" />
+	<String id="2029002" string="For the federation!" />
+	<String id="2029003" string="Good work, soldier. Very good work." />
+	<String id="2029004" string="Ossugon Prefect's Skull" />
+	<String id="2029005" string="Kill ossugon prefects and collect their skulls." />
+	<String id="2029006" string="Bring the skulls to Friele at the Utterdark Outpost in the Halls of Utterdark." />
+	<String id="2029007" string="&quot;Let us hope.&quot;" />
+</StrSheet_Quest>

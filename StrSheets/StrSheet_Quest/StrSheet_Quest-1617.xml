@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17202001" string="Checked Baggage" />
+	<String id="17202002" string="" />
+	<String id="17202003" string="Jeweled Box" />
+	<String id="17202004" string="Deliver the jeweled box to Tamari." />
+	<String id="17202005" string="&quot;Thanks.&quot;" />
+	<String id="17202006" string="Hill leading to the airship dock." />
+	<String id="17202007" string="That popori needs help…" />
+	<String id="17202008" string="Climb the hill behind Tamari." />
+	<String id="17202009" string="&quot;I'll fetch them.&quot;" />
+	<String id="17202010" string="Talk to Paesyn." />
+	<String id="17202011" string="&quot;Got it.&quot;" />
+	<String id="17202012" string="Collect the important secret papers." />
+	<String id="17202013" string="Deliver the papers to Paesyn." />
+	<String id="17202014" string="&quot;Got it.&quot;" />
+	<String id="17202015" string="Talk to Rafe." />
+	<String id="17202016" string="" />
+	<String id="17202017" string="Passenger Manifest" />
+	<String id="17202018" string="Deliver the manifest to Maribel." />
+	<String id="17202019" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

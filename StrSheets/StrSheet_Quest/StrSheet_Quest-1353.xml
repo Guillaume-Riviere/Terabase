@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5580001" string="Suppression Orders: Jalmaraks" />
+	<String id="5580002" string="Proof of Kill: Jalmaraks" />
+	<String id="5580003" string="&quot;It was nothing.&quot;" />
+	<String id="5580004" string="Eliminate the jalmarak thrashers in Darkenvale." />
+	<String id="5580005" string="Report to Jola at Valumnir Outpost." />
+</StrSheet_Quest>

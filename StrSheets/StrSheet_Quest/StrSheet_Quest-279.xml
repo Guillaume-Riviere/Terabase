@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1124001" string="The Pirates' Orders" />
+	<String id="1124002" string="We need that intel." />
+	<String id="1124003" string="I can't believe those guys can read, much less use a secret code." />
+	<String id="1124004" string="Secret Order" />
+	<String id="1124005" string="Collect secret orders from the Red Lash crushers and Red Lash rovers on the Jagged Coast, southwest of the Jungle Patrol Camp." />
+	<String id="1124006" string="Deliver the secret orders to Ilaria at the Jungle Patrol Camp." />
+	<String id="1124007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

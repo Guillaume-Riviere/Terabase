@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1544001" string="The Five Battles" />
+	<String id="1544002" string="Here you go." />
+	<String id="1544003" string="Achieve victory in Corsairs' Stronghold, Shore Hold, Champions' Skyring (solo), Champions' Skyring (group), and Gridiron." />
+	<String id="1544004" string="Return to Marabel in Popolion." />
+	<String id="1544005" string="You exhibit such power. Impressing me like that calls for a reward." />
+</StrSheet_Quest>

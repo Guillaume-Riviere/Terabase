@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21301001" string="Ominous News" />
+	<String id="21301002" string="&quot;Yes, sir.&quot;" />
+	<String id="21301003" string="&quot;Got it.&quot;" />
+	<String id="21301004" string="Talk to Seir in Highwatch" />
+	<String id="21301005" string="North Dock" />
+	<String id="21301006" string="So this is the Island of Dawn?&#10;What could have happened in this place?" />
+	<String id="21301007" string="Go to North Dock." />
+	<String id="21301008" string="&quot;What is it?&quot;" />
+	<String id="21301009" string="Meet Adria at North Dock." />
+</StrSheet_Quest>

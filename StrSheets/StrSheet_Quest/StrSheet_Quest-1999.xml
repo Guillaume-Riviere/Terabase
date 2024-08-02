@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60404001" string="Scarier Crows" />
+	<String id="60404002" string="Holy relics, but troublesome ones." />
+	<String id="60404003" string="Thank you. You'll be the first one to know if they ever rise again." />
+	<String id="60404004" string="" />
+	<String id="60404005" string="" />
+	<String id="60404006" string="" />
+	<String id="60404007" string="Find {@LinkCreature:71#3007#Bakra} in {@Rgn:71001$$Bastion}." />
+	<String id="60404008" string="&quot;Sit tight. I have this.&quot;" />
+	<String id="60404009" string="Find and destroy the {@LinkCreature:30#3001#krylar iskaragard}." />
+	<String id="60404010" string="Find and destroy the {@LinkCreature:30#3002#strylik iskaragard}." />
+	<String id="60404011" string="Find and destroy the {@LinkCreature:30#3003#veldraj iskaragard}." />
+	<String id="60404012" string="&quot;That'd be good.&quot;" />
+	<String id="60404013" string="Report to {@LinkCreature:71#3007#Bakra}." />
+	<String id="60404014" string="&quot;It was easy!&quot;" />
+	<String id="60404015" string="Return to {@LinkCreature:71#3007#Bakra}." />
+	<String id="60404016" string="&quot;It was a good workout.&quot;" />
+	<String id="60404017" string="Talk to {@LinkCreature:71#3007#Bakra}." />
+</StrSheet_Quest>

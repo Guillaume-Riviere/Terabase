@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3339001" string="See You in the Fall" />
+	<String id="3339002" string="You'll have to find a way down." />
+	<String id="3339003" string="You're a sight for sore eyes!" />
+	<String id="3339004" string="&quot;You're sure about this?&quot;" />
+	<String id="3339005" string="Check in at the room with a caved-in floor in the southwest part of the sixth floor." />
+	<String id="3339006" string="&quot;For the federation!&quot;" />
+	<String id="3339007" string="Talk to Tysur in the Shrieking Catacombs.&#10;[Go through the caved-in floor or to Panpantun at the Gloomhaunt Sentry Post in order to access the Shrieking Catacombs.]" />
+</StrSheet_Quest>

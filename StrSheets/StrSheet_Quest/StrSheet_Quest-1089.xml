@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4671001" string="(Guild) Suppression Orders: Kulkaris" />
+	<String id="4671002" string="Continual suppression keeps us safe." />
+	<String id="4671003" string="Thank you for your hard work." />
+	<String id="4671004" string="Proof of Kill: Kulkaris" />
+	<String id="4671005" string="&quot;For the federation.&quot;" />
+	<String id="4671006" string="Defeat {@LinkCreature:46#201#argonomorph kulkari crushers}, {@LinkCreature:46#202#argonomorph kulkari shamans}, and {@LinkCreature:46#203#argonomorph Lokian slayers} on the upper levels." />
+	<String id="4671007" string="Report to the nearest coordinator." />
+</StrSheet_Quest>

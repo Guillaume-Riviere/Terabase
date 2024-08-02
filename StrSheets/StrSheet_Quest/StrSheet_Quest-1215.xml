@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5035001" string="Testing the Mettle" />
+	<String id="5035002" string="I owe you so much!" />
+	<String id="5035003" string="&quot;Understood.&quot;" />
+	<String id="5035004" string="Speak with {@LinkCreature:248#1015}." />
+	<String id="5035005" string="&quot;I should hope so.&quot;" />
+	<String id="5035006" string="Collect fyrdras ore around {@Rgn:48006}." />
+	<String id="5035007" string="Deliver the fyrdras ore to {@LinkCreature:76#1033}." />
+	<String id="5035008" string="&quot;Forge ahead!&quot;" />
+	<String id="5035009" string="Speak with {@LinkCreature:76#1036}." />
+</StrSheet_Quest>

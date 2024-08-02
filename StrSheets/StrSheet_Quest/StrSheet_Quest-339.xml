@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1313001" string="Into the Gorge" />
+	<String id="1313002" string="Dangerous creatures are swarming just across the bridge!" />
+	<String id="1313003" string="It is good to know Edan is safe." />
+	<String id="1313004" string="Fight off prowling cromoses in the area near the Tainted Gorge Bridge." />
+	<String id="1313005" string="Tainted Gorge Bridge" />
+	<String id="1313006" string="There she is!" />
+	<String id="1313007" string="Be on the lookout for Phaedra in the Tainted Gorge." />
+	<String id="1313008" string="&quot;I will.&quot;" />
+	<String id="1313009" string="Speak to Phaedra." />
+	<String id="1313010" string="Swarming Demons" />
+	<String id="1313011" string="Kill devoted ebon imps and dark raiders infesting the Tainted Gorge." />
+	<String id="1313012" string="&quot;For the federation!&quot;" />
+	<String id="1313013" string="Retrieve expedition amulets from fallen soldiers." />
+	<String id="1313014" string="Take the amulets to Sersine at the Tainted Gorge Outpost." />
+</StrSheet_Quest>

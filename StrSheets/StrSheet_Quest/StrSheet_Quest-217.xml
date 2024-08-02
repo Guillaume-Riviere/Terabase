@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="922001" string="Eliminate the Raging Beasts" />
+	<String id="922002" string="They're not gonna destroy themselves! Though, that would be nice." />
+	<String id="922003" string="You may have just saved some lives. Then again, maybe you didn't." />
+	<String id="922004" string="Kill the tawny sabertooths in the forest northeast of camp." />
+	<String id="922005" string="&quot;For the federation!&quot;" />
+	<String id="922006" string="Report to Haitribus at the Relic Hunter Outpost." />
+</StrSheet_Quest>

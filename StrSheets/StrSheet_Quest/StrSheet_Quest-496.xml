@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1927001" string="Suppression Report" />
+	<String id="1927002" string="Be quick! They're waiting for this message." />
+	<String id="1927003" string="Supplies can finally go through." />
+	<String id="1927004" string="&quot;I'm glad I could help.&quot;" />
+	<String id="1927005" string="Take Cregan's message to Cardis at Velik's Vigil." />
+</StrSheet_Quest>

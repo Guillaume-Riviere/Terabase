@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="42521001" string="Balder's First Trial" />
+	<String id="42521002" string="Kill {@LinkCreature:425#1000$$Kakun}.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="42521003" string="&quot;Onward.&quot;" />
+	<String id="42521004" string="Report to the next {@LinkCreature:425#3022#repository of wisdom}.&lt;BR>(Only normal mode will advance quests.)" />
+</StrSheet_Quest>

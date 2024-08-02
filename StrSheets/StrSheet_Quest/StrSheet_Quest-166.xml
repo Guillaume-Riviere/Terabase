@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="724001" string="Break Through the Lines" />
+	<String id="724002" string="You'll make a big difference to them." />
+	<String id="724003" string="Some good stuff in here." />
+	<String id="724004" string="Prefect Drustan" />
+	<String id="724005" string="Supply Package" />
+	<String id="724006" string="Head south from Casidhe's Stand and deliver the supply package to Heroth at Godric's Farm." />
+	<String id="724007" string="&quot;You're welcome.&quot;" />
+</StrSheet_Quest>

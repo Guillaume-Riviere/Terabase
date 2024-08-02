@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1318001" string="Hunting the Beasts" />
+	<String id="1318002" string="Watch out for the noruk's charge attack. It's deadly!" />
+	<String id="1318003" string="Hey, not bad for a keener." />
+	<String id="1318004" string="Noruk Hide" />
+	<String id="1318005" string="Hunt the noruks and collect their hides." />
+	<String id="1318006" string="Meet Neziir at the Northern Overwatch." />
+	<String id="1318007" string="&quot;You're welcome.&quot;" />
+</StrSheet_Quest>

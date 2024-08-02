@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47321001" string="Blackhearts" />
+	<String id="47321002" string="Bring back those hearts, or the soldiers will resurrect." />
+	<String id="47321003" string="Immortality seems like less of a blessing now, doesn't it?" />
+	<String id="47321004" string="Eternal Heart" />
+	<String id="47321005" string="Eliminate the Blood Legion in Ebon Tower.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]" />
+	<String id="47321006" string="Bring the hearts to Savinu in the cave near Ebon Tower." />
+	<String id="47321007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

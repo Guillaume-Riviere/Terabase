@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2235001" string="Chaos Is Ugly" />
+	<String id="2235002" string="Be cautious! Iskaragards are powerful constructs." />
+	<String id="2235003" string="This madness swept through student and teacher alike. Can we stop it?" />
+	<String id="2235004" string="Destroy the chaos guides and their iskaragards in the catacombs." />
+	<String id="2235005" string="&quot;Thank you.&quot;" />
+	<String id="2235006" string="Report back to Chalyn." />
+</StrSheet_Quest>

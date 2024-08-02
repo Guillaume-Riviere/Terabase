@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999612001" string="Conquer Sienna Canyon" />
+	<String id="999612002" string="[Sienna Canyon] Defeat Desert Basilisks, Darkflame Dracoloths, and Trihorn Dracoloths 100 times!" />
+	<String id="999612003" string="Sienna Canyon Monsters" />
+	<String id="999612004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4901001" string="Into the Heart of Darkness" />
+	<String id="4901002" string="&quot;It's nice to see you again.&quot;" />
+	<String id="4901003" string="&quot;Let's do this.&quot;" />
+	<String id="4901004" string="Speak with {@LinkCreature:248#2011#Hasmina} at {@Rgn:48002$$Khanovar Citadel} about your mission." />
+	<String id="4901005" string="&quot;I understand.&quot;" />
+	<String id="4901006" string="{@Rgn:76001$$Kanstria} Outskirts" />
+	<String id="4901007" string="Hasmina is waiting." />
+	<String id="4901008" string="Head to {@Rgn:49001$$Argonea} and join {@LinkCreature:249#2013#Hasmina}." />
+	<String id="4901009" string="&quot;I understand.&quot;" />
+	<String id="4901010" string="Speak with {@LinkCreature:249#2013#Hasmina} in {@Rgn:49001$$Argonea}." />
+	<String id="4901011" string="&quot;I understand.&quot;" />
+	<String id="4901012" string="Venture into {@Rgn:76001$$Kanstria} and find out what happened." />
+	<String id="4901013" string="&quot;I understand.&quot;" />
+	<String id="4901014" string="Go to {@Rgn:76001$$Kanstria} and show Magistrate {@LinkCreature:249#2002#Ceidos} {@LinkCreature:249#2006#Celtan}'s letter." />
+	<String id="4901015" string="&quot;I understand.&quot;" />
+	<String id="4901016" string="Speak with {@LinkCreature:249#2003#Hasmina} at {@Rgn:76001$$Kanstria} and discuss how to scout {@Rgn:49004$$Melgatol Portal}." />
+	<String id="4901017" string="{@Rgn:49004$$Melgatol Portal}" />
+	<String id="4901018" string="You've arrived at the {@Rgn:49004$$Melgatol Portal}." />
+	<String id="4901019" string="Meet {@LinkCreature:249#2005#Hasmina} at the &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#65883, 25758, 4896&amp;type=1&amp;name=hill&quot;>hill&lt;/A>&lt;/font> overlooking the {@Rgn:49004$$Melgatol Portal}." />
+	<String id="4901020" string="&quot;I understand.&quot;" />
+	<String id="4901021" string="Speak with {@LinkCreature:249#2005$$Hasmina}." />
+	<String id="4901022" string="{@Rgn:49004$$Blightroar} Platform" />
+	<String id="4901023" string="You've infiltrated the portal site. Speak with Hasmina." />
+	<String id="4901024" string="Scout out the {@Rgn:49004$$Melgatol Portal}." />
+	<String id="4901025" string="&quot;I understand.&quot;" />
+	<String id="4901026" string="Speak with {@LinkCreature:249#2005$$Hasmina}." />
+	<String id="4901027" string="Search the slain {@Rgn:76001$$Kanstrian} scouts at {@Rgn:49004$$Blightroar} and recover their {@rawitem:45274$$unit insignias}." />
+	<String id="4901028" string="&quot;Let's go.&quot;" />
+	<String id="4901029" string="Tell {@LinkCreature:249#2010#Hasmina} that you've retrieved all {@rawitem:45274$$unit insignias}." />
+	<String id="4901030" string="&quot;Right. Okay.&quot;" />
+	<String id="4901031" string="Scout's Insignia" />
+	<String id="4901032" string="Deliver the insignias to Magistrate {@LinkCreature:249#2002#Ceidos} at {@Rgn:76001$$Kanstria}." />
+	<String id="4901033" string="&quot;Keep your chin up.&quot;" />
+	<String id="4901034" string="&quot;I understand.&quot;" />
+	<String id="4901035" string="Tell {@LinkCreature:249#2006#Celtan} in {@Rgn:76001$$Kanstria} about the slain scouts." />
+</StrSheet_Quest>

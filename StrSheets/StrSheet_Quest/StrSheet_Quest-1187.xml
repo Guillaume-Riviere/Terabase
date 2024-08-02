@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4951001" string="Test of the Seeker" />
+	<String id="4951002" string="May Kaia smile upon you." />
+	<String id="4951003" string="&quot;Good luck!&quot;" />
+	<String id="4951004" string="Mine {@Collection:106} for {@RawItem:206811}s around the {@Rgn:49002}." />
+	<String id="4951005" string="Deliver the {@RawItem:206811}s to {@LinkCreature:76#1035} in {@Rgn:76001}." />
+</StrSheet_Quest>

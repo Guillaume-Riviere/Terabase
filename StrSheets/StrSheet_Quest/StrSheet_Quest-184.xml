@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="804001" string="Fraya's Faith" />
+	<String id="804002" string="&quot;I understand.&quot;" />
+	<String id="804003" string="Ask Elleon if there is any replacement energy that can handle the Core." />
+	<String id="804004" string="&quot;I understand.&quot;" />
+	<String id="804005" string="Relate Elleon's message to Fraya in Castanica." />
+	<String id="804006" string="&quot;I understand.&quot;" />
+	<String id="804007" string="Bring Fraya's request to Sophilia." />
+	<String id="804008" string="&quot;I understand.&quot;" />
+	<String id="804009" string="Deliver Sophilia's orders to Officer Karina at Avenger Outpost.&#10;[Use the {@linkcreature:61#1009#Teleportal} to go to Avenger Outpost.]" />
+	<String id="804010" string="&quot;I understand.&quot;" />
+	<String id="804011" string="Go to Elleon near Avenger Outpost in the northwestern corner of the Hungry Caverns.&#10;[Speak with {@linkcreature:208#2000#Tadan} to go to Hungry Caverns Catacombs.]" />
+	<String id="804012" string="&quot;I understand.&quot;" />
+	<String id="804013" string="Enter the Golden Labyrinth through the area near the closed door and speak with {@LinkCreature:3005#1001#Runshia}.&#10;[You must select Golden Labyrinth (Solo) from the {@LinkCreature:208#1501#Teleportal} to advance this quest.]" />
+	<String id="804014" string="&quot;I understand.&quot;" />
+	<String id="804015" string="Speak with Jelena who's been scouting the area." />
+	<String id="804016" string="Use the western {@linkcreature:3005#1012#obelisk} to open the gate, then eliminate Berylheart." />
+	<String id="804017" string="&quot;I understand.&quot;" />
+	<String id="804018" string="Return to Jelena." />
+	<String id="804019" string="Eliminate all the monsters past the Chamber of Trial and make your way through." />
+	<String id="804020" string="&quot;Are you alright?&quot;" />
+	<String id="804021" string="You have located Elleon. Go to Elleon and speak with him." />
+	<String id="804022" string="I'd be dead if it weren't for you." />
+	<String id="804023" string="Speak with Elleon and start protecting him." />
+	<String id="804024" string="&quot;I understand.&quot;" />
+	<String id="804025" string="Speak with Elleon again." />
+	<String id="804026" string="Protect the teleportal in the Chamber of the Wild and eliminate Valgmore and Varcerbus." />
+	<String id="804027" string="&quot;I understand.&quot;" />
+	<String id="804028" string="Report to Elleon at the Chamber of the Wild." />
+	<String id="804029" string="&quot;I understand.&quot;" />
+	<String id="804030" string="Speak with Elleon in Chamber of the Wild again." />
+	<String id="804031" string="&quot;I understand.&quot;" />
+	<String id="804032" string="Speak with Elleon at Golden Labyrinth Entrance." />
+	<String id="804033" string="&quot;I understand.&quot;" />
+	<String id="804034" string="Speak with Elleon in Castanica." />
+	<String id="804035" string="&quot;Thank you.&quot;" />
+	<String id="804036" string="Speak with Fraya in Castanica." />
+</StrSheet_Quest>

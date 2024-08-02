@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4133001" string="Spirit of Cooperation" />
+	<String id="4133002" string="Others need to know about this potion." />
+	<String id="4133003" string="How's Kurio?" />
+	<String id="4133004" string="Kurio" />
+	<String id="4133005" string="Mind Control Potion" />
+	<String id="4133006" string="Show the mind control potion to Keltaria at Emissary Point." />
+	<String id="4133007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

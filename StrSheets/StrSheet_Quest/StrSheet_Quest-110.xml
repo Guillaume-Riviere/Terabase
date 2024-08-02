@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="529001" string="Lost Backpack" />
+	<String id="529002" string="Just get my stuff back." />
+	<String id="529003" string="Thank you, thank you, thank you!" />
+	<String id="529004" string="&quot;It was no trouble.&quot;" />
+	<String id="529005" string="Recover Boermas's wares from his luggage near Tuwangi Thorp." />
+	<String id="529006" string="Return the goods to Boermas." />
+</StrSheet_Quest>

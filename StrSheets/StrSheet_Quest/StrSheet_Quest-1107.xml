@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4734001" string="Digging Dirt" />
+	<String id="4734002" string="Thank you so much." />
+	<String id="4734003" string="Kill {@creature:47#4003#argonomorph gulas} north of the {@Rgn:47005$$Argon Frontier} and collect cyamonoid soil." />
+	<String id="4734004" string="&quot;I will.&quot;" />
+	<String id="4734005" string="Collect cyamonoid soil." />
+	<String id="4734006" string="Deliver the cyamonoid soil to {@creature:247#1021$$Shannow}." />
+	<String id="4734007" string="&quot;Happy to help.&quot;" />
+	<String id="4734008" string="Go to {@Rgn:77001$$Pathfinder Post} and tell {@creature:77#1009$$Borskan} about the black dirt." />
+</StrSheet_Quest>

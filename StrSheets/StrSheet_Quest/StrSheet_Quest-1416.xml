@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6002001" string="[Dungeon] Bringing Down Exodor" />
+	<String id="6002002" string="&quot;Okay.&quot; " />
+	<String id="6002003" string="Collect 3 Leave Authorizations from {@LinkCreature:207#6000#Gazarun}, {@LinkCreature:207#6002#Duzorun}, and {@LinkCreature:207#6001#Ozarun}." />
+	<String id="6002004" string="Talk to Titus." />
+	<String id="6002005" string="&quot;Okay.&quot;" />
+	<String id="6002006" string="Teleport to Habere and speak with Turzek." />
+	<String id="6002007" string="Muhrak's Workshop Teleportal" />
+	<String id="6002008" string="Go to the Muhrak's Workshop Teleportal." />
+	<String id="6002009" string="&quot;Of course I'll help.&quot;" />
+	<String id="6002010" string="Teleport to Muhrak's Workshop and speak with Muhrak. " />
+	<String id="6002011" string="&quot;Okay.&quot;" />
+	<String id="6002012" string="Speak with Titus." />
+	<String id="6002013" string="&quot;Okay.&quot;" />
+	<String id="6002014" string="Speak with Titus." />
+	<String id="6002015" string="Wyvern Watch" />
+	<String id="6002016" string="You arrived at Wyvern Watch. The heat is intense." />
+	<String id="6002017" string="Use the teleportal scroll to go to Wyvern Watch." />
+	<String id="6002018" string="&quot;Thanks for letting me know.&quot;" />
+	<String id="6002019" string="Ask Zalik about the Ruby Durignite." />
+	<String id="6002020" string="Near the Campfire" />
+	<String id="6002021" string="Verdas?!" />
+	<String id="6002022" string="You see someone familiar. Approach the Campfire." />
+	<String id="6002023" string="&quot;Thank you!&quot;" />
+	<String id="6002024" string="Speak with Verdas." />
+	<String id="6002025" string="Barbtail Coulee" />
+	<String id="6002026" string="The heat here is intense!" />
+	<String id="6002027" string="Go to Barbtail Coulee." />
+	<String id="6002028" string="Defeat Trihorn Dracoloths." />
+	<String id="6002029" string="Deeper" />
+	<String id="6002030" string="Go deeper into Barbtail Coulee." />
+	<String id="6002031" string="Defeat Darkflame Dracoloths. " />
+	<String id="6002032" string="(Handling it with caution.)" />
+	<String id="6002033" string="Collect some Ruby Durignite." />
+	<String id="6002034" string="Titus's Messengers" />
+	<String id="6002035" string="Titus's Messengers are waiting for you." />
+	<String id="6002036" string="Find Titus's Messengers." />
+	<String id="6002037" string="&quot;Okay.&quot; " />
+	<String id="6002038" string="Speak with Kaiahn." />
+	<String id="6002039" string="Speak with Kaiahn." />
+	<String id="6002040" string="(Give Berus the petals.)" />
+	<String id="6002041" string="Gather Salixia Flowers." />
+	<String id="6002042" string="Deliver the Salixia Flowers to Berus." />
+	<String id="6002043" string="&quot;Thank you!&quot;" />
+	<String id="6002044" string="Speak with Berus." />
+	<String id="6002045" string="Outpost" />
+	<String id="6002046" string="Ryshan seems to be delighted." />
+	<String id="6002047" string="Use the teleportal scroll to go to the outpost near the Sabex Armory Entrance." />
+	<String id="6002048" string="&quot;We need to take it down quick.&quot; " />
+	<String id="6002049" string="Speak with Ryshan." />
+	<String id="6002050" string="&quot;We need to take it down quick.&quot; " />
+	<String id="6002051" string="Speak with Titus." />
+	<String id="6002052" string="&quot;Okay.&quot; " />
+	<String id="6002053" string="Speak with Ryshan." />
+	<String id="6002054" string="Fire the Challenger Cannon." />
+	<String id="6002055" string="Calm Ryshan down." />
+	<String id="6002056" string="Check on Ryshan." />
+	<String id="6002057" string="&quot;Okay.&quot;" />
+	<String id="6002058" string="Check on Titus." />
+</StrSheet_Quest>

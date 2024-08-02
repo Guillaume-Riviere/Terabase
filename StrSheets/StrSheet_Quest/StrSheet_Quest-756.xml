@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3223001" string="What's Yours Is Mine" />
+	<String id="3223002" string="I'm tired of waking up and feeling hunger pangs." />
+	<String id="3223003" string="These supplies will go a long way. Thank you." />
+	<String id="3223004" string="&quot;Thank you...I think.&quot;" />
+	<String id="3223005" string="Collect supplies from the eastern Daunting Pass." />
+	<String id="3223006" string="Deliver the supplies to Morva." />
+</StrSheet_Quest>

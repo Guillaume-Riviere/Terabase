@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6352001" string="[Event] Conquer Macellarius Catacombs" />
+	<String id="6352002" string="Defeat Demokraxus in the Macellarius Catacombs." />
+	<String id="6352003" string="&quot;Thanks.&quot;" />
+	<String id="6352004" string="Talk to Dougal in Velika." />
+</StrSheet_Quest>

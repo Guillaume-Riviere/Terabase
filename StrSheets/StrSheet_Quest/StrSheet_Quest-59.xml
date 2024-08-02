@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="341001" string="Breaking a Few Eggs" />
+	<String id="341002" string="More eggs for us, fewer for them." />
+	<String id="341003" string="Maybe we can find a use for these besides big omelets." />
+	<String id="341004" string="&quot;Your creepy eggs.&quot;" />
+	<String id="341005" string="Collect basilisk eggs from the Bestial Vale." />
+	<String id="341006" string="Deliver the eggs to Parlan." />
+	<String id="341007" string="Parlan" />
+	<String id="341008" string="Elixir Prototype" />
+	<String id="341009" string="Find a basilisk victim's corpse in the Bestial Vale." />
+	<String id="341010" string="&quot;I hope this works.&quot;" />
+	<String id="341011" string="Collect the remains." />
+	<String id="341012" string="Collect the remains." />
+	<String id="341013" string="Unfortunate Victim" />
+	<String id="341014" string="Broken Bones" />
+	<String id="341015" string="Return the bones to Parlan." />
+	<String id="341016" string="&quot;This is what's left.&quot;" />
+</StrSheet_Quest>

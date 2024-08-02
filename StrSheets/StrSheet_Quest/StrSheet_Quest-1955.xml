@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60105001" string="The Shape of Things to Come" />
+	<String id="60105002" string="If we can't counter the argons' designs, our world is doomed." />
+	<String id="60105003" string="Let there be answers in here." />
+	<String id="60105004" string="" />
+	<String id="60105005" string="" />
+	<String id="60105006" string="" />
+	<String id="60105007" string="" />
+	<String id="60105008" string="Meet {@LinkCreature:245#3501#Zkarak} at Field Base Reciprocity." />
+	<String id="60105009" string="&quot;I'll do that, thanks.&quot;" />
+	<String id="60105010" string="&quot;Understood.&quot;." />
+	<String id="60105011" string="Speak with {@LinkCreature:245#3501#Zkarak} again." />
+	<String id="60105012" string="&quot;Understood.&quot;" />
+	<String id="60105013" string="Climb up the ladders and speak with {@LinkCreature:245#3502#Tenon}." />
+	<String id="60105014" string="&quot;Understood.&quot;" />
+	<String id="60105015" string="Climb up the ladders and speak with {@LinkCreature:245#3504#Arvran}." />
+	<String id="60105016" string="&quot;Understood.&quot;" />
+	<String id="60105017" string="Climb up the ladders and speak with {@LinkCreature:245#3505#Blasil}." />
+	<String id="60105018" string="&quot;Glad I could help.&quot;" />
+	<String id="60105019" string="Deliver the report to {@LinkCreature:77#3001#Nithan}." />
+	<String id="60105020" string="Deliver the report to {@LinkCreature:77#3001#Nithan}." />
+</StrSheet_Quest>

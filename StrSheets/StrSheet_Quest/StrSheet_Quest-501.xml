@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1932001" string="Destroy Sidurek" />
+	<String id="1932002" string="This is the first step to restoring order." />
+	<String id="1932003" string="I hope this stops the horror." />
+	<String id="1932004" string="Secret Letter" />
+	<String id="1932005" string="Find and eliminate Sidurek." />
+	<String id="1932006" string="Report to Elsta." />
+	<String id="1932007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

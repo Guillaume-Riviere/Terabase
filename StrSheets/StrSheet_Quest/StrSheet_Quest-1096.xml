@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4703001" string="Abandoned Argon Base" />
+	<String id="4703002" string="&quot;We need it for the woods.&quot; " />
+	<String id="4703003" string="&quot;Please, my hometown depends on this.&quot;" />
+	<String id="4703004" string="&quot;I understand.&quot;" />
+	<String id="4703005" string="&quot;Right. Okay.&quot;" />
+	<String id="4703006" string="Ask {@creature:247#2003$$Cheniel} what you need to do at {@Rgn:47007$$Blightroar Research Station}." />
+	<String id="4703007" string="Kill the {@creature:47#2003#argonomorph gulas} that threaten {@creature:47#7005#faerie saplings} west of the {@Rgn:47003$$Bridgehead}." />
+	<String id="4703008" string="&quot;Right. Okay.&quot;" />
+	<String id="4703009" string="Meet {@creature:247#2010$$Yasring} at {@Rgn:47007$$Blightroar Research Station} and tell her you're here to help." />
+	<String id="4703010" string="&quot;I understand.&quot;" />
+	<String id="4703011" string="Persuade {@creature:247#1004$$Rozaline} in {@Rgn:47007$$Blightroar Research Station} that the Argon Bases need purifying as well. " />
+	<String id="4703012" string="Kill {@creature:47#3001$$Contaminated Wendigo} and {@creature:47#3002$$Argononomorph Wendigo} near the {@Rgn:47012$$Argon Shield Emitter}." />
+	<String id="4703013" string="&quot;I understand.&quot;" />
+	<String id="4703014" string="Talk to {@creature:247#2010$$Yasring} at {@Rgn:47012$$Argon Shield Emitter}." />
+	<String id="4703015" string="Kill {@creature:47#3003$$Argonomorph Wendigo Shaman} at {@Rgn:47012$$Argon Shield Emitter} and collect shield emitter fragments." />
+	<String id="4703016" string="Shield Emitter Fragments" />
+	<String id="4703017" string="Return to the {@Rgn:47007$$Blightroar Research Station} and deliver Strange Wendigo's Hide to {@creature:247#2010$$Yasring}. " />
+	<String id="4703018" string="…." />
+	<String id="4703019" string="&quot;Right. Okay.&quot;" />
+	<String id="4703020" string="{@creature:247#2010$$Yasring} looks like she made a decision. Talk to Yasring." />
+	<String id="4703021" string="&quot;Okay.&quot;" />
+	<String id="4703022" string="Ask {@linkcreature:247#1004$$Rozaline} at {@Rgn:47007$$Blightroar Research Station} news of southern Arun." />
+</StrSheet_Quest>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21311001" string="Littered Path" />
+	<String id="21311002" string="&quot;I've got you covered.&quot;" />
+	<String id="21311003" string="Free Traders Collective Camp" />
+	<String id="21311004" string="There's Adria, near the merchants." />
+	<String id="21311005" string="Follow the road to the Free Traders Collective camp." />
+	<String id="21311006" string="&quot;I've got you covered.&quot;" />
+	<String id="21311007" string="Talk to Adria." />
+	<String id="21311008" string="Defeat sickly basilisk, sickly orisks, and sickly ovoliths in Timeless Woods." />
+	<String id="21311009" string="&quot;I've got you covered.&quot;" />
+	<String id="21311010" string="Talk to Adria." />
+	<String id="21311011" string="Brutal Monsters of Timeless Woods" />
+	<String id="21311012" string="Defeat brutal basilisks, brutal orisks, and brutal ovoliths." />
+	<String id="21311013" string="&quot;Interesting. I'll look into that.&quot;" />
+	<String id="21311014" string="Talk to Adria in Ruined Temple." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47224001" string="Sacrifices for Science" />
+	<String id="47224002" string="I just love science...science...science!" />
+	<String id="47224003" string="These crystals have such a deep red color, just like the journals describe!" />
+	<String id="47224004" string="&quot;For the federation!&quot;" />
+	<String id="47224005" string="Collect blood crystals in the Golden Labyrinth.&#10;[You must select Golden Labyrinth (Solo) from the {@LinkCreature:208#1501#Teleportal} to advance this quest.]" />
+	<String id="47224006" string="Deliver the blood crystals to Alchemist Krudo." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1221001" string="Secret Directive" />
+	<String id="1221002" string="For the federation!" />
+	<String id="1221003" string="Now, we're in business." />
+	<String id="1221004" string="Ignore the directive and go to Dirken." />
+	<String id="1221005" string="See Dirken's left-hand man, Zaira, at the dock southeast of Cutthroat Harbor." />
+	<String id="1221006" string="&quot;I'm looking for work.&quot;" />
+	<String id="1221007" string="Speak with Dirken at the dock southeast of Cutthroat Harbor." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4830001" string="Out of Harm's Way" />
+	<String id="4830002" string="I'm so ready to quit this place." />
+	<String id="4830003" string="I appreciate the escort." />
+	<String id="4830004" string="&quot;Let's get going.&quot;" />
+	<String id="4830005" string="Thanks for getting me out of there." />
+	<String id="4830006" string="Escort {@LinkCreature:48#1013} to the {@Rgn:48004}." />
+	<String id="4830007" string="&quot;I'll do that. Thanks.&quot;" />
+	<String id="4830008" string="Speak with {@LinkCreature:248#1034}." />
+</StrSheet_Quest>

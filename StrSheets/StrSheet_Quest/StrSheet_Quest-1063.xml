@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4572001" string="(Guild) Suppression Orders: Argonomorphs" />
+	<String id="4572002" string="Argonomorphs are the worst." />
+	<String id="4572003" string="Thanks for your help." />
+	<String id="4572004" string="Proof of Kill: Argonomorphs" />
+	<String id="4572005" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="4572006" string="Kill {@LinkCreature:45#2001#argonomorph blood fiends}, {@LinkCreature:45#2002#horntoads}, and {@LinkCreature:45#2003#frogmasters} in the {@Rgn:45003$$Vale of the Reaper}." />
+	<String id="4572007" string="Report to Laetesha at Pathfinder Post." />
+</StrSheet_Quest>

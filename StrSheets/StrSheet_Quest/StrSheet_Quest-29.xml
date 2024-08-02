@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="242001" string="The Last Argument" />
+	<String id="242002" string="Please bring my sister back!" />
+	<String id="242003" string="Oh, no... Jerelyn...!" />
+	<String id="242004" string="&quot;Rest in peace.&quot;" />
+	<String id="242005" string="Find Jerelyn in the forest to the southwest." />
+	<String id="242006" string="Jerelyn's Necklace" />
+	<String id="242007" string="Hunt sporewalkers and terron lunatics until you recover Jerelyn's Necklace." />
+	<String id="242008" string="Take the necklace to Jessalin." />
+	<String id="242009" string="&quot;My condolences.&quot;" />
+</StrSheet_Quest>

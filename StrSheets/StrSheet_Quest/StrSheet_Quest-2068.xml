@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61501001" string="[Important] Hatching a Partner" />
+	<String id="61501002" string="&quot;Okay.&quot;" />
+	<String id="61501003" string="Go to {@linkcreature:183#2064#Loomey} in Highwatch." />
+	<String id="61501004" string="&quot;Okay.&quot;" />
+	<String id="61501005" string="Go to {@linkcreature:183#2064#Loomey} in Highwatch." />
+	<String id="61501006" string="&quot;Okay.&quot;" />
+	<String id="61501007" string="Go to {@linkcreature:183#2065#Kuncun} in Highwatch." />
+	<String id="61501008" string="Forest Essence" />
+	<String id="61501009" string="Defeat {@linkcreature:29#1024#Sickly Warthog}s to collect Forest Essences and deliver them to {@linkcreature:183#2065#Kuncun}." />
+	<String id="61501010" string="" />
+	<String id="61501011" string="&quot;Okay.&quot;" />
+	<String id="61501012" string="&quot;Okay.&quot;" />
+	<String id="61501013" string="Collect 8 Legacy Essences and deliver them to {@linkcreature:183#2065#Kuncun}." />
+	<String id="61501014" string="" />
+	<String id="61501015" string="&quot;Okay.&quot;" />
+	<String id="61501016" string="Go to {@linkcreature:183#2064#Loomey} and tell him that everything is ready for the spell." />
+	<String id="61501017" string="&quot;I can do that.&quot;" />
+	<String id="61501018" string="Go to {@linkcreature:183#2064#Loomey} in Highwatch." />
+</StrSheet_Quest>

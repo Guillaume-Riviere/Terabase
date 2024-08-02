@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10139001" string="Strengthen the Cloth" />
+	<String id="10139002" string="&quot;I can do that.&quot;" />
+	<String id="10139003" string="Go to Kunar in Kaiator." />
+	<String id="10139004" string="&quot;Thank you.&quot;" />
+	<String id="10139005" string="Visit Eltarun in Scythera Fae." />
+	<String id="10139006" string="" />
+	<String id="10139007" string="Strengthening Solution" />
+	<String id="10139008" string="Take the solution to Saurem in Kaiator." />
+	<String id="10139009" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="302601001" string="[Dungeon - 473] Argon Plot" />
+	<String id="302601002" string="&quot;Got it.&quot;" />
+	<String id="302601003" string="&quot;Got it.&quot;" />
+	<String id="302601004" string="Go to the Federation Reliquary Station in Exodor and speak with Dougal." />
+	<String id="302601005" string="Read Virienne's letter." />
+	<String id="302601006" string="&quot;Got it.&quot;" />
+	<String id="302601007" string="Speak with Dougal again." />
+	<String id="302601008" string="Verrak Fountain Fishery" />
+	<String id="302601009" string="You arrived at the fishery. Ask Nailon about this place." />
+	<String id="302601010" string="Go to the Search Area in Verrak Fortress Southern Outskirt." />
+	<String id="302601011" string="&quot;I'll check it out, thanks.&quot;" />
+	<String id="302601012" string="Speak with Nailon." />
+	<String id="302601013" string="Suspicious Island" />
+	<String id="302601014" string="You see Jelena standing under a strange device." />
+	<String id="302601015" string="Go to the suspicious island that Nailon told you about." />
+	<String id="302601016" string="&quot;Got it.&quot;" />
+	<String id="302601017" string="Speak with Jelena." />
+	<String id="302601018" string="Defeat {@linkcreature:3026#1000$$Kelsaik} in Corrupted Skynest." />
+	<String id="302601019" string="&quot;Got it.&quot;" />
+	<String id="302601020" string="Speak with Dougal at the Federation Reliquary Station." />
+</StrSheet_Quest>

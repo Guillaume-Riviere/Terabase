@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4732001" string="The Bear Facts" />
+	<String id="4732002" string="I'll feel better when they're farther away." />
+	<String id="4732003" string="Ah, that's much better. Thank you." />
+	<String id="4732004" string="Kill {@creature:47#1002$$Argonomorph Tirkai Grizzlies} to keep the researchers safe." />
+	<String id="4732005" string="&quot;Glad I could help.&quot;" />
+	<String id="4732006" string="Report back to {@creature:247#1022$$Kurana} at the {@Rgn:47009$$Temporary Patrol Camp}." />
+</StrSheet_Quest>

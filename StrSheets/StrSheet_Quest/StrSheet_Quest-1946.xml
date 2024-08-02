@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59906001" string="To Protect the Innocent" />
+	<String id="59906002" string="Ruins of Shadetree" />
+	<String id="59906003" string="Something suspicious is happening." />
+	<String id="59906004" string="Enter the village and assess the situation." />
+	<String id="59906005" string="&quot;Thank you.&quot;" />
+	<String id="59906006" string="Talk to Jalka, the injured guardian." />
+	<String id="59906007" string="Help the guardians drive off the argon forces." />
+	<String id="59906008" string="&quot;Okay.&quot;" />
+	<String id="59906009" string="Talk to Emun." />
+	<String id="59906010" string="Battle with the Argon Predator." />
+	<String id="59906011" string="&quot;I’ll go find them right away.&quot;" />
+	<String id="59906012" string="Talk to Walgrey." />
+</StrSheet_Quest>

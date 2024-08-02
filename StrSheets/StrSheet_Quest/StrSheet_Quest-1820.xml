@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48972001" string="(Guild) Suppression Orders: Bhaozurbas" />
+	<String id="48972002" string="Proof of Kill: Bhaozurbas" />
+	<String id="48972003" string="&quot;For the federation!&quot;" />
+	<String id="48972004" string="Defeat Bhaozurbas in Cultists' Refuge.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="48972005" string="Report to the nearest village coordinator." />
+</StrSheet_Quest>

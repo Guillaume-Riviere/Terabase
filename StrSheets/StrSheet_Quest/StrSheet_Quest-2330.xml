@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800040001" string="Hunt Desert Lightning Kumases" />
+	<String id="800040002" string="[Sandwalker Refuge] Hunt desert lightning kumases in Sandwalker Refuge." />
+	<String id="800040003" string="Desert Lightning Kumases" />
+	<String id="800040004" string="Claim your reward!" />
+</StrSheet_Quest>

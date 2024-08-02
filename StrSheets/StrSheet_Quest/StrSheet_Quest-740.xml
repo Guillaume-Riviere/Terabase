@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3137001" string="Silent Hunters" />
+	<String id="3137002" string="You must stop the wraiths from preying on us!" />
+	<String id="3137003" string="Wraiths are undead with a thirst for spirits of the living." />
+	<String id="3137004" string="Eliminate the sepulchral and souleater wraiths in Icefang Inlet." />
+	<String id="3137005" string="&quot;For Valkyon!&quot;" />
+	<String id="3137006" string="Return to Kylar." />
+</StrSheet_Quest>

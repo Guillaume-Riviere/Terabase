@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8701001" string="Called to Serve" />
+	<String id="8701002" string="&quot;What can I do to help?&quot;" />
+	<String id="8701003" string="&quot;I will deal with them.&quot;" />
+	<String id="8701004" string="Talk to Dorial." />
+	<String id="8701005" string="Hunt orcan deserters." />
+	<String id="8701006" string="&quot;I understand.&quot;" />
+	<String id="8701007" string="Talk to Dorial." />
+	<String id="8701008" string="&quot;It was nothing.&quot;" />
+	<String id="8701009" string="Talk to Miayn." />
+</StrSheet_Quest>

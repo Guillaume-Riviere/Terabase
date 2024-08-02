@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="628001" string="We Need Food" />
+	<String id="628002" string="I can smell that meat cooking now..." />
+	<String id="628003" string="Noruk barbecue. Mmmm..." />
+	<String id="628004" string="Noruk Meat" />
+	<String id="628005" string="Hunt stomping noruks around Echo Ranch and collect their meat." />
+	<String id="628006" string="Deliver the meat to Lethar at Echo Ranch." />
+	<String id="628007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

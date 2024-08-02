@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19108001" string="Have Fun Storming the Castle" />
+	<String id="19108002" string="&quot;I'll find out.&quot;" />
+	<String id="19108003" string="&quot;Bottoms up!&quot;" />
+	<String id="19108004" string="Talk to Yaemira." />
+	<String id="19108005" string="Drink the potion of shielding." />
+	<String id="19108006" string="A strange barrier surrounds you. Cross the bridge before the effect wears out!" />
+	<String id="19108007" string="The Sundered Gate" />
+	<String id="19108008" string="Find a ladder." />
+	<String id="19108009" string="Cross the Infernal Span and approach the Castle Courtyard." />
+	<String id="19108010" string="Ladder" />
+	<String id="19108011" string="Found the ladder!" />
+	<String id="19108012" string="Go to the ladder." />
+	<String id="19108013" string="Upper Wall" />
+	<String id="19108014" string="You've reached the top. Destroy the siege cannons!" />
+	<String id="19108015" string="Climb the ladder." />
+	<String id="19108016" string="Destroy the archdevan siege cannons." />
+	<String id="19108017" string="&quot;Let's go!&quot;" />
+	<String id="19108018" string="Talk to Roun." />
+	<String id="19108019" string="Furyguards" />
+	<String id="19108020" string="Kill the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#38400, 38330, 9312&amp;type=1&amp;name=Furyguards&quot;>Furyguards&lt;/A>&lt;/font>." />
+	<String id="19108021" string="&quot;I'm ready.&quot;" />
+	<String id="19108022" string="Report to Rhodos." />
+</StrSheet_Quest>

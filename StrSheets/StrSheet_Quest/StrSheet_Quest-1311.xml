@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5437001" string="The Long and Winding Ode" />
+	<String id="5437002" string="The acolytes will teach you the rest." />
+	<String id="5437003" string="Can you remember? You can remember, can't you?" />
+	<String id="5437004" string="&quot;I can remember that.&quot;" />
+	<String id="5437005" string="&quot;I've got it.&quot;" />
+	<String id="5437006" string="Talk with the acolytes in the Bower who hold the key to the Goddess's Garden." />
+	<String id="5437007" string="&quot;Then let's go!&quot;" />
+	<String id="5437008" string="Return with the key to Anther at Camp Verdant." />
+</StrSheet_Quest>

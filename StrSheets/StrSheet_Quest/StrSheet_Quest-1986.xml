@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60218001" string="Call of the Shariar" />
+	<String id="60218002" string="&quot;I'd be honored to fight at your side.&quot;" />
+	<String id="60218003" string="Speak with {@LinkCreature:78#3002} at {@Rgn:78001$$Zulfikar Fortress}." />
+</StrSheet_Quest>

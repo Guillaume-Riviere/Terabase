@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="533001" string="Saving Jirra" />
+	<String id="533002" string="Please find Jirra!" />
+	<String id="533003" string="You helped my brother. Thank you!" />
+	<String id="533004" string="Merchant Boermas" />
+	<String id="533005" string="Tuwangi Teleport Scroll" />
+	<String id="533006" string="Find Jirra." />
+	<String id="533007" string="Report to Pangari." />
+	<String id="533008" string="&quot;I was glad to help.&quot;" />
+	<String id="533009" string="Find Pangari." />
+</StrSheet_Quest>

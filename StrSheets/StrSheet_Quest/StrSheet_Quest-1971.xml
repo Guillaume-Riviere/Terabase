@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60203001" string="High-Value Targets" />
+	<String id="60203002" string="I hope they feel pain. Kaia grant me that wish." />
+	<String id="60203003" string="Hah! That'll teach those wretches to mess with us!" />
+	<String id="60203004" string="" />
+	<String id="60203005" string="" />
+	<String id="60203006" string="" />
+	<String id="60203007" string="Meet {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60203008" string="&quot;I like justice. Let's do it.&quot;" />
+	<String id="60203009" string="Hunt down and kill {@LinkCreature:48#25#Baruldur}." />
+	<String id="60203010" string="Hunt down and kill {@LinkCreature:48#27#Nauti}." />
+	<String id="60203011" string="Hunt down and kill {@LinkCreature:48#28$$Mogmolor}." />
+	<String id="60203012" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="60203013" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60203014" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="60203015" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60203016" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="60203017" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+</StrSheet_Quest>

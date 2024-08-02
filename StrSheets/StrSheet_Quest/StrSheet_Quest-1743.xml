@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="41106001" string="From the Rift" />
+	<String id="41106002" string="Raw Riftmetal" />
+	<String id="41106003" string="&quot;I like power.&quot;" />
+	<String id="41106004" string="Collect raw riftmetal from Lakan's Prison and Ghillieglade." />
+	<String id="41106005" string="Go to Muhrak in the Blacksmith's Workshop." />
+</StrSheet_Quest>

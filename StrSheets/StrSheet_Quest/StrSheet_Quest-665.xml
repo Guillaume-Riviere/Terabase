@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2801001" string="Visions of Destiny" />
+	<String id="2801002" string="Victory for Valkyon." />
+	<String id="2801003" string="That's truly mysterious!" />
+	<String id="2801004" string="&quot;I understand.&quot;" />
+	<String id="2801005" string="Go to Raeren in Tria and receive information about the Blessing Basin expedition." />
+	<String id="2801006" string="&quot;I understand.&quot;" />
+	<String id="2801007" string="Travel to Tralion and speak with Jelren." />
+	<String id="2801008" string="&quot;I got it.&quot;" />
+	<String id="2801009" string="Meet Lilone at the Crossroads Camp in Blessing Basin." />
+	<String id="2801010" string="&quot;How can this be?&quot;" />
+	<String id="2801011" string="&quot;This is incredible.&quot;" />
+	<String id="2801012" string="&quot;I have to speak to Ansine.&quot;" />
+	<String id="2801013" string="Investigate the cenotaphs in the proper sequence." />
+	<String id="2801014" string="&quot;Wish me luck.&quot;" />
+	<String id="2801015" string="Talk to Ansine at the Seekers' Locus." />
+	<String id="2801016" string="&quot;It's almost like writing.&quot;" />
+	<String id="2801017" string="Find Destiny's Armillary, south of Seekers' Locus." />
+	<String id="2801018" string="&quot;Well, here goes.&quot;" />
+	<String id="2801019" string="Use Destiny's Armillary to begin the trial." />
+	<String id="2801020" string="Use the Fabula Stone to initiate the test of the Seeress." />
+	<String id="2801021" string="&quot;Thank you, great goddess.&quot;" />
+	<String id="2801022" string="Speak with Mystel." />
+	<String id="2801023" string="&quot;I understand.&quot;" />
+	<String id="2801024" string="Return to Ansine." />
+	<String id="2801025" string="&quot;Thank you.&quot;" />
+	<String id="2801026" string="Report back to Jelren." />
+</StrSheet_Quest>

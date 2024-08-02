@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50538001" string="[Solo] Olivung's Expert Cooking Class" />
+	<String id="50538002" string="&quot;Just leave it to me.&quot;" />
+	<String id="50538003" string="Find Olivung on the Island of Dawn." />
+	<String id="50538004" string="Searing Fangspawn's Fire Sac" />
+	<String id="50538005" string="Obtain the Brutal Searing Fangspawn's Fire Sac and deliver it to Olivung." />
+	<String id="50538006" string="You try the Hell's Wings." />
+	<String id="50538007" string="Try the Hell's Wings. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click the Hell's Wings.]" />
+	<String id="50538008" string="&quot;Thanks.&quot;" />
+	<String id="50538009" string="Speak with Olivung in the Southern Checkpoint." />
+	<String id="50538010" string="Use the last piece of the Aspiration Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click the Aspiration Stone - Last Piece.]" />
+	<String id="50538011" string="Claim reward." />
+	<String id="50538012" string="Deliver Olivung's Lunchbox to Meren in Highwatch." />
+</StrSheet_Quest>

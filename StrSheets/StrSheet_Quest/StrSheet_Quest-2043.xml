@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60604001" string="What Could Possibly Go Wrong" />
+	<String id="60604002" string="The symbol only works on lesser nexus creatures. Probably." />
+	<String id="60604003" string="Alas, back to the drawing slate." />
+	<String id="60604004" string="Nexus Intruder" />
+	<String id="60604005" string="Use the symbol of distorted dimension on a lesser nexus creature." />
+	<String id="60604006" string="&quot;Keep trying.&quot;" />
+	<String id="60604007" string="Report your results to {@LinkCreature:1022#1002}." />
+</StrSheet_Quest>

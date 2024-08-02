@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60308001" string="Back at the Lodge" />
+	<String id="60308002" string="It sounded really urgent!" />
+	<String id="60308003" string="Good hunting, hero!" />
+	<String id="60308004" string="&quot;This means a lot. Thanks.&quot;" />
+	<String id="60308005" string="Go to {@LinkCreature:76#3001#Keinbara}." />
+</StrSheet_Quest>

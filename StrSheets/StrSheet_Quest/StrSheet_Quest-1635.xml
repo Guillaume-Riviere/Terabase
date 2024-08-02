@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18102001" string="How Does This Work?" />
+	<String id="18102002" string="Receive Dougal's Letter." />
+	<String id="18102003" string="Read Dougal's Letter." />
+	<String id="18102004" string="" />
+	<String id="18102005" string="&quot;Thank you.&quot;" />
+	<String id="18102006" string="Tell Braga the contents of Dougal's letter." />
+	<String id="18102007" string="&quot;Don't worry, Garm. I'll do my best.&quot;" />
+	<String id="18102008" string="Talk to Garm." />
+</StrSheet_Quest>

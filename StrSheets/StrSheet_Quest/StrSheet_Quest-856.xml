@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3582001" string="Suppression Orders: Croskurn Beasts" />
+	<String id="3582002" string="Proof of Kill: Croskurn Beasts Deaths" />
+	<String id="3582003" string="&quot;For the federation!&quot;" />
+	<String id="3582004" string="Hunt the monsters around Croskurn Mines." />
+	<String id="3582005" string="Report to Slevene in Elenea." />
+</StrSheet_Quest>

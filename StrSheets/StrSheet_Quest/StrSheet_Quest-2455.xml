@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810106001" string="Clean up the Vale of the Fang" />
+	<String id="810106002" string="[Vale of the Fang] Defeat the vampirs and their allies." />
+	<String id="810106003" string="Vampirs" />
+	<String id="810106004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4581001" string="Order to Subjugate the Bridgehead" />
+	<String id="4581002" string="Continuous subjugation always brings peace" />
+	<String id="4581003" string="Thank you for your hard work" />
+	<String id="4581004" string="Token of Subjugating the Bridgehead" />
+	<String id="4581005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4581006" string="Kill {@LinkCreature:45#1001#kelba chargers}, {@LinkCreature:45#1002#argonomorph dwarf orcans}, and {@LinkCreature:45#1003#argonomorph runekeepers} at the {@Rgn:45002$$Tower Approach} and collect tokens." />
+	<String id="4581007" string="Report to Coordinator." />
+</StrSheet_Quest>

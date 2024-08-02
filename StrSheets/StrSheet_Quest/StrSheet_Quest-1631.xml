@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17217001" string="Confident Support" />
+	<String id="17217002" string="Merchants?" />
+	<String id="17217003" string="Elleon?" />
+	<String id="17217004" string="Challenges?" />
+	<String id="17217005" string="Speak to Leander. " />
+	<String id="17217006" string="&quot;Okay.&quot;" />
+	<String id="17217007" string="&quot;I'll deliver the message.&quot;" />
+	<String id="17217008" string="Talk to Seir." />
+	<String id="17217009" string="&quot;Okay.&quot;" />
+	<String id="17217010" string="Report back to {@creature:84#1088$$Yunari}.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'> key to open your inventory and use a Kaiator Teleport Scroll.]" />
+	<String id="17217011" string="&quot;I understand.&quot;" />
+	<String id="17217012" string="Deliver the Archdevan Mark to {@creature:528#5005$$Tamur}. " />
+	<String id="17217013" string="&quot;Right. Okay.&quot;" />
+	<String id="17217014" string="Speak with {@creature:528#5011$$Ukenul}." />
+	<String id="17217015" string="&quot;I understand.&quot;" />
+	<String id="17217016" string="Speak with Kaia. " />
+	<String id="17217017" string="&quot;Thanks.&quot;" />
+	<String id="17217018" string="Speak with {@creature:528#5005$$Tamur}. " />
+</StrSheet_Quest>

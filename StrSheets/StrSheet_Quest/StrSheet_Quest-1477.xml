@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6385001" string="Enchanting for Dummies Part 2" />
+	<String id="6385002" string="Enchanting equipment gives you an edge." />
+	<String id="6385003" string="Enchant three times." />
+	<String id="6385004" string="Successful enchantment." />
+	<String id="6385005" string="&quot;Thank you.&quot;" />
+	<String id="6385006" string="Successful enchantment. Speak with {@linkcreature:63#1605}." />
+</StrSheet_Quest>

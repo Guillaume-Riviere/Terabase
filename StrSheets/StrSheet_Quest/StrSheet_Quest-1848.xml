@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50548001" string="[Important] Finishing Touches" />
+	<String id="50548002" string="Circlets, Brooches, Innerwear...every piece matters! Your goal is 439!" />
+	<String id="50548003" string="&quot;Thank you!&quot;" />
+	<String id="50548004" string="Speak with Braga in Highwatch." />
+	<String id="50548005" string="Equip the Bellum Circlet.&lt;br>&lt;BR>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory and select the Bellum Circlet.]" />
+	<String id="50548006" string="(Nods head.)" />
+	<String id="50548007" string="&quot;Thank you!&quot;" />
+	<String id="50548008" string="Talk to Braga again." />
+</StrSheet_Quest>

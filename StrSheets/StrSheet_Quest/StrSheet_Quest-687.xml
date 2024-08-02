@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3028001" string="The Daily Sloth" />
+	<String id="3028002" string="You're a real boon, soldier." />
+	<String id="3028003" string="I am excited to see the reports." />
+	<String id="3028004" string="&quot;Both.&quot;" />
+	<String id="3028005" string="&quot;You're welcome.&quot;" />
+	<String id="3028006" string="&quot;Good luck!&quot;" />
+	<String id="3028007" string="&quot;I agree.&quot;" />
+	<String id="3028008" string="[{@Rgn:9017001$$Lighthouse of the Sun}]&#10;Collect reports from Naisas's field teams.}" />
+	<String id="3028009" string="&quot;Just doing my job.&quot;" />
+	<String id="3028010" string="Report to {@linkcreature:230#1005$$Naisas}." />
+</StrSheet_Quest>

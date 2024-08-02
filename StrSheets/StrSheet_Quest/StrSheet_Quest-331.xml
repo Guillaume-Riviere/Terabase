@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1305001" string="A Clue in the Dark" />
+	<String id="1305002" string="Good work." />
+	<String id="1305003" string="&quot;Understood.&quot;" />
+	<String id="1305004" string="Listen to what Leander has to say." />
+	<String id="1305005" string="&quot;Understood.&quot;" />
+	<String id="1305006" string="Talk to {@linkcreature:64#1028$$Taras}." />
+	<String id="1305007" string="Kill horned ghilliedhus west of the Tower Base." />
+	<String id="1305008" string="&quot;Thanks for your help.&quot;" />
+	<String id="1305009" string="Speak to Tanli." />
+	<String id="1305010" string="Kill the sporewalkers and head back to Leander." />
+	<String id="1305011" string="Report to Leander." />
+	<String id="1305012" string="Leander" />
+	<String id="1305013" string="Report to Leander at the Tower Base." />
+	<String id="1305014" string="&quot;On my way.&quot;" />
+	<String id="1305015" string="&quot;I'll do my best.&quot;" />
+	<String id="1305016" string="Speak to Councilor Teil." />
+</StrSheet_Quest>

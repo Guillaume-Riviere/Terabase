@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800062001" string="Hunt the Argonomorphs!" />
+	<String id="800062002" string="[Thrallhold] Hunt argonomorphs in the Vale of the Reaper." />
+	<String id="800062003" string="Argonomorphs" />
+	<String id="800062004" string="Claim your reward!" />
+</StrSheet_Quest>

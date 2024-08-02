@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="805001" string="Like a Brother to Me" />
+	<String id="805002" string="Accept" />
+	<String id="805003" string="&quot;I'll let him know.&quot;" />
+	<String id="805004" string="Speak with Minaria in Castanica." />
+	<String id="805005" string="&quot;Sure.&quot;" />
+	<String id="805006" string="Meet Detrian on Pleasure Street in Castanica and deliver his recall orders." />
+	<String id="805007" string="Take the wooden pig doll to Detrian's little sister, Hennika." />
+	<String id="805008" string="Wooden Pig Doll" />
+	<String id="805009" string="Take the wooden pig doll to Detrian's little sister Hennika." />
+	<String id="805010" string="&quot;Okay.&quot;" />
+	<String id="805011" string="Take Hennika's Charm to Detrian at Avenger Outpost on the ground floor of the Hungry Caverns." />
+	<String id="805012" string="Hennika's Charm" />
+	<String id="805013" string="Take Hennika's Charm to Detrian at Avenger Outpost on the ground floor of the Hungry Caverns." />
+	<String id="805014" string="&quot;Fortune smile upon you.&quot;" />
+	<String id="805015" string="&quot;I'm on it.&quot;" />
+	<String id="805016" string="Go to Karina at Avenger Outpost on the ground floor." />
+	<String id="805017" string="Fight gula slavers and caiman mercenaries in the Hungry Caverns Vaults." />
+	<String id="805018" string="&quot;I'm ready for the next job.&quot;" />
+	<String id="805019" string="Report your success to Karina at Avenger Outpost." />
+</StrSheet_Quest>

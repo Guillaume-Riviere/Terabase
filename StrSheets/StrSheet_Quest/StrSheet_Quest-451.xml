@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1722001" string="Air Drop" />
+	<String id="1722002" string="I could sure go for a steak." />
+	<String id="1722003" string="Where could those supplies be?" />
+	<String id="1722004" string="&quot;We'll get this cleared up.&quot;" />
+	<String id="1722005" string="Speak to Puni in Popolion." />
+	<String id="1722006" string="Puni" />
+	<String id="1722007" string="Supply Ledger" />
+	<String id="1722008" string="Deliver the supply ledger to Kenton at the Embattled Outpost." />
+	<String id="1722009" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

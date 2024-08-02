@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2270001" string="(Guild) Suppression Orders: Senior Apprentices" />
+	<String id="2270002" string="Proof of Kill: Apprentice Deaths" />
+	<String id="2270003" string="&quot;For the federation!&quot;" />
+	<String id="2270004" string="Defeat senior apprentices in the first, second, and third floors of Eldritch Academy." />
+	<String id="2270005" string="Report to Nidella in Pora Elinu." />
+</StrSheet_Quest>

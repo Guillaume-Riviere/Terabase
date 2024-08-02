@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<StrSheet_UserSkill>
+	<String id="111136" name="Summon: Boneshaker" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Boneshaker, a skeletal warhorse." class="Common" />
+	<String id="111137" name="Summon: Munchhausen" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280; MP Replenishment.$COLOR_END$BRSummon the mendacious traveler, Munchhausen. Munchhausen replenishes MP." class="Common" />
+	<String id="111138" name="Summon: Gourmando" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280; HP Recovery.$COLOR_END$BRSummon the infernal glutton, Gourmando. Gourmando grants HP recovery." class="Common" />
+	<String id="111141" name="Summon: Rainbow" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Rainbow the unicorn to ride." class="Common" />
+	<String id="111142" name="Summon: Terminus" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Terminus, the argon hybrid warhorse." class="Common" />
+	<String id="111147" name="Summon: Aeolian Zebra" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 275.$COLOR_END$BRSummon a zebra mount." class="Common" />
+	<String id="111149" name="Summon: Razormane" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Razormane, a spirited mount." class="Common" />
+	<String id="111150" name="Summon: Snowdrift" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Snowdrift, a snow leopard mount." class="Common" />
+	<String id="111151" name="Summon: EX-TRM" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon EX-TRM, a construct mount." class="Common" />
+	<String id="111152" name="Summon: Sheldon" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 275.$COLOR_END$BRSummon Sheldon, a giant kamara mount." class="Common" />
+	<String id="111153" name="Summon: Munchhausen" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280; MP Replenishment.$COLOR_END$BRSummon the mendacious traveler, Munchhausen. Munchhausen replenishes MP." class="Common" />
+	<String id="111154" name="Summon: Gourmando" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280; HP Recovery.$COLOR_END$BRSummon the infernal glutton, Gourmando. Gourmando grants HP recovery." class="Common" />
+	<String id="111155" name="Summon: Squawk" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Squawk, a lavender struthio mount." class="Common" />
+	<String id="111156" name="Summon: Blaze" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Blaze, a fiery struthio mount." class="Common" />
+	<String id="111157" name="Summon: Peep" gender="Common" race="Common" tooltip="$H_S_GOODSpeed: 280; Effects: MP, HP$COLOR_END$BRSummon Peep, a lavender struthio which restores 0.5% of your max HP and MP every second." class="Common" />
+	<String id="111158" name="Summon: Ember" gender="Common" race="Common" tooltip="$H_S_GOODSpeed: 280; Effects: MP, HP$COLOR_END$BRSummon Ember, a fiery struthio which restores 0.5% of your max HP and MP every second." class="Common" />
+	<String id="211141" name="Summon: Rainbow" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Rainbow, a unicorn mount." class="Common" />
+	<String id="211150" name="Summon: Snowdrift" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Snowdrift, a snow leopard mount." class="Common" />
+	<String id="1111363" name="Summon: Boneshaker" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Boneshaker, a skeletal warhorse." class="Common" />
+	<String id="1111512" name="Summon: Light Lion" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a Light Lion." class="Common" />
+	<String id="1111514" name="Summon: Waddles" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a pig mount." class="Common" />
+	<String id="1111515" name="Summon: Harry Porker" gender="Common" race="Common" tooltip="$H_S_GOODSpeed: 280; Effects: MP, HP$COLOR_END$BRSummon a spotted pig which restores 0.5% of your max HP and MP every second." class="Common" />
+	<String id="1111516" name="Summon: Boss" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a boss hog mount." class="Common" />
+	<String id="1111517" name="Summon: Petunia" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a pig mount." class="Common" />
+	<String id="1111518" name="Summon: Quackerjack" gender="Common" race="Common" tooltip="$H_S_GOODSpeed: 280; Effects: MP, HP$COLOR_END$BRSummon Quackerjack, a duck which restores 0.5% of your max HP and MP every second." class="Common" />
+	<String id="1111519" name="Summon: Duckerberg" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed  280.$COLOR_END$BRSummon a duck mount." class="Common" />
+	<String id="1111525" name="Summon: Quacklemore" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a duck mount." class="Common" />
+	<String id="1111526" name="Summon: Dafi" gender="Common" race="Common" tooltip="$H_S_GOODSpeed: 280; Effect: MP, HP$COLOR_END$BRSummon a Black Afro Duck which restores 0.5% of your max HP and MP every second." class="Common" />
+	<String id="1111527" name="Summon: Shadow Steed" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 275.$COLOR_END$BRSummon a shadow steed." class="Common" />
+	<String id="1111528" name="Summon: Death Charger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 275.$COLOR_END$BRSummon a death charger." class="Common" />
+	<String id="1111531" name="Summon: Harley" gender="Common" race="Common" tooltip="$H_S_GOODSpeed: 280; Effects: MP, HP$COLOR_END$BRSummon Harley the pig which restores 0.5% of your max HP and MP every second." class="Common" />
+	<String id="1111532" name="Summon: Lupus Obscurus" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Lupus Obscurus, the steel wolf." class="Common" />
+	<String id="1111533" name="Summon: Snow Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Snow Tiger, the white tiger." class="Common" />
+	<String id="1111534" name="Summon: Battle Ready Snow Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Battle Ready Snow Tiger, the armored white tiger." class="Common" />
+	<String id="1111535" name="Summon: Bengal Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Bengal Tiger, a  tiger mount." class="Common" />
+	<String id="1111536" name="Summon: Battle Ready Bengal Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Battle Ready Bengal Tiger, the armored tiger." class="Common" />
+	<String id="1111537" name="Summon: Glimmer" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Glimmer, a gold wolf mount." class="Common" />
+	<String id="1111538" name="Summon: Temper" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Temper, a brass wolf mount." class="Common" />
+	<String id="1111539" name="Summon: Cinder" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Cinder, a black wolf mount." class="Common" />
+	<String id="1111540" name="Summon: Slash" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Slash, a deathsteel wolf mount." class="Common" />
+	<String id="1111552" name="Summon: Quackerjack" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280; HP and MP Restoration.$COLOR_END$BRSummon Quackerjack, the duck mount that restores HP and MP." class="Common" />
+	<String id="1111553" name="Summon: Duckerberg" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a duck  mount." class="Common" />
+	<String id="1111554" name="Summon: Quacklemore" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a duck  mount." class="Common" />
+	<String id="1111555" name="Summon: Dafi" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280; HP and MP Restoration.$COLOR_END$BRSummon Dafi, the manic duck mount that restores HP and MP." class="Common" />
+	<String id="1111911" name="Summon: Shadow Steed" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a shadow steed." class="Common" />
+	<String id="1111921" name="Summon: Electrum Wind" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Electrum Wind." class="Common" />
+	<String id="1111961" name="Summon: Death Charger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a death charger." class="Common" />
+	<String id="1112001" name="Summon: Soccer Mania Southern Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Soccer Mania Southern Tiger." class="Common" />
+	<String id="1112002" name="Summon: Soccer Mania Southern White Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280. HP and MP Restoration.$COLOR_END$BRSummon a Soccer Mania Southern White Tiger that restores HP and MP." class="Common" />
+	<String id="1112003" name="Summon: Soccer Mania Giant Brazilian Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Soccer Mania Giant Tiger." class="Common" />
+	<String id="1112004" name="Summon: Soccer Mania Giant White Brazilian Tiger" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon Soccer Mania Giant Tiger." class="Common" />
+	<String id="1701270" name="Summon: Glory" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a spirit wolf mount." class="Common" />
+	<String id="1701271" name="Summon: Snarl" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a spirit wolf mount." class="Common" />
+	<String id="1701272" name="Summon: Paddy" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a police car." class="Common" />
+	<String id="1701273" name="Summon: Aurum" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a golden dragon mount." class="Common" />
+	<String id="1701274" name="Summon: Snowball Kumas" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Snowball Kumas mount." class="Common" />
+	<String id="1701275" name="Summon: Brass Kumas" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brass Kumas mount." class="Common" />
+	<String id="1701276" name="Summon: Snowball Giant Snowman" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon Snowball Giant Snowman." class="Common" />
+	<String id="1701277" name="Summon: Santa Kumas" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Santa Kumas mount." class="Common" />
+	<String id="1701278" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701279" name="Summon: Rudolf the Giant Snowman" gender="Common" race="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon Rudolf the Giant Snowman." class="Common" />
+	<String id="1701280" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701281" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701282" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701283" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701284" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701285" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701292" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701293" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701294" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="1701295" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000000" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000001" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000002" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000003" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000004" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000005" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000009" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000010" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000011" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000012" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000013" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000014" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000015" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000016" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000017" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000018" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000019" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000020" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000021" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000022" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000023" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000024" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000025" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000026" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000027" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000028" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000029" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000030" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000031" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000032" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000033" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000034" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000035" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000036" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000037" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000038" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000039" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000040" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000041" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000042" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000043" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000044" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000045" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000046" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000047" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000048" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000049" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000050" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000051" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000052" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000053" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000054" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000055" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000056" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000057" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000058" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000059" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000060" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13000061" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300009" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300010" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300011" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300012" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300013" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300014" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300015" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300016" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300017" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300018" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300019" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300020" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300021" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300022" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300023" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13300024" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13301001" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13301002" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13301003" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13301004" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13301005" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13600068" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13600069" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13600238" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="13600304" name="" gender="Common" race="Common" tooltip="" class="Common" />
+	<String id="61900007" name="Transformation: Green Wintera Snowman" gender="Common" race="Common" tooltip="You have transformed into a Wintera snowman. Unable to use skills." class="Common" />
+	<String id="61900008" name="Transformation: Yellow Wintera Snowman" gender="Common" race="Common" tooltip="You have transformed into a Wintera snowman. Unable to use skills." class="Common" />
+	<String id="61900009" name="Transformation: Blue Wintera Snowman" gender="Common" race="Common" tooltip="You have transformed into a Wintera snowman. Unable to use skills." class="Common" />
+	<String id="61900010" name="Transformation: Red Wintera Snowman" gender="Common" race="Common" tooltip="You have transformed into a Wintera snowman. Unable to use skills.&#10;&#10;[3 times faster than the other Wintera snowmen.]" class="Common" />
+</StrSheet_UserSkill>

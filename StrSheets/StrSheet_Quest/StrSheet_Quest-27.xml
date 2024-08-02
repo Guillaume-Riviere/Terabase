@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="240001" string="A Brutal Sort of Mercy" />
+	<String id="240002" string="Be merciful." />
+	<String id="240003" string="It hurts to see their spirits corrupted." />
+	<String id="240004" string="Unicorn Horn" />
+	<String id="240005" string="End the suffering of the sullen and feral unicorns and collect their horns." />
+	<String id="240006" string="Deliver the unicorn horns to Aeir." />
+	<String id="240007" string="&quot;I did what needed to be done.&quot;" />
+</StrSheet_Quest>

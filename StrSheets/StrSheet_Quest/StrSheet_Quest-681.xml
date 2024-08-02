@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3022001" string="Upright and Lost" />
+	<String id="3022002" string="They should be nearby!" />
+	<String id="3022003" string="If baraka were meant to fly, they would have wings. Or large balloons." />
+	<String id="3022004" string="&quot;I can do that.&quot;" />
+	<String id="3022005" string="Collect Mysterium encyclopedias scattered through the valley." />
+	<String id="3022006" string="Return the Mysterium encyclopedias to {@linkcreature:72#1447$$Thakun}." />
+	<String id="3022007" string="&quot;Glad to help.&quot;" />
+	<String id="3022008" string="Report Thakun's survival to {@linkcreature:71#1009$$Kiril}." />
+</StrSheet_Quest>

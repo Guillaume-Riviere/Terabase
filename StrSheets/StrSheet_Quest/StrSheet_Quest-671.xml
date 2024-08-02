@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2950001" string="Getty's Invention " />
+	<String id="2950002" string="Getty needs help." />
+	<String id="2950003" string="Speak with Getty in Velika." />
+	<String id="2950004" string="Getty seems to be back in shape now." />
+	<String id="2950005" string="Type /clap to make Getty come back to his senses.&lt;br>(The quest completes when you finish clapping.)" />
+	<String id="2950006" string="&quot;A box of what, exactly?&quot;" />
+	<String id="2950007" string="Speak with Getty. " />
+	<String id="2950008" string="Take the jewel." />
+	<String id="2950009" string="Open the box next to Getty." />
+	<String id="2950010" string="&quot;I'm on my way.&quot;" />
+	<String id="2950011" string="Talk to Getty again." />
+	<String id="2950012" string="&quot;Thanks.&quot;" />
+	<String id="2950013" string="Speak with Elthienne." />
+	<String id="2950014" string="Is this the place?" />
+	<String id="2950015" string="You see a merchant wearing a mask!" />
+	<String id="2950016" string="Go to the location Elthienne told you." />
+	<String id="2950017" string="&quot;I got it.&quot;" />
+	<String id="2950018" string="Speak with the stranger in the mask." />
+	<String id="2950019" string="&quot;Really?&quot;" />
+	<String id="2950020" string="Purchase the map with Getty's jewel." />
+	<String id="2950021" string="Talk to the mystery merchant again." />
+	<String id="2950022" string="Ruin" />
+	<String id="2950023" string="You arrived at the location." />
+	<String id="2950024" string="Go to the location in the map." />
+	<String id="2950025" string="&quot;I got it.&quot;" />
+	<String id="2950026" string="Speak with the mystery merchant." />
+	<String id="2950027" string="&quot;Thanks.&quot;" />
+	<String id="2950028" string="Acquire an Elemental Awl." />
+	<String id="2950029" string="Talk to the merchant again." />
+	<String id="2950030" string="&quot;Thanks.&quot;" />
+	<String id="2950031" string="Deliver the Elemental Awl to Getty in Velika." />
+	<String id="2950032" string="Deliver the Elemental Awl to Getty in Velika." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1143001" string="Class Rings" />
+	<String id="1143002" string="Victory for Valkyon!" />
+	<String id="1143003" string="Thank you." />
+	<String id="1143004" string="Senior Crew Ring" />
+	<String id="1143005" string="Collect senior crew rings from Red Lash reapers near the Press Camp." />
+	<String id="1143006" string="Deliver the senior crew rings to Ghadir at the Press Camp." />
+	<String id="1143007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3041001" string="Popo Pilgrims" />
+	<String id="3041002" string="Make sure no pilgrim dies!" />
+	<String id="3041003" string="Whew! I can relax...until they come back." />
+	<String id="3041004" string="Let's go!" />
+	<String id="3041005" string="Oh, thank you!" />
+	<String id="3041006" string="[{@Rgn:30014$$Seren's Lake}]&#10;Escort the {@linkcreature:230#1094#popori tourist} to &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7015#-882.1941,85791.7813,-1464.2461&amp;type=1&amp;name=Seren's Lake&quot;>{@Rgn:30014$$Seren's Lake}&lt;/A>&lt;/font>." />
+	<String id="3041007" string="&quot;Glad to be of service.&quot;" />
+	<String id="3041008" string="Report to Centurion {@linkcreature:230#1066$$Nicielle} that the {@linkcreature:230#1094#popori tourist} reached the lake safely." />
+</StrSheet_Quest>

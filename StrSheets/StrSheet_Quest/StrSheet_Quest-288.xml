@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1133001" string="The Right Tool for the Job" />
+	<String id="1133002" string="For the federation!" />
+	<String id="1133003" string="Victory for Valkyon!" />
+	<String id="1133004" string="Carpenter's Tool" />
+	<String id="1133005" string="Collect carpenter's tools from Red Lash injenirs working in the Hold." />
+	<String id="1133006" string="Deliver the tools to Leina." />
+	<String id="1133007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

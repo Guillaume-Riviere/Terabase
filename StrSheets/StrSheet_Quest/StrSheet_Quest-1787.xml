@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47626001" string="Argons in the Labyrinth" />
+	<String id="47626002" string="Grab the biggest parts you can find!" />
+	<String id="47626003" string="The whole hides! Heh! Muhrak's going to love this." />
+	<String id="47626004" string="Armored Argon Hides" />
+	<String id="47626005" string="Defeat the argon forces in Tragieron Hall and Agonal Hall.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.]" />
+	<String id="47626006" string="Bring the armored argon hides to Amarvand at the Furnace Approach." />
+	<String id="47626007" string="&quot;Easier than cutting them up.&quot;" />
+</StrSheet_Quest>

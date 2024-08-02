@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4530001" string="Friendly Concern" />
+	<String id="4530002" string="I appreciate your help." />
+	<String id="4530003" string="I owe Setahl a drink when I see him again." />
+	<String id="4530004" string="Kill {@creature:45#3003#kelba rippers} and {@creature:45#3004#athakela stalkers} west and south of {@Rgn:45006$$Field Base Reciprocity}." />
+	<String id="4530005" string="&quot;Glad I could be of service.&quot;" />
+	<String id="4530006" string="Drop in on {@linkcreature:245#1029$$Pokara} at {@Rgn:45009$$Camp Insanity}." />
+</StrSheet_Quest>

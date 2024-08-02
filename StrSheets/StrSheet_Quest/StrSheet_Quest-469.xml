@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1821001" string="Desert Fire Uprising" />
+	<String id="1821002" string="Knock 'em down a peg!" />
+	<String id="1821003" string="That'll show the Gutrends!" />
+	<String id="1821004" string="Federation regret this! Kulkari kill you all!" />
+	<String id="1821005" string="You are dead meat!" />
+	<String id="1821006" string="Eliminate Desert Fire thrashers and Desert Fire shamans near Mags Kurata and Mags Kuchanaru." />
+	<String id="1821007" string="Complete the mission." />
+	<String id="1821008" string="Report to Tribune Kardelen at Camp Marrakeen." />
+</StrSheet_Quest>

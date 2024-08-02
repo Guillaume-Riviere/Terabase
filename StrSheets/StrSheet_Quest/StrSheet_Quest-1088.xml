@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4635001" string="Shamans No More" />
+	<String id="4635002" string="Put the {@creature:46#202#argonomorph kulkari shamans} out of their probable misery." />
+	<String id="4635003" string="I don't even want to think about why the argons created {@creature:46#202#argonomorph kulkari shamans}." />
+	<String id="4635004" string="Kill the {@creature:46#202#argonomorph kulkari shamans} guarding the rooms in the {@Rgn:46002$$Raga Evala} part of {@Rgn:46001$$the Three Towers}." />
+	<String id="4635005" string="&quot;At least they aren't argons anymore.&quot;" />
+	<String id="4635006" string="Return to the {@Rgn:46020$$Shineroot Chamber} and report to {@creature:246#1024$$Platanok}." />
+</StrSheet_Quest>

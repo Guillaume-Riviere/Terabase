@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1628001" string="Blood Tests" />
+	<String id="1628002" string="We'll get to the bottom of this!" />
+	<String id="1628003" string="Strange...yet, odd." />
+	<String id="1628004" string="Vampir Hearts" />
+	<String id="1628005" string="Collect vampir hearts." />
+	<String id="1628006" string="Return to Kiron." />
+	<String id="1628007" string="&quot;Unusual, indeed.&quot;" />
+</StrSheet_Quest>

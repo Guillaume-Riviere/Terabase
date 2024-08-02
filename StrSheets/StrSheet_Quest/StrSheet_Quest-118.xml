@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="538001" string="Acquiring Assistance" />
+	<String id="538002" string="Federation humans need to see that tablet!" />
+	<String id="538003" string="Now everyone will know their evil plans." />
+	<String id="538004" string="Exiled Shaman Pangari" />
+	<String id="538005" string="Order-Inscribed Tablet" />
+	<String id="538006" string="Deliver the tablet to Mitany." />
+	<String id="538007" string="&quot;Think nothing of it.&quot;" />
+</StrSheet_Quest>

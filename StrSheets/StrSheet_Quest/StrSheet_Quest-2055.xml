@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60710001" string="Automated Delivery" />
+	<String id="60710002" string="Thank you for your help." />
+	<String id="60710003" string="" />
+	<String id="60710004" string="" />
+	<String id="60710005" string="Talk to Klissa." />
+	<String id="60710006" string="&quot;Understood.&quot;" />
+	<String id="60710007" string="&quot;Thanks. I'll take good care of it.&quot;" />
+	<String id="60710008" string="Go to Fitae." />
+	<String id="60710009" string="&quot;Just what we were looking for.&quot;" />
+	<String id="60710010" string="Go to Zerit." />
+	<String id="60710011" string="&quot;Hey, thanks.&quot;" />
+	<String id="60710012" string="Deliver the magic bot summoning controller to Engineer Veltor in Balder's Refuge." />
+	<String id="60710013" string="" />
+	<String id="60710014" string="&quot;Thanks!&quot;" />
+	<String id="60710015" string="Deliver the magic bot summoning controller to Engineer Sindel in Balder's Refuge." />
+	<String id="60710016" string="" />
+</StrSheet_Quest>

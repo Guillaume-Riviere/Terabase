@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3025001" string="Slasher Slaughter" />
+	<String id="3025002" string="They'll gnaw on anything!" />
+	<String id="3025003" string="I'll either be relieved or reinforced." />
+	<String id="3025004" string="Sloth Fang" />
+	<String id="3025005" string="Kill {@linkcreature:30#110#sloth slashers} and extract their fangs." />
+	<String id="3025006" string="Deliver sloth fangs to Centurion {@linkcreature:230#1010$$Erdis}." />
+	<String id="3025007" string="&quot;Hope it works.&quot;" />
+</StrSheet_Quest>

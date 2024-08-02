@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1042001" string="Snakes in a Tomb" />
+	<String id="1042002" string="I have had it with these Dagon-loving nagas in this Dagon-housing tomb!" />
+	<String id="1042003" string="Your victory'll send morale soaring!" />
+	<String id="1042004" string="Naga Scales" />
+	<String id="1042005" string="Kill naga bloodscales and wyrmlings in Dagon's Tomb." />
+	<String id="1042006" string="Report to Libine at the Coastal Overwatch." />
+	<String id="1042007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

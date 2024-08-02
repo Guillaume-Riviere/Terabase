@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4624001" string="Not Just a Flower Pot" />
+	<String id="4624002" string="Please destroy the {@creature:46#7003#haxuul extractor} and get samples." />
+	<String id="4624003" string="Thank you for bringing samples from the {@creature:46#7003#haxuul extractor}." />
+	<String id="4624004" string="Plant Samples" />
+	<String id="4624005" string="Pass through the {@creature:46#202#argonomorph kulkari shaman} guarding the rooms in {@Rgn:46002$$Raga Evala} of {@Rgn:46001$$the Three Towers} and destroy the {@creature:46#7003#haxuul extractor}. Then get samples." />
+	<String id="4624006" string="Return to the {@Rgn:46020$$Shineroot Chamber} and deliver the collected plant samples to {@linkcreature:246#1024$$Platanok}." />
+	<String id="4624007" string="&quot;Got it.&quot;" />
+	<String id="4624008" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4624009" string="Go meet {@creature:246#1026$$Beranie} at the {@Rgn:46015$$Hexheart Chamber}." />
+</StrSheet_Quest>

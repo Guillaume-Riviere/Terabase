@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21303001" string="Unforgettable Day" />
+	<String id="21303002" string="&quot;Got it.&quot;." />
+	<String id="21303003" string="Free Traders Collective Camp" />
+	<String id="21303004" string="The Free Traders Collective has a camp just ahead.&#10;A federation investigator is speaking with the Free Traders' leader." />
+	<String id="21303005" string="Locate the nearest Alliance camp." />
+	<String id="21303006" string="&quot;Sorry to have taken your time.&quot;" />
+	<String id="21303007" string="Talk to the Free Traders magister." />
+	<String id="21303008" string="Enlightened Union Camp" />
+	<String id="21303009" string="The Enlightened Union has a camp just ahead.&#10;A federation investigator is speaking with the Enlightened Union leader." />
+	<String id="21303010" string="Locate the next Alliance camp." />
+	<String id="21303011" string="&quot;Very well. I'll be back shortly.&quot;" />
+	<String id="21303012" string="Speak with the Enlightened Union magister." />
+	<String id="21303013" string="Monster of Timeless Woods" />
+	<String id="21303014" string="Defeat Monsters in Timeless Woods" />
+	<String id="21303015" string="&quot;Interesting. I'll look into that.&quot;" />
+	<String id="21303016" string="Speak with the Enlightened Union magister again." />
+	<String id="21303017" string="Iron Order Camp" />
+	<String id="21303018" string="The Iron Order has a camp just ahead.&#10;A federation investigator is speaking with the Iron Order leader." />
+	<String id="21303019" string="Locate the next Alliance camp." />
+	<String id="21303020" string="&quot;Thanks. I'll be sure to mention that in my report.&quot;" />
+	<String id="21303021" string="Speak with the magister of Iron Order." />
+	<String id="21303022" string="&quot;I'll keep asking around, Adria.&quot;" />
+	<String id="21303023" string="Talk to Adria in Ruined Temple." />
+</StrSheet_Quest>

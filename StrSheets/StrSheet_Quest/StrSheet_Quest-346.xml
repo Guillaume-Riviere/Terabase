@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1322001" string="Unrest in the Forest" />
+	<String id="1322002" string="It's dangerous to go alone..." />
+	<String id="1322003" string="Well done!" />
+	<String id="1322004" string="Trim back the ghilliedhus." />
+	<String id="1322005" string="&quot;For the federation!&quot;" />
+	<String id="1322006" string="That should be enough for Kishale." />
+</StrSheet_Quest>

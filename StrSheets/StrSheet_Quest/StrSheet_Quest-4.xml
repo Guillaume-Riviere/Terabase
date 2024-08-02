@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="203001" string="Dark Hunger" />
+	<String id="203002" string="&quot;I'll take them out.&quot;" />
+	<String id="203003" string="Speak to Klaon at Aron's Camp." />
+	<String id="203004" string="Destroy the vortex shards." />
+	<String id="203005" string="Kill Garkior." />
+	<String id="203006" string="&quot;For the federation!&quot;" />
+	<String id="203007" string="Deliver the sealed scroll to Arcanist Klaon at Aron's Camp." />
+	<String id="203008" string="Deliver the sealed scroll to Arcanist Klaon at Aron's Camp." />
+</StrSheet_Quest>

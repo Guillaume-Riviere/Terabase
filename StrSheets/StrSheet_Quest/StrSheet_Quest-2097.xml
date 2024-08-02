@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70114001" string="[Event—Daily] The Party. Is. Over." />
+	<String id="70114002" string="Banquet of Blood" />
+	<String id="70114003" string="" />
+	<String id="70114004" string="Enter the Banquet of Blood." />
+	<String id="70114005" string="Destroy the altar in the Ceremonial Room." />
+	<String id="70114006" string="&quot;Ha! I'm honored, but no need.&quot;" />
+	<String id="70114007" string="Talk to Harun." />
+</StrSheet_Quest>

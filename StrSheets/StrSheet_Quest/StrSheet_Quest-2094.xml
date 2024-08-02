@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70111001" string="[Event] Carnival of Carnivores" />
+	<String id="70111002" string="Accept" />
+	<String id="70111003" string="Talk to Harun." />
+	<String id="70111004" string="Banquet of Blood" />
+	<String id="70111005" string="" />
+	<String id="70111006" string="Travel through the &lt;font color='#0000FF'>&lt;A href=&quot;markmap:loc=7015#-8939.5840,77251.9063,-1192.7500&amp;type=1&amp;name=teleportal&quot;>teleportal&lt;/A>&lt;/font> to reach the Banquet of Blood." />
+	<String id="70111007" string="&quot;You can depend on me.&quot;" />
+	<String id="70111008" string="Get new Balder's Gift skills from Harun." />
+	<String id="70111009" string="Use a spell to destroy the door." />
+	<String id="70111010" string="Close the coffin of the vampirs." />
+	<String id="70111011" string="Put a potion in the blood feast." />
+	<String id="70111012" string="Destroy the altar in the Ceremonial Room." />
+	<String id="70111013" string="&quot;And I will help whenever I can.&quot;" />
+	<String id="70111014" string="Talk to Harun." />
+</StrSheet_Quest>

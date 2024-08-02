@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1242001" string="Please Save My Brother" />
+	<String id="1242002" string="Please, please save my brother!" />
+	<String id="1242003" string="A job well done, soldier." />
+	<String id="1242004" string="&quot;I'll find the key.&quot;" />
+	<String id="1242005" string="Rescue Zebedah from the Rain Cages located beyond the barricaded hill southwest of Vindicator Basecamp." />
+	<String id="1242006" string="Shackle Key" />
+	<String id="1242007" string="Retrieve the keys from the slave watchers around the Rain Cages." />
+	<String id="1242008" string="Bring the key to Zebedah." />
+	<String id="1242009" string="&quot;You're free now.&quot;" />
+	<String id="1242010" string="&quot;They're safe now.&quot;" />
+	<String id="1242011" string="Go to the port in Cutthroat Harbor and tell Wynne about the brothers." />
+	<String id="1242012" string="&quot;For the federation!&quot;" />
+	<String id="1242013" string="Report to Arkaius, Kaia's Sword Commander." />
+</StrSheet_Quest>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5227001" string="Assault the Assaulters" />
+	<String id="5227002" string="Let's clear the western gate." />
+	<String id="5227003" string="Habere is safer now thanks to you." />
+	<String id="5227004" string="&quot;Got it.&quot;" />
+	<String id="5227005" string="Speak to Centurion Turua at Habere's western entrance." />
+	<String id="5227006" string="Our enemies need a good sword-slashing!" />
+	<String id="5227007" string="It's been a while since I faced a worthy foe. I'll remember you." />
+	<String id="5227008" string="Destroy the Thulsan chargers and their leader, Warkul, west of Habere." />
+	<String id="5227009" string="&quot;For the federation!&quot;" />
+	<String id="5227010" string="Report to Centurion Turua at the western entrance of Habere." />
+</StrSheet_Quest>

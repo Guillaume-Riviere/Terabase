@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61914001" string="[Fishing] Octopus’ Garden Salad" />
+	<String id="61914002" string="&quot;I got it.&quot;" />
+	<String id="61914003" string="Go to {@linkcreature:230#1043#Naiya} at the Seren's Lake Fishery." />
+	<String id="61914004" string="&quot;I got it.&quot;" />
+	<String id="61914005" string="Deliver a Seafood Mushroom Salad to {@linkcreature:230#1043#Naiya} at the Seren's Lake Fishery." />
+	<String id="61914006" string="" />
+	<String id="61914007" string="Inspect the Starlight Lotus." />
+	<String id="61914008" string="&quot;I got it.&quot;" />
+	<String id="61914009" string="Talk to the {@linkcreature:230#9906#Lake Fairy}." />
+	<String id="61914010" string="Claim the reward." />
+	<String id="61914011" string="Deliver a Golden Octopus to the {@linkcreature:230#9906#Lake fae}." />
+	<String id="61914012" string="" />
+</StrSheet_Quest>

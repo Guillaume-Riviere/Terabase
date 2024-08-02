@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60111001" string="The Invalesco Strikes Back" />
+	<String id="60111002" string="The {@Rgn:46001$$Three Towers} are no place to relax. Watch your back." />
+	<String id="60111003" string="While the argons lick their wounds, we'll continue our work." />
+	<String id="60111004" string="" />
+	<String id="60111005" string="" />
+	<String id="60111006" string="" />
+	<String id="60111007" string="" />
+	<String id="60111008" string="Meet {@LinkCreature:246#3001#Hurun} at the {@Rgn:46001$$Three Towers} Research Base." />
+	<String id="60111009" string="&quot;Understood.&quot;" />
+	<String id="60111010" string="Kill the {@LinkCreature:46#201#argonomorph kulkari crushers} near the {@Rgn:46003}." />
+	<String id="60111011" string="Kill the {@LinkCreature:46#202#argonomorph kulkari shamans} near the {@Rgn:46002}." />
+	<String id="60111012" string="Kill the {@LinkCreature:46#203#argonomorph Lokian slayers} near the {@Rgn:46004}." />
+	<String id="60111013" string="Destroy the {@LinkCreature:246#3010#cyasma conduits} installed at the {@Rgn:46003}." />
+	<String id="60111014" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="60111015" string="Report back to {@LinkCreature:246#3001#Hurun}." />
+</StrSheet_Quest>

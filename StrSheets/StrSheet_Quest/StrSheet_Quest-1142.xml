@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4841001" string="Hard-Won Lessons" />
+	<String id="4841002" string="I'll feast on your entrails!" />
+	<String id="4841003" string="What a fight! I hope you recruits were watching closely!" />
+	<String id="4841004" string="Use the {@WorkObject:60}." />
+	<String id="4841005" string="Defeat the shadow reaver." />
+	<String id="4841006" string="&quot;I'll see what I can do.&quot;" />
+	<String id="4841007" string="Speak with {@LinkCreature:248#1040}." />
+</StrSheet_Quest>

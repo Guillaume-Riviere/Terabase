@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61911001" string="[Fishing] Casting for Gold" />
+	<String id="61911002" string="&quot;I got it.&quot;" />
+	<String id="61911003" string="Claim the reward." />
+	<String id="61911004" string="Catch a Golden Shark and deliver it to {@linkcreature:61#9908#Graidrem} in Vexatus Swamp." />
+	<String id="61911005" string="" />
+</StrSheet_Quest>

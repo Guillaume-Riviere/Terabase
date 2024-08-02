@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2034001" string="A Venom-enal Effort" />
+	<String id="2034002" string="Watch your back!" />
+	<String id="2034003" string="Nice work." />
+	<String id="2034004" string="Bloodclaw Venom Sac" />
+	<String id="2034005" string="Kill relentless bloodclaw arachnens in the Halls of Utterdark and collect their venom sacs." />
+	<String id="2034006" string="Deliver venom sacs to Kurbain." />
+	<String id="2034007" string="&quot;It's an honor to serve.&quot;" />
+</StrSheet_Quest>

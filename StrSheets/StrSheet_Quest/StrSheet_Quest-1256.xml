@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5202001" string="Labyrinth of Terror" />
+	<String id="5202002" string="Our future is in your hands!" />
+	<String id="5202003" string="&quot;I understand.&quot;" />
+	<String id="5202004" string="Speak with Elleon in &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7022#-6047,68722,6678&amp;type=1&amp;name=Muhrak's Workshop&quot;>Muhrak's Workshop&lt;/A>&lt;/font>." />
+	<String id="5202005" string="&quot;Right. Okay.&quot;" />
+	<String id="5202006" string="Go speak to Elleon in front of the Labyrinth of Terror." />
+	<String id="5202007" string="Labyrinth of Terror" />
+	<String id="5202008" string="You arrived at Shriekaal Hall." />
+	<String id="5202009" string="Go to Shriekaal Hall.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.]  " />
+	<String id="5202010" string="&quot;I understand.&quot;" />
+	<String id="5202011" string="Speak with Jelena in the Labyrinth of Terror." />
+	<String id="5202012" string="Defeat {@LinkCreature:3008#2901#Crimson Arzakaar}." />
+	<String id="5202013" string="Go to the Hideout." />
+	<String id="5202014" string="Search for the {@LinkCreature:3008#1500#Kriegar Hall Teleportal}." />
+	<String id="5202015" string="Tremble in terror, mortal fools!" />
+	<String id="5202016" string="No...! I, I don't want to die!!... Icaruna..." />
+	<String id="5202017" string="Use the {@LinkCreature:3008#1500#Kriegar Hall Teleportal} to go to Kriegar Hall and defeat {@LinkCreature:3008#4000#Killian}." />
+	<String id="5202018" string="You got Killian's gem." />
+	<String id="5202019" string="Retrieve the gem that can get you into the Ebon Tower." />
+	<String id="5202020" string="&quot;Thank you.&quot;" />
+	<String id="5202021" string="Return to Habere and ask Jelena how Elleon is doing." />
+</StrSheet_Quest>

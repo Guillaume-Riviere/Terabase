@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47127001" string="Path of Death" />
+	<String id="47127002" string="I feel naked without a weapon." />
+	<String id="47127003" string="I don't want anyone else to be subjected to such cruelty." />
+	<String id="47127004" string="Instruments of Torture" />
+	<String id="47127005" string="Eliminate ebonheart inquisitors in the Necromancer Tomb and retrieve their instruments of torture.&#10;[You must select Necromancer Tomb (Solo) from the {@LinkCreature:233#1501#Teleportal} to advance this quest.]" />
+	<String id="47127006" string="Bring the instruments of torture to Veteran Morori in the Sanguine Hideout at the Citadel of Torment." />
+	<String id="47127007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

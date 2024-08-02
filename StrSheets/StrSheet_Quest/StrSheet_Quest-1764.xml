@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47222001" string="Konika's Favorite Food" />
+	<String id="47222002" string="Thumpers have the meatiest tails." />
+	<String id="47222003" string="I know these are hard to find. I thank you—and Konika thanks you, too." />
+	<String id="47222004" string="Caiman Tail" />
+	<String id="47222005" string="Collect the tails of the azure caiman thumpers that lurk throughout the Golden Labyrinth.&#10;[You must select Golden Labyrinth (Solo) from the {@LinkCreature:208#1501#Teleportal} to advance this quest.] " />
+	<String id="47222006" string="Take the tails to Kurak." />
+	<String id="47222007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

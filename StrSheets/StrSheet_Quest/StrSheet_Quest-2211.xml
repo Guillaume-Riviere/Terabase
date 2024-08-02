@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="300301001" string="Jumpstart: Cultists' Refuge (Solo)" />
+	<String id="300301002" string="Defeat the final boss in Cultists' Refuge (Solo).&lt;br>&lt;br>Cultists' Refuge (Solo) can be entered through a teleportal. To teleport to the entry use Vanguard Initiative UI." />
+	<String id="300301003" string="&quot;Thanks.&quot;" />
+	<String id="300301004" string="Talk to Uriela in Velika." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1930001" string="Lokian Brothers" />
+	<String id="1930002" string="Is there no way to help them?" />
+	<String id="1930003" string="We'll find who is responsible, and we will make them pay." />
+	<String id="1930004" string="&quot;Sure thing.&quot;" />
+	<String id="1930005" string="Lokians" />
+	<String id="1930006" string="Get rid of the Lokians at the Free Brotherhood's encampment." />
+	<String id="1930007" string="&quot;For the federation.&quot;" />
+	<String id="1930008" string="Report to  Cardis at Velik's Vigil." />
+</StrSheet_Quest>

@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="241500" string="" toolTip="" />
+	<String id="241501" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="241502" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241503" string="Token of Friendship: Invitation" toolTip="To commemorate the occasion of recruiting a friend, we present you with this token of friendship." />
+	<String id="241504" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241505" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241506" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241507" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241508" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241509" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241510" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241511" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241512" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241513" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241514" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241515" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241516" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241517" string="" toolTip="" />
+	<String id="241518" string="" toolTip="" />
+	<String id="241519" string="" toolTip="" />
+	<String id="241520" string="" toolTip="" />
+	<String id="241521" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241522" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241523" string="" toolTip="" />
+	<String id="241524" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241525" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241526" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241527" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241528" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241529" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241530" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241531" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241532" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241533" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241534" string="" toolTip="" />
+	<String id="241535" string="" toolTip="" />
+	<String id="241536" string="" toolTip="" />
+	<String id="241537" string="" toolTip="" />
+	<String id="241538" string="" toolTip="" />
+	<String id="241539" string="" toolTip="" />
+	<String id="241540" string="" toolTip="" />
+	<String id="241541" string="" toolTip="" />
+	<String id="241542" string="" toolTip="" />
+	<String id="241543" string="" toolTip="" />
+	<String id="241544" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241545" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241546" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241547" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241548" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241549" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241550" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241551" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241552" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241553" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241554" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241555" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241556" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241557" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241558" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241559" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241560" string="" toolTip="" />
+	<String id="241561" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241562" string="" toolTip="" />
+	<String id="241563" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241564" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241565" string="Cherry Blossom Stamp Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Cherry Blossom Stamp&lt;br>- Cherry Blossom Stamp&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241566" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241567" string="" toolTip="" />
+	<String id="241568" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241569" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241570" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="241571" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="241572" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241573" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="241574" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="241575" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="241576" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="241577" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="241578" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="241579" string="" toolTip="" />
+	<String id="241580" string="" toolTip="" />
+	<String id="241581" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241582" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241583" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241584" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241585" string="Seren's Almighty Fusion Altar" toolTip="This fusion altar allows you to transform various items such as hats and costumes into special and rare items! The Tiny and Fat Santas have given you the same hat more than once? Then open fusion with a right-click and sacrifice the superfluous items to then have a chance at getting a gown! &lt;br>&lt;br> This item is part of an event. Details on the potential results of fusion can be found on en.tera.gameforge.com" />
+	<String id="241586" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241587" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241588" string="" toolTip="" />
+	<String id="241589" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241590" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241591" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241592" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241593" string="Dyeable Yukata Costume Box" toolTip="A box contain Dyeable Yukata Costume Box" />
+	<String id="241594" string="Dyeable Yukata Costume Box" toolTip="A box contain Dyeable Yukata Costume Box" />
+	<String id="241595" string="Dyeable Yukata Costume Box" toolTip="A box contain Dyeable Yukata Costume Box" />
+	<String id="241596" string="" toolTip="" />
+	<String id="241597" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241598" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241599" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241600" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241601" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241602" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241603" string="" toolTip="" />
+	<String id="241604" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="241605" string="Seren's Almighty Fusion Altar" toolTip="This fusion altar allows you to transform various items such as hats and costumes into special and rare items! The Tiny and Fat Santas have given you the same hat more than once? Then open fusion with a right-click and sacrifice the superfluous items to then have a chance at getting a gown! &lt;br>&lt;br> This item is part of an event. Details on the potential results of fusion can be found on en.tera.gameforge.com" />
+	<String id="241606" string="Rugged/Robust Lace Loot Box" toolTip="Powerful garments for powerful people.&lt;BR>&lt;BR>Guaranteed to contain a Personal Inner Armor Token. Also contains one of the following items:&lt;br>Rugged Lace Inner Armor (1%)&lt;br>Robust Lace Inner Armor (1%)&lt;br>Modular Fashion Forward Chest (5–6) (5%)&lt;br>Modular Fish Dish Chest (5–6) (10%)&lt;br>Modular Noctenium Nation Chest (5–6) (40%)&lt;br>Modular Potion Notion Chest (5–6) (25%)&lt;br>Modular Pet Treat Chest (5–6) (5%)&lt;br>Modular Cut Gem Chest (5–6) (8%)&lt;br>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="241607" string="Dynamic/Prestige Lace Loot Box" toolTip="Powerful garments for powerful people.&lt;BR>&lt;BR>Guaranteed to contain a Personal Inner Armor Token. Also contains one of the following items:&lt;br>Dynamic Lace Inner Armor (1%)&lt;br>Prestigious Lace Inner Armor (1%)&lt;br>Modular Fashion Forward Chest (5–6) (5%)&lt;br>Modular Fish Dish Chest (5–6) (10%)&lt;br>Modular Noctenium Nation Chest (5–6) (40%)&lt;br>Modular Potion Notion Chest (5–6) (25%)&lt;br>Modular Pet Treat Chest (5–6) (5%)&lt;br>Modular Cut Gem Chest (5–6) (8%)&lt;br>Modular Great Bait Chest (5–6) (5%)" />
+	<String id="241608" string="" toolTip="" />
+	<String id="241609" string="Chest: Little Hazel Riding Hood" toolTip="Contains a smart box with Little Hazel Riding Hood's Dress for your female character and Little Red Riding Cloak." />
+	<String id="241610" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="241611" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="241612" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="241613" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="241614" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="241615" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="241616" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="241617" string="Ruby Chest" toolTip="Contains rubies. Right-click to open." />
+	<String id="241618" string="Sapphire Chest" toolTip="Contains sapphires. Right-click to open." />
+	<String id="241619" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241620" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241621" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241622" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241623" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241624" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241625" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241626" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241627" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241628" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241629" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241630" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241631" string="" toolTip="" />
+	<String id="241632" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241633" string="Token of Friendship: Level 50" toolTip="To commemorate the occasion of reaching level 50, we present you with this token of friendship." />
+	<String id="241634" string="" toolTip="" />
+	<String id="241635" string="Token of Friendship: Level 50" toolTip="To commemorate the occasion of reaching level 50, we present you with this token of friendship." />
+	<String id="241636" string="" toolTip="" />
+	<String id="241637" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241638" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241639" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241640" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241641" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241642" string="Exodor Gear Refining Cube (Belt)" toolTip="A refiner made with help from Muhrak, the Legendary Blacksmith.&#10;You can use equipment of the same slot as material to obtain Option Change Scrolls for that type of gear.&#10;&#10;&lt;font color = '#FFBB00'>[Target Items]&lt;/font>&#10;Annihilation and Dark Light Belts" />
+	<String id="241643" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241644" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="241645" string="Cherry Blossom Stamp Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Cherry Blossom Stamp&lt;br>- Cherry Blossom Stamp&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241646" string="Cube - Tester_A" toolTip="A testing cube." />
+	<String id="241647" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241648" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241649" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241650" string="" toolTip="" />
+	<String id="241651" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241652" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241653" string="" toolTip="" />
+	<String id="241654" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241655" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241656" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241657" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241658" string="" toolTip="" />
+	<String id="241659" string="Token of Friendship: Level 30" toolTip="To commemorate the occasion of reaching level 30, we present you with this token of friendship." />
+	<String id="241660" string="Idoneal Gear" toolTip="A convenient box containing weapon, armor, and accessories suitable for killing the Archdevan lord, Durion.&lt;BR>&lt;BR>Open to obtain supplies suitable for your class." />
+	<String id="241661" string="Veteran's Rare Cube" toolTip="Combine 3 [Rare Veteran’s Cloths] to obtain a [Rare Veteran's Innerwear] or a [Veteran Genya's inner armor] which increases your PvP stats." />
+	<String id="241662" string="Veteran's Uncommon Cube" toolTip="Combine 3 [Uncommon Veteran’s Cloths] to obtain an [Uncommon Veteran's Innerwear] or a [Rare Veteran's Innerwear] which increases your PvP stats." />
+	<String id="241663" string="Veteran's Signature Cube" toolTip="Combine [Veteran's Signature Cloths] to obtain a [Veteran Signature Innerwear]." />
+	<String id="241664" string="Exodor Gear Refining Cube (Belt)" toolTip="A refiner made with help from Muhrak, the Legendary Blacksmith.&#10;You can use equipment of the same slot as material to obtain Option Change Scrolls for that type of gear.&#10;&#10;&lt;font color = '#FFBB00'>[Target Items]&lt;/font>&#10;Annihilation and Dark Light Belts" />
+	<String id="241665" string="Kukran's Skill Manual Cube" toolTip="Compound items generated from Kukran's Pet Pig Box into a cube that has a higher chance than other cubes of generating Riding Skill: Spotted Pig Tori, Riding Skill: Harley, and more." />
+	<String id="241666" string="Veteran Genya's Cube" toolTip="Combine [Veteran Genya's Cloths] to obtain a [Veteran Genya's inner armor] or a [Veteran Signature Innerwear]." />
+	<String id="241667" string="Veteran's Rare Cube" toolTip="Combine 3 [Rare Veteran’s Cloths] to obtain a [Rare Veteran's Innerwear] or a [Veteran Genya's inner armor] which increases your PvP stats." />
+	<String id="241668" string="Veteran's Uncommon Cube" toolTip="Combine 3 [Uncommon Veteran’s Cloths] to obtain an [Uncommon Veteran's Innerwear] or a [Rare Veteran's Innerwear] which increases your PvP stats." />
+	<String id="241669" string="" toolTip="" />
+	<String id="241670" string="" toolTip="" />
+	<String id="241671" string="" toolTip="" />
+	<String id="241672" string="" toolTip="" />
+	<String id="241673" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241674" string="" toolTip="" />
+	<String id="241675" string="Seren's Almighty Fusion Altar" toolTip="This fusion altar allows you to transform various items such as hats and costumes into special and rare items! The Tiny and Fat Santas have given you the same hat more than once? Then open fusion with a right-click and sacrifice the superfluous items to then have a chance at getting a gown! &lt;br>&lt;br> This item is part of an event. Details on the potential results of fusion can be found on en.tera.gameforge.com" />
+	<String id="241676" string="" toolTip="" />
+	<String id="241677" string="" toolTip="" />
+	<String id="241678" string="Veteran's Signature Cube" toolTip="Combine [Veteran's Signature Cloths] to obtain a [Veteran Signature Innerwear]." />
+	<String id="241679" string="Exodor Gear Refining Cube (Belt)" toolTip="A refiner made with help from Muhrak, the Legendary Blacksmith.&#10;You can use equipment of the same slot as material to obtain Option Change Scrolls for that type of gear.&#10;&#10;&lt;font color = '#FFBB00'>[Target Items]&lt;/font>&#10;Annihilation and Dark Light Belts" />
+	<String id="241680" string="Kukran's Skill Manual Cube" toolTip="Compound items generated from Kukran's Pet Pig Box into a cube that has a higher chance than other cubes of generating Riding Skill: Spotted Pig Tori, Riding Skill: Harley, and more." />
+	<String id="241681" string="Veteran Genya's Cube" toolTip="Combine [Veteran Genya's Cloths] to obtain a [Veteran Genya's inner armor] or a [Veteran Signature Innerwear]." />
+	<String id="241682" string="Veteran's Rare Cube" toolTip="Combine 3 [Rare Veteran’s Cloths] to obtain a [Rare Veteran's Innerwear] or a [Veteran Genya's inner armor] which increases your PvP stats." />
+	<String id="241683" string="Veteran's Uncommon Cube" toolTip="Combine 3 [Uncommon Veteran’s Cloths] to obtain an [Uncommon Veteran's Innerwear] or a [Rare Veteran's Innerwear] which increases your PvP stats." />
+	<String id="241684" string="Premium [Battle Pass] Reward Box I" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="241685" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="241686" string="" toolTip="" />
+	<String id="241687" string="" toolTip="" />
+	<String id="241688" string="" toolTip="" />
+	<String id="241689" string="" toolTip="" />
+	<String id="241690" string="" toolTip="" />
+	<String id="241691" string="" toolTip="" />
+	<String id="241692" string="" toolTip="" />
+	<String id="241693" string="" toolTip="" />
+	<String id="241694" string="" toolTip="" />
+	<String id="241695" string="" toolTip="" />
+	<String id="241696" string="Halloween Costume Random Box" toolTip="A gacha box containing many costumes inside. You can get one item random from below list. &lt;br>&#10; - Halloween Flesh Wrap Costume Box &lt;br> -- Dyeable Halloween Flesh Wrap Costume Box &lt;br>- Pumpkin Skull Mask &lt;br>- Glow Skull Mask &lt;br>- Fresh Pumpkin Mask (&lt;br>- Stylish Pumpkin Mask &lt;br>- Mr. Franken Headdress&lt;br>- Ailuri Giantkiller Mask &lt;br>- Grand Witch's Hat &lt;br>- Monster Mask &lt;br>- Stonebeak's Pumpkin Glasses &lt;br>- Hell Golem's Pumpkin Glasses" />
+	<String id="241697" string="" toolTip="" />
+	<String id="241698" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241699" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241700" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241701" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241702" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241703" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241704" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241705" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241706" string="" toolTip="" />
+	<String id="241707" string="Veteran's Uncommon Cube" toolTip="Combine 3 [Uncommon Veteran’s Cloths] to obtain an [Uncommon Veteran's Innerwear] or a [Rare Veteran's Innerwear] which increases your PvP stats." />
+	<String id="241708" string="" toolTip="" />
+	<String id="241709" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241710" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241711" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241712" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241713" string="" toolTip="" />
+	<String id="241714" string="" toolTip="" />
+	<String id="241715" string="" toolTip="" />
+	<String id="241716" string="" toolTip="" />
+	<String id="241717" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241718" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241719" string="" toolTip="" />
+	<String id="241720" string="" toolTip="" />
+	<String id="241721" string="" toolTip="" />
+	<String id="241722" string="" toolTip="" />
+	<String id="241723" string="" toolTip="" />
+	<String id="241724" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="241725" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="241726" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="241727" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="241728" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241729" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241730" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241731" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="241732" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241733" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241734" string="Idoneal Gear" toolTip="A convenient box containing weapon, armor, and accessories suitable for killing the Archdevan lord, Durion.&lt;BR>&lt;BR>Open to obtain supplies suitable for your class." />
+	<String id="241735" string="Token of Friendship: Level 30" toolTip="To commemorate the occasion of reaching level 30, we present you with this token of friendship." />
+	<String id="241736" string="Token of Friendship: Invitation" toolTip="To commemorate the occasion of recruiting a friend, we present you with this token of friendship." />
+	<String id="241737" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241738" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241739" string="" toolTip="" />
+	<String id="241740" string="" toolTip="" />
+	<String id="241741" string="" toolTip="" />
+	<String id="241742" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241743" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241744" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241745" string="" toolTip="" />
+	<String id="241746" string="" toolTip="" />
+	<String id="241747" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241748" string="" toolTip="" />
+	<String id="241749" string="" toolTip="" />
+	<String id="241750" string="" toolTip="" />
+	<String id="241751" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241752" string="New Partner Ramdom Box I" toolTip="Randomly receive Partner, Pets (Legend, Rare, Uncommon) or Partner's item and pet 1EA. There is a chance to get New Partner Lico and Ello." />
+	<String id="241753" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241754" string="New Partner Ramdom Box I" toolTip="Randomly receive Partner, Pets (Legend, Rare, Uncommon) or Partner's item and pet 1EA. There is a chance to get New Partner Lico and Ello." />
+	<String id="241755" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241756" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241757" string="" toolTip="" />
+	<String id="241758" string="" toolTip="" />
+	<String id="241759" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241760" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241761" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241762" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241763" string="" toolTip="" />
+	<String id="241764" string="Warlord's Ring Cube" toolTip="Combine materials to unlock the cube item containing an Option Change Scroll [Ring]." />
+	<String id="241765" string="" toolTip="" />
+	<String id="241766" string="" toolTip="" />
+	<String id="241767" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241768" string="" toolTip="" />
+	<String id="241769" string="Exodor Gear Refining Cube (Belt)" toolTip="A refiner made with help from Muhrak, the Legendary Blacksmith.&#10;You can use equipment of the same slot as material to obtain Option Change Scrolls for that type of gear.&#10;&#10;&lt;font color = '#FFBB00'>[Target Items]&lt;/font>&#10;Annihilation and Dark Light Belts" />
+	<String id="241770" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241771" string="" toolTip="" />
+	<String id="241772" string="" toolTip="" />
+	<String id="241773" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241774" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241775" string="Kukran's Skill Manual Cube" toolTip="Compound items generated from Kukran's Pet Pig Box into a cube that has a higher chance than other cubes of generating Riding Skill: Spotted Pig Tori, Riding Skill: Harley, and more." />
+	<String id="241776" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241777" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241778" string="" toolTip="" />
+	<String id="241779" string="" toolTip="" />
+	<String id="241780" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241781" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241782" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241783" string="Benjamin's Beam Weapon Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="241784" string="" toolTip="" />
+	<String id="241785" string="" toolTip="" />
+	<String id="241786" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241787" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241788" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241789" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241790" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241791" string="" toolTip="" />
+	<String id="241792" string="" toolTip="" />
+	<String id="241793" string="" toolTip="" />
+	<String id="241794" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241795" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241796" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241797" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241798" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241799" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241800" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="241801" string="" toolTip="" />
+	<String id="241802" string="" toolTip="" />
+	<String id="241803" string="" toolTip="" />
+	<String id="241804" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="241805" string="" toolTip="" />
+	<String id="241806" string="" toolTip="" />
+	<String id="241807" string="" toolTip="" />
+	<String id="241808" string="" toolTip="" />
+	<String id="241809" string="" toolTip="" />
+	<String id="241810" string="" toolTip="" />
+	<String id="241811" string="Dungeon Bonus 1 Box" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="241812" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="241813" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="241814" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="241815" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="241816" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="241817" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="241818" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="241819" string="" toolTip="" />
+	<String id="241820" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="241821" string="Cherry Blossom Stamp Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Cherry Blossom Stamp&lt;br>- Cherry Blossom Stamp&lt;br>- Upgrading materials or comsumable items" />
+	<String id="241822" string="" toolTip="" />
+	<String id="241823" string="Kukran's Skill Manual Cube" toolTip="Compound items generated from Kukran's Pet Pig Box into a cube that has a higher chance than other cubes of generating Riding Skill: Spotted Pig Tori, Riding Skill: Harley, and more." />
+	<String id="241824" string="Veteran's Uncommon Cube" toolTip="Combine 3 [Uncommon Veteran’s Cloths] to obtain an [Uncommon Veteran's Innerwear] or a [Rare Veteran's Innerwear] which increases your PvP stats." />
+	<String id="241825" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241826" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241827" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241828" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241829" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241830" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241831" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241832" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="241833" string="" toolTip="" />
+	<String id="241834" string="" toolTip="" />
+	<String id="241835" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241836" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241837" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241838" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241839" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241840" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241841" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241842" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241843" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241844" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241845" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241846" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241847" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241848" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241849" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241850" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241851" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241852" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241853" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241854" string="Jumpstart Dungeon Clear Reward Box I" toolTip="Use to obtain event rewards." />
+	<String id="241855" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241856" string="" toolTip="" />
+	<String id="241857" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241858" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241859" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241860" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241861" string="" toolTip="" />
+	<String id="241862" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="241863" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="241864" string="" toolTip="" />
+	<String id="241865" string="" toolTip="" />
+	<String id="241866" string="" toolTip="" />
+	<String id="241867" string="" toolTip="" />
+	<String id="241868" string="" toolTip="" />
+	<String id="241869" string="" toolTip="" />
+	<String id="241870" string="" toolTip="" />
+	<String id="241871" string="" toolTip="" />
+	<String id="241872" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241873" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241874" string="Emerald Chest" toolTip="Contains an emerald. Right-click to open." />
+	<String id="241875" string="" toolTip="" />
+	<String id="241876" string="Smart Box: Dyeable Pixie Costume" toolTip="A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241877" string="Smart Box: Dyeable Pixie Costume" toolTip="A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241878" string="Smart Box: Dyeable Pixie Costume" toolTip="A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241879" string="Smart Box: Dyeable Pixie Costume" toolTip="A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241880" string="Smart Box: Dyeable Pixie Costume" toolTip="A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241881" string="Smart Box: Dyeable Pixie Costume" toolTip="A smart box containing a permanent Dyeable Pixie Costume. [Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="241882" string="" toolTip="" />
+	<String id="241883" string="" toolTip="" />
+	<String id="241884" string="" toolTip="" />
+	<String id="241885" string="" toolTip="" />
+	<String id="241886" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241887" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241888" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241889" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241890" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241891" string="" toolTip="" />
+	<String id="241892" string="" toolTip="" />
+	<String id="241893" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241894" string="" toolTip="" />
+	<String id="241895" string="" toolTip="" />
+	<String id="241896" string="" toolTip="" />
+	<String id="241897" string="" toolTip="" />
+	<String id="241898" string="" toolTip="" />
+	<String id="241899" string="" toolTip="" />
+	<String id="241900" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241901" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241902" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241903" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241904" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241905" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241906" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241907" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="241908" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241909" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241910" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241911" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241912" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241913" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241914" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241915" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241916" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241917" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241918" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241919" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241920" string="" toolTip="" />
+	<String id="241921" string="" toolTip="" />
+	<String id="241922" string="" toolTip="" />
+	<String id="241923" string="" toolTip="" />
+	<String id="241924" string="" toolTip="" />
+	<String id="241925" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241926" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241927" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241928" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241929" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241930" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241931" string="" toolTip="" />
+	<String id="241932" string="" toolTip="" />
+	<String id="241933" string="" toolTip="" />
+	<String id="241934" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="241935" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241936" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241937" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241938" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241939" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241940" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241941" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241942" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="241943" string="" toolTip="" />
+	<String id="241944" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241945" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241946" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241947" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241948" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="241949" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241950" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241951" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241952" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241953" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241954" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241955" string="" toolTip="" />
+	<String id="241956" string="" toolTip="" />
+	<String id="241957" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241958" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241959" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241960" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241961" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241962" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241963" string="" toolTip="" />
+	<String id="241964" string="" toolTip="" />
+	<String id="241965" string="" toolTip="" />
+	<String id="241966" string="" toolTip="" />
+	<String id="241967" string="" toolTip="" />
+	<String id="241968" string="" toolTip="" />
+	<String id="241969" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241970" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241971" string="" toolTip="" />
+	<String id="241972" string="" toolTip="" />
+	<String id="241973" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241974" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241975" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241976" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241977" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241978" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241979" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241980" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241981" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241982" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241983" string="" toolTip="" />
+	<String id="241984" string="" toolTip="" />
+	<String id="241985" string="" toolTip="" />
+	<String id="241986" string="" toolTip="" />
+	<String id="241987" string="Entropic Emblem Gold Box I" toolTip="Contains Entropic Emblems." />
+	<String id="241988" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241989" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241990" string="" toolTip="" />
+	<String id="241991" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241992" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241993" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241994" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241995" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241996" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="241997" string="" toolTip="" />
+	<String id="241998" string="" toolTip="" />
+	<String id="241999" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="242000" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="242001" string="" toolTip="" />
+	<String id="242002" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242003" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242004" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242005" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242006" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242007" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242008" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242009" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242010" string="" toolTip="" />
+	<String id="242011" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="242012" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="242013" string="Entropic Emblem Gold Box I" toolTip="Contains Entropic Emblems." />
+	<String id="242014" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="242015" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="242016" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="242017" string="Token of Friendship: Level 20" toolTip="To commemorate the occasion of reaching level 20, we present you with this token of friendship." />
+	<String id="242018" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242019" string="" toolTip="" />
+	<String id="242020" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242021" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242022" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242023" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242024" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242025" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242026" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="242027" string="" toolTip="" />
+	<String id="242028" string="" toolTip="" />
+	<String id="242029" string="" toolTip="" />
+</StrSheet_Item>

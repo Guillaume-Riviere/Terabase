@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="436001" string="Peddle to the Metal" />
+	<String id="436002" string="We are short of {@RawItem:206807} right now." />
+	<String id="436003" string="This is a good start. I'll get to work." />
+	<String id="436004" string="&quot;For the federation.&quot;" />
+	<String id="436005" string="Collect {@RawItem:206807}." />
+	<String id="436006" string="Deliver the {@RawItem:206807} to Calram." />
+</StrSheet_Quest>

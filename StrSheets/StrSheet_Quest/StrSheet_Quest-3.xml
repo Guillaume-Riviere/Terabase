@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="202001" string="Faeries in a Fix" />
+	<String id="202002" string="Centurion Verus" />
+	<String id="202003" string="Artful Graceblooms" />
+	<String id="202004" string="Deliver the graceblooms to Maon at his cabin." />
+	<String id="202005" string="&quot;Who's Lillix?&quot;" />
+	<String id="202006" string="Keta" />
+	<String id="202007" string="Gracebloom Essence" />
+	<String id="202008" string="Take the gracebloom essence to Lillix at Faevine Vale Camp." />
+	<String id="202009" string="&quot;What made Seravy so violent?&quot;" />
+	<String id="202010" string="Defeat Seravy, then meet him at the Faerie Pond." />
+	<String id="202011" string="&quot;Thank you, Seravy.&quot;" />
+	<String id="202012" string="Speak with Seravy." />
+	<String id="202013" string="Seravy" />
+	<String id="202014" string="Unicorn Tear" />
+	<String id="202015" string="Take the unicorn tear to Volos." />
+	<String id="202016" string="&quot;We must all work together.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47123001" string="Deeply Rooted Grudge" />
+	<String id="47123002" string="I would do anything to avenge my husband's death. Please..." />
+	<String id="47123003" string="Thank you." />
+	<String id="47123004" string="Vindictive Soul Stone" />
+	<String id="47123005" string="Eliminate ksharan guards in the Brotherhood Quarters of the Necromancer Tomb.&#10;[You must select Necromancer Tomb (Solo) from the {@LinkCreature:233#1501#Teleportal} to advance this quest.]" />
+	<String id="47123006" string="Bring vindictive soul stones to Vandrea at the Sanguine Hideout in the Citadel of Torment." />
+	<String id="47123007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3326001" string="Guided by Voices" />
+	<String id="3326002" string="Bring me the fragments and I'll show you the truth." />
+	<String id="3326003" string="My flesh is gone, but my heart remains true." />
+	<String id="3326004" string="Shadow Fragment" />
+	<String id="3326005" string="Kill malevolent wraiths on the fifth floor and collect shadow fragments from them." />
+	<String id="3326006" string="Deliver the shadow fragments to Ghassan." />
+	<String id="3326007" string="&quot;Understood.&quot;" />
+	<String id="3326008" string="&quot;For the federation.&quot;" />
+	<String id="3326009" string="Report to Alssiyah at Gloomhaunt Sentry Post." />
+	<String id="3326010" string="&quot;For the federation!&quot;" />
+	<String id="3326011" string="Go to Helehr on the sixth floor." />
+</StrSheet_Quest>

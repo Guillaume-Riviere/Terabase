@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="458" string="Riding Skill: Summon Fortuna" toolTip="This manual is no longer usable." />
+	<String id="459" string="Riding Skill: Summon Fides" toolTip="This manual is no longer usable." />
+	<String id="460" string="Riding Skill: Summon Virtus" toolTip="This manual is no longer usable." />
+	<String id="461" string="Alliance Supply Shopkeeper" toolTip="Alliance Supply Shopkeeper is no longer accessible." />
+	<String id="462" string="Alliance Manual: Summon Infiltration Beacon" toolTip="This manual is no longer usable." />
+	<String id="463" string="Alliance Manual: Summon Guard" toolTip="This manual is no longer usable." />
+	<String id="464" string="Alliance Manual: Summon Barricade" toolTip="This manual is no longer usable." />
+	<String id="465" string="Alliance Manual: Summon Cannon" toolTip="This manual is no longer usable." />
+	<String id="466" string="Echelon Manual: Summon Battle Standard" toolTip="This manual is no longer usable." />
+	<String id="467" string="Echelon Manual: Summon Fortification" toolTip="This manual is no longer usable." />
+	<String id="468" string="Echelon Manual: Summon Mad Dash" toolTip="This manual is no longer usable." />
+	<String id="469" string="Echelon Manual: Summon Battle Prayer" toolTip="This manual is no longer usable." />
+	<String id="470" string="Echelon Manual: Summon Battle Standard" toolTip="This manual is no longer usable." />
+	<String id="471" string="Echelon Manual: Summon Fortification" toolTip="This manual is no longer usable." />
+	<String id="472" string="Echelon Manual: Summon Mad Dash" toolTip="This manual is no longer usable." />
+	<String id="473" string="Echelon Manual: Summon Battle Prayer" toolTip="This manual is no longer usable." />
+	<String id="474" string="Echelon Manual: Summon Battle Standard" toolTip="This manual is no longer usable." />
+	<String id="475" string="Echelon Manual: Summon Fortification" toolTip="This manual is no longer usable." />
+	<String id="476" string="Echelon Manual: Summon Mad Dash" toolTip="This manual is no longer usable." />
+	<String id="477" string="Echelon Manual: Summon Battle Prayer" toolTip="This manual is no longer usable." />
+	<String id="478" string="Skill Manual: Activate a Noctenium Solution" toolTip="This manual is no longer usable." />
+	<String id="479" string="Alliance Manual: Summon Guard" toolTip="This manual is no longer usable." />
+	<String id="480" string="Alliance Manual: Summon Guard" toolTip="This manual is no longer usable." />
+	<String id="483" string="Skill Manual: Adiar's Request" toolTip="This manual is no longer usable." />
+	<String id="484" string="Skill Manual: Derene's Request" toolTip="This manual is no longer usable." />
+	<String id="485" string="Skill Manual: Frateko's Request" toolTip="This manual is no longer usable." />
+	<String id="486" string="Skill Manual: Collectivist" toolTip="This manual is no longer usable." />
+	<String id="487" string="Skill Manual: Union Mission" toolTip="This manual is no longer usable." />
+	<String id="488" string="Skill Manual: Hard Core" toolTip="This manual is no longer usable." />
+	<String id="1140" string="Stun Grenade" toolTip="A long-ranged grenade with stunning properties. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1141" string="Landmine" toolTip="A deployable bomb that inflicts area damage when stepped on. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1142" string="Slow Grenade" toolTip="A long-ranged grenade with slowing properties. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1143" string="Time Bomb" toolTip="A deployable bomb that explodes after a set duration and inflicts area damage. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1144" string="Flash Grenade" toolTip="A long-ranged grenade with blinding properties. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1145" string="Explosive Powder" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> Available for purchase through the alliance quartermaster at each alliance forum, this item is used for making bombs." />
+	<String id="1146" string="Expired Potion" toolTip="This item is no longer usable." />
+	<String id="1147" string="Infected Hide" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> Noctenium-infected animal skin that is found in the alliance domain." />
+	<String id="1148" string="Noctenium Tissue" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> Noctenium Tissue that is rarely found from noctenium-infected animals in the alliance domain." />
+	<String id="1149" string="Veined Noctenium Ore" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> Ore with veins of noctenium. It's found in ore from the alliance domain." />
+	<String id="1150" string="Noctenium Ore" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> Ore with a high noctenium content. It's found in ore from the alliance domain." />
+	<String id="1151" string="Sharan Noctenium Energy" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> A store of powerful energy derived from noctenium. It's found from crystalline energies in the alliance domain." />
+	<String id="1152" string="Arunic Noctenium Energy" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> A store of protective energy derived from noctenium. It's found from crystalline energies in the alliance domain." />
+	<String id="1153" string="Noctenium-Laced Petal" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> A flower petal laced with noctenium. It's found in plants from the alliance domain." />
+	<String id="1154" string="Contaminated Seed" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> A plant seed contaminated with noctenium. It's found in plants from the alliance domain." />
+	<String id="1155" string="Contaminated Blood" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> Animal blood contaminated with noctenium. Its glowing appearance indicates it may have useful material properties. Found from gorillas in the Free Trader domain." />
+	<String id="1156" string="Banana Peel" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> A banana peel contaminated with noctenium. The noctenium has turned the peel into some kind of leathery material. Can be gathered from banana trees in the Enlightened Union domain." />
+	<String id="1157" string="Noctenium Shard" toolTip="&lt;font color = '#2478FF'>[Gathered Material]&lt;/font> A sliver of mineral with a high noctenium content. It appears to be strong enough to use in making weapons. Can be gathered from noctenium ore in the Iron Order domain." />
+	<String id="1158" string="Special Reagent Bottle" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> A bottle used for alchemy. It's available for purchase through the alliance quartermaster at each alliance forum." />
+	<String id="1159" string="Pure Noctenium Powder" toolTip="&lt;font color = '#2478FF'>[Quest Material]&lt;/font> Powdered noctenium with the impurities removed. Used to create a skill-enhancing noctenium infusion. Can be obtained through alliance quests." />
+	<String id="1160" string="Noctenium Powder Hardener" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> A special hardener used to turn noctenium powder into a paste. It's available for purchase at the alliance shop in each alliance forum." />
+	<String id="1161" string="Noctenium Forging Stone" toolTip="A forging stone made of noctenium powder. (Used to enchant equipment.)" />
+	<String id="1162" string="Common Noctenium Membrane" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A rough mass of noctenium found in noctenium-infected monsters. Found from boss monsters in the alliance domain." />
+	<String id="1163" string="Common Magic Infuser" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> A device used to infuse a noctenium membrane with summoning energy. It's available for purchase at the alliance shop in each alliance forum." />
+	<String id="1164" string="Uncommon Summoning Wand" toolTip="A wand that summons an arachnen infused with noctenium. [Only one summoned creature can be brought out at a time.]" />
+	<String id="1165" string="Uncommon Noctenium Membrane" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A mass of noctenium found in noctenium-infected monsters." />
+	<String id="1166" string="Uncommon Magic Infuser" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> A device used to infuse a noctenium membrane with summoning energy. It's available for purchase at the alliance shop in each alliance forum." />
+	<String id="1167" string="Rare Summoning Wand" toolTip="A wand that summons an ovolith infused with noctenium." />
+	<String id="1168" string="Rare Noctenium Membrane" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A mass of noctenium found in larger noctenium-infected monsters." />
+	<String id="1169" string="Rare Magic Infuser" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> A device used to infuse a noctenium membrane with summoning energy. It's available for purchase at the alliance shop in each alliance forum." />
+	<String id="1170" string="Superior Summoning Wand" toolTip="A wand that summons an orisk infused with noctenium." />
+	<String id="1171" string="Superior Noctenium Membrane" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A mass of noctenium found in noctenium-infected BAMs." />
+	<String id="1172" string="Quartermaster's Condenser" toolTip="&lt;font color = '#2478FF'>[Purchased Material]&lt;/font> A material our researchers have determined will infuse noctenium into equipment. It's available for purchase at the alliance shop in each alliance forum." />
+	<String id="1173" string="Noxrune of Shara" toolTip="For crafting weapons." />
+	<String id="1174" string="Noxrune of Arun" toolTip="For crafting armor." />
+	<String id="1175" string="Hydrochloric Acid" toolTip="It's useful to melt something. (Compound with noctenium Powder and noctenium tissue to create Potent Hydrochloric Acid.)" />
+	<String id="1176" string="Potent Hydrochloric Acid" toolTip="Hydrochloric acid used to melt noctenium-contaminated objects." />
+	<String id="1177" string="Normal Sulfuric Acid" toolTip="Sulfuric acid used to melt normal equipment items." />
+	<String id="1178" string="Superior Sulfuric Acid" toolTip="Sulfuric acid used to melt superior equipment items." />
+	<String id="1179" string="Rare Sulfuric Acid" toolTip="Sulfuric acid used to melt rare equipment items." />
+	<String id="1180" string="Legendary Sulfuric Acid" toolTip="Sulfuric acid used to melt legendary equipment items." />
+	<String id="1181" string="Normal Fortune Stone" toolTip="A fortune stone extracted from normal equipment items." />
+	<String id="1182" string="Superior Fortune Stone" toolTip="A fortune stone extracted from superior equipment items." />
+	<String id="1183" string="Rare Fortune Stone" toolTip="A fortune stone extracted from rare equipment items." />
+	<String id="1184" string="Legendary Fortune Stone" toolTip="A fortune stone extracted from legendary equipment items." />
+	<String id="1185" string="Infiltrator's Teleport Scroll" toolTip="Teleports you to the infiltration beacon location designated by your Assault Commander.&#10;&lt;font color = '#c21919'>[Warning!] Only exarchs, commanders, and echelons can use this scroll." />
+	<String id="1186" string="Extractor Key" toolTip="Key required for keeping a noctenium extractor running.&#10;&lt;font color = '#c21919'>[Warning!] The item will drop on the ground if you ride a vehicle, die, use a teleport scroll, perform unstuck, or go outside the territory." />
+	<String id="1187" string="Tramondane Blood" toolTip="A liquid material not of this world used to make Tramondane weapons. (Compound with Tramondane Eye to create a weapon.)" />
+	<String id="1188" string="Tramondane Eye" toolTip="A stone not of this world used to make Tramondane weapons. (Compound with Tramondane Blood to create a weapon.)" />
+	<String id="1189" string="Affinity Catalyst" toolTip="A material used to make noctenium infusions with skill-upgrading properties." />
+	<String id="1190" string="Noctenium Concentrate" toolTip="Concentrated infusion. Use to create multiple infusions with skill-upgrading properties." />
+	<String id="1191" string="Partial Invisibility Potion" toolTip="Temporarily turns you somewhat invisible. (This effect is canceled if you use a skill or are attacked.)" />
+	<String id="1192" string="Superior Invisibility Potion" toolTip="Temporarily turns you completely invisible.&#10;&lt;font color = '#c21919'>[Warning!] This item is usable within allicance territory only. The effect will disappear if you teleport or ride a mount." />
+	<String id="1193" string="Detection Totem" toolTip="Summons a totem that neutralizes invisibility on monsters and players in range." />
+	<String id="1194" string="Summon Legionnaire I" toolTip="A bugle that summons a legionnaire to fight for you. (For echelons 1, 2, 3, and 4)" />
+	<String id="1195" string="Summon Legionnaire II" toolTip="A bugle that summons a legionnaire to fight for you. (For echelons 1, 2, and 3)" />
+	<String id="1196" string="Summon Legionnaire III" toolTip="A bugle that summons a legionnaire to fight for you. (For echelons 1 and 2)" />
+	<String id="1197" string="Summon Legionnaire IV" toolTip="A bugle that summons a legionnaire to fight for you. (For echelon 1 only)" />
+	<String id="1198" string="Warthog Tooth" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A noctenium-infected animal tooth that is found in warthogs in the alliance domain." />
+	<String id="1199" string="Mugato Horn" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A noctenium-infected animal horn that is found in mugatos in the alliance domain." />
+	<String id="1200" string="Sabertooth Skin" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> Noctenium-infected animal skin that is found in noctenium sabertooths in the alliance domain." />
+	<String id="1201" string="Cromos Bone" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> A noctenium-infected animal bone that is found in cromoses in the alliance domain." />
+	<String id="1202" string="Ghilliedhu Bark" toolTip="&lt;font color = '#2478FF'>[Dropped Material]&lt;/font> Noctenium-infected tree bark that is found in cromoses in the alliance domain." />
+	<String id="1203" string="Persistence Potion" toolTip="Clears current skill cooldowns when used." />
+	<String id="1204" string="Purification Potion" toolTip="Cancels negative effects on you when used." />
+	<String id="1205" string="Frenzy Philter" toolTip="Increases chance to crit by 1% every time your current HP decreases by 1% from your maximum HP." />
+	<String id="1206" string="Adjunct Commander's Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Different effects are produced depending on the skill types." />
+	<String id="1207" string="Adjunct Commander's Invisibility Potion" toolTip="Temporarily turns you somewhat invisible. (This effect is canceled if you use a skill or are attacked.)" />
+	<String id="1208" string="Adjunct Commander's Detection Totem" toolTip="Summons a totem that neutralizes invisibility on characters and monsters within range." />
+	<String id="1209" string="Noctenium Ore Sample" toolTip="&lt;font color = '#2478FF'>[Quest Material]&lt;/font> A sample of noctenium melded with metal ore." />
+	<String id="1210" string="Assault Commander's Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Different effects are produced depending on the skill types." />
+	<String id="1211" string="Assault Commander's Invisibility Potion" toolTip="Temporarily turns you somewhat invisible. (This effect is canceled if you use a skill or are attacked.)" />
+	<String id="1212" string="Assault Commander's Detection Totem" toolTip="Summons a totem that neutralizes invisibility on characters and monsters within range." />
+	<String id="1213" string="Assault Commander's Stun Grenade" toolTip="A long-ranged grenade with stunning properties. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1214" string="Assault Commander's Landmine" toolTip="A deployable landmine that inflicts area damage when stepped on. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1215" string="Assault Commander's Web Grenade" toolTip="A long-ranged grenade with slowing properties. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1216" string="Assault Commander's Time Bomb" toolTip="A deployable time bomb that explodes after a set duration and inflicts area damage. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1217" string="Assault Commander's Flash Grenade" toolTip="A long-ranged grenade with blinding properties. (Can only be used during PvP in the alliance domain.)" />
+	<String id="1218" string="Contaminated Blood" toolTip="Unrefined noctenium-contaminated gorilla blood." />
+	<String id="1219" string="Contaminated Banana" toolTip="The peel from a banana contaminated with noctenium." />
+	<String id="1220" string="Unrefined Noctenium Shard" toolTip="Unrefined Noctenium-contaminated Stone" />
+	<String id="1221" string="Extractor Key" toolTip="Key required for keeping a noctenium extractor running.&#10;&lt;font color = '#c21919'>[Warning!] The item will drop on the ground if you ride a vehicle, die, use a teleport scroll, perform unstuck, or go outside the territory." />
+	<String id="1222" string="Extractor Key" toolTip="Key required for keeping a noctenium extractor running.&#10;&lt;font color = '#c21919'>[Warning!] The item will drop on the ground if you ride a vehicle, die, use a teleport scroll, perform unstuck, or go outside the territory." />
+	<String id="1230" string="Superior Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Produces different effects depending on skill type, as noted in the skill's description. Right-click the icon (either from inventory or from the skill bar) to turn the effects on or off." />
+	<String id="1300" string="Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Produces different effects depending on skill type, as noted in the skill's description. Right-click the icon (either from inventory or from the skill bar) to turn the effects on or off." />
+	<String id="1301" string="Alliance Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Produces different effects depending on skill type, as noted in the skill's description. Right-click the icon (either from inventory or from the skill bar) to turn the effects on or off." />
+	<String id="1302" string="Vault Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Produces different effects depending on skill type, as noted in the skill's description. Right-click the icon (either from inventory or from the skill bar) to turn the effects on or off." />
+	<String id="1303" string="Adapted Noctenium Infusion" toolTip="Temporarily improves skills.&#10;Produces different effects depending on skill type, as noted in the skill's description. Right-click the icon (either from inventory or from the skill bar) to turn the effects on or off." />
+	<String id="1400" string="Complete Soul Stone of Life" toolTip="Material found only in super-powerful monsters. A source of life power for the monsters." />
+	<String id="1401" string="Beast Heart" toolTip="The heart is still pounding." />
+	<String id="1402" string="Powerful Zyrk" toolTip="Increases Power by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#FFBB00'>Tank Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>DPS Preference: High&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1403" string="Grounding Zyrk" toolTip="Increases Endurance by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="1404" string="Impacting Zyrk" toolTip="Increases Impact Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1405" string="Balancing Zyrk" toolTip="Increases Balance Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1406" string="Keen Zyrk" toolTip="Increases Crit Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#FFBB00'>Tank Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>DPS Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="1407" string="Unyielding Zyrk" toolTip="Increases Crit Resist Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1408" string="Relentless Zyrk" toolTip="Increases maximum HP by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1409" string="Cunning Zyrk" toolTip="Increases maximum MP by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BRHealer Preference: Low&lt;/font>" />
+	<String id="1410" string="Swift Zyrk" toolTip="Increases Attack Speed by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1411" string="Stout Zyrk" toolTip="Reduces crit damage taken by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1412" string="Griefing Zyrk" toolTip="Increases PvP Attack by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1413" string="Indomitable Zyrk" toolTip="Increases PvP Defense by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1414" string="Succoring Zyrk" toolTip="Increases healing by $H_W_GOOD1%$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1415" string="Threatening Zyrk" toolTip="Increases aggro by $H_W_GOOD2%$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BRHealer Preference: Low&lt;/font>" />
+	<String id="1416" string="Pristine Powerful Zyrk" toolTip="Increases Power by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#FFBB00'>Tank Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>DPS Preference: High&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1417" string="Pristine Grounding Zyrk" toolTip="Increases Endurance by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="1418" string="Pristine Impacting Zyrk" toolTip="Increases Impact Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1419" string="Pristine Balancing Zyrk" toolTip="Increases Balance Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1420" string="Pristine Keen Zyrk" toolTip="Increases Crit Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#FFBB00'>Tank Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>DPS Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="1421" string="Pristine Unyielding Zyrk" toolTip="Increases Crit Resist Factor by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1422" string="Pristine Relentless Zyrk" toolTip="Increases maximum HP by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1423" string="Pristine Cunning Zyrk" toolTip="Increases maximum MP by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BRHealer Preference: Low&lt;/font>" />
+	<String id="1424" string="Pristine Swift Zyrk" toolTip="Increases Attack Speed by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1425" string="Pristine Stout Zyrk" toolTip="Reduces crit damage taken by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1426" string="Pristine Griefing Zyrk" toolTip="Increases PvP Attack by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1427" string="Pristine Indomitable Zyrk" toolTip="Increases PvP Defense by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="1428" string="Succoring Zyrk" toolTip="Increases healing by $H_W_GOOD2%$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BRHealer Preference: Low&lt;/font>" />
+	<String id="1429" string="Threatening Zyrk" toolTip="Increases aggro by $H_W_GOOD3%$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="13334" string="Rise &amp; Fall" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13335" string="Gatekeeper" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13336" string="Veinblade" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13337" string="Ravenbane" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13338" string="Measured Eye" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13339" string="Winged Death" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13340" string="Closure" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13341" string="Rod of Rune" toolTip="Mayhem weapon.&#10;A true raider's weapon." />
+	<String id="13342" string="Suit of Penance" toolTip="Mayhem armor.&#10;A true raider's armor intended for a lancer." />
+	<String id="13343" string="Godfists" toolTip="Mayhem armor.&#10;A true raider's armor." />
+	<String id="13344" string="Greaves of Envy" toolTip="Mayhem armor.&#10;A true raider's armor." />
+	<String id="13345" string="Shadowsong Vest" toolTip="Mayhem armor.&#10;A true raider's armor intended for a warrior." />
+	<String id="13346" string="Clutch of Terror" toolTip="Mayhem armor.&#10;A true raider's armor." />
+	<String id="13347" string="Nightskates" toolTip="Mayhem armor.&#10;A true raider's armor." />
+	<String id="13348" string="Flameswept Robe" toolTip="Mayhem armor.&#10;A true raider's armor intended for a sorcerer." />
+	<String id="13349" string="Deathweavers" toolTip="Mayhem armor.&#10;A true raider's armor." />
+	<String id="13350" string="Golddancers" toolTip="Mayhem armor.&#10;A true raider's armor." />
+	<String id="13351" string="Suit of Fury" toolTip="Mayhem armor.&#10;A true raider's armor intended for a berserker." />
+	<String id="13352" string="Shadowsong Coat" toolTip="Mayhem armor.&#10;A true raider's armor intended for a slayer." />
+	<String id="13353" string="Venomswept Robe" toolTip="Mayhem armor.&#10;A true raider's armor intended for a mystic." />
+	<String id="13354" string="Shadowsong Jacket" toolTip="Mayhem armor.&#10;A true raider's armor intended for an archer." />
+	<String id="13355" string="Godswept Robe" toolTip="Mayhem armor.&#10;A true raider's armor intended for a priest." />
+	<String id="13356" string="Bend &amp; Break" />
+	<String id="13357" string="Godfeller" />
+	<String id="13358" string="Bloodcore" />
+	<String id="13359" string="Molten Edge" />
+	<String id="13360" string="Jaded Eye" />
+	<String id="13361" string="Bloodharp" />
+	<String id="13362" string="Shudder" />
+	<String id="13363" string="Nightstorm" />
+	<String id="13364" string="Godsblood Plate" />
+	<String id="13365" string="Bonesnappers" />
+	<String id="13366" string="Deathsteps" />
+	<String id="13367" string="Grevillain Coat" />
+	<String id="13368" string="Dextral Clings" />
+	<String id="13369" string="Hardened Jackboots" />
+	<String id="13370" string="Skytorn Wrap" />
+	<String id="13371" string="Fingers of Solace" />
+	<String id="13372" string="Skyreachers" />
+	<String id="13373" string="Kelsaik's Flame" toolTip="Usable in Corsairs' Stronghold only." />
+	<String id="13374" string="Kelsaik's Treasure Crate" toolTip="Contains gems." />
+	<String id="13375" string="Kelsaik's Supply Crate" toolTip="Contains supplies." />
+	<String id="13376" string="Kelsaik's Supply Crate" toolTip="Contains supplies." />
+	<String id="13377" string="Kelsaik's Raid Supplies" toolTip="Contains supplies." />
+	<String id="13378" string="Kelsaik's Raid Supplies" toolTip="Contains supplies." />
+	<String id="13379" string="Kelsaik's Rage" toolTip="Usable in Corsairs' Stronghold only." />
+	<String id="13380" string="Kelsaik's Focus" toolTip="Usable in Corsairs' Stronghold only." />
+	<String id="19117" string="Heartspike" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19118" string="Passion &amp; Drive" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19119" string="Heartcarver" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19120" string="Heartstopper" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19121" string="Flight of Fancy" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19122" string="Seeker's Eye" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19123" string="Solicitude" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19124" string="Wishing Wand" toolTip="Noctenium weapon&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19125" string="Heart's Cage" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19126" string="Steelheart Gauntlets" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19127" string="Questpacers" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19128" string="Heartfelt" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19129" string="Heartshredders" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19130" string="Walk of Desire" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19131" string="Temptation" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19132" string="Heartsleeves" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19133" string="Heartsteppers" toolTip="Noctenium armor&#10;It has a good chance of becoming masterwork when wrapped in an enigma and identified." />
+	<String id="19134" string="Veilpiercer" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19135" string="Far &amp; Away" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19136" string="Borderslicer" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19137" string="Veilcleaver" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19138" string="Beyond Reach" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19139" string="Empyrean Wheel" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19140" string="Parallax" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19141" string="Worldspan" toolTip="Tramondane weapon&#10;Will manifest PvP effects when enchanted." />
+	<String id="19218" string="Lasting Impression" />
+	<String id="19219" string="Legend &amp; Lore" />
+	<String id="19220" string="Jagged Edge" />
+	<String id="19221" string="Slashback" />
+	<String id="19222" string="Learning Curve" />
+	<String id="19223" string="Vertigo" />
+	<String id="19224" string="Remembrance" />
+	<String id="19225" string="Epitaph" />
+	<String id="19226" string="Hard Lesson" />
+	<String id="19227" string="Dab Hands" />
+	<String id="19228" string="Echoing Footsteps" />
+	<String id="19229" string="Frame of Reference" />
+	<String id="19230" string="Foundation" />
+	<String id="19231" string="Primary Steps" />
+	<String id="19232" string="Abandonwear" />
+	<String id="19233" string="Forsaken Fingers" />
+	<String id="19234" string="Sidetrackers" />
+	<String id="19235" string="Seasoned Noctenium Ring" />
+	<String id="19236" string="Powerful Noctenium Ring" />
+	<String id="19237" string="Improved Noctenium Ring" />
+	<String id="19238" string="Sharp Noctenium Earring" />
+	<String id="19239" string="Heart's Defense" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19240" string="Ring of Pain" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19241" string="Band of Health" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19242" string="Cascade of Desire" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19243" string="Sunbeam Ring" toolTip="Sunturn ring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19244" string="Sunset Band" toolTip="Sunturn ring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19245" string="Seaglass Ring" toolTip="Seaturn ring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19246" string="Ocean Band" toolTip="Seaturn ring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19247" string="Beachcomber's Ring" toolTip="Sandturn ring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19248" string="Coastal Band" toolTip="Sandturn ring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19249" string="Sunshine Cuff" toolTip="Sunturn earring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19250" string="Dawnside Earring" toolTip="Sunturn earring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19251" string="Waterdrop" toolTip="Seaturn earring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19252" string="Wavemarked Earring" toolTip="Seaturn earring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19253" string="Seashell Earring" toolTip="Sandturn earring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19254" string="Dune Cuff" toolTip="Sandturn earring.&#10;&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19255" string="Bloodwise Band" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19256" string="Bloodwise Signet" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19257" string="Frostwise Band" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19258" string="Frostwise Signet" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19259" string="Deathwise Band" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19260" string="Deathwise Signet" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19261" string="Bloodwise Hoop" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19262" string="Bloodwise Cascade" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19263" string="Frostwise Hoop" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19264" string="Frostwise Cascade" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19265" string="Deathwise Hoop" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19266" string="Deathwise Cascade" toolTip="&lt;font color = '#c21919'>[Warning!] Not affected by semi-enigmatic scrolls." />
+	<String id="19267" string="Bloodwise Necklace" />
+	<String id="19268" string="Frostwise Necklace" />
+	<String id="19269" string="Deathwise Necklace" />
+	<String id="27072" string="Fusion Recipe: Heartspike" toolTip="Creates soulbound lance.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27073" string="Fusion Recipe: Passion &amp; Drive" toolTip="Creates soulbound twin swords.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27074" string="Fusion Recipe: Heartcarver" toolTip="Creates soulbound greatsword.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27075" string="Fusion Recipe: Heartstopper" toolTip="Creates soulbound axe.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27076" string="Fusion Recipe: Flight of Fancy" toolTip="Creates soulbound bow.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27077" string="Fusion Recipe: Seeker's Eye" toolTip="Creates soulbound disc.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27078" string="Fusion Recipe: Solicitude" toolTip="Creates soulbound staff.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27079" string="Fusion Recipe: Wishing Wand" toolTip="Creates soulbound scepter.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium weapons requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27080" string="Fusion Recipe: Heart's Cage" toolTip="Creates soulbound hauberk.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27081" string="Fusion Recipe: Steelheart Gauntlets" toolTip="Creates soulbound gauntlets.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27082" string="Fusion Recipe: Questpacers" toolTip="Creates soulbound greaves.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27083" string="Fusion Recipe: Heartfelt" toolTip="Creates soulbound cuirass.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27084" string="Fusion Recipe: Heartshredders" toolTip="Creates soulbound gloves.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27085" string="Fusion Recipe: Walk of Desire" toolTip="Creates soulbound boots.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27086" string="Fusion Recipe: Temptation" toolTip="Creates soulbound robe.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27087" string="Fusion Recipe: Heartsleeves" toolTip="Creates soulbound sleeves.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27088" string="Fusion Recipe: Heartsteppers" toolTip="Creates soulbound shoes.&#10;Will manifest PvP effects when enchanted.&#10;Creating noctenium armor requires multiple elements rich in noctenium.&#10;Contaminated blood can only be obtained from gorillas in Free Traders territory.&#10;Banana peels can only be obtained in Enlightened Union territory.&#10;Noctenium shards can only be obtained from crystalline noctenium in Iron Order territory." />
+	<String id="27089" string="Design: Noxrune of Shara" toolTip="Use this design to learn the corresponding crafting skill." />
+	<String id="27090" string="Design: Noxrune of Arun" toolTip="Use this design to learn the corresponding crafting skill." />
+	<String id="27125" string="Design: Stun Grenade" toolTip="This design is no longer usable." />
+	<String id="27126" string="Design: Landmine" toolTip="This design is no longer usable." />
+	<String id="27127" string="Design: Slow Grenade" toolTip="This design is no longer usable." />
+	<String id="27128" string="Design: Time Bomb" toolTip="This design is no longer usable." />
+	<String id="27129" string="Design: Flash Grenade" toolTip="This design is no longer usable." />
+	<String id="27130" string="Design: Health Potion" toolTip="This design is no longer usable." />
+	<String id="27131" string="Design: Superior Invisibility Potion" toolTip="This design is no longer usable." />
+	<String id="48000" string="Queen's Call" />
+	<String id="48001" string="Crown Jewels" />
+	<String id="48002" string="Queen's Signet" />
+	<String id="48003" string="Complete Crystalbind" toolTip="The crystalbind is destroyed when a crystal otherwise would have been destroyed. Lasts for 12 hours of gameplay, and supersedes the effect of Crystalbind when used together." />
+	<String id="48004" string="Infiltrator's Teleport Scroll" toolTip="Teleports you to a location designated by your Infiltration Commander" />
+	<String id="48005" string="Noctenium Solution" toolTip="Temporarily improves skills.&#10;Different effects are produced depending on the skill types." />
+	<String id="48006" string="Partial Invisibility Potion" toolTip="Temporarily turns you somewhat invisible.&#10;It gets canceled when you use a skill or get attacked." />
+	<String id="48007" string="Superior Invisibility Potion" toolTip="Temporarily turns you completely invisible." />
+	<String id="48008" string="Detection Totem" toolTip="Summons a ward that neutralizes invisibility on monsters and players within a certain range." />
+	<String id="48009" string="Stun Grenade" toolTip="A long-ranged grenade with Stunning properties.&#10;(Can only be used during PvP in an alliance territory.)" />
+	<String id="48010" string="Landmine" toolTip="A deployable bomb that inflicts area damage when stepped on.&#10;(Can only be used during PvP in an alliance territory.)" />
+	<String id="48011" string="Slow Grenade" toolTip="A long-ranged grenade with Slowing properties.&#10;(Can only be used during PvP in an alliance territory.)" />
+	<String id="48012" string="Time Bomb" toolTip="A deployable bomb that explodes after a set duration and inflicts area damage.&#10;(Can only be used during PvP in an alliance territory.)" />
+	<String id="48013" string="Flash Grenade" toolTip="A long-ranged grenade with blinding properties.&#10;(Can only be used during PvP in an alliance territory.)" />
+	<String id="48014" string="Savage Crux" toolTip="Critical attacks do an additional $H_W_GOOD+1.2$COLOR_END times damage when attacking from behind. You cannot equip multiple crystals with same effect.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#FFBB00'>DPS Preference: High&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48015" string="Swift Crux" toolTip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END while in combat. You cannot equip multiple crystals with same effect.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="48016" string="Brilliant Crux" toolTip="Replenishes MP by $H_W_GOOD$value$COLOR_END every $H_W_GOOD$tickInterval$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="48017" string="Carving Crux" toolTip="Increases the chance to crit by $H_W_GOOD3%$COLOR_END. You cannot equip multiple crystals with same effect.$BR$BR&lt;font color = '#FFBB00'>Tank Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>DPS Preference: High&lt;/font>$BR&lt;font color = '#FFBB00'>Healer Preference: High&lt;/font>" />
+	<String id="48018" string="Pristine Cruel Crux" toolTip="Increases Crit Power after knocking down an opponent. Applies $H_W_GOODCruelty VI$COLOR_END. You cannot equip multiple crystals with same effect.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48019" string="Pristine Forceful Crux" toolTip="Crits from behind apply $H_W_GOODForcefulness VI$COLOR_END. You cannot equip multiple crystals with same effect.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48020" string="Pristine Warding Crux" toolTip="Applies $H_W_GOODWarding VI$COLOR_END when knocked down ($H_W_GOOD$prob$COLOR_END chance). Warding effects from crystals do not stack.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48021" string="Pristine Relentless Crux" toolTip="Increases maximum HP by $H_W_GOOD$value$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48022" string="Pristine Fleetfoot Crux" toolTip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END while out of combat. You cannot equip multiple crystals with same effect.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48023" string="Pristine Vigorous Crux" toolTip="Recovers $H_W_GOOD$value$COLOR_END HP per $H_W_GOOD$tickInterval$COLOR_END.$BR$BR&lt;font color = '#4C4C4C'>Tank Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>DPS Preference: Low&lt;/font>$BR&lt;font color = '#4C4C4C'>Healer Preference: Low&lt;/font>" />
+	<String id="48024" string="Might &amp; Majesty" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48025" string="Regentsvest" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48026" string="Monarch's Grasps" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48027" string="Sovereign's Boots" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48028" string="Regentip" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48029" string="Queensplate" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48030" string="Royal Grips" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48031" string="Stately Steelboots" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48032" string="Regalblade" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48033" string="Regentsvest" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48034" string="Monarch's Grasps" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48035" string="Sovereign's Boots" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48036" string="Sovereign Axe" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48037" string="Queensplate" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48038" string="Royal Grips" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48039" string="Stately Steelboots" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48040" string="Queen's Heart" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48041" string="Royalfire Gown" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48042" string="Haught Wristbands" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48043" string="Royal Slippers" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48044" string="Imperial Reach" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48045" string="Regentsvest" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48046" string="Monarch's Grasps" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48047" string="Sovereign's Boots" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48048" string="Queen's Rule" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48049" string="Royalfire Gown" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48050" string="Haught Wristbands" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48051" string="Royal Slippers" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48052" string="Regent's Scepter" toolTip="Regent's weapon. Infused with the essence of the argon queen." />
+	<String id="48053" string="Royalfire Gown" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48054" string="Haught Wristbands" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48055" string="Royal Slippers" toolTip="Regent's armor intended for lancers. Infused with the essence of the argon queen." />
+	<String id="48056" string="Echelon Mask" toolTip="This mask with glowing blue eyes marks you as a powerful member of your alliance." />
+	<String id="48057" string="Leadership Mask" toolTip="This winged mask with glowing blue eyes marks you as a leader in your alliance." />
+	<String id="48058" string="Crystalline Mask" toolTip="This winged mask marks you as a figure of worth and rank." />
+	<String id="48060" string="Drop Bomb" toolTip="Hit enemies to force them to drop any extractor keys they carry and stun them for 10 seconds." />
+	<String id="48061" string="Vault Ticket" toolTip="Ticket required for entering the Vault of Allies. Each player needs a ticket to use the teleportal, and each use of the teleportal consumes one ticket." />
+	<String id="48062" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48063" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48064" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48065" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48066" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48067" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48068" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48069" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48070" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48071" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48072" string="Free Traders Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48073" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48074" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48075" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48076" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48077" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48078" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48079" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48080" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48081" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48082" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48083" string="Enlightened Union Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48084" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48085" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48086" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48087" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48088" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48089" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48090" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48091" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48092" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48093" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48094" string="Iron Order Tabard" toolTip="Wear your allegiance with pride." />
+	<String id="48095" string="Skill Manual: Tenacious Aura" toolTip="This manual is no longer usable." />
+	<String id="48096" string="Skill Manual: Enduring Aura" toolTip="This manual is no longer usable." />
+	<String id="48097" string="Skill Manual: Wholehearted Aura" toolTip="This manual is no longer usable." />
+</StrSheet_Item>

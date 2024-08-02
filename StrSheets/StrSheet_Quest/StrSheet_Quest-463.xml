@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1734001" string="Serious Allegations" />
+	<String id="1734002" string="Your work doesn't go unnoticed." />
+	<String id="1734003" string="This is...not good." />
+	<String id="1734004" string="Tairun" />
+	<String id="1734005" string="Stolen Ledger and Notes" />
+	<String id="1734006" string="Deliver Tairun's report and evidence to Puran." />
+	<String id="1734007" string="&quot;Only glad I could help, sir.&quot;" />
+</StrSheet_Quest>

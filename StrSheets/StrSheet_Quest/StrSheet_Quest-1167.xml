@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4930001" string="Up and Down, Site to Site" />
+	<String id="4930002" string="I'll see you at the Southern Teleport Platform. Good luck." />
+	<String id="4930003" string="It takes {@RawItem:206811} to power the platform." />
+	<String id="4930004" string="&quot;I'll find an {@RawItem:206811}.&quot;" />
+	<String id="4930005" string="Meet {@LinkCreature:249#1017} at the Southern Teleport Platform." />
+	<String id="4930006" string="&quot;I'll see you there.&quot;" />
+	<String id="4930007" string="Mine {@RawItem:206811} from {@Collection:106} near the {@Rgn:49002}." />
+	<String id="4930008" string="Deliver the {@RawItem:206811} to {@LinkCreature:249#1017}." />
+	<String id="4930009" string="&quot;Remarkable. Thank you!&quot;" />
+	<String id="4930010" string="Speak with {@LinkCreature:76#1018}." />
+</StrSheet_Quest>

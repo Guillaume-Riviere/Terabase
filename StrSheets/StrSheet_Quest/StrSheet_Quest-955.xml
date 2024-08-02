@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3942001" string="Children of Arachne" />
+	<String id="3942002" string="Collect those cocoons!" />
+	<String id="3942003" string="Let's see what I can do with these!" />
+	<String id="3942004" string="&quot;For the federation!&quot;" />
+	<String id="3942005" string="Collect arachnen cocoons from the Hatchery." />
+	<String id="3942006" string="Deliver the cocoons to Baqir." />
+</StrSheet_Quest>

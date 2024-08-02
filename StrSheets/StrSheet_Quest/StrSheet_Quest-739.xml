@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3136001" string="The Hills Are Alive" />
+	<String id="3136002" string="The sirens have to go!" />
+	<String id="3136003" string="Perhaps now I can get some sleep!" />
+	<String id="3136004" string="Eliminate the frostclaw sirens southwest of Beacon Point Garrison." />
+	<String id="3136005" string="&quot;My pleasure!&quot;" />
+	<String id="3136006" string="Report to Urwah at Beacon Point Garrison." />
+</StrSheet_Quest>

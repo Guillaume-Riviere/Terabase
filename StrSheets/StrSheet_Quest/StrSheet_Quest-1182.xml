@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4946001" string="And Then There Were None" />
+	<String id="4946002" string="I wouldn't go alone. Arzakaars hit hard." />
+	<String id="4946003" string="We're getting closer to ending this." />
+	<String id="4946004" string="Kill the arzakaar thassalirs around {@Rgn:49003}." />
+	<String id="4946005" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="4946006" string="Report back to {@LinkCreature:76#1033}." />
+</StrSheet_Quest>

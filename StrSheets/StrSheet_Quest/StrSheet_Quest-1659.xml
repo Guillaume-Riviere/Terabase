@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18207001" string="Stick with It" />
+	<String id="18207002" string="&quot;Popori...? Lime! Right, I'll get some lime.&quot;" />
+	<String id="18207003" string="Talk to Keezar." />
+	<String id="18207004" string="&quot;All right.&quot;" />
+	<String id="18207005" string="Collect lime deposits around Hina Hot Springs." />
+	<String id="18207006" string="Bring lime deposits to Keezar." />
+	<String id="18207007" string="&quot;Is he as crazy as you are?&quot;" />
+	<String id="18207008" string="Ask Keezar how long it will take." />
+	<String id="18207009" string="" />
+	<String id="18207010" string="Making Stick-It-All" />
+	<String id="18207011" string="Show Keezar's memo to her &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#10917, -19121, 1056&amp;type=1&amp;name=right hand man&quot;>right hand man&lt;/A>&lt;/font>." />
+	<String id="18207012" string="&quot;That's all?&quot;" />
+	<String id="18207013" string="Spirit's Tear" />
+	<String id="18207014" string="Kill Parthian shamans on Freedomhill for Spirit's Tears." />
+	<String id="18207015" string="Bring Spirit's Tears to Keezar's right hand." />
+	<String id="18207016" string="&quot;I'll just leave you to it, then.&quot;" />
+	<String id="18207017" string="&quot;That's it? It's done?&quot;" />
+	<String id="18207018" string="Ask Dandit if he's finished." />
+	<String id="18207019" string="Use Keezar's &quot;power glue&quot; to fix the broken archdevan pendant." />
+	<String id="18207020" string="Restored Archdevan Control Pendant." />
+	<String id="18207021" string="&quot;I know them. Thanks for your help!&quot;" />
+	<String id="18207022" string="Show restored Archdevan Control Pendant to Dandit." />
+</StrSheet_Quest>

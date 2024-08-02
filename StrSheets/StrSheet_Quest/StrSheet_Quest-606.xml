@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2423001" string="Pulling Strings" />
+	<String id="2423002" string="Kill all you want. There'll always be more." />
+	<String id="2423003" string="Stamped Supply Crate" />
+	<String id="2423004" string="Removed Stamp" />
+	<String id="2423005" string="Bring the removed stamp to Baruch." />
+	<String id="2423006" string="&quot;I've got it.&quot;" />
+	<String id="2423007" string="Animal Hide" />
+	<String id="2423008" string="Hunt Sand Wind reapers and sandpaw hyenas and collect their leather." />
+	<String id="2423009" string="Report back to Baruch." />
+	<String id="2423010" string="&quot;Glad to be of service!&quot;" />
+</StrSheet_Quest>

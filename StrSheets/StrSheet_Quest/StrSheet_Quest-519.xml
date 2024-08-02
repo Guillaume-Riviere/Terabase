@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2031001" string="Cave-In" />
+	<String id="2031002" string="For the federation!" />
+	<String id="2031003" string="Ha! Take that, arachnens!" />
+	<String id="2031004" string="Kill relentless bloodclaw arachnens in the Halls of Shadow in the Tenebrous Mines." />
+	<String id="2031005" string="&quot;For the federation!&quot;" />
+	<String id="2031006" string="Report to Maedoc at the Reliquary Station in the Halls of Shadow." />
+</StrSheet_Quest>

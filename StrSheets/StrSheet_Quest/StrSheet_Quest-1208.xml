@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5027001" string="Heart of the Matter" />
+	<String id="5027002" string="Hazeil is one of the Mysterium's most respected members." />
+	<String id="5027003" string="Pristine Withered Heart" />
+	<String id="5027004" string="Kill zomgul gatherers around the {@Rgn:50007} and gather fresh samples." />
+	<String id="5027005" string="Deliver the fresh hearts to {@LinkCreature:250#1021}." />
+	<String id="5027006" string="&quot;I hope they help.&quot;" />
+</StrSheet_Quest>

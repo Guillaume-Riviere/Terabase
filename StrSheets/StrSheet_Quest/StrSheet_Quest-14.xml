@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="227001" string="Ham on the Lam" />
+	<String id="227002" string="&quot;Sure thing.&quot;" />
+	<String id="227003" string="Talk to Maon to see how you can help." />
+	<String id="227004" string="Pull out the dart." />
+	<String id="227005" string="Oink, oink, snuffle!" />
+	<String id="227006" string="Use pheremone darts to tame piglings and lead them to Maon." />
+	<String id="227007" string="&quot;I'm happy to help.&quot;" />
+	<String id="227008" string="Speak with Maon." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="440001" string="Sic Semper Tyraks" />
+	<String id="440002" string="Tyraks are the creepiest things I've ever faced." />
+	<String id="440003" string="Is there anything you can't do?" />
+	<String id="440004" string="Hunt down the tyraks in Molten Reach." />
+	<String id="440005" string="&quot;I did what I could.&quot;" />
+	<String id="440006" string="Report back to Gririn." />
+</StrSheet_Quest>

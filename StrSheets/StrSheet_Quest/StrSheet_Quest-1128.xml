@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4825001" string="Casualties of War" />
+	<String id="4825002" string="Find out if anyone survived the Magthulk Crater debacle." />
+	<String id="4825003" string="I'm fine, but I lost most of my command." />
+	<String id="4825004" string="&quot;Stand tall, my friend.&quot;" />
+	<String id="4825005" string="Search for {@LinkCreature:248#1030} near {@Rgn:48008}." />
+</StrSheet_Quest>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="42421001" string="To Summon Kaprima" />
+	<String id="42421002" string="Go to {@LinkCreature:63#1102} in the {@Rgn:63009} right now." />
+	<String id="42421003" string="&quot;I'm on my way.&quot;" />
+	<String id="42421004" string="Go meet {@LinkCreature:63#1102} in the {@Rgn:63009}." />
+	<String id="42421005" string="&quot;I'll find out.&quot;" />
+	<String id="42421006" string="Go meet {@LinkCreature:63#1048} in the {@Rgn:63006}." />
+	<String id="42421007" string="&quot;You can rest easy. I'll handle this Kaprima.&quot;" />
+	<String id="42421008" string="Meet {@LinkCreature:212#1007} at {@Rgn:12013} on {@Rgn:12001}." />
+	<String id="42421009" string="Enter the {@Rgn:9024001}." />
+	<String id="42421010" string="Find the {@LinkCreature:212#1501#teleportal} on {@Rgn:12001}." />
+	<String id="42421011" string="Inside the Fane of Kaprima" />
+	<String id="42421012" string="{@Creature:424#2000} has already resurrected!" />
+	<String id="42421013" string="Enter the Fane of Kaprima and prevent {@Creature:424#2000} from resurrecting." />
+	<String id="42421014" string="{@Creature:424#2000}'s Wing Feather" />
+	<String id="42421015" string="Kill {@LinkCreature:424#2000} and get a wing feather." />
+	<String id="42421016" string="Report to {@LinkCreature:63#1102} in {@Rgn:63001}." />
+	<String id="42421017" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

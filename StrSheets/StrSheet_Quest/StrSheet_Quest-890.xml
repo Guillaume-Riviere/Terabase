@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3722001" string="A Ration-al Response" />
+	<String id="3722002" string="I hope there's something left." />
+	<String id="3722003" string="I thought you'd never get here!" />
+	<String id="3722004" string="Missing Rations" />
+	<String id="3722005" string="Eliminate the goldmaw hellhounds in the Crypt of the Forsaken and retrieve the missing rations." />
+	<String id="3722006" string="Report to Crasius at Phalangeal Research Camp." />
+	<String id="3722007" string="&quot;I'm not really the courier...&quot;" />
+</StrSheet_Quest>

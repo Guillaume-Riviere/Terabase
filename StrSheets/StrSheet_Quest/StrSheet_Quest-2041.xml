@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60602001" string="One Monster's Garbage is Another's Treasure" />
+	<String id="60602002" string="Even broken teinocrons might prove useful." />
+	<String id="60602003" string="Excellent work, my friend." />
+	<String id="60602004" string="Damaged Nexus Teinocron" />
+	<String id="60602005" string="Recover damaged nexus teinocrons from creatures within the nexus." />
+	<String id="60602006" string="Deliver the damaged teinocrons to {@LinkCreature:1022#1002}." />
+	<String id="60602007" string="&quot;My pleasure.&quot;" />
+</StrSheet_Quest>

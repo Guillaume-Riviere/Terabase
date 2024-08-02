@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50528001" string="[Apex] Self-Doubt" />
+	<String id="50528002" string="&quot;Will my best ever be good enough?&quot;" />
+	<String id="50528003" string="Look back on the memories of your decisions.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50528004" string="You can't do anything right!" />
+	<String id="50528005" string="Speak with your memory and face your Self-Doubt.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+</StrSheet_Quest>

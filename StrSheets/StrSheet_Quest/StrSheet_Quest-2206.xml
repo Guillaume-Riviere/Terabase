@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="250021001" string="You, join me on this task!" />
+	<String id="250021002" string="&quot;Okay.&quot;" />
+	<String id="250021003" string="Dakuryon's Sanctum" />
+	<String id="250021004" string="You've reached Dakuryon's Sanctum." />
+	<String id="250021005" string="Talk to {@LinkCreature:2500#2503#Paesyn} and move to Trellum Consurgo in another world." />
+	<String id="250021006" string="Defeat the Archdevas." />
+	<String id="250021007" string="Defeat Zolyn." />
+	<String id="250021008" string="You're angering me!" />
+	<String id="250021009" string="Power... I need more power..." />
+	<String id="250021010" string="Defeat Dakuryon." />
+	<String id="250021011" string="&quot;Okay.&quot;" />
+	<String id="250021012" string="Talk to Paesyn." />
+	<String id="250021013" string="&quot;I'm happy, too.&quot;" />
+	<String id="250021014" string="Talk to Paesyn." />
+</StrSheet_Quest>

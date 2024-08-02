@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2030001" string="Mine Rescue" />
+	<String id="2030002" string="They must be so scared." />
+	<String id="2030003" string="There must be no more victims!" />
+	<String id="2030004" string="&quot;It's okay. It's safe now.&quot;" />
+	<String id="2030005" string="&quot;It's okay. It's safe now.&quot;" />
+	<String id="2030006" string="&quot;It's okay. It's safe now.&quot;" />
+	<String id="2030007" string="&quot;It's okay. It's safe now.&quot;" />
+	<String id="2030008" string="&quot;It's okay. It's safe now.&quot;" />
+	<String id="2030009" string="Rescue the villagers imprisoned in the northwestern part of the Halls of Shadow." />
+	<String id="2030010" string="&quot;Just doing my duty.&quot;" />
+	<String id="2030011" string="Report to Centurion Arthgal at the Utterdark Outpost in the Halls of Utterdark." />
+</StrSheet_Quest>

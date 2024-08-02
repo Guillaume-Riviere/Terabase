@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2322001" string="Living off the Land" />
+	<String id="2322002" string="Hardened bark is almost as tough as metal!" />
+	<String id="2322003" string="I bet we can put this to good use!" />
+	<String id="2322004" string="Hardened Bark" />
+	<String id="2322005" string="Collect hardened bark from ironwood ghilliedhus." />
+	<String id="2322006" string="Return to Zandre." />
+	<String id="2322007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

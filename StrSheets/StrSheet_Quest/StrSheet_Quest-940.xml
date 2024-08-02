@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3927001" string="Heart of Stone" />
+	<String id="3927002" string="It's hard to blame someone for fearing a massive ovolith." />
+	<String id="3927003" string="Nice work!" />
+	<String id="3927004" string="Ovolith Heart" />
+	<String id="3927005" string="Defeat the guardian ovolith at the bottom of Arachnen Lair. Bring back its heart." />
+	<String id="3927006" string="Bring the heart to Chaman." />
+	<String id="3927007" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

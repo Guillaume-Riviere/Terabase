@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19104001" string="Pulling the Strings" />
+	<String id="19104002" string="&quot;Right! Wait, what?&quot;" />
+	<String id="19104003" string="&quot;Thanks.&quot;" />
+	<String id="19104004" string="Speak to Mahamel at the airship platform." />
+	<String id="19104005" string="Parthian Outpost Alpha" />
+	<String id="19104006" string="Arrived at Parthian Outpost Alpha. Jump off the airship, and kill the Parthians." />
+	<String id="19104007" string="Board the airship to Parthian Outpost Alpha." />
+	<String id="19104008" string="Bloodthrall Corps" />
+	<String id="19104009" string="Kill the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#38779, 24729, 8638&amp;type=1&amp;name=Parthian bloodthralls&quot;>Parthian bloodthralls&lt;/A>&lt;/font>." />
+	<String id="19104010" string="&quot;Let me talk to him.&quot;" />
+	<String id="19104011" string="Talk to Paesyn." />
+	<String id="19104012" string="&quot;I will.&quot;" />
+	<String id="19104013" string="Speak with the dying Parthian." />
+	<String id="19104014" string="" />
+	<String id="19104015" string="Engraved dagger." />
+	<String id="19104016" string="Deliver the dagger to Rhodos." />
+	<String id="19104017" string="&quot;He asked you to avenge him.&quot;" />
+</StrSheet_Quest>

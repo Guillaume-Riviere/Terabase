@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="374001" string="(Guild) Suppression Orders: Lanok" />
+	<String id="374002" string="Proof of Kill: Lanok's Death" />
+	<String id="374003" string="&quot;For the federation!&quot;" />
+	<String id="374004" string="Hunt down Lanok." />
+	<String id="374005" string="Report to Jalize in Crescentia when mission is complete." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70118001" string="[Event—Daily] Melon Bash Mini-Game" />
+	<String id="70118002" string="Find the watermelon with the eyes of your mind." />
+	<String id="70118003" string="Haha, it is more fun to watch you than to play the game myself." />
+	<String id="70118004" string="Talk to Wahmel to participate in the melon bash mini-game." />
+	<String id="70118005" string="&quot;Thanks. See you tomorrow, I hope!&quot;" />
+	<String id="70118006" string="Go meet Wahmel, who runs the Blind Melon Bash." />
+</StrSheet_Quest>

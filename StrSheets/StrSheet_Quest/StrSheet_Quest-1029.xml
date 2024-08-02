@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4235001" string="Taking on Tragoleth" />
+	<String id="4235002" string="Send Tragoleth back to the Dream!" />
+	<String id="4235003" string="There's no way we could have let him take the spear." />
+	<String id="4235004" string="Tragoleth's Halberd" />
+	<String id="4235005" string="Defeat Tragoleth in the Chamber of Lost Souls. Bring back his halberd." />
+	<String id="4235006" string="Report to Canlyle on the second level of the Ecdysi Atrium." />
+	<String id="4235007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

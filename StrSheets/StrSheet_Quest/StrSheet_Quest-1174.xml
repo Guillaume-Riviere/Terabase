@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4937001" string="Advanced Herbology" />
+	<String id="4937002" string="The sprouts grow all around the {@Rgn:49005}." />
+	<String id="4937003" string="I must thank the tree for these gifts." />
+	<String id="4937004" string="&quot;Happy to be of service.&quot;" />
+	<String id="4937005" string="Collect {@RawItem:45258} from {@collection:554} near {@Rgn:49005}." />
+	<String id="4937006" string="Give the sprouts to {@LinkCreature:249#1013}." />
+</StrSheet_Quest>

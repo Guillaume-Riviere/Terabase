@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1309001" string="Acharak Attacks" />
+	<String id="1309002" string="Acharak is cunning. Don't let your guard down!" />
+	<String id="1309003" string="You have done a great service for us all." />
+	<String id="1309004" string="You don't frighten me!" />
+	<String id="1309005" string="My minions will avenge me!" />
+	<String id="1309006" string="Clear out Acharak and his minions from the Tainted Gorge Garrison." />
+	<String id="1309007" string="Acharak" />
+	<String id="1309008" string="Black Feather" />
+	<String id="1309009" string="Take the black feather to Edan by the northern bridge." />
+	<String id="1309010" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

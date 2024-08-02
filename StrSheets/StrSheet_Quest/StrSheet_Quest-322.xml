@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1270001" string="(Guild) Suppression Orders: Sunken Yards" />
+	<String id="1270002" string="Proof of Kills: Cutthroat Beach" />
+	<String id="1270003" string="&quot;For the federation!&quot;" />
+	<String id="1270004" string="Eliminate the Pirates and the monsters on Cutthroat Beach northeast of Cutthroat Harbor." />
+	<String id="1270005" string="Report to the reward coordinator." />
+</StrSheet_Quest>

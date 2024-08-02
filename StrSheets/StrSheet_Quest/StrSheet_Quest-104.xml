@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="523001" string="Survey Says" />
+	<String id="523002" string="If I never see another sporewalker..." />
+	<String id="523003" string="Couldn't have done it without you." />
+	<String id="523004" string="Defeat the muddy sporewalkers." />
+	<String id="523005" string="&quot;It was nothing.&quot;" />
+	<String id="523006" string="Speak to Torvath." />
+</StrSheet_Quest>

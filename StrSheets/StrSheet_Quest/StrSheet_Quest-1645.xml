@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18112001" string="Zo-Zo's Petals" />
+	<String id="18112002" string="&quot;Got it.&quot;" />
+	<String id="18112003" string="&quot;You, too, Paesyn. This area's pretty sketchy.&quot;" />
+	<String id="18112004" string="Climb the ladder and talk to Paesyn." />
+	<String id="18112005" string="&quot;Hagand's here? Never mind—I'll ask him.&quot;" />
+	<String id="18112006" string="Talk to Guikol at Hulran Watch." />
+	<String id="18112007" string="&quot;Seems logical. How can I help?&quot;" />
+	<String id="18112008" string="Talk to Hagand." />
+</StrSheet_Quest>

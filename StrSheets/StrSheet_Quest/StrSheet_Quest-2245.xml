@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700042001" string="Complete the Red Refuge" />
+	<String id="700042002" string="[Red Refuge] Defeat Argog!" />
+	<String id="700042003" string="Claim your reward!" />
+</StrSheet_Quest>

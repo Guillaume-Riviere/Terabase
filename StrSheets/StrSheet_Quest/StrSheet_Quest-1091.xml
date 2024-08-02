@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4673001" string="(Guild) Suppression Orders: Ossugon" />
+	<String id="4673002" string="Continual suppression keeps us safe." />
+	<String id="4673003" string="Thank you for your hard work." />
+	<String id="4673004" string="Proof of kill: Ossugons" />
+	<String id="4673005" string="&quot;For the federation.&quot;" />
+	<String id="4673006" string="Defeat {@LinkCreature:46#401#argonomorph ossugon warlords}, {@LinkCreature:46#402#argonomorph nightmare fiends}, and {@LinkCreature:46#403#argonomorph iskaragards} in the {@Rgn:46009$$Three Towers Spires}." />
+	<String id="4673007" string="Report to the nearest coordinator." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4944001" string="Sneak Attack" />
+	<String id="4944002" string="Hit 'em hard! Hit 'em fast!" />
+	<String id="4944003" string="Remind me not to get on your bad side." />
+	<String id="4944004" string="Kill the kallan reavers around the {@Rgn:49004}." />
+	<String id="4944005" string="&quot;I like the way you think.&quot;" />
+	<String id="4944006" string="Report back to {@LinkCreature:249#1005}." />
+</StrSheet_Quest>

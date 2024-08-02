@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50539001" string="[Solo] The Melancholy of a Designer" />
+	<String id="50539002" string="&quot;Okay.&quot;" />
+	<String id="50539003" string="Go to Meren in Highwatch." />
+	<String id="50539004" string="&quot;I'll help.&quot;" />
+	<String id="50539005" string="Go to Clahk near the Training Ground in Highwatch." />
+	<String id="50539006" string="Training Ground" />
+	<String id="50539007" string="Destroy the Priest Buff Stone or Mystic Buff Stone two times.&lt;BR>The Training Ground is a dungeon for simulating your skills. You do not have to clear this dungeon." />
+	<String id="50539008" string="Training Ground" />
+	<String id="50539009" string="Leave the dungeon after you simulate your skills at the training monsters." />
+	<String id="50539010" string="Speak with Atpeman." />
+	<String id="50539011" string="Obtain the Captivity Stone." />
+	<String id="50539012" string="Speak with Clahk." />
+	<String id="50539013" string="Use the Captivity Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory and select the Captivity Stone.]" />
+	<String id="50539014" string="&quot;Thank you.&quot;" />
+	<String id="50539015" string="Speak to Meren in Highwatch." />
+</StrSheet_Quest>

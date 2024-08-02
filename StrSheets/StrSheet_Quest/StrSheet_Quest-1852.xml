@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51010001" string="Mysterious Symptoms" />
+	<String id="51010002" string="&quot;Okay.&quot;" />
+	<String id="51010003" string="&quot;Okay.&quot;" />
+	<String id="51010004" string="Speak with Himmul." />
+	<String id="51010005" string="Collect samples from Blackhoof Unicorns." />
+	<String id="51010006" string="Collect samples from Smokepaw Timberwolves." />
+	<String id="51010007" string="&quot;Okay.&quot;" />
+	<String id="51010008" string="Speak with Himmul." />
+	<String id="51010009" string="Collect samples from Loamy Sporewalkers." />
+	<String id="51010010" string="&quot;Okay.&quot;" />
+	<String id="51010011" string="Speak with Himmul." />
+	<String id="51010012" string="&quot;Okay.&quot;" />
+	<String id="51010013" string="Speak with Laaran." />
+</StrSheet_Quest>

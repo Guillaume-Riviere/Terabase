@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1641001" string="Scout It Out" />
+	<String id="1641002" string="Keep a low profile." />
+	<String id="1641003" string="Know a good locksmith?" />
+	<String id="1641004" string="Sinestral Manor Main Gate" />
+	<String id="1641005" string="(The gate is tightly shut and locked.)" />
+	<String id="1641006" string="Investigate the Sinestral Manor front gate." />
+	<String id="1641007" string="&quot;For the federation!&quot;" />
+	<String id="1641008" string="Report to Segodun." />
+</StrSheet_Quest>

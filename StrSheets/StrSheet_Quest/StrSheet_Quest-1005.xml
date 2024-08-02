@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4136001" string="Enemy Monsters" />
+	<String id="4136002" string="Get rid of those blasted orisks!" />
+	<String id="4136003" string="That should even the odds a bit." />
+	<String id="4136004" string="Orisk Tusks" />
+	<String id="4136005" string="Hunt orisks and take their tusks." />
+	<String id="4136006" string="Bring the orisk tusks to Keltaria." />
+	<String id="4136007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

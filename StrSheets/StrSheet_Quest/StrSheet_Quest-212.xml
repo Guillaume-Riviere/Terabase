@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="901001" string="Federation Traitor" />
+	<String id="901002" string="Samael couldn't do anything if he sees Ciebel's recommendation." />
+	<String id="901003" string="Samael was making a deal with the gulas? I smell something fishy..." />
+	<String id="901004" string="&quot;I can do that.&quot;" />
+	<String id="901005" string="&quot;I understand.&quot;" />
+	<String id="901006" string="Find Elleon around Collegium Arcane." />
+	<String id="901007" string="&quot;Thank you, Ciebel.&quot;" />
+	<String id="901008" string="Report to Ciebel in the central passage in Velika." />
+	<String id="901009" string="Velik's Letter of Recommendation" />
+	<String id="901010" string="Bring the letter of recommendation to {@LinkCreature:63#1311#Samael}." />
+	<String id="901011" string="&quot;I understand.&quot;" />
+	<String id="901012" string="&quot;I understand.&quot;" />
+	<String id="901013" string="Find Elleon around Collegium Arcane." />
+	<String id="901014" string="&quot;What's with the justicars?&quot;" />
+	<String id="901015" string="&quot;Any details of the Gula Slavers?&quot;" />
+	<String id="901016" string="&quot;Do you know anything about those suspicious sailors?&quot;" />
+	<String id="901017" string="Take a pegasus to Cutthroat Harbor and speak with {@LinkCreature:62#1001#Siam}." />
+	<String id="901018" string="&quot;Right. Okay.&quot;" />
+	<String id="901019" string="&quot;I understand.&quot;" />
+	<String id="901020" string="Visit Arkaius in Cutthroat Harbor." />
+	<String id="901021" string="&quot;I understand.&quot;" />
+	<String id="901022" string="Find Perina (Jelena in disguise) in Cutthroat Harbor." />
+	<String id="901023" string="&quot;I understand.&quot;" />
+	<String id="901024" string="Get information from Fyrsil." />
+	<String id="901025" string="&quot;I understand.&quot;" />
+	<String id="901026" string="Talk to Bruke and find out what their mission is.&#10;[Use the {@LinkCreature:62#1027#Teleportal} to go to Vindicator Basecamp.]" />
+	<String id="901027" string="Bruke Escort Route" />
+	<String id="901028" string="You don't trust him but you follow him." />
+	<String id="901029" string="Follow Bruke to the rendezvous in the Mysterious Jungle." />
+	<String id="901030" string="Bruke Escort Route" />
+	<String id="901031" string="&quot;What deal could they be doing?&quot;" />
+	<String id="901032" string="Follow Bruke to the rendezvous in the Mysterious Jungle." />
+	<String id="901033" string="Where Bruke is making the deal" />
+	<String id="901034" string="&quot;This is the place?&quot;" />
+	<String id="901035" string="Find Bruke on Mistmoor Island." />
+	<String id="901036" string="&quot;You'll see.&quot;" />
+	<String id="901037" string="Speak with Bruke." />
+	<String id="901038" string="&quot;Words to live by.&quot;" />
+	<String id="901039" string="Tell &quot;Perina&quot; what you learned from Bruke." />
+	<String id="901040" string="Paxomnia" />
+	<String id="901041" string="(This teleportal takes you to Paxomnia.)" />
+	<String id="901042" string="Search Mistmoor Island and find the {@LinkCreature:212#1030#teleportal}." />
+	<String id="901043" string="Go to the Mysterious Jungle, but watch your back.&#10;[Use the {@LinkCreature:212#1030#Teleportal} to go to Paxomnia.]  " />
+	<String id="901044" string="Scion Assassins" />
+	<String id="901045" string="Eliminate the ambushing Lokians. " />
+	<String id="901046" string="Kill Bruke and bring proof of his betrayal." />
+	<String id="901047" string="&quot;Thank you.&quot;" />
+	<String id="901048" string="Use the {@LinkCreature:438#1003#Exit Teleportal} and bring Samael's orders to &quot;Perina&quot; at the Vindicator Base Camp." />
+	<String id="901049" string="Bring Samael's orders to &quot;Perina&quot; at the Vindicator Base Camp." />
+	<String id="901050" string="Samael approaches." />
+</StrSheet_Quest>

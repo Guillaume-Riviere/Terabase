@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5184001" string="(Guild) Suppression Orders: Vengeful Glacial Giants" />
+	<String id="5184002" string="Proof of Kill: Vengeful Glacial Giants" />
+	<String id="5184003" string="&quot;Thank you.&quot;" />
+	<String id="5184004" string="Kill the vengeful glacial giants near Raseri Festning." />
+	<String id="5184005" string="Report to Raneria in Habere." />
+</StrSheet_Quest>

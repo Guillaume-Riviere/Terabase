@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4839001" string="Head Shots" />
+	<String id="4839002" string="{@Creature:48#14}'s no tuwangi or gula. Watch yourself." />
+	<String id="4839003" string="Outstanding!" />
+	<String id="4839004" string="Hunt down and destroy {@LinkCreature:48#14}." />
+	<String id="4839005" string="&quot;Honored to be of service.&quot;" />
+	<String id="4839006" string="Report to {@LinkCreature:248#1001}." />
+</StrSheet_Quest>

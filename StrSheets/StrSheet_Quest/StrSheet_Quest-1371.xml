@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5630001" string="The Devouring Darkness" />
+	<String id="5630002" string="Killing them is a mercy!" />
+	<String id="5630003" string="They'll be back. The air here reeks of misery." />
+	<String id="5630004" string="Plasmic Fang" />
+	<String id="5630005" string="Destroy spectral legates." />
+	<String id="5630006" string="Go back to Jabran." />
+	<String id="5630007" string="&quot;At least they're gone now.&quot;" />
+</StrSheet_Quest>

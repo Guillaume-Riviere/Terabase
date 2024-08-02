@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55040001" string="To the Front Lines I" />
+	<String id="55040002" string="Defeat Nimistrix in Ravenous Gorge.&lt;br>&lt;br>(You can enter Ravenous Gorge by using Instance Matching, or &quot;Find Group&quot; in Vanguard Requests.)" />
+	<String id="55040003" string="&quot;Thank you!&quot;" />
+	<String id="55040004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3933001" string="Dreadfang's Fang" />
+	<String id="3933002" string="I want those fangs!" />
+	<String id="3933003" string="Excellent work. With luck, I can use their venom." />
+	<String id="3933004" string="Dreadfang's Fang" />
+	<String id="3933005" string="Hunt dreadfang arachnens in the north part of the lair. Collect their poisonous fangs." />
+	<String id="3933006" string="Bring the dreadfang fangs to Jerise at Sanctuary." />
+	<String id="3933007" string="&quot;I'm glad I could help.&quot;" />
+</StrSheet_Quest>

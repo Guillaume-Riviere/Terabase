@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1144001" string="The Dread Pirate Orless" />
+	<String id="1144002" string="Take him down!" />
+	<String id="1144003" string="Good job!" />
+	<String id="1144004" string="Coded Map" />
+	<String id="1144005" string="Use the northern stairs at the Press Camp to move downstairs, then kill Orless in the Pirate Captain's Cabin." />
+	<String id="1144006" string="Deliver the coded map to Ebosius at the Press Camp." />
+	<String id="1144007" string="&quot;I will.&quot;" />
+	<String id="1144008" string="Ebosius" />
+	<String id="1144009" string="Coded Map" />
+	<String id="1144010" string="Deliver the coded map to Ilaria at the Jungle Patrol Camp." />
+	<String id="1144011" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

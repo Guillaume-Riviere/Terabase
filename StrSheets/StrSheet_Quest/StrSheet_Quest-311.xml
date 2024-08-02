@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1231001" string="Contraband Traffic" />
+	<String id="1231002" string="Mum's the word." />
+	<String id="1231003" string="Good job." />
+	<String id="1231004" string="&quot;Got a present for you.&quot;" />
+	<String id="1231005" string="Take the expedition's supplies." />
+	<String id="1231006" string="Find Two-Tooth near the Shrouded Route west of the camp." />
+	<String id="1231007" string="&quot;For the federation!&quot;" />
+	<String id="1231008" string="Speak with Kelius at the Vindicator Basecamp." />
+</StrSheet_Quest>

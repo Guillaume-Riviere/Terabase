@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="243001" string="Hazardous Hunting" />
+	<String id="243002" string="Hunt sporewalkers and terrons for the seals they carry." />
+	<String id="243003" string="Well done! And fast!" />
+	<String id="243004" string="Polluted Seals" />
+	<String id="243005" string="Gather seals from the remains of sporewalkers and terrons." />
+	<String id="243006" string="Deliver the seals to Kadhim at Aron's Camp." />
+	<String id="243007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

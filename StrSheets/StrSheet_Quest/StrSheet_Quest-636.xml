@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2523001" string="Dominating Shackles" />
+	<String id="2523002" string="The secret's in the shackles. I'm sure of it." />
+	<String id="2523003" string="Very clever. Also evil." />
+	<String id="2523004" string="Psycho-Suppressive Shackles" />
+	<String id="2523005" string="Collect psycho-suppressive shackles from devan prelates and skeletal wardens in the west of the Shattered City." />
+	<String id="2523006" string="Take the psycho-suppressive shackles to Heleid at Cathedral Redoubt." />
+	<String id="2523007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

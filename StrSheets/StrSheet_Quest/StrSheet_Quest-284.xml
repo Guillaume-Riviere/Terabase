@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1129001" string="Glaring Eyes" />
+	<String id="1129002" string="For the federation!" />
+	<String id="1129003" string="Good job!" />
+	<String id="1129004" string="Sentinel Dagger" />
+	<String id="1129005" string="Collect daggers from the Red Lash sentinels at the Pier Boundary west of the Vanguard Bastion." />
+	<String id="1129006" string="Deliver the scout daggers to Ketonlix at the Vanguard Bastion." />
+	<String id="1129007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

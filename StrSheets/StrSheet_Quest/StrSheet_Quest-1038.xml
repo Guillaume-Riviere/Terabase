@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4244001" string="The Tablets of Dagon" />
+	<String id="4244002" string="The tablets should be on the third level of the temple." />
+	<String id="4244003" string="This should put a crimp in their plans." />
+	<String id="4244004" string="&quot;You're welcome.&quot;" />
+	<String id="4244005" string="Collect the Tablets of Dagon from the third level of the temple." />
+	<String id="4244006" string="Deliver the tablets to Vries." />
+</StrSheet_Quest>

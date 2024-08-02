@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59901001" string="To Help by Gathering" />
+	<String id="59901002" string="&quot;Right. Okay.&quot;" />
+	<String id="59901003" string="Speak with Glennock at Tiaran's Root." />
+	<String id="59901004" string="Collect a sample of Tiaran's bark." />
+	<String id="59901005" string="Tiaran's Bark Sample" />
+	<String id="59901006" string="Deliver Tiaran's Bark Sample to Glennock." />
+	<String id="59901007" string="&quot;What can I do next?&quot;" />
+</StrSheet_Quest>

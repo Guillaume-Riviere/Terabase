@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999603001" string="Hunt Brutal Ovoliths" />
+	<String id="999603002" string="[Island of Dawn] Hunt brutal ovoliths and collect poison sacs." />
+	<String id="999603003" string="Poison Sac" />
+	<String id="999603004" string="Claim your reward!" />
+</StrSheet_Quest>

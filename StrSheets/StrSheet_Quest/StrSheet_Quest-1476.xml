@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6384001" string="Enchanting for Dummies" />
+	<String id="6384002" string="Let's get started." />
+	<String id="6384003" string="Alkahest is essential for enchanting." />
+	<String id="6384004" string="&quot;Understood.&quot;" />
+	<String id="6384005" string="Speak with {@linkcreature:63#1605}." />
+	<String id="6384006" string="Enchant an item to +1. (Dismantle other equipment of that tier for feedstock. Purchase alkahest for that tier from general merchants.)" />
+	<String id="6384007" string="Successful enchantment." />
+	<String id="6384008" string="&quot;All right.&quot;" />
+	<String id="6384009" string="Successful enchantment. Speak with {@linkcreature:63#1605}." />
+</StrSheet_Quest>

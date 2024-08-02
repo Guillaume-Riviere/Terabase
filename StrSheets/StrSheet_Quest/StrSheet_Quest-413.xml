@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1534001" string="Bring Me a Shrubbery" />
+	<String id="1534002" string="Bring me a shrubbery!" />
+	<String id="1534003" string="Sweet!" />
+	<String id="1534004" string="&quot;I hope so too.&quot;" />
+	<String id="1534005" string="Gather toruan berries from shrubs near Camp Vigilance." />
+	<String id="1534006" string="Return the toruan berries to Tarusol at Camp Vigilance." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1345001" string="Desperately Seeking Sorcha" />
+	<String id="1345002" string="Sorcha is talented, but impulsive. She's...never mind. Please find her before something happens." />
+	<String id="1345003" string="You have to help Sorcha!" />
+	<String id="1345004" string="&quot;You can count on me.&quot;" />
+	<String id="1345005" string="Check in with Gurney." />
+	<String id="1345006" string="&quot;For the federation!&quot;" />
+	<String id="1345007" string="Go to Teleport Master Hermaiorni at the Tower Base." />
+</StrSheet_Quest>

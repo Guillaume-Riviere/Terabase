@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60209001" string="They Hate Me in That Tunnel" />
+	<String id="60209002" string="Head into the catacombs and root out the argons!" />
+	<String id="60209003" string="You fight like Kaia!" />
+	<String id="60209004" string="" />
+	<String id="60209005" string="" />
+	<String id="60209006" string="" />
+	<String id="60209007" string="" />
+	<String id="60209008" string="Use the &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=8001#53250,3806,253&amp;type=1&amp;name=Teleportal&quot;>teleportal&lt;/A>&lt;/font> to report to Baruster in the Argon Catacombs." />
+	<String id="60209009" string="&quot;I'll handle it.&quot;" />
+	<String id="60209010" string="Argon Plating" />
+	<String id="60209011" string="Kill the {@LinkCreature:418#1011#chamas reavers} and {@LinkCreature:418#1012#energized yusul slashers} and collect their plating." />
+	<String id="60209012" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
+	<String id="60209013" string="&quot;Thanks!&quot;" />
+	<String id="60209014" string="Argon Plating" />
+	<String id="60209015" string="Kill the {@LinkCreature:418#1021#manaathol sentinels} and {@LinkCreature:418#1022#energized manaathol sentinels} and collect their plating." />
+	<String id="60209016" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
+	<String id="60209017" string="&quot;Appreciate it.&quot;" />
+	<String id="60209018" string="Argon Plating" />
+	<String id="60209019" string="Speak with {@LinkCreature:418#2002$$Tibonel} to open the portal. Then kill {@LinkCreature:418#1061#hulrap miners} and collect their plating." />
+	<String id="60209020" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
+	<String id="60209021" string="&quot;Thanks.&quot;" />
+	<String id="60209022" string="Argon Plating" />
+	<String id="60209023" string="Kill the {@LinkCreature:418#1051#chamas reapers} and collect their plating." />
+	<String id="60209024" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
+	<String id="60209025" string="&quot;Appreciate it.&quot;" />
+</StrSheet_Quest>

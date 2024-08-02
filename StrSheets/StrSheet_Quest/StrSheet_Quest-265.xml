@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1047001" string="In Memoriam" />
+	<String id="1047002" string="I want to do something to honor that soldier." />
+	<String id="1047003" string="Rest in peace...." />
+	<String id="1047004" string="Scatter Ecryl's flower seeds around the grave of an unsung hero southwest of the Beachhead." />
+	<String id="1047005" string="&quot;For the federation!&quot;" />
+	<String id="1047006" string="Report back to Ecryl at the Beachhead." />
+</StrSheet_Quest>

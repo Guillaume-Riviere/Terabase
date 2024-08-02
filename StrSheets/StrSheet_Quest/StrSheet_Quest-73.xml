@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="423001" string="Ending the Nightmare" />
+	<String id="423002" string="The sulphur is quite cleansing. Stinky, but cleansing." />
+	<String id="423003" string="I know that wasn't easy. You have my thanks." />
+	<String id="423004" string="Sulphurous Essence" />
+	<String id="423005" string="Kill the sulphurous groknars and collect the essence." />
+	<String id="423006" string="Deliver the essences to Larusia at Cauldron Outpost." />
+	<String id="423007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

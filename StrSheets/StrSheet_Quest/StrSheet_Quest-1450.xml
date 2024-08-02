@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6345001" string="[Event] Conquer Necromancer Tomb" />
+	<String id="6345002" string="Defeat Vedilith in Necromancer Tomb." />
+	<String id="6345003" string="&quot;Thanks.&quot;" />
+	<String id="6345004" string="Talk to Dougal in Velika." />
+</StrSheet_Quest>

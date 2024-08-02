@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4934001" string="Eloquent Dissonance" />
+	<String id="4934002" string="Go to {@Creature:76#1025} to get help." />
+	<String id="4934003" string="We'd best make good use of this lull." />
+	<String id="4934004" string="&quot;These are stable, right?&quot;" />
+	<String id="4934005" string="Talk to {@LinkCreature:76#1025}." />
+	<String id="4934006" string="&quot;I'm on it.&quot;" />
+	<String id="4934007" string="Speak with {@LinkCreature:249#1005}." />
+	<String id="4934008" string="Use the harmonic charge to destroy the zolnaj transporter in the {@Rgn:49004}." />
+	<String id="4934009" string="&quot;We'll win. I know it.&quot;" />
+	<String id="4934010" string="Report back to {@LinkCreature:76#1024}." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3139001" string="Bellyache" />
+	<String id="3139002" string="Oh, hurry! I need those blooms!" />
+	<String id="3139003" string="These will do wonders for my pain." />
+	<String id="3139004" string="&quot;I'll help you out.&quot;" />
+	<String id="3139005" string="Search for wispy iceflower blooms south of the Maelstrom." />
+	<String id="3139006" string="Deliver the wispy iceflower blooms to Luanald." />
+</StrSheet_Quest>

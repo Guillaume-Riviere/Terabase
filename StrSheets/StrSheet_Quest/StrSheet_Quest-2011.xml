@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60416001" string="No Loafing" />
+	<String id="60416002" string="Enjoy the weather!" />
+	<String id="60416003" string="They came out perfect, too!" />
+	<String id="60416004" string="" />
+	<String id="60416005" string="" />
+	<String id="60416006" string="" />
+	<String id="60416007" string="Find {@LinkCreature:71#3015#Umma} in {@Rgn:71001$$Bastion}." />
+	<String id="60416008" string="&quot;Sounds great!&quot;" />
+	<String id="60416009" string="Feed fish in the streams outside {@Rgn:71001$$Bastion}." />
+	<String id="60416010" string="Feed fish in the streams outside {@Rgn:71001$$Bastion}." />
+	<String id="60416011" string="Feed fish in the streams outside {@Rgn:71001$$Bastion}." />
+	<String id="60416012" string="&quot;Oh, that looks good.&quot;" />
+	<String id="60416013" string="Meet with {@LinkCreature:71#3015#Umma}." />
+</StrSheet_Quest>

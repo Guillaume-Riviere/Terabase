@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="539001" string="Moong, the Great and Terrible" />
+	<String id="539002" string="Moong just needs to die." />
+	<String id="539003" string="That should solve that problem." />
+	<String id="539004" string="Chief's Hammer" />
+	<String id="539005" string="Defeat Great Chief Moong and bring back his hammer." />
+	<String id="539006" string="Deliver the hammer to Mitany." />
+	<String id="539007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

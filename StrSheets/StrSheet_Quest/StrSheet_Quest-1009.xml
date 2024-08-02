@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4151001" string="[Dungeon - 463] Into the Abyss" />
+	<String id="4151002" string="&quot;I see.&quot;" />
+	<String id="4151003" string="Talk to Dougal." />
+	<String id="4151004" string="&quot;What are you talking about?&quot;" />
+	<String id="4151005" string="Go to Gislan at the Velika Consul Office." />
+	<String id="4151006" string="&quot;Why are you doing this?&quot;" />
+	<String id="4151007" string="Confront Aktam." />
+	<String id="4151008" string="&quot;I swear I'm innocent.&quot;" />
+	<String id="4151009" string="Talk to Gislan." />
+	<String id="4151010" string="Talk to Gislan." />
+	<String id="4151011" string="&quot;I'll prove it.&quot;" />
+	<String id="4151012" string="Receive Gislan's judgement." />
+	<String id="4151013" string="Velika North Gate" />
+	<String id="4151014" string="" />
+	<String id="4151015" string="Go outside the Velika North Gate." />
+	<String id="4151016" string="Antaroth's Abyss Entrance" />
+	<String id="4151017" string="" />
+	<String id="4151018" string="Go to Antaroth's Abyss Entrance." />
+	<String id="4151019" string="Antaroth's Abyss (Hard)" />
+	<String id="4151020" string="Arrived at the Abyss.&#10;This is my chance to prove my innocence." />
+	<String id="4151021" string="Use the {@LinkCreature:63#1404#teleportal} to enter Antaroth's Abyss (Hard)." />
+	<String id="4151022" string="The Confines" />
+	<String id="4151023" string="" />
+	<String id="4151024" string="Go into the Abyss." />
+	<String id="4151025" string="Defeat Nightmare Chief Guard Ghergof." />
+	<String id="4151026" string="Defeat Nightmare Kalioth the Executioner." />
+	<String id="4151027" string="Defeat Nameless Spectre." />
+	<String id="4151028" string="Entrance to Chamber of Trials" />
+	<String id="4151029" string="" />
+	<String id="4151030" string="Cross the bridge and enter the Chamber of Trials." />
+	<String id="4151031" string="Defeat Nightmare Antaroth the Cursed Knight." />
+	<String id="4151032" string="Velika Outskirts" />
+	<String id="4151033" string="I survived the Abyss.&#10;Dougal is waiting for me." />
+	<String id="4151034" string="Use the {@LinkCreature:720#1503#teleportal} to exit Antaroth's Abyss." />
+	<String id="4151035" string="(Follow Dougal.)" />
+	<String id="4151036" string="Talk to Dougal." />
+	<String id="4151037" string="Velika Consul Office" />
+	<String id="4151038" string="You see familiar faces." />
+	<String id="4151039" string="Go to the Velika Consul Office." />
+	<String id="4151040" string="&quot;Understood.&quot;" />
+	<String id="4151041" string="Talk to Seir." />
+</StrSheet_Quest>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2144001" string="Silent Scream" />
+	<String id="2144002" string="For the federation!" />
+	<String id="2144003" string="Another life lost." />
+	<String id="2144004" string="Vale of Graves" />
+	<String id="2144005" string="That missing man must be around here..." />
+	<String id="2144006" string="Head southwest out of the Desert Overwatch." />
+	<String id="2144007" string="Collect his belongings." />
+	<String id="2144008" string="Search the area for the missing man." />
+	<String id="2144009" string="Jerod" />
+	<String id="2144010" string="Jerod's belongings" />
+	<String id="2144011" string="Return Jerod's bag to Rhysart at the Desert Overwatch." />
+	<String id="2144012" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

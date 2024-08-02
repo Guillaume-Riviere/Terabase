@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60411001" string="Time to Rest" />
+	<String id="60411002" string="It's all we can do until we learn to repair them." />
+	<String id="60411003" string="We will continue their noble duty." />
+	<String id="60411004" string="" />
+	<String id="60411005" string="" />
+	<String id="60411006" string="" />
+	<String id="60411007" string="Meet {@LinkCreature:230#3025#Maun} by the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60411008" string="&quot;I'm on it.&quot;" />
+	<String id="60411009" string="Destroy {@LinkCreature:417#1001#old lighthouse managers} in the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60411010" string="Destroy {@LinkCreature:417#1002#old lighthouse guardians} in the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60411011" string="Destroy {@LinkCreature:417#1003#old bronze golems} in the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60411012" string="&quot;Glad to help.&quot;" />
+	<String id="60411013" string="Report to {@LinkCreature:230#3025#Maun}." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4793001" string="Trouble in Blightroar" />
+	<String id="4793002" string="I'm counting on you. We all are." />
+	<String id="4793003" string="Proof of Kill: Wendigos" />
+	<String id="4793004" string="&quot;I did my duty.&quot;" />
+	<String id="4793005" string="Hunt {@Creature:47#3001#contaminated wendigos}, {@Creature:47#3002#argononomorph wendigos}, and {@Creature:47#3003#argonomorph wendigo shamans} in {@Rgn:47004$$Blightroar} and collect tokens." />
+	<String id="4793006" string="See {@Creature:247#1005$$Chenace} in {@Rgn:47007$$Blightroar Research Station} for your reward." />
+</StrSheet_Quest>

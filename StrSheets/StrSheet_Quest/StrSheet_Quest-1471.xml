@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6371001" string="Neverending War Story I " />
+	<String id="6371002" string="&quot;Alright.&quot;" />
+	<String id="6371003" string="Speak with Dougal." />
+	<String id="6371004" string="Defeat Dougal's targets." />
+	<String id="6371005" string="&quot;Thank you.&quot;" />
+	<String id="6371006" string="Report to Dougal." />
+</StrSheet_Quest>

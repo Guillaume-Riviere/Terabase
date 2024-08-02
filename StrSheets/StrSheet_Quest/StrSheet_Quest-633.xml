@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2505001" string="The Guardian of Velika" />
+	<String id="2505002" string="Glory to Valkyon's new champion!" />
+	<String id="2505003" string="&quot;Very well.&quot;" />
+	<String id="2505004" string="It's an emergency recall order. Report to Baruch in Tulufan." />
+	<String id="2505005" string="&quot;I'll do that.&quot;" />
+	<String id="2505006" string="Go back to Velika and speak with Troius at the pegasus platform." />
+	<String id="2505007" string="I'll find him." />
+	<String id="2505008" string="Report to Adjutant Uriela in front of the Valkyon Federation Headquarters in Velika." />
+	<String id="2505009" string="&quot;Thank you, sir.&quot;" />
+	<String id="2505010" string="Go to Commander Seir at Valkyon Federation Headquarters in Velika." />
+	<String id="2505011" string="&quot;Lead the way.&quot;" />
+	<String id="2505012" string="Go to Elleon waiting in front of the goddess's statue near Velik's Stairs in Velika." />
+	<String id="2505013" string="&quot;Honored to be of service.&quot;" />
+	<String id="2505014" string="Speak with Elleon." />
+</StrSheet_Quest>

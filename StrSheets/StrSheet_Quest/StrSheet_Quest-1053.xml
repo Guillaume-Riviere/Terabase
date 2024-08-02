@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4529001" string="It Lives" />
+	<String id="4529002" string="Look at the water. It's full of information." />
+	<String id="4529003" string="The whole swamp may be alive. Imagine that." />
+	<String id="4529004" string="Zalgeg Coil" />
+	<String id="4529005" string="Destroy a {@creature:45#7001$$zalgeg coil} near {@Rgn:45011$$Swampwatch Camp}, and collect a fragment." />
+	<String id="4529006" string="Take the fragment back to Setahl." />
+	<String id="4529007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

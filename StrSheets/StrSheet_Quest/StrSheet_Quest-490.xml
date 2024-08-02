@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1921001" string="Granary of Arun" />
+	<String id="1921002" string="Let me know as soon as you can what the situation is." />
+	<String id="1921003" string="Nice to see you here." />
+	<String id="1921004" string="&quot;I'll go right away.&quot;" />
+	<String id="1921005" string="Meet Teomath at the northern entrance to the Freeholds." />
+	<String id="1921006" string="&quot;For the federation!&quot;" />
+	<String id="1921007" string="Go north from the village and visit Cardis at Velik's Vigil." />
+</StrSheet_Quest>

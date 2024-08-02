@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200103001" string="[Important] The Attack" />
+	<String id="200103002" string="&quot;Sounds good.&quot;" />
+	<String id="200103003" string="Speak with Amarre in Crystal Mine East Exit." />
+	<String id="200103004" string="Temporary Camp" />
+	<String id="200103005" string="Go to the Temporary Camp." />
+	<String id="200103006" string="&quot;You take good care of these people.&quot; " />
+	<String id="200103007" string="Speak with Aurl in Temporary Camp." />
+	<String id="200103008" string="&quot;I'll get Titus.&quot; " />
+	<String id="200103009" string="Speak with Amarre." />
+	<String id="200103010" string="&quot;Let's go.&quot;" />
+	<String id="200103011" string="Speak with Titus." />
+	<String id="200103012" string="Free Exodor Temporary Camp" />
+	<String id="200103013" string="Go to the Free Exodor Temporary Camp." />
+	<String id="200103014" string="&quot;Where's Jelena?&quot; " />
+	<String id="200103015" string="Speak with Vogzu in the Free Exodor Temporary Camp." />
+	<String id="200103016" string="&quot;I'll go with you.&quot;" />
+	<String id="200103017" string="Speak with Vogzu in the Free Exodor Temporary Camp." />
+	<String id="200103018" string="Larvae Farm " />
+	<String id="200103019" string="Jelena is injured." />
+	<String id="200103020" string="Go to the Larvae Farm." />
+	<String id="200103021" string="Calm Jelena." />
+	<String id="200103022" string="Speak with Jelena at the Larvae Farm." />
+	<String id="200103023" string="&quot;I can do that.&quot;" />
+	<String id="200103024" string="Speak with Vogzu at the Larvae Farm entrance." />
+	<String id="200103025" string="Cure" />
+	<String id="200103026" string="Kill Crystal Storage Executioners, Crystal Storage Foremen, Crystal Storage Scouts, and Crystal Storage Throwers to obtain the cure." />
+	<String id="200103027" string="Deliver the cure to Vogzu." />
+	<String id="200103028" string="&quot;Where?&quot;" />
+	<String id="200103029" string="Center of Exodor Farmlands" />
+	<String id="200103030" string="Follow Vogzu to the Center of Exodor Farmlands." />
+	<String id="200103031" string="&quot;Okay.&quot;" />
+	<String id="200103032" string="Follow Vogzu to the Center of Exodor Farmlands." />
+	<String id="200103033" string="&quot;Okay.&quot;" />
+	<String id="200103034" string="Speak with Vogzu at the Beast Farm entrance." />
+	<String id="200103035" string="Kill the Spectral Spiders and Jewel Lizards to secure the road through the Beast Farm." />
+	<String id="200103036" string="Road to the Defense Camp" />
+	<String id="200103037" string="Follow the road to the Defense Camp." />
+	<String id="200103038" string="Defense Camp Entrance" />
+	<String id="200103039" string="Go to the Defense Camp Entrance." />
+	<String id="200103040" string="&quot;Okay.&quot; " />
+	<String id="200103041" string="Defeat the enemies in Defense Camp and talk to Chenitz." />
+	<String id="200103042" string="&quot;Thanks.&quot;" />
+	<String id="200103043" string="Speak with Vogzu." />
+	<String id="200103044" string="Platform - Iridian Wetlands" />
+	<String id="200103045" string="Go to the Platform to Iridian Wetlands." />
+	<String id="200103046" string="&quot;All right.&quot;" />
+	<String id="200103047" string="Speak with Titus." />
+</StrSheet_Quest>

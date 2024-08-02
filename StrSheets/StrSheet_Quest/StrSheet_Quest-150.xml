@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="638001" string="Time for Payback" />
+	<String id="638002" string="Eliminate those Gutrend seers and juggernauts." />
+	<String id="638003" string="You did a fairly good job." />
+	<String id="638004" string="Gutrends" />
+	<String id="638005" string="Defeat Gutrend seers and juggernauts in Mags Kulkar." />
+	<String id="638006" string="&quot;For the federation!&quot;" />
+	<String id="638007" string="Report to Kectur." />
+</StrSheet_Quest>

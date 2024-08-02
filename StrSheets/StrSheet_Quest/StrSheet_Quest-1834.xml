@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50531001" string="[Apex] One More Time" />
+	<String id="50531002" string="Use the invitation to teleport to Velika." />
+	<String id="50531003" string="&quot;Thanks again.&quot;" />
+	<String id="50531004" string="Speak with Nerinder." />
+	<String id="50531005" string="Velika Banquet Entrance" />
+	<String id="50531006" string="You arrived at the Banquet." />
+	<String id="50531007" string="Talk to Nerinder and teleport to the Velika Banquet." />
+	<String id="50531008" string="&quot;This should be much better than last time.&quot;" />
+	<String id="50531009" string="Talk to Verdas.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531010" string="&quot;I hope we meet again soon.&quot;" />
+	<String id="50531011" string="Speak with Mystel.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531012" string="&quot;Thanks. I'll go see him.&quot;" />
+	<String id="50531013" string="Speak with Kamilia.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531014" string="Headquarters" />
+	<String id="50531015" string="" />
+	<String id="50531016" string="&quot;I’m looking for Seir.&quot;&lt;br>Go to Headquarters.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531017" string="&quot;It was a pleasure to meet you.&quot;" />
+	<String id="50531018" string="That man looks exactly like Verdas.&lt;br>Talk to him.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531019" string="&quot;Thank you, sir. You have fun, too.&quot;" />
+	<String id="50531020" string="Speak to Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531021" string="&quot;Not before? That's probably for the best.&quot;" />
+	<String id="50531022" string="Speak to Meren to get information about the celebration.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531023" string="Stage" />
+	<String id="50531024" string="Watch the play." />
+	<String id="50531025" string="Go to the theater in front of Headquarters.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531026" string="Watch the play.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531027" string="&quot;I'll be more than glad to see that.&quot;" />
+	<String id="50531028" string="Speak with Miriam.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531029" string="&quot;I'm sure she's fine. Enjoy your meal!&quot;" />
+	<String id="50531030" string="Speak to the townsfolk you couldn’t save before.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531031" string="Stage" />
+	<String id="50531032" string="Seir is about to deliver his speech." />
+	<String id="50531033" string="It’s time for the speech. &lt;br>Go to the stage.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531034" string="&quot;I... thank you, sir.&quot;" />
+	<String id="50531035" string="Congratulate Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet Redux.]" />
+	<String id="50531036" string="&quot;I'm sure it will. Thank you!&quot;" />
+	<String id="50531037" string="Talk to Seir." />
+</StrSheet_Quest>

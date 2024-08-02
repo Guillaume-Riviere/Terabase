@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4525001" string="Blowing Bubbles" />
+	<String id="4525002" string="Is it protecting the tuwangis?" />
+	<String id="4525003" string="We're a step closer to knowing what it does." />
+	<String id="4525004" string="Break {@creature:45#7002#trolnik spires} inside the argon force field in the {@Rgn:45003$$Vale of the Reaper} and collect controller shards." />
+	<String id="4525005" string="&quot;For the federation.&quot;" />
+	<String id="4525006" string="Collect controller shards." />
+	<String id="4525007" string="Deliver the shards to Chaxanaz at {@Rgn:45007$$Field Base Tenacity}." />
+</StrSheet_Quest>

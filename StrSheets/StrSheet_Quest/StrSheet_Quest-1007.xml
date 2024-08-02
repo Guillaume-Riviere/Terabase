@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4138001" string="The Red Flower of Courage" />
+	<String id="4138002" string="Red dogbane grows all over this valley." />
+	<String id="4138003" string="Hope these help all orcans to be better." />
+	<String id="4138004" string="&quot;I hope so, too.&quot;" />
+	<String id="4138005" string="Collect red dogbane from the southern end of Feral Valley." />
+	<String id="4138006" string="Deliver the red dogbane to Majduk." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4032001" string="Who Guards the Guards" />
+	<String id="4032002" string="Destroy those polykinds!" />
+	<String id="4032003" string="You've done well." />
+	<String id="4032004" string="Guard's Necklace" />
+	<String id="4032005" string="Kill aberrations and polykinds near the Quarantined Village. Gather their belongings." />
+	<String id="4032006" string="Bring the guard's necklaces to Munisk outside the Quarantined Village." />
+	<String id="4032007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

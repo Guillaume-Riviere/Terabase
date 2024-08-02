@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48823001" string="Lokians Lurking" />
+	<String id="48823002" string="Put an end to the raids." />
+	<String id="48823003" string="We'll all sleep better." />
+	<String id="48823004" string="Token of Evil" />
+	<String id="48823005" string="Eliminate Lokians in the manor and collect their tokens.&#10;[You must select Sinestral Manor (Solo) from the Teleportal} to advance this quest.]" />
+	<String id="48823006" string="Report to Kasador at the Sinestral Manor Servants' Entrance." />
+	<String id="48823007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

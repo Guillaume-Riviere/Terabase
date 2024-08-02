@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1327001" string="Garrison in Distress" />
+	<String id="1327002" string="Run, popo, run!" />
+	<String id="1327003" string="How far you've come!" />
+	<String id="1327004" string="&quot;I'll get moving.&quot;" />
+	<String id="1327005" string="Speak to Ramun." />
+	<String id="1327006" string="&quot;I'll get what you need.&quot;" />
+	<String id="1327007" string="Speak to Centurion Neziir." />
+	<String id="1327008" string="Serum Samples" />
+	<String id="1327009" string="Collect serum samples from sickly noruks." />
+	<String id="1327010" string="Take the serum samples to Prefect Ashak at the Northern Overwatch." />
+	<String id="1327011" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

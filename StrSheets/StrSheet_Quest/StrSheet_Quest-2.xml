@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="201001" string="Strife in the Fey Forest" />
+	<String id="201002" string="&quot;On my way.&quot;" />
+	<String id="201003" string="Speak with Commander Samael." />
+	<String id="201004" string="&quot;I like that plan.&quot;" />
+	<String id="201005" string="Meet Legate Troius at the Velika Travel Control Office." />
+	<String id="201006" string="&quot;Thank you.&quot;" />
+	<String id="201007" string="Speak to Adela at the pegasus platform." />
+	<String id="201008" string="&quot;Got it.&quot;" />
+	<String id="201009" string="Speak to Daven in Lumbertown." />
+	<String id="201010" string="&quot;I'll bring you some.&quot;" />
+	<String id="201011" string="Speak to Klaon in the refugee camp." />
+	<String id="201012" string="&quot;I'll wait.&quot;" />
+	<String id="201013" string="Gather artful gracebloom across the northern bridge from Lumbertown." />
+	<String id="201014" string="Bring the gracebloom to Klaon." />
+	<String id="201015" string="&quot;You can count on me.&quot;" />
+	<String id="201016" string="Get the potions from Klaon." />
+	<String id="201017" string="&quot;Drink this.&quot;" />
+	<String id="201018" string="Take the potion to a sick refugee." />
+	<String id="201019" string="&quot;This might help.&quot;" />
+	<String id="201020" string="Offer the potion to a sick refugee." />
+	<String id="201021" string="&quot;I brought this medicine.&quot;" />
+	<String id="201022" string="Offer the potion to a sick refugee." />
+	<String id="201023" string="&quot;How does this make you feel?&quot;" />
+	<String id="201024" string="Offer the potion to a sick refugee." />
+	<String id="201025" string="&quot;I'll do what I can.&quot;" />
+	<String id="201026" string="Report back to Klaon." />
+	<String id="201027" string="Klaon the Arcanist" />
+	<String id="201028" string="Herbal Potion" />
+	<String id="201029" string="Deliver potion to Verus at the Woodcutter Palisade." />
+	<String id="201030" string="&quot;Thanks, I'll look there.&quot;" />
+</StrSheet_Quest>

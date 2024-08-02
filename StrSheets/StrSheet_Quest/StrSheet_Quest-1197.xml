@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4992001" string="Big Game Hunting" />
+	<String id="4992002" string="Proof of Kill: Argon War Machines" />
+	<String id="4992003" string="&quot;For the federation!&quot;" />
+	<String id="4992004" string="Kill the massive argons in {@Rgn:49001}." />
+	<String id="4992005" string="Report to {@LinkCreature:76#1603} in {@Rgn:76001}." />
+</StrSheet_Quest>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3705001" string="Test of the God" />
+	<String id="3705002" string="&quot;I'm ready for this.&quot;" />
+	<String id="3705003" string="Dragon's Soul Stone" />
+	<String id="3705004" string="Defeat Striktryssir in Saleron's Sky Garden and overcome Saleron's trial.&#10;[You must select Saleron's Sky Garden (Solo) from the {@LinkCreature:237#1501#Teleportal} to advance this quest.]  " />
+	<String id="3705005" string="Bring the dragon's soul stone to Prophet Torsten and receive the relic fragment." />
+	<String id="3705006" string="&quot;Right. Okay.&quot;" />
+	<String id="3705007" string="The relic fragment's power is yours!" />
+	<String id="3705008" string="Bring the relic fragment closer." />
+	<String id="3705009" string="&quot;Thank you.&quot; " />
+	<String id="3705010" string="Go back to the Ebon Span and speak with Saleron." />
+</StrSheet_Quest>

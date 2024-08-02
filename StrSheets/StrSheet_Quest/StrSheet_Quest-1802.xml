@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48728001" string="Encrypted Book" />
+	<String id="48728002" string="I'll send this book to a scholar I know in Velika. Thank you." />
+	<String id="48728003" string="Encrypted Book" />
+	<String id="48728004" string="Encrypted Book" />
+	<String id="48728005" string="Deliver the book to Jodoc in Crescentia." />
+	<String id="48728006" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19107001" string="Having a Blast" />
+	<String id="19107002" string="&quot;A tragic possibility.&quot;" />
+	<String id="19107003" string="&quot;I'll ask.&quot;" />
+	<String id="19107004" string="Speak with Rhodos." />
+	<String id="19107005" string="&quot;Very well.&quot;" />
+	<String id="19107006" string="Talk to Tirene." />
+	<String id="19107007" string="&quot;Right behind you!&quot;" />
+	<String id="19107008" string="Speak with Rhodos." />
+	<String id="19107009" string="Move out." />
+	<String id="19107010" string="Escort the siege weapon." />
+	<String id="19107011" string="&quot;Absolutely!&quot;" />
+	<String id="19107012" string="Talk to Vemnon." />
+	<String id="19107013" string="" />
+	<String id="19107014" string="Mount the {@creature:191#1601$$siege weapon}." />
+	<String id="19107015" string="Destroy the archdevan siege cannons." />
+	<String id="19107016" string="&quot;You got it.&quot;" />
+	<String id="19107017" string="Report back to Vemnon." />
+</StrSheet_Quest>

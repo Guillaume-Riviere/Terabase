@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3221001" string="They Don't Need ALL Those Swords" />
+	<String id="3221002" string="I want those Sihran weapons!" />
+	<String id="3221003" string="Now Kaidun's forces will feel our wrath!" />
+	<String id="3221004" string="Sihran Weapon" />
+	<String id="3221005" string="What did they send you for?" />
+	<String id="3221006" string="Georrif...you bastard." />
+	<String id="3221007" string="Collect weapons from Sihran insurgents." />
+	<String id="3221008" string="Deliver the recovered weapons to Nurdan at Dauntless Palisade." />
+	<String id="3221009" string="Hand over the weapons." />
+</StrSheet_Quest>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200305001" string="[Important] Exodor Advance Base" />
+	<String id="200305002" string="&quot;Yes, sir.&quot;" />
+	<String id="200305003" string="Talk to Seir." />
+	<String id="200305004" string="&quot;Yes.&quot;" />
+	<String id="200305005" string="&quot;Okay.&quot;" />
+	<String id="200305006" string="Speak with Jerelyn in Freedom Plaza and Albi in Plaza of the Huntress." />
+	<String id="200305007" string="&quot;All right.&quot;" />
+	<String id="200305008" string="Talk to Seir." />
+	<String id="200305009" string="&quot;I will.&quot;" />
+	<String id="200305010" string="Speak with Gulan." />
+	<String id="200305011" string="&quot;Okay.&quot;" />
+	<String id="200305012" string="Speak with Varlon in Highwatch." />
+	<String id="200305013" string="&quot;Okay.&quot;" />
+	<String id="200305014" string="Speak with {@LinkCreature:183#5000#Varlon} in Highwatch, and then travel to Exodor and meet {@LinkCreature:2000#50000#Dougal} in the Federation Reliquary Station.&#10;[If you complete the quest, reach level 70 and equipment level 463, you can start [Dungeon - 463] Vogzu’s Summon and [Dungeon - 463] Hidden Enemy. Afterwards, the quest [Important] Kaia’s Anvil will be activated automatically.]" />
+</StrSheet_Quest>

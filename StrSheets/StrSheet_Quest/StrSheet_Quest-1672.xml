@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18305001" string="Berserker Training: Axe Counter" />
+	<String id="18305002" string="&quot;Understood.&quot;" />
+	<String id="18305003" string="Use Axe Counter on a training golem." />
+	<String id="18305004" string="&quot;I will.f&quot;" />
+	<String id="18305005" string="Speak with Tarkloon." />
+</StrSheet_Quest>

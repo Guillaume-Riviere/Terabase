@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="337001" string="An Elegant Weapon from a More Civilized Empire" />
+	<String id="337002" string="Watch your step with those devas." />
+	<String id="337003" string="I'll put these to good use." />
+	<String id="337004" string="Devan Weapon" />
+	<String id="337005" string="Collect weapons from devan blademasters, brigands, and scrappers deep inside Deva Silva." />
+	<String id="337006" string="Bring the weapons to Droyan." />
+	<String id="337007" string="&quot;Droyan and I found these weapons.&quot;" />
+</StrSheet_Quest>

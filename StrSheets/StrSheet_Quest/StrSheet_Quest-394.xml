@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1506001" string="Circle the Wagons" />
+	<String id="1506002" string="&quot;I understand.&quot;" />
+	<String id="1506003" string="Receive orders from Samael at Velik's Steps." />
+	<String id="1506004" string="&quot;Maybe later.&quot;" />
+	<String id="1506005" string="Speak with Bruke." />
+	<String id="1506006" string="&quot;Tell me what you know.&quot;" />
+	<String id="1506007" string="Take a pegasus to Popolion and speak with Paka.&#10;[Speak with {@LinkCreature:63#1009#Adela} at the pegasus platform to go to Popolion.]" />
+	<String id="1506008" string="&quot;So what changed?&quot;" />
+	<String id="1506009" string="&quot;We should get rid of them.&quot;" />
+	<String id="1506010" string="Speak with Paka and tell him Samael's information." />
+	<String id="1506011" string="&quot;I understand.&quot;" />
+	<String id="1506012" string="&quot;Let's do this.&quot;" />
+	<String id="1506013" string="Use the teleportal to go to Camp Vigilance." />
+	<String id="1506014" string="&quot;I understand.&quot;" />
+	<String id="1506015" string="Look for Brohua at Camp Vigilance.&#10;[Use the {@LinkCreature:67#1022#Teleportal} to go to Camp Vigilance.]" />
+	<String id="1506016" string="Drive back the disturbed constructs around Camp Vigilance." />
+	<String id="1506017" string="&quot;I understand.&quot;" />
+	<String id="1506018" string="Go see Centurion Amallen at Camp Retribution." />
+</StrSheet_Quest>

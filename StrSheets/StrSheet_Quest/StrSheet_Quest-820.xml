@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3436001" string="Rite of Passage" />
+	<String id="3436002" string="I'd rather fight than hunt." />
+	<String id="3436003" string="This frees me for more important tasks." />
+	<String id="3436004" string="Mugato Claw" />
+	<String id="3436005" string="Slay the frostguard patriarchs and collect their claws." />
+	<String id="3436006" string="Bring the claws to Hesam." />
+	<String id="3436007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

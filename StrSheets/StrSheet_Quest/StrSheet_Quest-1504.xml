@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8707001" string="Reap the Whirlwind" />
+	<String id="8707002" string="&quot;It's as good as done.&quot;" />
+	<String id="8707003" string="Kill elite orcan combatants, elite Beakrock shamans, and enthralled raiders." />
+	<String id="8707004" string="&quot;Consider it done.&quot;" />
+	<String id="8707005" string="Find Mirvan near the giant orcan corpse." />
+	<String id="8707006" string="&quot;Seems easy enough.&quot;" />
+	<String id="8707007" string="Talk to Belgun." />
+	<String id="8707008" string="Fight your way through enthralled mouldermen, bombers, and explosives handlers." />
+	<String id="8707009" string="Rahto's Stone Heart" />
+	<String id="8707010" string="Kill Rahto and acquire Rahto's stone heart." />
+	<String id="8707011" string="Give Rahto's stone heart to Princess Arin." />
+	<String id="8707012" string="&quot;I was glad to help, princess.&quot;" />
+</StrSheet_Quest>

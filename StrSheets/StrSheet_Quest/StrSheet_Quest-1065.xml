@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4574001" string="(Guild) Suppression Orders: Skyfields" />
+	<String id="4574002" string="Continuous subjugation always brings peace." />
+	<String id="4574003" string="Fine work out there, soldier." />
+	<String id="4574004" string="Proof of Kill: Argonomorphs" />
+	<String id="4574005" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="4574006" string="Kill {@LinkCreature:45#4002#argonomorph tuwangis}, {@LinkCreature:45#4003#warfroggers}, and {@LinkCreature:45#4004#wendigos} in the {@Rgn:45005$$Skyfields}." />
+	<String id="4574007" string="Report to Laetesha at Pathfinder Post." />
+</StrSheet_Quest>

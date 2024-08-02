@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70208001" string="[Rootstock—Daily] Ranch Management" />
+	<String id="70208002" string="&quot;I got you covered.&quot;" />
+	<String id="70208003" string="Hyena" />
+	<String id="70208004" string="Kill a hungry hyena." />
+	<String id="70208005" string="&quot;For Valkyon.&quot;" />
+	<String id="70208006" string="Talk to Filton." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3073001" string="(Guild) Suppression Orders: Arkais" />
+	<String id="3073002" string="Proof of Kill: {@linkcreature:30#220$$Arkais}" />
+	<String id="3073003" string="&quot;For the federation.&quot;" />
+	<String id="3073004" string="Eliminate {@linkcreature:30#220#arkais} inhabiting {@Rgn:30001$$Balder's Refuge}." />
+	<String id="3073005" string="Report to the coordinator." />
+</StrSheet_Quest>

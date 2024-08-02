@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3837001" string="One Man Left Behind" />
+	<String id="3837002" string="I hope it's not too late." />
+	<String id="3837003" string="It's a very ancient and difficult language." />
+	<String id="3837004" string="Thunder Hold Prions" />
+	<String id="3837005" string="Hunt prions on your way to find Jabel in Thunder Hold." />
+	<String id="3837006" string="Bring the book." />
+	<String id="3837007" string="Find Jabel somewhere in Thunder Hold." />
+	<String id="3837008" string="&quot;I'll do it.&quot;" />
+	<String id="3837009" string="Return to Belani at Wyvern Watch." />
+	<String id="3837010" string="Jerad" />
+	<String id="3837011" string="Book in an Unknown Language" />
+	<String id="3837012" string="Take the book to Jerad." />
+	<String id="3837013" string="&quot;I'll wait.&quot;" />
+</StrSheet_Quest>

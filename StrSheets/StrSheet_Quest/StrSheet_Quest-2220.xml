@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="302501001" string="Clean up Azart Hatchery III" />
+	<String id="302501002" string="Defeat a boss monster in Azart Hatchery 1 time.&lt;br>&lt;br>Azart Hatchery can be entered randomly on defeating level 65-68 hunting zone monsters." />
+	<String id="302501003" string="&quot;Thanks.&quot;" />
+	<String id="302501004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

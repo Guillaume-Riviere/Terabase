@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4948001" string="Clashing with Slashers" />
+	<String id="4948002" string="Watch out for their pointy ends." />
+	<String id="4948003" string="You sure showed them who's boss." />
+	<String id="4948004" string="Kill yusul slashers around the {@LinkCreature:249#1103}." />
+	<String id="4948005" string="&quot;Ready when you are.&quot;" />
+	<String id="4948006" string="Report back to {@LinkCreature:249#1018}." />
+</StrSheet_Quest>

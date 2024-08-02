@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5125001" string="In Case of Argon Domination, Break Glass" />
+	<String id="5125002" string="Take that pylon out!" />
+	<String id="5125003" string="Great work. A blow against Thulsa." />
+	<String id="5125004" string="Destroy the draelkar pylon in Wendigo's Howl." />
+	<String id="5125005" string="&quot;For the federation!&quot;" />
+	<String id="5125006" string="Report back to Thenuvia." />
+</StrSheet_Quest>

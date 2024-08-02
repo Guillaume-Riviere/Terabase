@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4731001" string="Snake, Rattle, and Roll" />
+	<String id="4731002" string="Check on the Temporary Patrol Camp." />
+	<String id="4731003" string="We're safe for now, but short-handed." />
+	<String id="4731004" string="Kill the {@creature:47#4002#argonomorph naga wyrmlings} south of the {@Rgn:47005$$Argon Frontier}." />
+	<String id="4731005" string="&quot;Good luck.&quot;" />
+	<String id="4731006" string="Meet {@creature:247#1021$$Shannow} at the {@Rgn:47009$$Temporary Patrol Camp}." />
+</StrSheet_Quest>

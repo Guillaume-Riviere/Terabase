@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60205001" string="Badge of Honor" />
+	<String id="60205002" string="All Shariar carry a badge. You should, too." />
+	<String id="60205003" string="Now you look like a proper member of the Shariar." />
+	<String id="60205004" string="" />
+	<String id="60205005" string="" />
+	<String id="60205006" string="" />
+	<String id="60205007" string="Speak to {@LinkCreature:248#3001#Naveld} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60205008" string="&quot;I'm on it.&quot;" />
+	<String id="60205009" string="Mana Crystal" />
+	<String id="60205010" string="Kill {@LinkCreature:48#7#zariik dazzlers} around {@Rgn:48006$$Carnage Vale} and collect their mana crystals." />
+	<String id="60205011" string="Deliver the mana crystals to {@LinkCreature:248#3001#Naveld} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60205012" string="&quot;I'm honored.&quot;" />
+	<String id="60205013" string="Argon Core" />
+	<String id="60205014" string="Kill {@LinkCreature:48#5#hulrap bashers} around {@Rgn:48006$$Carnage Vale} and collect their cores." />
+	<String id="60205015" string="Deliver the argon cores to {@LinkCreature:248#3001#Naveld} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60205016" string="&quot;I'm honored.&quot;" />
+	<String id="60205017" string="Cyasma" />
+	<String id="60205018" string="Kill {@LinkCreature:48#13#syndrene dragoons} around {@Rgn:48006$$Carnage Vale} and collect their cyasma." />
+	<String id="60205019" string="Deliver the cyasma to {@LinkCreature:248#3001#Naveld} at {@Rgn:48002$$Khanovar Citadel}." />
+	<String id="60205020" string="&quot;I'm honored." />
+</StrSheet_Quest>

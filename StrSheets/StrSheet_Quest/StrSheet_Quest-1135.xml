@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4833001" string="{@RawItem:206816} Supply" />
+	<String id="4833002" string="You can process {@RawItem:206811} to make {@RawItem:206816}." />
+	<String id="4833003" string="You haven’t bought {@RawItem:206816}, have you?" />
+	<String id="4833004" string="&quot;Glad I could help.&quot;" />
+	<String id="4833005" string="Collect {@RawItem:206816}." />
+	<String id="4833006" string="Deliver the {@RawItem:206816} to {@LinkCreature:248#1025}." />
+</StrSheet_Quest>

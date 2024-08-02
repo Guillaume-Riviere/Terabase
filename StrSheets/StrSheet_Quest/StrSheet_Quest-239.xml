@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1021001" string="Island Vacation" />
+	<String id="1021002" string="We need someone with your proven record." />
+	<String id="1021003" string="You aren't afraid, are you?" />
+	<String id="1021004" string="Head to Viper Camp." />
+	<String id="1021005" string="Meet Zesine at Kaia Street." />
+	<String id="1021006" string="&quot;As ordered!&quot;" />
+	<String id="1021007" string="Find Latas at Viper Camp." />
+	<String id="1021008" string="&quot;I'll do what I can.&quot;" />
+	<String id="1021009" string="Speak with Briale at Viper Camp." />
+</StrSheet_Quest>

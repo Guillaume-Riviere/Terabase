@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3122001" string="Better Late than Never" />
+	<String id="3122002" string="We need your help dealing with the undead!" />
+	<String id="3122003" string="The undead threaten not only Acarum, but all of Westonia!" />
+	<String id="3122004" string="&quot;You're welcome.&quot;" />
+	<String id="3122005" string="Go to the Glacial Bay Research Station and speak with Westonia Prefect Liba." />
+</StrSheet_Quest>

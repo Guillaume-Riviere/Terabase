@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48723001" string="Impish Smiles" />
+	<String id="48723002" string="If the Scions have imps, they'll have bigger demons, too." />
+	<String id="48723003" string="Imps are so damned creepy." />
+	<String id="48723004" string="Eliminate dark imps in the Bastion of Lok.&#10;[You must select Bastion of Lok (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.]" />
+	<String id="48723005" string="&quot;For the federation!&quot;" />
+	<String id="48723006" string="Report back to Tersiaj." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47622001" string="Killian's Hounds" />
+	<String id="47622002" string="Hyenas aren't canines, but you take my point." />
+	<String id="47622003" string="Anything is better than waiting!" />
+	<String id="47622004" string="Hyenas and Zuulhounds" />
+	<String id="47622005" string="Eliminate agonal hyenas and zuulhound sentries in the Labyrinth of Terror.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.] " />
+	<String id="47622006" string="&quot;For the federation!&quot;" />
+	<String id="47622007" string="Report to Shaigar at the Furnace Approach." />
+</StrSheet_Quest>

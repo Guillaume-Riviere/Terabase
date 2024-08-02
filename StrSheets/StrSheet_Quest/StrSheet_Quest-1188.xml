@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4952001" string="Private Security" />
+	<String id="4952002" string="Don't let the crazy kid get himself killed." />
+	<String id="4952003" string="Ready to unlock some secrets?" />
+	<String id="4952004" string="&quot;Today's your lucky day.&quot;" />
+	<String id="4952005" string="Find {@LinkCreature:249#1018} at the Eastern Teleport Platform." />
+</StrSheet_Quest>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17214001" string="The Not-So-Great Escape" />
+	<String id="17214002" string="&quot;All right.&quot;" />
+	<String id="17214003" string="Passage to Spring Valley" />
+	<String id="17214004" string="You see a traveler with an injured mount." />
+	<String id="17214005" string="Find the route to Spring Valley." />
+	<String id="17214006" string="&quot;Let's get you some help.&quot;" />
+	<String id="17214007" string="Talk to Mihog." />
+	<String id="17214008" string="&quot;I'll stop him.&quot;" />
+	<String id="17214009" string="Speak with Rhodos." />
+	<String id="17214010" string="&quot;He's bandaged his wounds.&quot;" />
+	<String id="17214011" string="Look for Mihog." />
+	<String id="17214012" string="&quot;West? Thanks.&quot;" />
+	<String id="17214013" string="See if the goblins have spotted Mihog." />
+	<String id="17214014" string="&quot;Just a little.&quot;" />
+	<String id="17214015" string="Speak with the sentry." />
+	<String id="17214016" string="&quot;I wonder...&quot;" />
+	<String id="17214017" string="Find Mihoq." />
+</StrSheet_Quest>

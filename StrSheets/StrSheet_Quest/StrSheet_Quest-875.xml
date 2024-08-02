@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3638001" string="Killian's Stone" />
+	<String id="3638002" string="Just kill them. Or whatever it is one does to golems." />
+	<String id="3638003" string="That's done! Thanks!" />
+	<String id="3638004" string="Eliminate magmar teraliths in Blood Valley." />
+	<String id="3638005" string="&quot;For the federation!&quot;" />
+	<String id="3638006" string="Report to Loshud at Checkpoint Ebony." />
+</StrSheet_Quest>

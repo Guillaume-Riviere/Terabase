@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1533001" string="Agriphobia" />
+	<String id="1533002" string="It's a conspiracy!" />
+	<String id="1533003" string="A conspiracy, I tell you!" />
+	<String id="1533004" string="Machete" />
+	<String id="1533005" string="Wipe out the lunatic yeomen and insane farmers southeast of Camp Vigilance." />
+	<String id="1533006" string="Report to Madron at Camp Vigilance." />
+	<String id="1533007" string="&quot;Uh, maybe you should go lie down.&quot;" />
+</StrSheet_Quest>

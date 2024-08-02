@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810065001" string="Clean up the Shattered City" />
+	<String id="810065002" string="[Aurum Road] Hunt brainwashed soldiers in the Shattered City." />
+	<String id="810065003" string="Brainwashed Soldiers" />
+	<String id="810065004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55001001" string="Mastering Archery, Part I " />
+	<String id="55001002" string="Accept" />
+	<String id="55001003" string="&quot;I'll do it.&quot;" />
+	<String id="55001004" string="Find Hamile in Velika." />
+	<String id="55001005" string="&quot;I'll do my best.&quot;" />
+	<String id="55001006" string="Hamile will explain what to do." />
+	<String id="55001007" string="Dungeon Clear" />
+	<String id="55001008" string="Clear two dungeons: &quot;Bastion of Lok&quot; and/or &quot;Sinestral Manor&quot;." />
+	<String id="55001009" string="&quot;Okay.&quot;" />
+	<String id="55001010" string="Report to Hamile." />
+</StrSheet_Quest>

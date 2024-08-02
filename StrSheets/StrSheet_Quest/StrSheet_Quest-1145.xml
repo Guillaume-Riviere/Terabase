@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4844001" string="Plucked from the Sky" />
+	<String id="4844002" string="I'm so worried about her." />
+	<String id="4844003" string="{@Creature:248#1041} is my fiancé. He worries too much." />
+	<String id="4844004" string="Wrecked Shariar Transport" />
+	<String id="4844005" string="It sounds like someone's still alive." />
+	<String id="4844006" string="Find {@LinkCreature:248#1042} and the wrecked Shariar transport." />
+	<String id="4844007" string="&quot;Glad I could help.&quot;" />
+	<String id="4844008" string="Speak with Ledia." />
+</StrSheet_Quest>

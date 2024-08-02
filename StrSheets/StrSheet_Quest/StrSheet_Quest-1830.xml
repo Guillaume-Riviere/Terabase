@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50527001" string="[Apex] Temper" />
+	<String id="50527002" string="&quot;I didn't ask to be a hero.&quot;" />
+	<String id="50527003" string="Look back on your path as a hero.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50527004" string="Unleash your Temper! Let them behold your Wrath!" />
+	<String id="50527005" string="Speak with your memory and conquer your Temper.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+</StrSheet_Quest>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="250022001" string="Destroy Exodor" />
+	<String id="250022002" string="&quot;Okay.&quot;" />
+	<String id="250022003" string="Engine Room 1st Floor" />
+	<String id="250022004" string="You've reached the 1st floor of the Engine Room." />
+	<String id="250022005" string="Talk to {@LinkCreature:2500#2504#Elleon} and move to {@LinkTerritory:2504#250400051#Engine Room 1st Floor}." />
+	<String id="250022006" string="Join Titus and Elleon and follow their instructions." />
+	<String id="250022007" string="Find a way to move to the second floor." />
+	<String id="250022008" string="Go to Engine Room 2nd Floor and follow Elleon's instructions." />
+	<String id="250022009" string="Control and destroy the Core Control System." />
+	<String id="250022010" string="Where Elleon Went" />
+	<String id="250022011" string="You see Elleon and Titus." />
+	<String id="250022012" string="Follow Elleon." />
+	<String id="250022013" string="Control System" />
+	<String id="250022014" string="Move to the control system." />
+	<String id="250022015" string="Operate Titus's Bomb." />
+	<String id="250022016" string="Engine Room 3rd Floor" />
+	<String id="250022017" string="You've reached the 3rd floor of the Engine Room. Find Elleon quickly." />
+	<String id="250022018" string="Use the Teleportal and move to Engine Room 3rd Floor." />
+	<String id="250022019" string="Elleon" />
+	<String id="250022020" string="" />
+	<String id="250022021" string="Go where Elleon is fighting." />
+	<String id="250022022" string="Fight Kalligar in Elleon's place." />
+	<String id="250022023" string="“You’ll become strong.&quot;" />
+	<String id="250022024" string="Exit the Exodor Engine Room and talk to Elleon." />
+</StrSheet_Quest>

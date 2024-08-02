@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55005001" string="Mastering Archery, Part V" />
+	<String id="55005002" string="&quot;I'm ready. Let's do this.&quot;" />
+	<String id="55005003" string="Find Hamile in Velika." />
+	<String id="55005004" string="Dungeon Clear" />
+	<String id="55005005" string="Clear three dungeons: &quot;Manaya's Core&quot;, and/or &quot;Macellarius Catacombs&quot;, or/and &quot;Sabex Armory&quot;." />
+	<String id="55005006" string="&quot;I'm feeling very confident.&quot;" />
+	<String id="55005007" string="Report to Hamile." />
+</StrSheet_Quest>

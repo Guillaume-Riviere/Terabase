@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810070001" string="Hunt Noruks" />
+	<String id="810070002" string="[Lake of Tears] Hunt mooncrest noruks and gather their antlers." />
+	<String id="810070003" string="Antlers" />
+	<String id="810070004" string="Claim your reward!" />
+</StrSheet_Quest>

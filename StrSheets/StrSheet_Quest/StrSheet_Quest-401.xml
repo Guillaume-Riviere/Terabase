@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1522001" string="Bloody Nuisance" />
+	<String id="1522002" string="Your service is greatly appreciated!" />
+	<String id="1522003" string="Blood fiends, really?" />
+	<String id="1522004" string="Fiend Heart" />
+	<String id="1522005" string="Beat back the blood fiends near Camp Redemption." />
+	<String id="1522006" string="Report to Moimui." />
+	<String id="1522007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

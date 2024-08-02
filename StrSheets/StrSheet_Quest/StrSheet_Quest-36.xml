@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="301001" string="Devan Uprising" />
+	<String id="301002" string="&quot;Got it.&quot;" />
+	<String id="301003" string="&quot;I won't let you down.&quot;" />
+	<String id="301004" string="Talk to Neacal again." />
+	<String id="301005" string="&quot;Right. Okay.&quot;" />
+	<String id="301006" string="Talk to Neacal about your new weapon." />
+	<String id="301007" string="&quot;I understand.&quot;" />
+	<String id="301008" string="Talk to Neacal again." />
+	<String id="301009" string="Stonebeaks" />
+	<String id="301010" string="Hunt Stonebeak." />
+	<String id="301011" string="&quot;I hope you like it.&quot;" />
+	<String id="301012" string="Find Chama east of Bulwark Camp in Oblivion Woods." />
+</StrSheet_Quest>

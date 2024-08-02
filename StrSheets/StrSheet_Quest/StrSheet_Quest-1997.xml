@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60402001" string="Come Mister Valkyon" />
+	<String id="60402002" string="They're an invasive species. Kill 'em on sight." />
+	<String id="60402003" string="Always am!" />
+	<String id="60402004" string="" />
+	<String id="60402005" string="" />
+	<String id="60402006" string="" />
+	<String id="60402007" string="Find {@LinkCreature:71#3014#Arura}." />
+	<String id="60402008" string="&quot;This has to be a joke....&quot;" />
+	<String id="60402009" string="Collect bananas from {@WorkObject:75}s outside {@Rgn:71001$$Bastion}." />
+	<String id="60402010" string="Collect bananas from {@WorkObject:75}s outside {@Rgn:71001$$Bastion}." />
+	<String id="60402011" string="Collect bananas from {@WorkObject:75}s outside {@Rgn:71001$$Bastion}." />
+	<String id="60402012" string="&quot;Aaah. Be careful.&quot;" />
+	<String id="60402013" string="Report to {@LinkCreature:71#3014#Arura} at the Hyderad Legacy Farming Group in {@Rgn:71001$$Bastion}." />
+</StrSheet_Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="102230001" string="The Mysterious Nexus" />
+	<String id="102230002" string="If you go too far away, you won't be able to help us here." />
+	<String id="102230003" string="Eliminate all monsters from the nexus." />
+</StrSheet_Quest>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="7205001" string="Clue of Hope" />
+	<String id="7205002" string="&quot;...&quot;" />
+	<String id="7205003" string="&quot;Don't you believe me?&quot;" />
+	<String id="7205004" string="&quot;How did you know?&quot;" />
+	<String id="7205005" string="Report to Fraya at Allemantheia Headquarters.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter the Allemantheia Headquarters.]" />
+	<String id="7205006" string="&quot;I understand.&quot;" />
+	<String id="7205007" string="City Teleportal" />
+	<String id="7205008" string="This is the City Teleportal Fraya was talking about." />
+	<String id="7205009" string="Go to the Allemantheia City Teleportal." />
+	<String id="7205010" string="Front of Mysterium" />
+	<String id="7205011" string="You hear people talking about argon research." />
+	<String id="7205012" string="Use the City Teleportal to go to the Mysterium at the Arcane Symposium." />
+	<String id="7205013" string="Mysterium" />
+	<String id="7205014" string="They're back to work. You can feel the tension. " />
+	<String id="7205015" string="Use the City Teleportal to go to the Mysterium at the Arcane Symposium." />
+	<String id="7205016" string="&quot;Okay.&quot;" />
+	<String id="7205017" string="Go to {@linkcreature:72#1111#Ryshan}." />
+	<String id="7205018" string="Combine the Argon Structure fragment to the withered leaf.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open inventory and use Argon Structure Fragment.]" />
+	<String id="7205019" string="The two objects combined to make a new one!" />
+	<String id="7205020" string="&quot;I'll answer as best as I can.&quot;" />
+	<String id="7205021" string="Deliver the argonized leaf to Ryshan." />
+	<String id="7205022" string="&quot;Okay. I trust you.&quot;" />
+	<String id="7205023" string="&quot;I can't. It's classified.&quot;" />
+	<String id="7205024" string="Ask Ryshan what he wants to know about Stepstone Isle." />
+	<String id="7205025" string="&quot;Right. Okay.&quot;" />
+	<String id="7205026" string="&quot;I'll pass that along.&quot;" />
+	<String id="7205027" string="Speak with Malachai." />
+	<String id="7205028" string="&quot;Yes, ma'am.&quot;" />
+	<String id="7205029" string="Bring Malachai's request to Fraya at Allemantheia Headquarters and tell her what happened at the Mysterium." />
+</StrSheet_Quest>

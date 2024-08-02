@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4042001" string="A Hire Calling" />
+	<String id="4042002" string="Teach the crestaraths the folly of attacking us!" />
+	<String id="4042003" string="You fight well, my friend." />
+	<String id="4042004" string="Skull Crest" />
+	<String id="4042005" string="Engage crestarath archers, reapers, and slayers in the northwestern part of the Lost Mines." />
+	<String id="4042006" string="Deliver the skull crests to Anelle at the Quarantine Zone Research Center." />
+	<String id="4042007" string="&quot;As requested.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3007001" string="Keepers of the Sun" />
+	<String id="3007002" string="The Consos are unusual, even for baraka." />
+	<String id="3007003" string="Now to find Rida." />
+	<String id="3007004" string="&quot;I'll get to it!&quot;" />
+	<String id="3007005" string="[{@Rgn:30010#Camp Sunlight}]&#10;Find {@linkcreature:230#1007$$Lashinuk}." />
+	<String id="3007006" string="Brass Warden Gear" />
+	<String id="3007007" string="[{@Rgn:30002$$High Vale}]&#10;Defeat the {@linkcreature:30#2004#brass warden} and collect a gear." />
+	<String id="3007008" string="Deliver the gear to {@LinkCreature:230#1007$$Lashinuk}. " />
+	<String id="3007009" string="&quot;I'll go find her, then.&quot;" />
+	<String id="3007010" string="Seren's Garden" />
+	<String id="3007011" string="Look for Rida in the pavilion." />
+	<String id="3007012" string="[{@Rgn:30005$$Seren's Garden}]&#10;Look for Rida in {@Rgn:30005$$Seren's Garden}." />
+	<String id="3007013" string="&quot;He won't escape!&quot;" />
+	<String id="3007014" string="Help {@linkcreature:230#1081$$Rida} find and open Seren's seal." />
+	<String id="3007015" string="Break the final seal." />
+	<String id="3007016" string="&quot;I'll talk to Lashinuk.&quot;" />
+	<String id="3007017" string="Find {@linkcreature:230#1081$$Rida}." />
+	<String id="3007018" string="&quot;Best I go, then.&quot;" />
+	<String id="3007019" string="[{@Rgn:30010#Camp Sunlight}]&#10;Return to {@linkcreature:230#1007$$Lashinuk}." />
+	<String id="3007020" string="&quot;Don't worry.&quot;" />
+	<String id="3007021" string="[{@Rgn:30007$$Balder's Pavilion}]&#10;Collect tablet fragments from the &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7015#6887.4087,53518.7656,1344.3566&amp;type=1&amp;name=strongboxes&quot;>strongboxes&lt;/A>&lt;/FONT> in the {@Rgn:30007$$Pavilion}." />
+	<String id="3007022" string="Deliver the tablet parts to {@linkcreature:230#1015$$Elsine}." />
+	<String id="3007023" string="Control Scroll" />
+	<String id="3007024" string="[{@Rgn:30009$$Lower Archives}]&#10;Retrieve the control scrolls from the {@linkcreature:30#130$$sloth foragers}." />
+	<String id="3007025" string="Return {@linkcreature:230#1015$$Elsine}'s control scrolls." />
+	<String id="3007026" string="&quot;Yes, let's see it.&quot;" />
+	<String id="3007027" string="Insert the finished tablet and control scrolls into the Repository of Wisdom." />
+	<String id="3007028" string="&quot;I'll do my best.&quot;" />
+	<String id="3007029" string="Give {@linkcreature:230#1015$$Elsine} the parchments from the repository." />
+</StrSheet_Quest>

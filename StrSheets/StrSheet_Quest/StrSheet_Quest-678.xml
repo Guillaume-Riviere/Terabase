@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3009001" string="Into the Light" />
+	<String id="3009002" string="You may well need it." />
+	<String id="3009003" string="Balder be with you!" />
+	<String id="3009004" string="Take the key." />
+	<String id="3009005" string="{@linkcreature:230#1047$$Nandu}" />
+	<String id="3009006" string="Balder's Temple Key" />
+	<String id="3009007" string="[{@Rgn:30019$$Balder's Temple Entrance}]&#10;Ask {@linkcreature:230#1074$$Botak} to point out the temple's entrance." />
+	<String id="3009008" string="&quot;I understand. Thank you.&quot;" />
+</StrSheet_Quest>

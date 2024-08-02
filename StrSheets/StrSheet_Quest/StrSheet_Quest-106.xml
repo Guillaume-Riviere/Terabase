@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="525001" string="Tu-what-gi?" />
+	<String id="525002" string="Please find me some quagmire herbs to make nostrum." />
+	<String id="525003" string="Smells terrible." />
+	<String id="525004" string="Take the sap." />
+	<String id="525005" string="Find quagmire herbs in the eastern part of Marshlands." />
+	<String id="525006" string="Muddy Sporewalker Sap" />
+	<String id="525007" string="Collect muddy sporewalker sap." />
+	<String id="525008" string="Speak to Loholi." />
+	<String id="525009" string="Wait." />
+</StrSheet_Quest>

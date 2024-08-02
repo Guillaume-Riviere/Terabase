@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3831001" string="Curioser and Curioser" />
+	<String id="3831002" string="I probably shouldn't, but I worry about him." />
+	<String id="3831003" string="Parts! Beautiful parts!" />
+	<String id="3831004" string="&quot;If he's there, I'll find him.&quot;" />
+	<String id="3831005" string="Look for Poihon the engineer northeast of the Field of Fire." />
+	<String id="3831006" string="Dredkreak Parts" />
+	<String id="3831007" string="Attack...attack...attack..." />
+	<String id="3831008" string="Defeat Dredkreak near the Field of Fire and collect parts." />
+	<String id="3831009" string="Return to Poihon." />
+	<String id="3831010" string="&quot;I'm glad you like them.&quot;" />
+</StrSheet_Quest>

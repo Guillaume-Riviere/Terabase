@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="535001" string="{@RawItem:206818}" />
+	<String id="535002" string="{@RawItem:206818} are so useful!" />
+	<String id="535003" string="Oh, thank you!" />
+	<String id="535004" string="&quot;It was no trouble.&quot;" />
+	<String id="535005" string="Collect {@RawItem:206818} for Langa." />
+	<String id="535006" string="Deliver the essences to Langa." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="370001" string="Suppression Orders: Devas (Guild)" />
+	<String id="370002" string="Proof of Kill:" />
+	<String id="370003" string="&quot;Reporting in!&quot;" />
+	<String id="370004" string="Eliminate the devas in Blood Run and retrieve the stolen cargo." />
+	<String id="370005" string="Report to Jalize in Crescentia when mission is complete." />
+</StrSheet_Quest>

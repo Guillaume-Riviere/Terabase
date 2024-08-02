@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="635001" string="Securing the Safety of the Militia" />
+	<String id="635002" string="The fewer of them, the safer we are." />
+	<String id="635003" string="Thanks. That'll help." />
+	<String id="635004" string="Hunt Gutrends nearby." />
+	<String id="635005" string="&quot;For the federation!&quot;" />
+	<String id="635006" string="Speak to Othias." />
+</StrSheet_Quest>

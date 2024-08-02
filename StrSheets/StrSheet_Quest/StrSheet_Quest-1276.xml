@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5237001" string="The Coming Storm" />
+	<String id="5237002" string="Hurry! I'm freezing!" />
+	<String id="5237003" string="I think it's warming up!" />
+	<String id="5237004" string="Eliminate tempest sirens near the grounds of the Gravewatch of the Exiled." />
+	<String id="5237005" string="&quot;For the federation!&quot;" />
+	<String id="5237006" string="Report to Senelin." />
+</StrSheet_Quest>

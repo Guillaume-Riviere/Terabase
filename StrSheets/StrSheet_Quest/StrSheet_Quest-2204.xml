@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="250011001" string="A New Threat" />
+	<String id="250011002" string="Sealed Area Entrance" />
+	<String id="250011003" string="Use the {@LinkCreature:2500#2501#Manahan Seal Site Teleportal} and move to the {@LinkTerritory:2501#250100023#Seal Entrance}." />
+	<String id="250011004" string="Talk to Lok and help him." />
+	<String id="250011005" string="Inside the Sealed Area" />
+	<String id="250011006" string="Enter the Sealed Area." />
+	<String id="250011007" string="Traces of evil energy." />
+	<String id="250011008" string="Go to the place brimming with evil energy." />
+	<String id="250011009" string="Defeat {@LinkCreature:2501#1101#Dark Steel Golem}." />
+	<String id="250011010" string="Look for other places brimming with evil energy." />
+	<String id="250011011" string="Defeat {@LinkCreature:2501#1000#Flame Steel Golem}." />
+	<String id="250011012" string="Old Site" />
+	<String id="250011013" string="Move to the Old Site." />
+	<String id="250011014" string="Defeat {@LinkCreature:2501#1100#Dark} and {@LinkCreature:2501#1001#Flame Steel Golems}." />
+	<String id="250011015" string="Check the Warded Area." />
+	<String id="250011016" string="I'll kill you!" />
+	<String id="250011017" string="Defeat Thulsa’s Shade." />
+</StrSheet_Quest>

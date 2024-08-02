@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4043001" string="Restless Miners" />
+	<String id="4043002" string="Let's not make the zomporis' efforts to go waste." />
+	<String id="4043003" string="I hope this ore proves useful." />
+	<String id="4043004" string="Ore Fragment" />
+	<String id="4043005" string="Collect ore fragments from zompori miners at the Lost Mines." />
+	<String id="4043006" string="Deliver the ore to Lashirah at the Quarantine Zone Research Center." />
+	<String id="4043007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

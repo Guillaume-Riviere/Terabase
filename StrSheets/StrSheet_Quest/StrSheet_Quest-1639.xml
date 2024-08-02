@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18106001" string="Unforeseen Effects" />
+	<String id="18106002" string="&quot;I will.&quot;" />
+	<String id="18106003" string="Ask Rogand where Hagand is." />
+	<String id="18106004" string="&quot;No time like the present.&quot;" />
+	<String id="18106005" string="Ask Hagand for directions to Diranas Quarry." />
+	<String id="18106006" string="Test the Old Invisibility Potion." />
+	<String id="18106007" string="You feel nauseated. That potion went bad years ago." />
+	<String id="18106008" string="&quot;Get started, then. I'll bring back the ingredients.&quot;" />
+	<String id="18106009" string="Consult with Hagand." />
+	<String id="18106010" string="Gather Reflective Roots from the nearby meadows." />
+	<String id="18106011" string="Kill Deformed Fangspawns for Foggy Eyeballs." />
+	<String id="18106012" string="&quot;Take your time. Do it right.&quot;" />
+	<String id="18106013" string="Bring Reflective Roots and Foggy Eyeballs to Hagand." />
+	<String id="18106014" string="&quot;Got it.&quot;" />
+	<String id="18106015" string="Accept invisibility potion from Hagand." />
+</StrSheet_Quest>

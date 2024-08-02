@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60704001" string="Delivering Papers" />
+	<String id="60704002" string="Safe journey, traveler!" />
+	<String id="60704003" string="" />
+	<String id="60704004" string="Magic Paper" />
+	<String id="60704005" string="Deliver magic paper to Lethaniel in Elenea." />
+	<String id="60704006" string="&quot;Nothing like a short trip.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="433001" string="Turning the Tables" />
+	<String id="433002" string="Morale is half the battle." />
+	<String id="433003" string="With those reavers gone, we can hold our own." />
+	<String id="433004" string="Hunt down and destroy the eldritch reavers in the Blazing Vale." />
+	<String id="433005" string="&quot;For the federation!&quot;" />
+	<String id="433006" string="Report back to Ravilyn." />
+</StrSheet_Quest>

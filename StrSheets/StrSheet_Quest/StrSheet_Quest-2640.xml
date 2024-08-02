@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999928001" string="Collect Vanguard Supply Crates" />
+	<String id="999928002" string="[Savage Reach] Keep the Vanguard Initiative going by recovering its supply cratesnear the Jungle Pool." />
+	<String id="999928003" string="Vanguard Supply Crate" />
+	<String id="999928004" string="Claim your reward!" />
+	<String id="999928005" string="Vanguard Supply Crate" />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5585001" string="Suppression Orders: Malbinar Dracoloths" />
+	<String id="5585002" string="Proof of Kill: Malbinar Dracoloths" />
+	<String id="5585003" string="&quot;For the federation.&quot;" />
+	<String id="5585004" string="Kill the dracoloths in the Plaza of the Fallen." />
+	<String id="5585005" string="Report to Jola at Valumnir Outpost." />
+</StrSheet_Quest>

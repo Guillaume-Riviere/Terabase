@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4535001" string="Fortress in a Mountain" />
+	<String id="4535002" string="Clearing the wendigos will ease your way." />
+	<String id="4535003" string="Your assistance proved invaluable." />
+	<String id="4535004" string="Kill {@creature:45#4004#argonomorph wendigos} in the {@Rgn:45005$$Skyfields}." />
+	<String id="4535005" string="Search near the {@Rgn:45012#fortress entrance} and collect a sample from the fallen fortress." />
+	<String id="4535006" string="Fallen Argon Fortress Fragment" />
+	<String id="4535007" string="Fragment Sample" />
+	<String id="4535008" string="Deliver the sample to {@creature:245#1029$$Pokara} at {@Rgn:45009$$Camp Insanity}." />
+	<String id="4535009" string="&quot;I'll handle it.&quot;" />
+	<String id="4535010" string="&quot;Right away.&quot;" />
+	<String id="4535011" string="Head to {@Rgn:77001} and report to {@Creature:77#1009$$Borskan}." />
+	<String id="4535012" string="&quot;Of course.&quot;" />
+	<String id="4535013" string="Speak with {@Creature:77#1011$$Ellisiana}." />
+</StrSheet_Quest>

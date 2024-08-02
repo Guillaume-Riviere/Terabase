@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3332001" string="Target: Necromancers" />
+	<String id="3332002" string="What are the necromancers up to?" />
+	<String id="3332003" string="I'll follow this up." />
+	<String id="3332004" string="Secret Documents" />
+	<String id="3332005" string="Find and kill a necromancer." />
+	<String id="3332006" string="Bring the documents to Tirisk." />
+	<String id="3332007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

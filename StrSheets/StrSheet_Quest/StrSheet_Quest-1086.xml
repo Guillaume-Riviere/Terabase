@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4633001" string="Mystery Machine" />
+	<String id="4633002" string="Please get component samples from the {@creature:46#7006#jurnagg portals} for me." />
+	<String id="4633003" string="Good work! I'll report the research results soon." />
+	<String id="4633004" string="Break {@linkcreature:46#7006#jurnagg portals} in the {@Rgn:46009$$Three Towers Spires} and collect an argon component." />
+	<String id="4633005" string="&quot;Always happy to break stuff.&quot;" />
+	<String id="4633006" string="Collect grellok spire parts." />
+	<String id="4633007" string="Go to the {@Rgn:46017$$Shadowspark Chamber} and deliver argon component to {@creature:246#1034$$Hogird}." />
+</StrSheet_Quest>

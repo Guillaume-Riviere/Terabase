@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800139001" string="Collect Stolen Money Bags" />
+	<String id="800139002" string="[Oblivion Woods] Get the stolen money bags back from devan ruffians in Oblivion Woods." />
+	<String id="800139003" string="Stolen Money Bag" />
+	<String id="800139004" string="Claim your rewards!" />
+</StrSheet_Quest>

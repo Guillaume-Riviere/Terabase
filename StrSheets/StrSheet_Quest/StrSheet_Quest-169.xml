@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="732001" string="Gnash This" />
+	<String id="732002" string="Just end him." />
+	<String id="732003" string="You're amazing." />
+	<String id="732004" string="Scale Armor Fragment" />
+	<String id="732005" string="Kill Naga Warlord Nakarash and collect a fragment from his armor." />
+	<String id="732006" string="Deliver the naga scale to Onumak." />
+	<String id="732007" string="&quot;You've got it.&quot;" />
+	<String id="732008" string="Onumak" />
+	<String id="732009" string="Scale Armor Fragment" />
+	<String id="732010" string="Deliver the fragment to Mattin at Sanctum Mysterium." />
+	<String id="732011" string="&quot;Glad to be of service!&quot;" />
+</StrSheet_Quest>

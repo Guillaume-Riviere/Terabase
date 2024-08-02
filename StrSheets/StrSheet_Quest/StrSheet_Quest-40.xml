@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="305001" string="To the Devan Encampment" />
+	<String id="305002" string="&quot;You can count on me.&quot;" />
+	<String id="305003" string="&quot;As ordered.&quot;" />
+	<String id="305004" string="Speak to Justarius at the entrance to Crescentia." />
+	<String id="305005" string="&quot;Let's go.&quot;" />
+	<String id="305006" string="It's that white tent! Right over there!" />
+	<String id="305007" string="Select a Keener Conscript and follow him.&lt;br>[Protect Keener Conscript and don't let him die.]" />
+	<String id="305008" string="&quot;Happy to help, sir.&quot;" />
+	<String id="305009" string="Talk to Primus Hendry." />
+</StrSheet_Quest>

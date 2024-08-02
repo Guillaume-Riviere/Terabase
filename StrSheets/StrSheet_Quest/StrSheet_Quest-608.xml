@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2425001" string="You've Been Voluntold" />
+	<String id="2425002" string="Kill a lizard, save a soldier." />
+	<String id="2425003" string="Maybe I should have asked for tails..." />
+	<String id="2425004" string="Storm Lizard Claws" />
+	<String id="2425005" string="Seek and destroy swift storm lizards and recover their claws." />
+	<String id="2425006" string="Bring the claws back to Veltana at the West Watchpost." />
+	<String id="2425007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

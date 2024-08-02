@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21304001" string="Tree of Ancient Gods" />
+	<String id="21304002" string="&quot;Okay.&quot;." />
+	<String id="21304003" string="Under the Tree of Ancient Gods" />
+	<String id="21304004" string="Jovin is with a small group working on something under the World Tree." />
+	<String id="21304005" string="Go to the base of the World Tree." />
+	<String id="21304006" string="&quot;How does it work?&quot;" />
+	<String id="21304007" string="Talk to Jovin." />
+	<String id="21304008" string="Activate the Armillariscope." />
+	<String id="21304009" string="&quot;If I identify the culprit, you'll be the first person I notify.&quot;" />
+	<String id="21304010" string="Talk to Jovin again." />
+	<String id="21304011" string="Inside of the Base" />
+	<String id="21304012" string="Federation soldiers are recovering the bodies of the dead." />
+	<String id="21304013" string="Search Tower Base for clues." />
+	<String id="21304014" string="&quot;One person, working alone. Got it. Thanks.&quot;" />
+	<String id="21304015" string="Talk to the federation investigator." />
+	<String id="21304016" string="Inside of the Base" />
+	<String id="21304017" string="Researchers are investigating the imprints from the Tree." />
+	<String id="21304018" string="Search Tower Base for more clues." />
+	<String id="21304019" string="&quot;That fits with what else I've been able to learn. Thank you.&quot;" />
+	<String id="21304020" string="Talk to the federation investigator." />
+	<String id="21304021" string="Inside of the Base" />
+	<String id="21304022" string="There is a body in the weeds." />
+	<String id="21304023" string="Continue searching Tower Base for clues." />
+	<String id="21304024" string="&quot;This...looks familiar.&quot;" />
+	<String id="21304025" string="Examine the body of federation soldier." />
+	<String id="21304026" string="&quot;I think I know this man. Thanks. I'll keep an eye out for him.&quot;" />
+	<String id="21304027" string="Talk to the soldier." />
+	<String id="21304028" string="&quot;You can count on me.&quot;" />
+	<String id="21304029" string="Report to Adria in Ruined Temple." />
+</StrSheet_Quest>

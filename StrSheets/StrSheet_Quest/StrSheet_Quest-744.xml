@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3141001" string="Toppling the Colossus" />
+	<String id="3141002" string="Have you seen those nagas? They're huge!" />
+	<String id="3141003" string="As the castanics say, &quot;There's no dross in you!&quot;" />
+	<String id="3141004" string="Naga Colossus's Unit Insignia" />
+	<String id="3141005" string="Eliminate the naga colossi around the Maelstrom and collect their unit insignias." />
+	<String id="3141006" string="Bring the insignias to Guzdan." />
+	<String id="3141007" string="&quot;All in a day's work.&quot;" />
+</StrSheet_Quest>

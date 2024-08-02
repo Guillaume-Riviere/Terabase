@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4037001" string="Hurry Up and Wait" />
+	<String id="4037002" string="Let the sentries know help is on the way." />
+	<String id="4037003" string="Those reinforcements can't get here soon enough!" />
+	<String id="4037004" string="&quot;Okay.&quot;" />
+	<String id="4037005" string="Find Grayol north of Blighted Village." />
+	<String id="4037006" string="&quot;Thanks!&quot;" />
+	<String id="4037007" string="Climb the vines and find Anelle at the top of the cliff." />
+</StrSheet_Quest>

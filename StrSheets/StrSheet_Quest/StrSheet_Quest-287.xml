@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1132001" string="Eliminate the Berserkers" />
+	<String id="1132002" string="Watch your back." />
+	<String id="1132003" string="Good job, soldier." />
+	<String id="1132004" string="Eliminate the Red Lash berserkers in the Briny Outpost." />
+	<String id="1132005" string="&quot;For the federation!&quot;" />
+	<String id="1132006" string="Report to Karlix." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5729001" string="Champions of Sikander" />
+	<String id="5729002" string="I want you to cull Sikandar's nursemaids!" />
+	<String id="5729003" string="You've given us our break. Time to exploit it!" />
+	<String id="5729004" string="Eliminate the sikandari champions and stonebeak stabbers around the Temple of Sikander." />
+	<String id="5729005" string="&quot;Glad to be of service.&quot;" />
+	<String id="5729006" string="Report back to Sulis." />
+</StrSheet_Quest>

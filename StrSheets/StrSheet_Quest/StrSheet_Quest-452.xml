@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1723001" string="Out of Ploughshares Too" />
+	<String id="1723002" string="Collect {@RawItem:206809}. Got it?" />
+	<String id="1723003" string="We will endure!" />
+	<String id="1723004" string="&quot;Happy to help.&quot;" />
+	<String id="1723005" string="Gather {@RawItem:206809}." />
+	<String id="1723006" string="Deliver {@RawItem:206809} to Kenton at the Embattled Outpost." />
+</StrSheet_Quest>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6305001" string="Joining the Ranks" />
+	<String id="6305002" string="Accept" />
+	<String id="6305003" string="Happy to be here." />
+	<String id="6305004" string="Right. Island of Dawn" />
+	<String id="6305005" string="&quot;It was nice meeting you.&quot; " />
+	<String id="6305006" string="Report to Uriela at Valkyon Federation Headquarters." />
+	<String id="6305007" string="&quot;I understand.&quot;" />
+	<String id="6305008" string="&quot;Thanks.&quot;" />
+	<String id="6305009" string="Uriela has something for you. Speak with Uriela at Valkyon Federation Headquarters entrance." />
+	<String id="6305010" string="Read Dougal's letter.&#10;Press [&lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open your inventory and read Dougal's Letter.]" />
+	<String id="6305011" string="Just nod along. No one must know! " />
+	<String id="6305012" string="Valkyon Federation Headquarters" />
+	<String id="6305013" string="Somebody came!" />
+	<String id="6305014" string="Return to Valkyon Federation Headquarters." />
+	<String id="6305015" string="&quot;I understand.&quot;" />
+	<String id="6305016" string="Speak with Bruke." />
+	<String id="6305017" string="Meet Commander Seir." />
+	<String id="6305018" string="Meet with Commander Seir." />
+	<String id="6305019" string="&quot;Okay.&quot;" />
+	<String id="6305020" string="Speak with Commander Seir." />
+	<String id="6305021" string="&quot;Thank you.&quot;" />
+	<String id="6305022" string="Speak with Commander Samael." />
+</StrSheet_Quest>

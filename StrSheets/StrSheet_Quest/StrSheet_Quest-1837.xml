@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50534001" string="[Solo] The Missing Supplier" />
+	<String id="50534002" string="&quot;Okay.&quot;" />
+	<String id="50534003" string="Speak with Meren in Highwatch and gather information about the Supplier." />
+	<String id="50534004" string="&quot;Thank you.&quot;" />
+	<String id="50534005" string="Go to Tamarang and investigate Nimotz's Pegasus log.&lt;br>&lt;BR>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click Island of Dawn Teleport Scroll to use.]" />
+	<String id="50534006" string="North Dock" />
+	<String id="50534007" string="There is luggage lying scattered on the ground. Those likely belong to Nimotz. " />
+	<String id="50534008" string="Find Nimotz's belongings near the Dock." />
+	<String id="50534009" string="Search Nimotz's belongings for clues to his whereabouts." />
+	<String id="50534010" string="North Dock" />
+	<String id="50534011" string="There is a note in Nimotz's belongings. You see the words 'Northern Overwatch.'" />
+	<String id="50534012" string="" />
+	<String id="50534013" string="Note from Nimotz's Belongings" />
+	<String id="50534014" string="Find Nimotz in the Northern Overwatch area of the Island of Dawn." />
+	<String id="50534015" string="&quot;Got it.&quot;" />
+	<String id="50534016" string="Ovoliths's Web" />
+	<String id="50534017" string="Basilisk Skin" />
+	<String id="50534018" string="Orisk Oil" />
+	<String id="50534019" string="Gather the materials and deliver them to Nimotz.&lt;br>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click the Personal Teleport Scroll: Nimotz.]" />
+	<String id="50534020" string="You obtained the Earth Stone." />
+	<String id="50534021" string="Use the Earth Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and right-click the Earth Stone.]" />
+	<String id="50534022" string="&quot;Glad to help.&quot;" />
+	<String id="50534023" string="Report to Meren in Highwatch." />
+</StrSheet_Quest>

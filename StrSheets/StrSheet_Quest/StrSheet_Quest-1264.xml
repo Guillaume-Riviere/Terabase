@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5225001" string="Fur the Federation" />
+	<String id="5225002" string="Try not to damage the fur!" />
+	<String id="5225003" string="I'll start making the coats right away." />
+	<String id="5225004" string="Mugato Hides" />
+	<String id="5225005" string="Hunt furious mugatos on the Scorched Snowfield." />
+	<String id="5225006" string="Bring the hides to Khauliq at Remote Lodge." />
+	<String id="5225007" string="&quot;Glad I could help!&quot;" />
+</StrSheet_Quest>

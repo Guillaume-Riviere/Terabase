@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700051001" string="Complete Lilith's Keep" />
+	<String id="700051002" string="[Lilith's Keep] Defeat Lilith!" />
+	<String id="700051003" string="Claim your reward!" />
+</StrSheet_Quest>

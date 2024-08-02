@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10002001" string="Arming the Keeners" />
+	<String id="10002002" string="&quot;Glad I could be of service.&quot;" />
+	<String id="10002003" string="Create the recruit's twin swords." />
+	<String id="10002004" string="Deliver the twin swords to Maius." />
+</StrSheet_Quest>

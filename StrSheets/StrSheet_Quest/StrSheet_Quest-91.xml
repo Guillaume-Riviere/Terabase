@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="441001" string="Don't Cross the Streams" />
+	<String id="441002" string="We need to hit the shurians where it counts." />
+	<String id="441003" string="That will put a crimp in their plans." />
+	<String id="441004" string="Focus Mirror" />
+	<String id="441005" string="Confiscate focus mirrors from shurian mindbenders and their imps." />
+	<String id="441006" string="Deliver the mirrors to Eurice." />
+	<String id="441007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

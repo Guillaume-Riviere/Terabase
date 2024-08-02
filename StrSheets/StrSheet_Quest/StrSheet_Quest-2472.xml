@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810123001" string="Clean up the Temple of Dagon" />
+	<String id="810123002" string="[Temple of Dagon] Defeat the forces occupying the temple." />
+	<String id="810123003" string="Dagon Servants" />
+	<String id="810123004" string="Claim your reward!" />
+</StrSheet_Quest>

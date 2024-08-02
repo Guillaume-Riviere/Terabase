@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48727001" string="Mysterious Blueprint" />
+	<String id="48727002" string="I should go there myself. Thank you." />
+	<String id="48727003" string="Back away from the rock." />
+	<String id="48727004" string="Investigate the rock.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="48727005" string="&quot;For the federation!&quot;" />
+	<String id="48727006" string="Report to Jodoc in Crescentia." />
+</StrSheet_Quest>

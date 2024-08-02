@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6365001" string="[Dungeon - 453] Velik’s Sanctuary" />
+	<String id="6365002" string="Valkyon Federation Headquarters" />
+	<String id="6365003" string="" />
+	<String id="6365004" string="You must report on what happened in Velik's Hold.&#10;Find Seir in Velika Headquarters and report that Lakan has penetrated further into Velik's Hold, destroying the bridge behind him." />
+	<String id="6365005" string="&quot;Count on me.&quot;" />
+	<String id="6365006" string="Talk to Seir." />
+	<String id="6365007" string="Velik's Sanctuary" />
+	<String id="6365008" string="" />
+	<String id="6365009" string="Enter Velik's Sanctuary through {@LinkCreature:63#9981#Teleportal}." />
+	<String id="6365010" string="Velik's Sanctuary" />
+	<String id="6365011" string="" />
+	<String id="6365012" string="Talk to Velik’s Priestess to enter Velik's Sanctuary." />
+	<String id="6365013" string="Defeat the archdevan forces occupying Velik's Sanctuary." />
+	<String id="6365014" string="Defeat Revived Darkan." />
+	<String id="6365015" string="Velik's Sanctuary" />
+	<String id="6365016" string="" />
+	<String id="6365017" string="Find Velik." />
+	<String id="6365018" string="Defeat the Archdevan Imperal Army occupying Velik's Sanctuary." />
+	<String id="6365019" string="Defeat Revived Dakuryon." />
+	<String id="6365020" string="Velik's Sanctuary - Main Square" />
+	<String id="6365021" string="" />
+	<String id="6365022" string="Velik's Sanctuary - Bypass" />
+	<String id="6365023" string="" />
+	<String id="6365024" string="Lakan's minions have seized the Main Square.&#10;The path to Velik's Shrine is on the left.&#10;Choose whether to defeat the minions yourself or forge ahead, leaving them for the Velikan forces." />
+	<String id="6365025" string="Defeat the Abomination." />
+	<String id="6365026" string="Velik's Sanctuary" />
+	<String id="6365027" string="" />
+	<String id="6365028" string="Use the teleportal to go to Velik's Shrine." />
+	<String id="6365029" string="Defeat Lakan." />
+	<String id="6365030" string="Claim reward." />
+	<String id="6365031" string="Return to Velika Headquarters and talk to Seir." />
+</StrSheet_Quest>

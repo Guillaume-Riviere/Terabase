@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61905001" string="[Fishing] Totally Safe. Totally." />
+	<String id="61905002" string="&quot;I got it.&quot;" />
+	<String id="61905003" string="&quot;It was nothing.&quot;" />
+	<String id="61905004" string="Deliver Pickled Fish ×1 to {@linkcreature:207#1010#Meridien} in Sanctum Mysterium." />
+	<String id="61905005" string="" />
+	<String id="61905006" string="&quot;I got it.&quot;" />
+	<String id="61905007" string="Go to {@linkcreature:207#1010#Meridien} in Sanctum Mysterium." />
+	<String id="61905008" string="&quot;Here's the Experimental Elinum.&quot;" />
+	<String id="61905009" string="Retrieve three Experimental Elinum from the Muricai Fishery, using Celisium Fragments as bait." />
+	<String id="61905010" string="" />
+</StrSheet_Quest>

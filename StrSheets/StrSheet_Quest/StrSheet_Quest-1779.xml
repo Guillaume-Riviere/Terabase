@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47327001" string="Effigy" />
+	<String id="47327002" string="Thulsa wants this to crush morale, so keep it quiet." />
+	<String id="47327003" string="Thulsa himself will answer for this sick joke." />
+	<String id="47327004" string="We amani were born to be slaves!" />
+	<String id="47327005" string="Soon, he will chain Kaia up like a do—" />
+	<String id="47327006" string="Look for General Kanmur in the Ebon Tower and dispatch him.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]" />
+	<String id="47327007" string="&quot;For Kanmur and Kaiator!&quot;" />
+	<String id="47327008" string="Report to Kesarik in the cave near Ebon Tower." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3922001" string="Shell Game" />
+	<String id="3922002" string="Blasted arachnens. We'll be well rid of them." />
+	<String id="3922003" string="Oh, thank you!" />
+	<String id="3922004" string="Shell Fragment" />
+	<String id="3922005" string="Hunt arachnen {@linkcreature:39#130#matriarchs} and {@linkcreature:39#131#matrons} in the central lair. Collect their shells." />
+	<String id="3922006" string="Deliver the shells to Paicha at Roughneck Outpost." />
+	<String id="3922007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800016001" string="Win in Corsair's Stronghold" />
+	<String id="800016002" string="[Corsairs' Stronghold] Seize victory in Corsairs' Stronghold!" />
+	<String id="800016003" string="Claim your reward!" />
+</StrSheet_Quest>

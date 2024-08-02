@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1040001" string="Cold Hearted Snakes" />
+	<String id="1040002" string="Be cautious. Those leviathans will end you!" />
+	<String id="1040003" string="Well fought!" />
+	<String id="1040004" string="Essence of Blood" />
+	<String id="1040005" string="Collect essences of blood from the naga leviathans around Dagon's Tomb." />
+	<String id="1040006" string="Deliver the essences of blood to Shadio at the Coastal Overwatch." />
+	<String id="1040007" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

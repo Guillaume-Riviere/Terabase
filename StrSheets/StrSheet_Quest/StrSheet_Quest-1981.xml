@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60213001" string="One Ring to Find Them" />
+	<String id="60213002" string="The ring of a Shariar is worthless...and priceless. Understand?" />
+	<String id="60213003" string="Thank you. These brave souls merit honorable treatment." />
+	<String id="60213004" string="" />
+	<String id="60213005" string="" />
+	<String id="60213006" string="" />
+	<String id="60213007" string="Speak with {@LinkCreature:418#2001#Baruster} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213008" string="&quot;Of course.&quot;" />
+	<String id="60213009" string="&quot;Understood.&quot;" />
+	<String id="60213010" string="Take Shariar rings off fallen Shariar inside the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213011" string="Deliver the Shariar rings to {@LinkCreature:418#2001#Baruster} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213012" string="&quot;Understood.&quot;" />
+	<String id="60213013" string="Take Shariar rings off fallen Shariar inside the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213014" string="Deliver the Shariar rings to {@LinkCreature:418#2001#Baruster} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213015" string="&quot;Understood.&quot;" />
+	<String id="60213016" string="Take Shariar rings off fallen Shariar inside the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213017" string="Deliver the Shariar rings to {@LinkCreature:418#2001#Baruster} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60213018" string="{@LinkCreature:418#2001#Baruster}" />
+	<String id="60213019" string="Shariar Rings" />
+	<String id="60213020" string="Deliver the Shariar rings to {@LinkCreature:78#3007#Agrakh} at {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60213021" string="&quot;The honor is mine.&quot;" />
+	<String id="60213022" string="{@LinkCreature:418#2001#Baruster}" />
+	<String id="60213023" string="Shariar Rings" />
+	<String id="60213024" string="Deliver the Shariar rings to {@LinkCreature:78#3007#Agrakh} at {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60213025" string="&quot;The honor is mine.&quot;" />
+	<String id="60213026" string="{@LinkCreature:418#2001#Baruster}" />
+	<String id="60213027" string="Shariar Rings" />
+	<String id="60213028" string="Deliver the Shariar rings to {@LinkCreature:78#3007#Agrakh} at {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60213029" string="&quot;The honor is mine.&quot;" />
+</StrSheet_Quest>

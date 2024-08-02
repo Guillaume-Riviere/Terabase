@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4026001" string="Annihilate Abductors" />
+	<String id="4026002" string="Let's send them a message." />
+	<String id="4026003" string="You did what you could." />
+	<String id="4026004" string="Thief's Token" />
+	<String id="4026005" string="Collect thieves' tokens from the selvaras scouts and assassins in the Defiled Vale." />
+	<String id="4026006" string="Deliver the thieves' tokens to Jiyan." />
+	<String id="4026007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

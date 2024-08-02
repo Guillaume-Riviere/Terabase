@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60214001" string="Myconic Toxicology" />
+	<String id="60214002" string="Scientists want the weirdest things." />
+	<String id="60214003" string="Speedy assistants are the best kind." />
+	<String id="60214004" string="" />
+	<String id="60214005" string="" />
+	<String id="60214006" string="" />
+	<String id="60214007" string="Speak with {@LinkCreature:78#3008#Artur} at {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60214008" string="&quot;I'll handle it.&quot;" />
+	<String id="60214009" string="&quot;I should hope not.&quot;" />
+	<String id="60214010" string="Collect cadmiel mushrooms growing near {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60214011" string="Deliver the mushrooms to {@LinkCreature:418#2006#Geik} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60214012" string="&quot;I should hope not.&quot;" />
+	<String id="60214013" string="Collect cadmiel mushrooms growing near {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60214014" string="Deliver the mushrooms to {@LinkCreature:418#2006#Geik} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60214015" string="&quot;I should hope not.&quot;" />
+	<String id="60214016" string="Collect cadmiel mushrooms growing near {@Rgn:78001$$Zulfikar Fortress}." />
+	<String id="60214017" string="Deliver the mushrooms to {@LinkCreature:418#2006#Geik} in the {@Rgn:9018001$$Argon Catacombs}." />
+</StrSheet_Quest>

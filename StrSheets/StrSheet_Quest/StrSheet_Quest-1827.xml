@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50512001" string="[Apex] Impending Doom" />
+	<String id="50512002" string="&quot;Okay. Thanks for the advice.&quot;" />
+	<String id="50512003" string="Ask Fabavan about Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512004" string="&quot;Velika is in grave danger!&quot;" />
+	<String id="50512005" string="&quot;I'll take care of the dragons myself, then.&quot;" />
+	<String id="50512006" string="&quot;You have to trust me!&quot;" />
+	<String id="50512007" string="Speak to Cerenon.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512008" string="&quot;Fine. I guess I'll just have to hurry.&quot;" />
+	<String id="50512009" string="&quot;I'll kill some of the green dracoloths.&quot;" />
+	<String id="50512010" string="&quot;I'll kill some of the red dracoloths.&quot;" />
+	<String id="50512011" string="Speak to Cerenon.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512012" string="&quot;I've got this.&quot;" />
+	<String id="50512013" string="Defeat the dracoloths.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512014" string="Defeat the red dracoloths.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512015" string="The Wrecked Wagon" />
+	<String id="50512016" string="That must be Geiran's supply wagon." />
+	<String id="50512017" string="Protect the soldiers located near the destroyed wagon.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512018" string="&quot;Geiran? Oh. He's gone.&quot;" />
+	<String id="50512019" string="Speak with Geiran.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512020" string="&quot;Yes, I've seen one...recently.&quot;" />
+	<String id="50512021" string="&quot;You've seen it, too?&quot;" />
+	<String id="50512022" string="&quot;Sounds like the one I'm looking for.&quot;" />
+	<String id="50512023" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512024" string="&quot;I'm going to kill it.&quot;" />
+	<String id="50512025" string="Where the Black Dragon Soars" />
+	<String id="50512026" string="The Black Dragon appears high in the sky." />
+	<String id="50512027" string="Go to the Black Dragon’s Lair. You’ll find dragons and suspects there.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512028" string="Where the Black Dragon Soared" />
+	<String id="50512029" string="The Black Dragon vanished!" />
+	<String id="50512030" string="Go to the Black Dragon’s Lair, where you’ll find the Black Dragon and Vergos cultists.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512031" string="&quot;It's not important. Let's go!&quot;" />
+	<String id="50512032" string="&quot;Vergos was the first dragon.&quot;" />
+	<String id="50512033" string="&quot;Yes, it does. How about you?&quot;" />
+	<String id="50512034" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512035" string="&quot;I agree. Let's go.&quot;" />
+	<String id="50512036" string="Wyrmgorge Entrance" />
+	<String id="50512037" string="Investigate the strange plant." />
+	<String id="50512038" string="Go to the Wyrmgorge entrance.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512039" string="Strange Plant" />
+	<String id="50512040" string="The plant suddenly begins thrashing frantically!" />
+	<String id="50512041" string="Approach the strange plant with Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512042" string="Defeat the dracoloth and the strange plant.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512043" string="&quot;Was the Plant warning us to stay away?&quot;" />
+	<String id="50512044" string="&quot;Maybe it's some kind of a trap.&quot;" />
+	<String id="50512045" string="&quot;Doesn't matter. Let's just kill the plants.&quot;" />
+	<String id="50512046" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512047" string="&quot;That makes sense.&quot;" />
+	<String id="50512048" string="Wyrmgorge Entrance" />
+	<String id="50512049" string="The strange plant begins thrashing wildly!" />
+	<String id="50512050" string="Approach the entrance to the Wyrmgorge where the suspicious plants are.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512051" string="Defeat the dracoloths and the strange plant.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512052" string="&quot;Okay. Let's go.&quot;" />
+	<String id="50512053" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512054" string="Inner Gorge" />
+	<String id="50512055" string="It's a Vergos cultist!" />
+	<String id="50512056" string="Go deeper into the Wyrmgorge.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512057" string="Defeat the Vergos cultists.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512058" string="Defeat the summoned dragon.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512059" string="Temporary Gorge Camp Approach" />
+	<String id="50512060" string="It's the same person who attacked Velik!" />
+	<String id="50512061" string="Find the Vergos cultist." />
+	<String id="50512062" string="&quot;They want to take over the world.&quot;" />
+	<String id="50512063" string="&quot;They're planning to kill Velik.&quot;" />
+	<String id="50512064" string="&quot;What does it look like to you?&quot;" />
+	<String id="50512065" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512066" string="&quot;I agree.&quot;" />
+	<String id="50512067" string="Temporary Gorge Camp" />
+	<String id="50512068" string="Dragons are swarming to the camp." />
+	<String id="50512069" string="Go to the Firespine Outpost.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512070" string="Temporary Gorge Camp Approach" />
+	<String id="50512071" string="All the garrison's soldiers are dead. " />
+	<String id="50512072" string="Go to the Firespine Outpost.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512073" string="&quot;He's gone.&quot;" />
+	<String id="50512074" string="Find and speak to the surviving soldier.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512075" string="&quot;Lead on.&quot;" />
+	<String id="50512076" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512077" string="The Plant-Lined Path" />
+	<String id="50512078" string="The path is lined with the strange plants." />
+	<String id="50512079" string="&lt;font color='#2478FF'>Go to the &lt;A href=&quot;markmap:loc=9833#-129288,-4131,3828&amp;type=1&amp;name=Zaeltarazad Shrine&quot;>Zaeltarazad Shrine&lt;/A>&lt;/font>.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512080" string="&quot;I'm ready when you are.&quot;" />
+	<String id="50512081" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512082" string="The Plant-Lined Path" />
+	<String id="50512083" string="That Vergos cultist is up ahead!" />
+	<String id="50512084" string="&lt;font color='#2478FF'>Go to the &lt;A href=&quot;markmap:loc=9833#-129258,-6937,3751&amp;type=1&amp;name=Zaeltarazad Shrine&quot;>Zaeltarazad Shrine&lt;/A>&lt;/font>.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512085" string="Zaeltarazad Shrine Approach" />
+	<String id="50512086" string="There are prisoners at the top of the hill. " />
+	<String id="50512087" string="&lt;font color='#2478FF'>Run to the top of the &lt;A href=&quot;markmap:loc=9833#-130091,-9337,4130&amp;type=1&amp;name=hill&quot;>hill&lt;/A>&lt;/font>.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512088" string="Defeat the dragon and free the soldiers from the cages.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512089" string="&quot;Consider it done.&quot;" />
+	<String id="50512090" string="Speak with the freed soldiers.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512091" string="&quot;What rumor?&quot;" />
+	<String id="50512092" string="&quot;But Vergos is dead.&quot; " />
+	<String id="50512093" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512094" string="&quot;Okay. I'm on it.&quot;" />
+	<String id="50512095" string="Defeat the dragon and free the soldiers from the cages.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512096" string="&quot;Consider it done.&quot;" />
+	<String id="50512097" string="Speak with the freed soldiers.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512098" string="Defeat the dragon and free the soldiers from the cages.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512099" string="&quot;It's okay. I'm here to help.&quot;" />
+	<String id="50512100" string="Rescue the imprisoned soldiers.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512101" string="Where the suspicious cultist disappeared" />
+	<String id="50512102" string="Strike now, before she escapes!" />
+	<String id="50512103" string="&lt;font color='#2478FF'>Follow Verdas as he pursues the location of &lt;A href=&quot;markmap:loc=9833#-124380,-9644,4088&amp;type=1&amp;name=the Vergos cultists&quot;>the Vergos cultists&lt;/A>&lt;/font>.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512104" string="Defeat the Vergos cultists.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512105" string="Examine the documents dropped by the Vergos cultists.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512106" string="&quot;So where are their troops?&quot;" />
+	<String id="50512107" string="&quot;We should help evacuate the village first.&quot;" />
+	<String id="50512108" string="&quot;I don't know that I trust that device.&quot;" />
+	<String id="50512109" string="Talk to Verdas.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512110" string="&quot;Let's do this.&quot;" />
+	<String id="50512111" string="Use the unknown device to teleport.&#10;[You can enter the quest location via Bellenun, who’s next to {@linkcreature:63#1009#Adela}.]" />
+	<String id="50512112" string="Fyrmount" />
+	<String id="50512113" string="This is Fyrmount!" />
+	<String id="50512114" string="Use the device to teleport." />
+	<String id="50512115" string="&quot;Let's get going.&quot;" />
+	<String id="50512116" string="Speak with Verdas." />
+</StrSheet_Quest>

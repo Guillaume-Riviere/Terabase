@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1373001" string="Slayer Training" />
+	<String id="1373002" string="Time to learn new skills!" />
+	<String id="1373003" string="Impressive. Could I ask you to do something even harder?" />
+	<String id="1373004" string="Learn new skills." />
+	<String id="1373005" string="Receive information on how to learn combat skills from Junia at Dulari's Camp." />
+	<String id="1373006" string="Learn Whirlwind from the Instructor or the Skills menu (K key)." />
+	<String id="1373007" string="You have learned Whirlwind!" />
+	<String id="1373008" string="&quot;Understood.&quot;" />
+	<String id="1373009" string="Report to Junia." />
+	<String id="1373010" string="&quot;Understood.&quot;" />
+	<String id="1373011" string="Speak with Dulari again." />
+	<String id="1373012" string="Noruk Hide" />
+	<String id="1373013" string="Hunt the noruks and collect their hides." />
+	<String id="1373014" string="Go and visit Nivek." />
+	<String id="1373015" string="&quot;Understood.&quot;" />
+</StrSheet_Quest>

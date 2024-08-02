@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5526001" string="Curiosity Killed the Sabertooth" />
+	<String id="5526002" string="The roads aren't safe anymore." />
+	<String id="5526003" string="We welcome those with skill and discipline." />
+	<String id="5526004" string="Kill feystalker sabertooths on your way to Ceravin Point." />
+	<String id="5526005" string="For the federation!" />
+	<String id="5526006" string="Meet Melkar at Ceravin Point." />
+</StrSheet_Quest>

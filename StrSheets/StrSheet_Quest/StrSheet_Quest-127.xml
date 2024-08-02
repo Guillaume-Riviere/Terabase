@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="573001" string="(Guild) Suppression Orders: Tuwangi Thorp" />
+	<String id="573002" string="Proof of Kill: Tuwangi Deaths" />
+	<String id="573003" string="&quot;For the federation!&quot;" />
+	<String id="573004" string="Kill the upstart tuwangis in Tuwangi Thorp." />
+	<String id="573005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

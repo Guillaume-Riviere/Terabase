@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5533001" string="For Research Purposes Only" />
+	<String id="5533002" string="For the federation." />
+	<String id="5533003" string="Let us uncover their intriguing secrets..." />
+	<String id="5533004" string="&quot;Happy to help.&quot;" />
+	<String id="5533005" string="Gather shadow mushrooms around the Skyleaves northeast of Valumnir Outpost." />
+	<String id="5533006" string="Bring the mushrooms to Tethan." />
+</StrSheet_Quest>

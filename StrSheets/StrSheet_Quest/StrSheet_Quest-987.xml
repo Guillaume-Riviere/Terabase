@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4070001" string="(Guild) Suppression Orders: Aberrations" />
+	<String id="4070002" string="Proof of Kill: Abberations" />
+	<String id="4070003" string="&quot;For the federation!&quot;" />
+	<String id="4070004" string="Defeat polykinds and guardian aberrations near the Quarantined Village." />
+	<String id="4070005" string="Report to Glasrinne in Frontera." />
+</StrSheet_Quest>

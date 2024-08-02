@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6340001" string="[Event] Victory in Iron Battleground" />
+	<String id="6340002" string="Win a match in the Iron Battleground." />
+	<String id="6340003" string="" />
+	<String id="6340004" string="&quot;Thanks.&quot;" />
+	<String id="6340005" string="Talk to Dougal in Velika." />
+</StrSheet_Quest>

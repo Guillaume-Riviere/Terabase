@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="773001" string="(Guild) Suppression Orders: Scion Guards" />
+	<String id="773002" string="Proof of Kill: Scion Deaths" />
+	<String id="773003" string="&quot;For the federation!&quot;" />
+	<String id="773004" string="Hunt the Lokian lancers and berserkers in the Cardovek Remnants." />
+	<String id="773005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

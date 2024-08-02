@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="118301001" string="Old Book" />
+	<String id="118301002" string="Close the book." />
+	<String id="118301003" string="Investigate the {@linkcreature:183#2207#Old Book}." />
+</StrSheet_Quest>

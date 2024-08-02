@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2250001" string="Cannons and Candy" />
+	<String id="2250002" string="Talk to {@LinkCreature:222#8001} to teleport to the Academy's party hall and defend the candy." />
+	<String id="2250003" string="&quot;Happy Halloween!&quot;" />
+	<String id="2250004" string="Report to {@LinkCreature:222#8001}." />
+</StrSheet_Quest>

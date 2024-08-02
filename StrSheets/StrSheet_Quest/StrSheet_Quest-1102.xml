@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4726001" string="Sprouting Up" />
+	<String id="4726002" string="Plant the seedlings carefully." />
+	<String id="4726003" string="Feels good to do good, doesn't it?" />
+	<String id="4726004" string="Plant faerie saplings in the {@Rgn:47011$$Spore Emitter Zone} in Whitefrost Forest." />
+	<String id="4726005" string="You've planted all the faerie saplings." />
+	<String id="4726006" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4726007" string="Report to {@creature:247#1014$$Lenorele} at {@Rgn:47006$$Field Base Lunacy}." />
+</StrSheet_Quest>

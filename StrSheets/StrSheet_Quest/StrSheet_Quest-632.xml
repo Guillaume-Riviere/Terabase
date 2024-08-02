@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2503001" string="Dark Dreams Sundered" />
+	<String id="2503002" string="Please be careful." />
+	<String id="2503003" string="We shouldn't have to worry about the Scions of Lok anymore." />
+	<String id="2503004" string="&quot;For the federation!&quot;" />
+	<String id="2503005" string="Enter the Cultists' Refuge and speak with Jelena.&#10;[[You must select Cultists' Refuge (Solo) through {@LinkCreature:225#1023#Runha} to advance this quest.] " />
+	<String id="2503006" string="&quot;Thank you.&quot;" />
+	<String id="2503007" string="Speak with Nullu." />
+	<String id="2503008" string="&quot;Okay.&quot;" />
+	<String id="2503009" string="Activate the {@linkcreature:3003#1008#Eastern Wardstone} in the northern room to open the gate to the eastern sector. Find {@linkcreature:3003#1023#Davina}." />
+	<String id="2503010" string="Atel Akaad forever!" />
+	<String id="2503011" string="Urgh...Terkasia..." />
+	<String id="2503012" string="Defeat {@linkcreature:3003#3609#Galanos}." />
+	<String id="2503013" string="Activate the wardstone." />
+	<String id="2503014" string="Activate the {@linkcreature:3003#1011#Western Wardstone} and open the western sector entrance.&#10;[Select 'Look at the crest.' on the Western Wardstone to open the entrance.]" />
+	<String id="2503015" string="&quot;Understood.&quot;" />
+	<String id="2503016" string="Activate the Western Wardstone, then return to Jelena in the central hallway." />
+	<String id="2503017" string="&quot;I'm on it.&quot;" />
+	<String id="2503018" string="Speak with Nullu." />
+	<String id="2503019" string="Western Sector of the Cultists' Refuge" />
+	<String id="2503020" string="That woman looks suspicious. Interrogate her." />
+	<String id="2503021" string="Scout the western sector and find High Priestess Akia." />
+	<String id="2503022" string="Eliminate High Priestess Akia and Terkasia." />
+	<String id="2503023" string="&quot;Interesting. I'll look into that.&quot;" />
+	<String id="2503024" string="Speak with Elleon." />
+	<String id="2503025" string="Use the explosives to destroy Samael's Soul Stone." />
+	<String id="2503026" string="&quot;I was glad to help.&quot;" />
+	<String id="2503027" string="Report to Elleon." />
+</StrSheet_Quest>

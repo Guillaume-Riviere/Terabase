@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60410001" string="Cleaning the Shed" />
+	<String id="60410002" string="We have to move the relics in the {@Rgn:9017001$$Sun Lighthouse} somewhere safe." />
+	<String id="60410003" string="Seren watch over you." />
+	<String id="60410004" string="" />
+	<String id="60410005" string="" />
+	<String id="60410006" string="" />
+	<String id="60410007" string="Meet {@LinkCreature:230#3025#Maun} in front of the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60410008" string="&quot;I can do that.&quot;" />
+	<String id="60410009" string="&quot;Thank you!&quot;" />
+	<String id="60410010" string="Enter the {@Rgn:9017001$$Sun Lighthouse} and rescue ancient relics." />
+	<String id="60410011" string="Deliver the ancient relics to {@LinkCreature:230#3025#Maun}." />
+	<String id="60410012" string="&quot;It was nothing.&quot;" />
+	<String id="60410013" string="Enter the {@Rgn:9017001$$Sun Lighthouse} and rescue ancient relics." />
+	<String id="60410014" string="Deliver the ancient relics to {@LinkCreature:230#3025#Maun}." />
+	<String id="60410015" string="&quot;Thanks, Maun.&quot;" />
+	<String id="60410016" string="Enter the {@Rgn:9017001$$Sun Lighthouse} and rescue ancient relics." />
+	<String id="60410017" string="Deliver the ancient relics to {@LinkCreature:230#3025#Maun}." />
+</StrSheet_Quest>

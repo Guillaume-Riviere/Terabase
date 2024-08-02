@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61502001" string="[Important] Hatching a Partner" />
+	<String id="61502002" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502003" string="Go to {@linkcreature:183#2064#Loomey} in Highwatch." />
+	<String id="61502004" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502005" string="Go to {@linkcreature:183#2064#Loomey} in Highwatch." />
+	<String id="61502006" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502007" string="Go to {@linkcreature:183#2065#Kuncun} in Highwatch." />
+	<String id="61502008" string="Forest Essence" />
+	<String id="61502009" string="Defeat {@linkcreature:29#1024#Sickly Warthog}s to collect Forest Essences and deliver them to {@linkcreature:183#2065#Kuncun}." />
+	<String id="61502010" string="" />
+	<String id="61502011" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502012" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502013" string="Receive the Legacy Essence from {@linkcreature:183#2065#Kuncun}." />
+	<String id="61502014" string="" />
+	<String id="61502015" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502016" string="Go to {@linkcreature:183#2064#Loomey} and tell him that everything is ready for the spell." />
+	<String id="61502017" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="61502018" string="Go to {@linkcreature:183#2064#Loomey} in Highwatch." />
+</StrSheet_Quest>

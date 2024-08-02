@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3935001" string="Dread Retribution" />
+	<String id="3935002" string="Crush those arachnens!" />
+	<String id="3935003" string="Bards will sing songs of these deeds! Fine work!" />
+	<String id="3935004" string="Devastator's Heart" />
+	<String id="3935005" string="Kill the arachnen devastators and bring back their hearts." />
+	<String id="3935006" string="Deliver the hearts to Janash." />
+	<String id="3935007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

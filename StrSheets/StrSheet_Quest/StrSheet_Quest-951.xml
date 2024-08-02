@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3938001" string="Bad Science" />
+	<String id="3938002" string="There must be some connection..." />
+	<String id="3938003" string="This is food for thought." />
+	<String id="3938004" string="&quot;Let's hope so.&quot;" />
+	<String id="3938005" string="Find anything that links the arachnens with the plague." />
+	<String id="3938006" string="Bring your evidence to Janeva at Roughneck Outpost." />
+</StrSheet_Quest>

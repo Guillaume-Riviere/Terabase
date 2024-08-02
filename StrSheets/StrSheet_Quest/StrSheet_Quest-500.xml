@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1931001" string="Lokian Weapons" />
+	<String id="1931002" string="Hopefully, those weapons will shine some light on this." />
+	<String id="1931003" string="Well done." />
+	<String id="1931004" string="&quot;For the federation.&quot;" />
+	<String id="1931005" string="Meet with Elsta near the Free Brotherhood's encampment." />
+	<String id="1931006" string="Hideous Weapon" />
+	<String id="1931007" string="Eliminate the Lokians and collect their hideous weapons." />
+	<String id="1931008" string="Take the weapons to Elsta at the Free Brotherhood's encampment." />
+	<String id="1931009" string="&quot;Glad to have helped.&quot;" />
+</StrSheet_Quest>

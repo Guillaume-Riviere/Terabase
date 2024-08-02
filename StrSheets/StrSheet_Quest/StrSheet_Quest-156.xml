@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="644001" string="Pig on the Hill" />
+	<String id="644002" string="Just get rid of them." />
+	<String id="644003" string="There'll be more. There are always more." />
+	<String id="644004" string="Hunt great tusk warthogs nearby." />
+	<String id="644005" string="&quot;I do good work.&quot;" />
+	<String id="644006" string="Return to Piruz." />
+</StrSheet_Quest>

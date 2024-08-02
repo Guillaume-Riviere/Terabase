@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5530001" string="What Hand Guides the Pawns" />
+	<String id="5530002" string="Victory for Valkyon." />
+	<String id="5530003" string="I fear the reports are true." />
+	<String id="5530004" string="Thulsan Amulet" />
+	<String id="5530005" string="Eliminate the Ksharan shadow berserkers and mystics southeast of the outpost." />
+	<String id="5530006" string="Bring the amulets to Arast." />
+	<String id="5530007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

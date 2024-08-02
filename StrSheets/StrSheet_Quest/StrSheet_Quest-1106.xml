@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4733001" string="Scouting the Scout Camp" />
+	<String id="4733002" string="There might be something useful there." />
+	<String id="4733003" string="We may have uncovered something important here." />
+	<String id="4733004" string="Old Scout Camp" />
+	<String id="4733005" string="You've found the {@Rgn:47013$$Old Scout Camp}." />
+	<String id="4733006" string="Find the {@Rgn:47013$$Old Scout Camp} on the road north of the {@Rgn:47009$$Temporary Patrol Camp}." />
+	<String id="4733007" string="Open the {@WorkObject:111$$broken supply crate}, and take what's inside." />
+	<String id="4733008" string="Kill {@creature:47#6002$$Poskula}." />
+	<String id="4733009" string="{@WorkObject:111$$Broken Supply Crate}" />
+	<String id="4733010" string="Old Supplies" />
+	<String id="4733011" string="Report the result to {@creature:247#1021$$Shannow} at the {@Rgn:47009$$Temporary Patrol Camp}." />
+	<String id="4733012" string="&quot;I did my duty.&quot;" />
+</StrSheet_Quest>

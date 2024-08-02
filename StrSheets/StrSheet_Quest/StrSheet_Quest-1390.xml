@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5723001" string="Obedience School" />
+	<String id="5723002" string="The Barbican's crawling with beastly fiends." />
+	<String id="5723003" string="You'd best be on your guard in here!" />
+	<String id="5723004" string="Hunt down the geilrik hellhounds and find Kalraz." />
+	<String id="5723005" string="&quot;Happy to help.&quot;" />
+	<String id="5723006" string="Report to Kalraz in the Barbican." />
+</StrSheet_Quest>

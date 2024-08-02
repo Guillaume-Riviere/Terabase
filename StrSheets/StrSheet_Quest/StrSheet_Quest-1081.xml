@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4628001" string="Dark Faeries" />
+	<String id="4628002" string="The {@creature:46#304#argonomorph jalmaraks} have argonized horns that we need to study." />
+	<String id="4628003" string="If the argons can corrupt a faerie, we're in big trouble." />
+	<String id="4628004" string="Argonized Horn" />
+	<String id="4628005" string="Kill {@creature:46#304#argonomorph jalmaraks} in the {@Rgn:46007$$Raga Evala Depths} and get argonized horns." />
+	<String id="4628006" string="Go back to the entrance of the {@Rgn:46007$$Raga Evala Depths} and deliver the argonized horns to {@creature:246#1029$$Gloann}." />
+	<String id="4628007" string="&quot;I'll head there presently.&quot;" />
+	<String id="4628008" string="&quot;I thank you.&quot;" />
+	<String id="4628009" string="Go to {@creature:246#1102$$Nevian} in the {@Rgn:46016$$Mindcrown Chamber} in the {@Rgn:46008$$Raga Kabash Depths}." />
+</StrSheet_Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700050001" string="Complete Bahaar’s Sanctum" />
+	<String id="700050002" string="[Bahaar's Sanctum] Defeat Bahaar!" />
+	<String id="700050003" string="Claim your reward!" />
+</StrSheet_Quest>

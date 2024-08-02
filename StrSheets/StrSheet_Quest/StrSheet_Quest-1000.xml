@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4131001" string="Control Solution" />
+	<String id="4131002" string="Those besharans are using mind magic!" />
+	<String id="4131003" string="We owe you so much! Thank you!" />
+	<String id="4131004" string="Besharan Liquor" />
+	<String id="4131005" string="Fight besharan smugglers and enforcers, and their caimans in the Arena of Blood. Capture their liquor supplies." />
+	<String id="4131006" string="Take the besharan liquor to {@linkcreature:241#1022$$Paduk} at Emissary Point." />
+	<String id="4131007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

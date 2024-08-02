@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10008001" string="A Lot o' Lance" />
+	<String id="10008002" string="&quot;I'll do that!&quot;" />
+	<String id="10008003" string="Craft metalcrafter's lances." />
+	<String id="10008004" string="Take the lances to Maius for inspection." />
+	<String id="10008005" string="" />
+	<String id="10008006" string="Metalcrafter's Lance" />
+	<String id="10008007" string="Deliver the lances to Arkaius in Cutthroat Harbor." />
+	<String id="10008008" string="&quot;You're quite welcome.&quot;" />
+</StrSheet_Quest>

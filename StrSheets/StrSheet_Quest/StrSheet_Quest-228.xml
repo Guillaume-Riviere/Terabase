@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="933001" string="The Price of Hubris" />
+	<String id="933002" string="Destroy those plans any way you can. Talk to Tulutulu to descend into Azarel's Labyrinth." />
+	<String id="933003" string="&quot;I will.&quot;" />
+	<String id="933004" string="Talk to {@linkcreature:209#2000$$Tulutulu} to gain entrance to Azarel's Labyrinth Depths." />
+	<String id="933005" string="&quot;I can't believe I ate the whole plan.&quot;" />
+	<String id="933006" string="Find the centurion at the Advance Camp in Azarel's Labyrinth Depths and destroy the battle plans he carries." />
+</StrSheet_Quest>

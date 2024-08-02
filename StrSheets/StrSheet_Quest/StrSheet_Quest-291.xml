@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1136001" string="Returning to the Ground" />
+	<String id="1136002" string="Hurry up!" />
+	<String id="1136003" string="Yes, let's hope." />
+	<String id="1136004" string="&quot;Let's hope.&quot;" />
+	<String id="1136005" string="Deliver Armantes's message to Centurion Otus at the Vanguard Bastion." />
+</StrSheet_Quest>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2305001" string="A Tale of Two Tails" />
+	<String id="2305002" string="&quot;What kind of mission are we talking about?&quot;" />
+	<String id="2305003" string="&quot;As ordered!&quot;" />
+	<String id="2305004" string="Report to Seir in Velika." />
+	<String id="2305005" string="&quot;I'll do my best.&quot;" />
+	<String id="2305006" string="Take a pegasus to Pora Elinu and report to Lienyn." />
+	<String id="2305007" string="&quot;I'll do what I can.&quot;" />
+	<String id="2305008" string="Speak with Princess Arin." />
+	<String id="2305009" string="&quot;If that's the only way to end this.&quot;" />
+	<String id="2305010" string="Listen to Arin's tale." />
+	<String id="2305011" string="&quot;Yes, highness.&quot;" />
+	<String id="2305012" string="Collect dewdrop buds for Arin's potion." />
+	<String id="2305013" string="Deliver the buds to Arin." />
+	<String id="2305014" string="&quot;Thank you.&quot;" />
+	<String id="2305015" string="Climb the vines near the entrance to Pora Elinu and find Sujai." />
+	<String id="2305016" string="&quot;I'll do my best.&quot;" />
+	<String id="2305017" string="Deliver Rida's hair to Arin." />
+	<String id="2305018" string="Deliver Rida's hair to Arin." />
+</StrSheet_Quest>

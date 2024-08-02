@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3010001" string="Under Balder's Eye" />
+	<String id="3010002" string="What does the Repository of Wisdom have to say?" />
+	<String id="3010003" string="I'm returning to Pora Elinu. Again. Stay safe!" />
+	<String id="3010004" string="[{@Rgn:9025001$$Balder's Temple}]&#10;Kill the {@linkcreature:425#8005#guardian} of {@linkcreature:425#10009#Balder's mirror}." />
+	<String id="3010005" string="&quot;As you wish, goddess.&quot;" />
+	<String id="3010006" string="Talk to the goddess {@linkcreature:425#10008$$Mystel}." />
+	<String id="3010007" string="&quot;I...okay.&quot;" />
+	<String id="3010008" string="Show {@linkcreature:425#10005$$Rida} your key to the temple." />
+	<String id="3010009" string="{@linkcreature:425#10005$$Rida}" />
+	<String id="3010010" string="Mirror Seal" />
+	<String id="3010011" string="Insert the mirror seal into {@linkcreature:425#10009#Balder's mirror}." />
+	<String id="3010012" string="Insert the little mirror." />
+	<String id="3010013" string="&quot;Farewell, goddess.&quot;" />
+	<String id="3010014" string="Talk to {@linkcreature:425#10008$$Mystel}." />
+	<String id="3010015" string="&quot;I'll let them know at the stronghold!&quot;" />
+	<String id="3010016" string="Talk to {@linkcreature:425#10005$$Rida}." />
+	<String id="3010017" string="&quot;He won't escape!&quot;" />
+	<String id="3010018" string="[{@Rgn:30015$$Archive Stronghold}]&#10;Return and report to {@linkcreature:230#1047#Nandu}." />
+	<String id="3010019" string="&quot;Good luck, Alais.&quot;" />
+	<String id="3010020" string="&quot;I'd like that.&quot;" />
+	<String id="3010021" string="Tell {@linkcreature:230#1054$$Elsine} and {@linkcreature:230#1053$$Alais} about the temple." />
+	<String id="3010022" string="&quot;We'll meet again, Princess.&quot;" />
+	<String id="3010023" string="Talk to {@linkcreature:230#1083$$Rida}." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5236001" string="Necro-Tech in Action" />
+	<String id="5236002" string="Undead this, undead that...I'm sick of it." />
+	<String id="5236003" string="I'm sure someone will put them to good use." />
+	<String id="5236004" string="Necromancy Device" />
+	<String id="5236005" string="Eliminate Thulsa's necromancers and their pets, camped in the snow fields south of the Gravewatch of the Exiled, and collect their necromancy devices." />
+	<String id="5236006" string="Bring the necromancy devices to Andevin." />
+	<String id="5236007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

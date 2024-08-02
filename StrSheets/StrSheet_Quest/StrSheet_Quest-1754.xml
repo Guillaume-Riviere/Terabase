@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47121001" string="Vanished Spirit" />
+	<String id="47121002" string="Please liberate the spirits from their fate!" />
+	<String id="47121003" string="Thank you so much!" />
+	<String id="47121004" string="Eliminate the eldritch blood knights that appear throughout the Necromancer Tomb.&#10;[You must select Necromancer Tomb (Solo) from the {@LinkCreature:233#1501#Teleportal} to advance this quest.]  " />
+	<String id="47121005" string="&quot;For the federation!&quot;" />
+	<String id="47121006" string="Report to Cradoc in the Sanguine Hideout of the Citadel of Torment." />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4623001" string="Strange Flask" />
+	<String id="4623002" string="Please bring me what is inside the {@creature:46#7002#jermol extractor}." />
+	<String id="4623003" string="What you brought me will be helpful for my research." />
+	<String id="4623004" string="Dead Animals in the Extractor" />
+	<String id="4623005" string="Pass through the {@creature:46#201#argonomorph kulkari crusher} guarding the rooms in {@Rgn:46003$$Raga Shadi} of {@Rgn:46001#the Three Towers} and break the {@creature:46#7002#jermol extractor}. Then collect the dead animals inside the extractor." />
+	<String id="4623006" string="Go to the {@Rgn:46019$$Beastroar Chamber} and deliver the dead animals to {@linkcreature:246#1025$$Alecian}" />
+	<String id="4623007" string="&quot;I'll help.&quot;" />
+	<String id="4623008" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4623009" string="Go to {@linkcreature:246#1024$$Platanok} in the {@Rgn:46020$$Shineroot Chamber}." />
+</StrSheet_Quest>

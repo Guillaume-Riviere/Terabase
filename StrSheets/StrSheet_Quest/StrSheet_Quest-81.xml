@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="431001" string="Waiting for the Hammer to Fall" />
+	<String id="431002" string="Teach those shurians the folly of crossing us!" />
+	<String id="431003" string="Deftly handled, my friend." />
+	<String id="431004" string="Defeat the shurian foe-hammers in the Blazing Vale." />
+	<String id="431005" string="&quot;Glad to have helped.&quot;" />
+	<String id="431006" string="Report back to Ravilyn at Firebase Intrepid." />
+</StrSheet_Quest>

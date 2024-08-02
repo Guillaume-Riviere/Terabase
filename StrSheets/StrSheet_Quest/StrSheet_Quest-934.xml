@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3921001" string="A Tangled Web" />
+	<String id="3921002" string="Get this to Tenush at once!" />
+	<String id="3921003" string="Bah! These won't last a day." />
+	<String id="3921004" string="Prefect Lauma" />
+	<String id="3921005" string="Supply Shipment" />
+	<String id="3921006" string="Take the supply shipment to Tenush at Arachne's Bane." />
+	<String id="3921007" string="&quot;As ordered.&quot;" />
+	<String id="3921008" string="Tenush" />
+	<String id="3921009" string="First Aid Supplies" />
+	<String id="3921010" string="Deliver the first aid supplies to Gatsil at Wary Vigil." />
+	<String id="3921011" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

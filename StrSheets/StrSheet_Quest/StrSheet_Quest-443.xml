@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1637001" string="Final Goodbye" />
+	<String id="1637002" string="I hope I'm not too late." />
+	<String id="1637003" string="Goodbye, Sadnica..." />
+	<String id="1637004" string="Alethea... Alethea... Aleth..." />
+	<String id="1637005" string="Give the medicine to Sadnica. If it doesn't work, eliminate him." />
+	<String id="1637006" string="&quot;Understood.&quot;" />
+	<String id="1637007" string="Report to Lene." />
+	<String id="1637008" string="&quot;I'm so sorry.&quot;" />
+	<String id="1637009" string="Inform Alethea of Sadnica's death." />
+</StrSheet_Quest>

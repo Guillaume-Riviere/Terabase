@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3135001" string="Keep the Lights Burning" />
+	<String id="3135002" string="He's been alone since he lost his sons." />
+	<String id="3135003" string="Poor Mogel..." />
+	<String id="3135004" string="Take care of the frostreach sentinels that have seized the road to the lighthouse." />
+	<String id="3135005" string="&quot;If you're sure...&quot;" />
+	<String id="3135006" string="Find Mogel, the lighthouse keeper." />
+	<String id="3135007" string="&quot;You can count on me.&quot;" />
+	<String id="3135008" string="Speak with Caral at Glacial Bay Research Station." />
+	<String id="3135009" string="Endain's Ring" />
+	<String id="3135010" string="Endrenlas's Sword" />
+	<String id="3135011" string="Enkanas's Necklace" />
+	<String id="3135012" string="Put Mogel's undead sons out of their misery and gather their belongings." />
+	<String id="3135013" string="Deliver the sons' belongings to Caral." />
+	<String id="3135014" string="&quot;I did what I could.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5135001" string="No Country for Ice Giants" />
+	<String id="5135002" string="Notice I didn't say it'll be easy." />
+	<String id="5135003" string="You've done it! This could turn the tide." />
+	<String id="5135004" string="Destroy the draelkar pylons in Raseri Festning." />
+	<String id="5135005" string="&quot;Understood.&quot;" />
+	<String id="5135006" string="Report back to Thenuvia." />
+	<String id="5135007" string="&quot;It's an honor to serve.&quot;" />
+	<String id="5135008" string="Report to Prefect Gahreed in Habere." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="637001" string="Reinforcement" />
+	<String id="637002" string="Head south and meet Ethia." />
+	<String id="637003" string="Are you here to help?" />
+	<String id="637004" string="&quot;For the federation!&quot;" />
+	<String id="637005" string="Speak to the adjutant of the garrison unit that has advanced to the center of Mags Kulkar." />
+</StrSheet_Quest>

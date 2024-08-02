@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3298001" string="Acarum Crisis I" />
+	<String id="3298002" string="&quot;Alright.&quot;" />
+	<String id="3298003" string="Speak with Karihne in Acarum." />
+	<String id="3298004" string="Defeat the following enemies in Mount Tyrannas." />
+	<String id="3298005" string="&quot;Thank you.&quot;" />
+	<String id="3298006" string="Report to Karihne." />
+</StrSheet_Quest>

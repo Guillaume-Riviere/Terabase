@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200002001" string="[Important] Exploring Exodor" />
+	<String id="200002002" string="&quot;Don't go far!&quot;" />
+	<String id="200002003" string="Speak with Amarre by the fallen Murderwing in Crystal Canyon." />
+	<String id="200002004" string="&quot;All right.&quot;" />
+	<String id="200002005" string="Find Amarre next to a butterfly corpse." />
+	<String id="200002006" string="Defeat the Red Crabbers and collect samples." />
+	<String id="200002007" string="&quot;Which way?&quot;" />
+	<String id="200002008" string="Speak with Amarre in Crystal Canyon." />
+	<String id="200002009" string="Crystal Canyon Exit" />
+	<String id="200002010" string="Someone is standing near the end of the canyon." />
+	<String id="200002011" string="Go to the Crystal Canyon Exit where Amarre directed." />
+	<String id="200002012" string="&quot;I can help, Elleon.&quot;" />
+	<String id="200002013" string="Speak with Elleon in Crystal Canyon." />
+	<String id="200002014" string="Defeat Spiny Eyestalkers in Crystal Canyon." />
+	<String id="200002015" string="Elleon's meeting place" />
+	<String id="200002016" string="Meet Elleon past the creatures." />
+	<String id="200002017" string="&quot;Okay.&quot; " />
+	<String id="200002018" string="Speak with Elleon. " />
+	<String id="200002019" string="&quot;All right.&quot; " />
+	<String id="200002020" string="Speak with Jelena near Rogash's Garden." />
+</StrSheet_Quest>

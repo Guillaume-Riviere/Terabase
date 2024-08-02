@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48923001" string="Book of the Abyss" />
+	<String id="48923002" string="The books of the abyss will need serious study." />
+	<String id="48923003" string="Take the books to the Mysterium." />
+	<String id="48923004" string="Book of the Abyss" />
+	<String id="48923005" string="Eliminate abyssal beings in the Cultists' Refuge and collect their books.&#10;[You must select Cultists' Refuge (Solo) from {@LinkCreature:225#1023#Runha} to advance this quest.]  " />
+	<String id="48923006" string="Report to Billan Kadif at the Cultists' Refuge." />
+	<String id="48923007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

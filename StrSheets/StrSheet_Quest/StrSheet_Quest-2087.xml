@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70103001" string="[Event] Keep the Fires Burning" />
+	<String id="70103002" string="May the light of Balder be with everyone who comes here." />
+	<String id="70103003" string="Let's try to be grateful all the time." />
+	<String id="70103004" string="&quot;I got it.&quot;" />
+	<String id="70103005" string="&quot;The Flame of Sacrifice is burning brightly.&quot;" />
+	<String id="70103006" string="&quot;The Flame of Honor is burning properly.&quot;" />
+	<String id="70103007" string="&quot;The Flame of Mercy is burning warmly.&quot;" />
+	<String id="70103008" string="Ensure that each flame is burning." />
+	<String id="70103009" string="&quot;It was my honor to help.&quot;" />
+	<String id="70103010" string="Talk to Modan." />
+</StrSheet_Quest>

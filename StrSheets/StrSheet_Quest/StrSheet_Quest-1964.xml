@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60114001" string="Bring 'Em Back Alive" />
+	<String id="60114002" string="We can't let the argons hold our people." />
+	<String id="60114003" string="Words of gratitude seem inadequate to the miracle you wrought." />
+	<String id="60114004" string="" />
+	<String id="60114005" string="" />
+	<String id="60114006" string="" />
+	<String id="60114007" string="Meet {@LinkCreature:246#3002#Arnan} at {@Rgn:46015$$Hexheart Chamber} in the {@Rgn:46002$$Raga Evala}." />
+	<String id="60114008" string="&quot;As ordered.&quot;" />
+	<String id="60114009" string="{@LinkCreature:246#3002}" />
+	<String id="60114010" string="Teleport Scroll" />
+	<String id="60114011" string="Operate the transmogrification pod controls west of the camp to rescue the prisoner, and then use the teleport scroll." />
+	<String id="60114012" string="&quot;This will get you to safety.&quot;" />
+	<String id="60114013" string="{@LinkCreature:246#3002}" />
+	<String id="60114014" string="Teleport Scroll" />
+	<String id="60114015" string="Operate the transmogrification pod controls west of the camp to rescue the prisoner, and then use the teleport scroll." />
+	<String id="60114016" string="&quot;This will get you to safety.&quot;" />
+	<String id="60114017" string="{@LinkCreature:246#3002}" />
+	<String id="60114018" string="Teleport Scroll" />
+	<String id="60114019" string="Operate the transmogrification pod controls west of the camp to rescue the prisoner, and then use the teleport scroll." />
+	<String id="60114020" string="&quot;This will get you to safety." />
+	<String id="60114021" string="&quot;The honor is mine.&quot;" />
+	<String id="60114022" string="Speak to {@LinkCreature:246#3002#Arnan} in {@Rgn:46015$$Hexheart Chamber}." />
+</StrSheet_Quest>

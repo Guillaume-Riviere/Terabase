@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60507001" string="Great Expectations" />
+	<String id="60507002" string="&quot;I'll give her a hand.&quot;" />
+	<String id="60507003" string="" />
+	<String id="60507004" string="" />
+	<String id="60507005" string="Talk to {@LinkCreature:63#3002#Taratia}." />
+	<String id="60507006" string="&quot;I can help.&quot;" />
+	<String id="60507007" string="&quot;Thanks.&quot;" />
+	<String id="60507008" string="Deliver {@RawItem:206818} ×20 to the Velika Crafting Guide, {@linkcreature:63#1098#Santia}." />
+	<String id="60507009" string="" />
+	<String id="60507010" string="&quot;Thanks.&quot;" />
+	<String id="60507011" string="Deliver {@RawItem:206819} ×20 to the Velika Crafting Guide, {@linkcreature:63#1098#Santia}." />
+	<String id="60507012" string="" />
+	<String id="60507013" string="&quot;Got it.&quot;" />
+	<String id="60507014" string="Deliver {@RawItem:206820} ×20 to the Velika Crafting Guide, {@linkcreature:63#1098#Santia}." />
+	<String id="60507015" string="" />
+	<String id="60507016" string="&quot;Got it.&quot;" />
+	<String id="60507017" string="Deliver {@RawItem:206821} ×20 to the Velika Crafting Guide, {@linkcreature:63#1098#Santia}." />
+	<String id="60507018" string="" />
+	<String id="60507019" string="&quot;Got it.&quot;" />
+	<String id="60507020" string="Deliver {@RawItem:206822} ×20 to the Velika Crafting Guide, {@linkcreature:63#1098#Santia}." />
+	<String id="60507021" string="" />
+	<String id="60507022" string="Claim your reward." />
+	<String id="60507023" string="Return to {@LinkCreature:63#3002#Taratia}." />
+</StrSheet_Quest>

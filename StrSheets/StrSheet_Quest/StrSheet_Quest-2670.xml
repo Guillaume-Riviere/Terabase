@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999965001" string="Hunt Valley Noruks" />
+	<String id="999965002" string="[Spring Valley] Defeat valley noruks and collect their antlers." />
+	<String id="999965003" string="Valley Noruk Antler" />
+	<String id="999965004" string="Claim your reward!" />
+</StrSheet_Quest>

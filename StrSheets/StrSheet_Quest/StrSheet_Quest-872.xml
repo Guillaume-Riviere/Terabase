@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3635001" string="Hungry Like the Wolf" />
+	<String id="3635002" string="You'd think the smell alone would drive them off, eh?" />
+	<String id="3635003" string="Good job!" />
+	<String id="3635004" string="&quot;I hope this does the trick.&quot;" />
+	<String id="3635005" string="Collect dead lambs around Manafire Outpost." />
+	<String id="3635006" string="Bring the dead lambs to Taran at Manafire Outpost." />
+</StrSheet_Quest>

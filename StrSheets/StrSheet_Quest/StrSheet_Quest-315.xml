@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1237001" string="Executing Orders" />
+	<String id="1237002" string="It's time to serve justice!" />
+	<String id="1237003" string="Victory for Valkyon!" />
+	<String id="1237004" string="Proof of Kill: Gula Slavemasters" />
+	<String id="1237005" string="Defeat gula slavemasters near the Grim Coast and collect their tokens." />
+	<String id="1237006" string="Deliver the tokens to Taniel at the Vindicator Outpost." />
+	<String id="1237007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

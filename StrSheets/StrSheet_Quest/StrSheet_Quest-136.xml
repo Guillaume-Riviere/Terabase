@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="623001" string="Feed Them for Our Survival" />
+	<String id="623002" string="Every little bit helps." />
+	<String id="623003" string="I thank you. The cows thank you." />
+	<String id="623004" string="&quot;For the federation!&quot;" />
+	<String id="623005" string="Collect sweet hayblossoms that grow near the ranch to feed the Two Oaks Ranch cows." />
+	<String id="623006" string="Deliver sweet hayblossoms to the rancher's wife, Fanella, at Two Oaks Ranch." />
+</StrSheet_Quest>

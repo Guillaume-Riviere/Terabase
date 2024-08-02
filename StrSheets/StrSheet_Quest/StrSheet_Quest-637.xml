@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2524001" string="Hunt for Simple Comparison" />
+	<String id="2524002" string="We're close to finding the secret." />
+	<String id="2524003" string="Davina needs help!" />
+	<String id="2524004" string="Superior Shackles" />
+	<String id="2524005" string="Collect superior shackles from the skeletal defenders in the Shattered City." />
+	<String id="2524006" string="Take the superior shackles to Heleid at the Cathedral Redoubt." />
+	<String id="2524007" string="&quot;I've got it.&quot;" />
+	<String id="2524008" string="Heleid" />
+	<String id="2524009" string="Heleid's Letter" />
+	<String id="2524010" string="Deliver Heleid's letter to Deigan." />
+	<String id="2524011" string="Take out the letter." />
+	<String id="2524012" string="Investigator Heleid" />
+	<String id="2524013" string="Davina's Letter" />
+	<String id="2524014" string="Bring the scroll to Elsine." />
+	<String id="2524015" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800112001" string="Clean up Aurum Road" />
+	<String id="800112002" string="[Aurum Road] Defeat the Sand Wind kulkari and their allies." />
+	<String id="800112003" string="Sand Wind Invaders" />
+	<String id="800112004" string="Claim your reward!" />
+</StrSheet_Quest>

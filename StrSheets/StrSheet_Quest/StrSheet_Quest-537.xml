@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2130001" string="Prophet's Staff" />
+	<String id="2130002" string="Victory for Valkyon!" />
+	<String id="2130003" string="Well done, soldier. Well done." />
+	<String id="2130004" string="Prophet's Staff" />
+	<String id="2130005" string="Collect the staves of the Crag Stalker prophets and shamans." />
+	<String id="2130006" string="Take the staves to Nanarin." />
+	<String id="2130007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

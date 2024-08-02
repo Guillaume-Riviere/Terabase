@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700140001" string="Complete the RK-9 Kennel" />
+	<String id="700140002" string="[RK-9 Kennel] Defeat RK-9!" />
+	<String id="700140003" string="Claim your reward!" />
+</StrSheet_Quest>

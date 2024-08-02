@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3535001" string="Send Me Dead Flowers" />
+	<String id="3535002" string="You have to wonder why they call them that..." />
+	<String id="3535003" string="I hope these do the trick." />
+	<String id="3535004" string="&quot;Good luck to you, comrade.&quot;" />
+	<String id="3535005" string="Gather deathblossoms near Jagged Crest." />
+	<String id="3535006" string="Deliver deathblossoms to Culwin at Jagged Crest." />
+</StrSheet_Quest>

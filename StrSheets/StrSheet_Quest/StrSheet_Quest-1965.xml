@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60115001" string="Communal Mutant Gardens" />
+	<String id="60115002" string="{@LinkCreature:77#3008#Varaz} is a botanist without peer. We're lucky to have him." />
+	<String id="60115003" string="I'll focus on studying these samples. Thank you." />
+	<String id="60115004" string="" />
+	<String id="60115005" string="" />
+	<String id="60115006" string="" />
+	<String id="60115007" string="Meet {@LinkCreature:77#3008#Varaz} at {@Rgn:77001$$Pathfinder Post}." />
+	<String id="60115008" string="&quot;Understood.&quot;" />
+	<String id="60115009" string="&quot;Certainly.&quot;" />
+	<String id="60115010" string="Collect mutated plants in the {@Rgn:46002$$Raga Evala}." />
+	<String id="60115011" string="Deliver the plants to {@LinkCreature:77#3008#Varaz}." />
+	<String id="60115012" string="&quot;My pleasure.&quot;" />
+	<String id="60115013" string="Collect mutated mushrooms in the {@Rgn:46007$$Raga Evala Depths}." />
+	<String id="60115014" string="Deliver the mushrooms to {@LinkCreature:77#3008#Varaz}." />
+	<String id="60115015" string="&quot;Glad I could help.&quot;" />
+	<String id="60115016" string="Collect mutated flowers in the {@Rgn:46010$$Raga Evala Spire}." />
+	<String id="60115017" string="Deliver the flowers to {@LinkCreature:77#3008#Varaz}." />
+</StrSheet_Quest>

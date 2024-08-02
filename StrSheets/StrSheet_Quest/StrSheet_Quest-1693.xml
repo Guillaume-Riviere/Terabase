@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18363001" string="[Event] Underworld Master" />
+	<String id="18363002" string="&quot;Here you are.&quot;" />
+	<String id="18363003" string="Combine 20 [Event] Underworld Devil Shards to obtain an [Event] Underworld Devil Fragment." />
+	<String id="18363004" string="Go to [Champion] Kaia." />
+</StrSheet_Quest>

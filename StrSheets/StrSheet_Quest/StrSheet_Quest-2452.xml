@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810101001" string="Clean up the Fey Forest" />
+	<String id="810101002" string="[Fey Forest] Defeat beasts, faeries, and sorcerers." />
+	<String id="810101003" string="Fey Forest Invaders" />
+	<String id="810101004" string="Claim your reward!" />
+</StrSheet_Quest>

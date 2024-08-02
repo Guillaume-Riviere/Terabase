@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="42523001" string="Balder's Third Trial" />
+	<String id="42523002" string="Kill {@LinkCreature:425#4000$$Grig}.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="42523003" string="Destroy the {@LinkCreature:425#5000#golem generator}.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="42523004" string="&quot;I expect so.&quot;" />
+	<String id="42523005" string="Report to the next {@LinkCreature:425#3025#repository of wisdom}.&lt;BR>(Only normal mode will advance quests.)" />
+</StrSheet_Quest>

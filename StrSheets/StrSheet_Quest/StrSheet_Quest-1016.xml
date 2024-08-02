@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4222001" string="An Alliance of Malevolence" />
+	<String id="4222002" string="Please help Liyaqat!" />
+	<String id="4222003" string="Nagas and gulas. This could hardly get worse." />
+	<String id="4222004" string="Find the gulas." />
+	<String id="4222005" string="See Centurion Liyaqat at the Ecdysi Atrium in the Temple of Dagon." />
+	<String id="4222006" string="Proof of Alliance" />
+	<String id="4222007" string="Hunt besharan smugglers and slaves near the Coiling Transepts, and find the proof of the alliance." />
+	<String id="4222008" string="Take the proof of alliance to Liyaqat at the Ecdysi Atrium." />
+	<String id="4222009" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

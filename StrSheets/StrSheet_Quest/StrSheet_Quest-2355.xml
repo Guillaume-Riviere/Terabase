@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800067001" string="Hunt Kamaras" />
+	<String id="800067002" string="[Serpentis Isle] Hunt kamaras on Kerozen Isle." />
+	<String id="800067003" string="Kamaras" />
+	<String id="800067004" string="Claim your reward!" />
+</StrSheet_Quest>

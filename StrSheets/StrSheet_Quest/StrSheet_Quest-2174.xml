@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200022001" string="Research Activity III" />
+	<String id="200022002" string="&quot;All right.&quot;" />
+	<String id="200022003" string="" />
+	<String id="200022004" string="" />
+	<String id="200022005" string="Red-Flecked Crab Shell" />
+	<String id="200022006" string="Hunt Red Crabbers and collect their shells." />
+	<String id="200022007" string="Speak with Amarre." />
+	<String id="200022008" string="&quot;All right.&quot;" />
+</StrSheet_Quest>

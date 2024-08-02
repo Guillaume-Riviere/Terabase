@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="42571001" string="(Guild) Suppression Orders: Guardians of {@Rgn:9025001}" />
+	<String id="42571002" string="Proof of Kill: Guardians" />
+	<String id="42571003" string="&quot;I do what I can.&quot;" />
+	<String id="42571004" string="Defeat Guardians of the relic in {@Rgn:9025001}." />
+	<String id="42571005" string="Report to the nearest coordinator." />
+</StrSheet_Quest>

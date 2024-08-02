@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200301001" string="[Important] To the Fortress" />
+	<String id="200301002" string="&quot;I'm on my way.&quot;" />
+	<String id="200301003" string="Speak with Basheek." />
+	<String id="200301004" string="Control Center Hall" />
+	<String id="200301005" string="You've found the Control Center Hall that Basheek mentioned." />
+	<String id="200301006" string="Follow the path that Basheek told you and go to the Control Center." />
+	<String id="200301007" string="Control Center" />
+	<String id="200301008" string="You are spotted by a Naga Guard." />
+	<String id="200301009" string="Enter the Control Center." />
+	<String id="200301010" string="An intruder? How dare you!" />
+	<String id="200301011" string="Lagos...!" />
+	<String id="200301012" string="Lagos watches everything!" />
+	<String id="200301013" string="Lagos...!" />
+	<String id="200301014" string="Defeat Naga Executioners and Naga Priests in the Control Center." />
+	<String id="200301015" string="&quot;I'll get the materials.&quot; " />
+	<String id="200301016" string="Speak with Vogzu." />
+	<String id="200301017" string="Exodor Metal Fragment" />
+	<String id="200301018" string="Rotted Mucus" />
+	<String id="200301019" string="Kill the Flexis Hunters and Elite Nagas and collect the materials." />
+	<String id="200301020" string="Deliver the materials to Vogzu." />
+	<String id="200301021" string="&quot;Okay.&quot;" />
+	<String id="200301022" string="How dare you step foot here!" />
+	<String id="200301023" string="Urgh!" />
+	<String id="200301024" string="Intruders! Intruders!" />
+	<String id="200301025" string="Lagos...!" />
+	<String id="200301026" string="Defeat Naga Punishers and Naga Assassins at the Dark Path Entrance." />
+	<String id="200301027" string="Dark Path Entrance" />
+	<String id="200301028" string="Someone is standing in front of the gate." />
+	<String id="200301029" string="Go to the Dark Path Entrance." />
+	<String id="200301030" string="&quot;I think the female disguise would be better.&quot;" />
+	<String id="200301031" string="&quot;Let's go with male disguise.&quot;" />
+	<String id="200301032" string="Speak with Titus at the Dark Path Entrance." />
+	<String id="200301033" string="&quot;Come on...&quot;" />
+	<String id="200301034" string="&quot;Come on already...&quot;" />
+	<String id="200301035" string="Speak with Titus again." />
+	<String id="200301036" string="&quot;Okay.&quot;" />
+	<String id="200301037" string="Speak with Titus again." />
+	<String id="200301038" string="Use the Disguise Kit in your inventory to become an Azart." />
+	<String id="200301039" string="Use the Disguise Kit in your inventory to become an Azart." />
+	<String id="200301040" string="Fortress Entrance" />
+	<String id="200301041" string="You see a fighter standing guard." />
+	<String id="200301042" string="Follow the Dark Path after using the Disguise Kit." />
+	<String id="200301043" string="&quot;Right. Okay.&quot;" />
+	<String id="200301044" string="Speak with the Azart Fighter at the center of the Dark Path." />
+	<String id="200301045" string="Fortress Entrance" />
+	<String id="200301046" string="You were caught by a draakon." />
+	<String id="200301047" string="Follow the Dark Path and go to Verrak Fortress Entrance." />
+	<String id="200301048" string="You! You smell like a stranger! Reveal yourself!" />
+	<String id="200301049" string="Master Lumikan!" />
+	<String id="200301050" string="Defeat Draakon Destroyers in the Dark Path." />
+	<String id="200301051" string="&quot;I'm ready.&quot;" />
+	<String id="200301052" string="Speak with Jelena in Verrak Fortress." />
+</StrSheet_Quest>

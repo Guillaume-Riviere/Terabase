@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="736001" string="Hit Them Where it Hurts" />
+	<String id="736002" string="The more you kill now, the better for us later." />
+	<String id="736003" string="They'll be scrambling now." />
+	<String id="736004" string="Kill Lokian lancers and berserkers in Cardovek Remnants." />
+	<String id="736005" string="&quot;My strength is yours.&quot;" />
+	<String id="736006" string="Report to Donal at Sanctum Mysterium." />
+</StrSheet_Quest>

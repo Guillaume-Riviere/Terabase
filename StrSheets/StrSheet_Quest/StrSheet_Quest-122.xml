@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="542001" string="Tuwangi Terror" />
+	<String id="542002" string="Just clear out as many as you can." />
+	<String id="542003" string="Seems like the tuwangis forgot about their protection." />
+	<String id="542004" string="Tuwangi Token" />
+	<String id="542005" string="Take the tokens off the tuwangi blockheads and choppers." />
+	<String id="542006" string="Report to Wimond." />
+	<String id="542007" string="&quot;I was happy I could help.&quot;" />
+</StrSheet_Quest>

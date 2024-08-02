@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4583001" string="Suppression Orders: Argon Rear Guard" />
+	<String id="4583002" string="Stay safe out there." />
+	<String id="4583003" string="Well done." />
+	<String id="4583004" string="Proof of Kill: Argon Rear Guard" />
+	<String id="4583005" string="&quot;For the federation!&quot;" />
+	<String id="4583006" string="Kill {@LinkCreature:45#3001#argonomorph Lokian archers} and {@LinkCreature:45#3002#reavers}, as well as {@LinkCreature:45#3003#kelba rippers} and {@LinkCreature:45#3004#athakela stalkers} near {@Rgn:45004$$Lookout Point}." />
+	<String id="4583007" string="Report to Laetesha at Pathfinder Post." />
+</StrSheet_Quest>

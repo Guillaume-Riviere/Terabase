@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18116001" string="Secret of the Storm Barrier" />
+	<String id="18116002" string="Use the Shifting Map." />
+	<String id="18116003" string="The map shows a hidden cave at River's Edge." />
+	<String id="18116004" string="River's Edge" />
+	<String id="18116005" string="" />
+	<String id="18116006" string="Go to River's Edge." />
+	<String id="18116007" string="High Archdeva" />
+	<String id="18116008" string="Kill &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#29378, -120, 3313&amp;type=1&amp;name=archdevas&quot;>archdevas&lt;/A>&lt;/font> guarding the cave entrance." />
+	<String id="18116009" string="Enter Energia Celo through Tangent Gate." />
+	<String id="18116010" string="&quot;Okay. When she gets here, tell her I've gone ahead.&quot;" />
+	<String id="18116011" string="Talk to Paesyn." />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55043001" string="To the Front Lines IV" />
+	<String id="55043002" string="Redeem 20 Guardian Legion Rewards.&lt;br>&lt;br>(You can enter a Guardian Legion mission by activating Guardian Mode on the World Map.)" />
+	<String id="55043003" string="&quot;Thanks.&quot;" />
+	<String id="55043004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="250031001" string="[Party] Perfect Basics and Great Skills" />
+	<String id="250031002" string="This is my Shadow Warrior, who won’t give you an easy time of it." />
+	<String id="250031003" string="Soldiers! Did you see that!?" />
+	<String id="250031004" string="Use {@WorkObject:250001} to summon the Shadow Warrior." />
+	<String id="250031005" string="Defeat {@LinkCreature:2500#30000} as a party." />
+</StrSheet_Quest>

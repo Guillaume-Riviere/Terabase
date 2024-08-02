@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61910001" string="[Fishing] Legendary Angler" />
+	<String id="61910002" string="&quot;I got it.&quot;" />
+	<String id="61910003" string="Deliver a Fish Steak to {@linkcreature:61#9908#Graidrem} in Vexatus Swamp." />
+	<String id="61910004" string="" />
+	<String id="61910005" string="&quot;I got it.&quot;" />
+	<String id="61910006" string="Go to {@linkcreature:61#9908#Graidrem} in Vexatus Swamp." />
+	<String id="61910007" string="Investigate the White Bones in the Hungry Caverns." />
+	<String id="61910008" string="&quot;I got it.&quot;" />
+	<String id="61910009" string="Gather three Broken Bone Lures and return to {@linkcreature:61#9908#Graidrem} in Vexatus Swamp." />
+	<String id="61910010" string="" />
+	<String id="61910011" string="Hand over the Sludge Fish." />
+	<String id="61910012" string="Catch three Sludge Fish and deliver them to {@linkcreature:61#9908#Graidrem} in Vexatus Swamp." />
+	<String id="61910013" string="" />
+</StrSheet_Quest>

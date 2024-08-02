@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3941001" string="No One Left Behind" />
+	<String id="3941002" string="Please help recover our honored dead in the Hatchery." />
+	<String id="3941003" string="We're in your debt. Thank you." />
+	<String id="3941004" string="&quot;Only too glad to help.&quot;" />
+	<String id="3941005" string="Recover mummified remains in the Hatchery." />
+	<String id="3941006" string="Deliver the remains to Janash." />
+</StrSheet_Quest>

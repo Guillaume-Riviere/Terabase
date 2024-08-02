@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6000001" string="[Dungeon] Devastated Villagers" />
+	<String id="6000002" string="&quot;Okay.&quot;" />
+	<String id="6000003" string="Go to the Mysterium in Allemanthiea." />
+	<String id="6000004" string="Close the cover." />
+	<String id="6000005" string="Insert the items into the Mysterium Research Device." />
+	<String id="6000006" string="Insert the items into the Mysterium Research Device." />
+	<String id="6000007" string="(You carefully remove the insect.)" />
+	<String id="6000008" string="Activate the Mysterium Research Device." />
+	<String id="6000009" string="&quot;You can count on me.&quot;" />
+	<String id="6000010" string="Speak with Ryshan. " />
+	<String id="6000011" string="Speak with Ryshan. " />
+	<String id="6000012" string="&quot;Got it.&quot;" />
+	<String id="6000013" string="Teleport to the Isolation Camp and meet with Kellik." />
+	<String id="6000014" string="Southern Roostcliff Quarter" />
+	<String id="6000015" string="That must be Teyer over there." />
+	<String id="6000016" string="Go to Southern Roostcliff Quarter and search for the wagon. " />
+	<String id="6000017" string="&quot;Okay.&quot;" />
+	<String id="6000018" string="Speak with Teyer." />
+	<String id="6000019" string="Collect the scattered documents." />
+	<String id="6000020" string="&quot;I'll help.&quot;" />
+	<String id="6000021" string="Speak with Teyer." />
+	<String id="6000022" string="Isolation Camp" />
+	<String id="6000023" string="Researchers are caring for the patients." />
+	<String id="6000024" string="Go to the Isolation Camp." />
+	<String id="6000025" string="&quot;I'll do what I can.&quot;" />
+	<String id="6000026" string="Speak with Sammina." />
+	<String id="6000027" string="Wood" />
+	<String id="6000028" string="Hunt Arbosk Enchanters." />
+	<String id="6000029" string="Deliver wood to Sammina." />
+	<String id="6000030" string="&quot;Okay.&quot;" />
+	<String id="6000031" string="Use the Tool Box in your inventory to craft a Tent Pole." />
+	<String id="6000032" string="&quot;Okay.&quot;" />
+	<String id="6000033" string="Speak with Sammina." />
+	<String id="6000034" string="Hyena Skin" />
+	<String id="6000035" string="Deliver the hyena skins to Sammina." />
+	<String id="6000036" string="Deliver the elite hyena skin to Sammina." />
+	<String id="6000037" string="&quot;Okay.&quot;" />
+	<String id="6000038" string="Install the Tent Pole." />
+	<String id="6000039" string="&quot;Okay.&quot;" />
+	<String id="6000040" string="Speak with Sammina." />
+	<String id="6000041" string="Get the medicine from the Medicine Box." />
+	<String id="6000042" string="Refugee Tent" />
+	<String id="6000043" string="It's Ameldas!" />
+	<String id="6000044" string="Talk to Ameldas's family." />
+	<String id="6000045" string="Talk to Ameldas." />
+	<String id="6000046" string="Cure" />
+	<String id="6000047" string="Talk to Ameldas." />
+	<String id="6000048" string="&quot;Okay, I'll try.&quot;" />
+	<String id="6000049" string="Search the Refugee Supplies for a toy." />
+	<String id="6000050" string="Worn Top" />
+	<String id="6000051" string="Talk to Ameldas." />
+	<String id="6000052" string="&quot;My pleasure.&quot;" />
+	<String id="6000053" string="&quot;Okay.&quot;" />
+	<String id="6000054" string="Speak with Ryshan. " />
+	<String id="6000055" string="Basilisk Blood Sample" />
+	<String id="6000056" string="Hunt Desert Basilisks." />
+	<String id="6000057" string="Deliver the Basilisk Blood Samples to Ryshan." />
+	<String id="6000058" string="&quot;Nice meeting you.&quot;" />
+	<String id="6000059" string="&quot;Okay.&quot;" />
+	<String id="6000060" string="Teleport to Bastion and meet with Larive." />
+	<String id="6000061" string="Aura Sentinel" />
+	<String id="6000062" string="The Aura Sentinel is reacting!" />
+	<String id="6000063" string="Approach the Aura Sentinel." />
+	<String id="6000064" string="&quot;Okay.&quot;" />
+	<String id="6000065" string="Speak with Larive." />
+	<String id="6000066" string="Speak with Larive." />
+	<String id="6000067" string="&quot;I'll take care of it.&quot;" />
+	<String id="6000068" string="Speak with Arelle." />
+	<String id="6000069" string="Defeat Auto-Gardeners in Lower Archive." />
+	<String id="6000070" string="&quot;Alright.&quot;" />
+	<String id="6000071" string="Talk to Arelle." />
+	<String id="6000072" string="Use the Aura Sentinel Key in your inventory." />
+	<String id="6000073" string="&quot;Okay.&quot;" />
+	<String id="6000074" string="Speak with Arelle." />
+</StrSheet_Quest>

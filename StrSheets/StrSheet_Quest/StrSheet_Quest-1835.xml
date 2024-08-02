@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50532001" string="[Solo] Time Distortions" />
+	<String id="50532002" string="&quot;I'll get back to Meren now.&quot;" />
+	<String id="50532003" string="Find Seir at Velika Headquarters." />
+	<String id="50532004" string="Obtain the Teleport Scroll." />
+	<String id="50532005" string="Go to Meren in Velika Headquarters and check the lost and found." />
+	<String id="50532006" string="Use Personal Teleport Scroll: Jovin to teleport to Arun Heights. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> to open your inventory and select Personal Teleport Scroll: Jovin.]" />
+	<String id="50532007" string="&quot;On my way!&quot;" />
+	<String id="50532008" string="Show the pendant to Jovin." />
+	<String id="50532009" string="Absorbing the Corrupted Mana" />
+	<String id="50532010" string="Defeat Brutal Naga Battlemaster, Brutal Iron Giant, and Brutal Onyx Hydrath to charge the Dimension Stabilizer." />
+	<String id="50532011" string="" />
+	<String id="50532012" string="&quot;On my way!&quot;" />
+	<String id="50532013" string="Remove the time distortions.&lt;BR>[Press F near the Time Distortions.]" />
+	<String id="50532014" string="Report to Meren." />
+	<String id="50532015" string="Return to Jovin in the Arun Heights." />
+	<String id="50532016" string="Claim reward." />
+	<String id="50532017" string="Tell Meren you could not find the pendant's owner." />
+</StrSheet_Quest>

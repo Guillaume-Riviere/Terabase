@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810010001" string="Complete the Ebon Tower" />
+	<String id="810010002" string="[Ebon Tower] Defeat Thulsa!" />
+	<String id="810010003" string="Claim your reward!" />
+</StrSheet_Quest>

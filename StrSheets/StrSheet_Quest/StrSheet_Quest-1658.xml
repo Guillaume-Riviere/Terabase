@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18206001" string="Weird Science" />
+	<String id="18206002" string="&quot;I have a good idea.&quot;" />
+	<String id="18206003" string="Deva's Horn" />
+	<String id="18206004" string="Kill &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#12319, -18492, 619&amp;type=1&amp;name=devas&quot;>devas&lt;/A>&lt;/font> guarding the cave for their horns." />
+	<String id="18206005" string="Bring deva's horns to Keezar." />
+	<String id="18206006" string="&quot;Is everyone here crazy?&quot;" />
+	<String id="18206007" string="&quot;Slow? I'm not slow...&quot;" />
+	<String id="18206008" string="Ask Keezar to fix the broken pendant." />
+	<String id="18206009" string="&quot;Finally!&quot;" />
+	<String id="18206010" string="Find Keezar and talk to her." />
+</StrSheet_Quest>

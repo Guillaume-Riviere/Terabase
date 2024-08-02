@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55002001" string="Mastering Archery, Part II " />
+	<String id="55002002" string="&quot;Okay.&quot;" />
+	<String id="55002003" string="Find Hamile in Velika." />
+	<String id="55002004" string="Dungeon Clear" />
+	<String id="55002005" string="Clear two dungeons: &quot;Saravash's Ascent&quot; and/or &quot;Cultists' Refuge&quot;." />
+	<String id="55002006" string="&quot;Training is my life style.&quot;" />
+	<String id="55002007" string="Report to Hamile." />
+</StrSheet_Quest>

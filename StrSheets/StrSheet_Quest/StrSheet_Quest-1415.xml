@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6001001" string="[Dungeon] The Secret Weapon" />
+	<String id="6001002" string="Allemantheia Headquarters" />
+	<String id="6001003" string="Teleport to Allemantheia and go to Allemantheia Headquarters entrance." />
+	<String id="6001004" string="Allemantheia Headquarters" />
+	<String id="6001005" string="Approach Fraya at Allemantheia Headquarters." />
+	<String id="6001006" string="&quot;Okay.&quot;" />
+	<String id="6001007" string="Speak with Fraya in Allemantheia Headquarters." />
+	<String id="6001008" string="&quot;Okay.&quot; " />
+	<String id="6001009" string="Talk to Seir. " />
+	<String id="6001010" string="&quot;I'll do what I can.&quot;" />
+	<String id="6001011" string="Teleport to Spring Valley and speak with Dougal." />
+	<String id="6001012" string="Outside Goblin Smugglers' League" />
+	<String id="6001013" string="Go to the Baraka Guard Tower." />
+	<String id="6001014" string="Kamilia" />
+	<String id="6001015" string="Weapon Crate" />
+	<String id="6001016" string="Speak with Kamilia." />
+	<String id="6001017" string="&quot;Okay.&quot;" />
+	<String id="6001018" string="Select the Weapon Crate in your inventory to put it down." />
+	<String id="6001019" string="Valkyon Outpost" />
+	<String id="6001020" string="You can feel the tension in the air." />
+	<String id="6001021" string="Go to the Outpost." />
+	<String id="6001022" string="&quot;Nice meeting you.&quot;" />
+	<String id="6001023" string="Speak with Ryshan. " />
+	<String id="6001024" string="&quot;Okay.&quot;" />
+	<String id="6001025" string="Speak with Teruita. " />
+	<String id="6001026" string="&quot;Okay.&quot;" />
+	<String id="6001027" string="Teleport to Qeldar Station and speak with Paidun." />
+	<String id="6001028" string="Roundbeak Watcher Feather" />
+	<String id="6001029" string="Deliver the Roundbeak Watcher Feathers to Paidun." />
+	<String id="6001030" string="Deliver the Roundbeak Watcher Feathers to Paidun." />
+	<String id="6001031" string="&quot;Okay.&quot;" />
+	<String id="6001032" string="Defeat Dumb Fences and Mean Tomb Thieves." />
+	<String id="6001033" string="Paidun's Location" />
+	<String id="6001034" string="Paidun seems to be in trouble." />
+	<String id="6001035" string="Paidun is missing. Go to the ruins." />
+	<String id="6001036" string="&quot;Okay.&quot;" />
+	<String id="6001037" string="Speak with Lanik." />
+	<String id="6001038" string="&quot;Thank you!&quot;" />
+	<String id="6001039" string="Speak with Paidun." />
+	<String id="6001040" string="&quot;Thank you!&quot;" />
+	<String id="6001041" string="Teleport to Casidhe's Stand and speak with Gazarun." />
+	<String id="6001042" string="Godric's Farm" />
+	<String id="6001043" string="It seems the wagon was attacked." />
+	<String id="6001044" string="Go to Godric's Farm." />
+	<String id="6001045" string="Defeat the Iron Thorn Orcans." />
+	<String id="6001046" string="(Let's check how the others are doing.)" />
+	<String id="6001047" string="Check the merchant's condition." />
+	<String id="6001048" string="&quot;Okay.&quot;" />
+	<String id="6001049" string="Check Ozarun's condition." />
+	<String id="6001050" string="Godric's Farm" />
+	<String id="6001051" string="You can see the Badge Merchants." />
+	<String id="6001052" string="Go to Godric's Farm." />
+	<String id="6001053" string="&quot;It wasn't a big deal.&quot;" />
+	<String id="6001054" string="Speak with Duzorun." />
+	<String id="6001055" string="&quot;Okay.&quot;" />
+	<String id="6001056" string="Speak with Ozarun." />
+	<String id="6001057" string="Take a potion from the barrel." />
+	<String id="6001058" string="Titus" />
+	<String id="6001059" string="Restorative Potion" />
+	<String id="6001060" string="Give the potion to Titus." />
+	<String id="6001061" string="&quot;Okay.&quot;" />
+</StrSheet_Quest>

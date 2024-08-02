@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51011001" string="Stopping the Spread" />
+	<String id="51011002" string="&quot;Okay.&quot;" />
+	<String id="51011003" string="Check with the Raider." />
+	<String id="51011004" string="Inspect the Amber Powder Box." />
+	<String id="51011005" string="&quot;You can't have this!&quot;" />
+	<String id="51011006" string="&quot;Do..not...stop..us...&quot;" />
+	<String id="51011007" string="Defeat Raiders to retrieve Amber Powder." />
+	<String id="51011008" string="&quot;Okay.&quot;" />
+	<String id="51011009" string="Talk to Jelena again." />
+	<String id="51011010" string="Destroy the Amber Powder." />
+	<String id="51011011" string="Your body becomes stiff." />
+	<String id="51011012" string="&quot;Okay.&quot;" />
+	<String id="51011013" string="Talk to Jelena." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="836001" string="Punish the Porters" />
+	<String id="836002" string="Time to smash some bones!" />
+	<String id="836003" string="You got a little bone dust on your armor." />
+	<String id="836004" string="Kill skeletal caimans and caiman bonethralls in the Hungry Caverns Depths." />
+	<String id="836005" string="&quot;For the federation!&quot;" />
+	<String id="836006" string="Report to Nurea in the Hungry Caverns Depths." />
+</StrSheet_Quest>

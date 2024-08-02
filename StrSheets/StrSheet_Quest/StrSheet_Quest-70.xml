@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="403001" string="Smoldering Bloodshard" />
+	<String id="403002" string="&quot;Understood.&quot;" />
+	<String id="403003" string="&quot;Okay.&quot;" />
+	<String id="403004" string="&quot;Got it.&quot;" />
+	<String id="403005" string="&quot;Alright.&quot;" />
+	<String id="403006" string="Collect durignite from the residents of Castanica." />
+	<String id="403007" string="&quot;Right.&quot;" />
+	<String id="403008" string="Bring the durignite to Isolda." />
+	<String id="403009" string="Bring the durignite to Isolda." />
+	<String id="403010" string="&quot;Okay.&quot;" />
+	<String id="403011" string="Speak with Dada at Cauldron Outpost about the shortage of durignite." />
+	<String id="403012" string="End the investigation." />
+	<String id="403013" string="End the investigation." />
+	<String id="403014" string="End the investigation." />
+	<String id="403015" string="End the investigation." />
+	<String id="403016" string="Investigate the Delthin Mine in the western Brimstone Highlands." />
+	<String id="403017" string="Tansin Mine" />
+	<String id="403018" string="Investigate the dead miners around the Tansin Mine." />
+	<String id="403019" string="Investigate the Tansin Mine north of the Delthin Mine." />
+	<String id="403020" string="Take the belongings." />
+	<String id="403021" string="Take the belongings." />
+	<String id="403022" string="Take the belongings." />
+	<String id="403023" string="Take the belongings." />
+	<String id="403024" string="Retrieve the miners' belongings around the Tansin Mine." />
+	<String id="403025" string="&quot;Okay.&quot;" />
+	<String id="403026" string="Return the belongings to Dada at Cauldron Outpost." />
+	<String id="403027" string="Return the belongings to Dada at Cauldron Outpost." />
+	<String id="403028" string="Durignite Sack" />
+	<String id="403029" string="Kill the devan war golems and fallen devan protectors and retrieve the durignite." />
+	<String id="403030" string="Return the durignite to Dada at Cauldron Outpost. " />
+	<String id="403031" string="&quot;Okay.&quot;" />
+	<String id="403032" string="Mine Foreman Dada " />
+	<String id="403033" string="Durignite Sack" />
+	<String id="403034" string="Bring the durignite to Isolda." />
+	<String id="403035" string="&quot;Okay.&quot;" />
+	<String id="403036" string="&quot;Thank you.&quot;" />
+	<String id="403037" string="&quot;Thank you.&quot;" />
+	<String id="403038" string="&quot;Thank you.&quot;" />
+	<String id="403039" string="&quot;Thank you.&quot;" />
+	<String id="403040" string="Inform the residents of Castanica that the miner problems have been resolved." />
+	<String id="403041" string="&quot;I'll do my best.&quot;" />
+	<String id="403042" string="Report back to Isolda." />
+</StrSheet_Quest>

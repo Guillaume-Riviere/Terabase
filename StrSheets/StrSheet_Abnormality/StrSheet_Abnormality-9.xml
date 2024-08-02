@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Abnormality>
+	<String id="3000011" name="Regal Travel" tooltip="Restores 1% of your maximum HP and MP every second." />
+	<String id="5050000" name="" tooltip="" />
+	<String id="5050001" name="" tooltip="" />
+	<String id="5050002" name="" tooltip="" />
+	<String id="5050003" name="" tooltip="" />
+</StrSheet_Abnormality>

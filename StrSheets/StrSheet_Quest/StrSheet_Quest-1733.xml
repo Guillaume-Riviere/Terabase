@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21305001" string="Suspect X" />
+	<String id="21305002" string="&quot;That's probably a good idea.&quot;." />
+	<String id="21305003" string="Monster of Mysterious Ruins" />
+	<String id="21305004" string="Defeat Monsters in Mysterious Ruins." />
+	<String id="21305005" string="Mysterious Ruins" />
+	<String id="21305006" string="Members of the Free Traders Collective are gathered in the ruins." />
+	<String id="21305007" string="Look for the Free Traders Collective group in the Mysterious Ruins." />
+	<String id="21305008" string="&quot;We do. I'll be in touch.&quot;" />
+	<String id="21305009" string="Talk to the Free Traders magister." />
+	<String id="21305010" string="Shrine of Yurian" />
+	<String id="21305011" string="Members of the Enlightened Union are gathered at the shrine." />
+	<String id="21305012" string="Look for the Enlightened Union group in the Shrine of Yurian." />
+	<String id="21305013" string="&quot;Okay. You've told me everything I need to know, anyway.&quot;" />
+	<String id="21305014" string="Talk to the Enlightened Union magister." />
+	<String id="21305015" string="Arun Heights" />
+	<String id="21305016" string="Members of the Iron Order are gathered in the ruins." />
+	<String id="21305017" string="Look for the Iron Order group in Arun Heights." />
+	<String id="21305018" string="&quot;You've made your point. I'm leaving.&quot;" />
+	<String id="21305019" string="Speak with the Iron Order magister." />
+	<String id="21305020" string="&quot;I've got it. I'll find him and get some answers.&quot;" />
+	<String id="21305021" string="Speak with Adria." />
+</StrSheet_Quest>

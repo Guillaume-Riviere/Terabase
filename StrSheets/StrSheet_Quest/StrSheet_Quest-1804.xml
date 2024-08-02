@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48821001" string="Treason's Reward" />
+	<String id="48821002" string="The betrayers of the kingdom must be punished!" />
+	<String id="48821003" string="He had it coming. Good job." />
+	<String id="48821004" string="Execute Kagaron inside Sinestral Manor.&#10;[You must select Sinestral Manor (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.]" />
+	<String id="48821005" string="&quot;He deserved it.&quot;" />
+	<String id="48821006" string="Report to Segodun at Sinestral Manor." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="934001" string="Mysterious Disappearance" />
+	<String id="934002" string="For the federation!" />
+	<String id="934003" string="Halidom Fragment" />
+	<String id="934004" string="Kill gulas and their caiman allies in the Gallery of Fate on the second floor of the labyrinth. Retrieve the halidom fragments." />
+	<String id="934005" string="Speak with Tryphena at the Relic Hunter Outpost." />
+	<String id="934006" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200201001" string="[Important] Iridian Wetlands" />
+	<String id="200201002" string="&quot;Okay.&quot;" />
+	<String id="200201003" string="Go to Iridian Wetlands and ask Kurna what to do." />
+	<String id="200201004" string="Canyon Trail" />
+	<String id="200201005" string="You see naga corpses everywhere." />
+	<String id="200201006" string="Pass through the Iridian Wetlands  Valley." />
+	<String id="200201007" string="&quot;Thank you.&quot;" />
+	<String id="200201008" string="Ask Manark what happened." />
+	<String id="200201009" string="Canyon Trail" />
+	<String id="200201010" string="You followed the trail of what seems to be Elleon." />
+	<String id="200201011" string="Follow the canyon trail and head to where Manark sent you." />
+	<String id="200201012" string="Search for traces of Elleon." />
+	<String id="200201013" string="&quot;Okay.&quot;" />
+	<String id="200201014" string="Ask Basheek in Iridian Wetlands about Elleon." />
+	<String id="200201015" string="&quot;Will do.&quot;" />
+	<String id="200201016" string="Collect Iridian Poison Plants and deliver them to Basheek deep in the cave." />
+	<String id="200201017" string="Defeat the nearby Naga Marauders." />
+	<String id="200201018" string="&quot;Meet you there.&quot;" />
+	<String id="200201019" string="Speak with Basheek in the Abandoned Camp." />
+	<String id="200201020" string="Defeat Naga Punishers in the Abandoned Camp." />
+	<String id="200201021" string="&quot;Okay.&quot;" />
+	<String id="200201022" string="Speak with Basheek at the Vortex Zone." />
+	<String id="200201023" string="Flexis Talon" />
+	<String id="200201024" string="Kill Flexis Hunters in the Vortex Zone and collect their talons." />
+	<String id="200201025" string="Deliver the materials to Basheek." />
+	<String id="200201026" string="&quot;Oh, no.&quot;" />
+	<String id="200201027" string="&quot;Let's think about that.&quot;" />
+	<String id="200201028" string="Speak with Amarre by the path to the prison." />
+</StrSheet_Quest>

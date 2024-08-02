@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="706001" string="Cultists' Conspiracy" />
+	<String id="706002" string="&quot;Okay.&quot;" />
+	<String id="706003" string="Find Padraig near the Cardovek Remnants." />
+	<String id="706004" string="Kill Lokian sorcerers to recover cryptographs." />
+	<String id="706005" string="&quot;Okay.&quot;" />
+	<String id="706006" string="Bring the cryptographs to Padraig." />
+	<String id="706007" string="Kill a Lokian berserker in the Cardovek Remnants and recover a Decryption Device." />
+	<String id="706008" string="&quot;No, I lost the Decryption Device.&quot;" />
+	<String id="706009" string="&quot;Yes, I have the Decryption Device.&quot;" />
+	<String id="706010" string="Decrypt the messages and return to Padraig." />
+	<String id="706011" string="&quot;Okay.&quot;" />
+	<String id="706012" string="&quot;Thank you.&quot;" />
+	<String id="706013" string="Return to Padraig." />
+	<String id="706014" string="&quot;Okay.&quot;" />
+	<String id="706015" string="&quot;The decryption is taken care of.&quot;" />
+	<String id="706016" string="Use the Decryption Device on the cryptographs and deliver the decrypted message to Padraig." />
+	<String id="706017" string="Find Tezluar in the Cardovek Remnants and kill him." />
+	<String id="706018" string="&quot;Okay.&quot;" />
+	<String id="706019" string="Report to Mysterium researcher Padraig at Cardovek Remnants." />
+	<String id="706020" string="&quot;I can help.&quot;" />
+	<String id="706021" string="Report to Mattin at the Sanctum Mysterium." />
+	<String id="706022" string="It is done. The defense shield is active." />
+	<String id="706023" string="Speak with Mattin and teleport together. Speak with Mattin again and defend him from attack." />
+	<String id="706024" string="&quot;I'll do my best.&quot;" />
+	<String id="706025" string="Speak with Mattin at the Sanctum Mysterium." />
+</StrSheet_Quest>

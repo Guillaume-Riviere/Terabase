@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="231001" string="The Mane Event" />
+	<String id="231002" string="Hunt nearby centaurs and centaur insurgents." />
+	<String id="231003" string="Now I can fell some trees." />
+	<String id="231004" string="Centaur Mane" />
+	<String id="231005" string="Hunt the centaurs and centaur insurgents for their manes." />
+	<String id="231006" string="Bring the manes to Balter." />
+	<String id="231007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

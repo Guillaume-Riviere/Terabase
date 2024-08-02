@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5024001" string="Sabotage...for a Good Cause" />
+	<String id="5024002" string="Destroy quernok borers in the {@Rgn:50004}." />
+	<String id="5024003" string="&quot;We'll leave them a legacy, fear not.&quot;" />
+	<String id="5024004" string="Report back to {@LinkCreature:250#1016}." />
+</StrSheet_Quest>

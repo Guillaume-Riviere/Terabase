@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4202001" string="Dagon's Treasure" />
+	<String id="4202002" string="&quot;Sure, I can do that.&quot;" />
+	<String id="4202003" string="&quot;You can count on me.&quot;" />
+	<String id="4202004" string="See Ibar in Frontera." />
+	<String id="4202005" string="&quot;I'll get them.&quot;" />
+	<String id="4202006" string="Talk to Nedisia on the first level of the Temple of Dagon." />
+	<String id="4202007" string="&quot;Okay.&quot;" />
+	<String id="4202008" string="Open treasure chests in the Chambers of Avarice and Malice." />
+	<String id="4202009" string="Bring the pirate's treasure chests to Nedisia." />
+	<String id="4202010" string="&quot;That makes sense.&quot;" />
+	<String id="4202011" string="See Wekrine in the Chambers of Corruption." />
+	<String id="4202012" string="I smell a thief!" />
+	<String id="4202013" string="Get away from that!" />
+	<String id="4202014" string="Defeat the Dagonite templars in the Chambers of Mighty Souls and collect their skins." />
+	<String id="4202015" string="&quot;Thanks.&quot;" />
+	<String id="4202016" string="Bring the rough naga skin to Wekrine." />
+	<String id="4202017" string="Take the rough naga skin to Wekrine." />
+	<String id="4202018" string="&quot;Consider it done.&quot;" />
+	<String id="4202019" string="See Valren in the Depths of Corruption." />
+	<String id="4202020" string="&quot;I'll get it from him, then.&quot;" />
+	<String id="4202021" string="Open the priest's treasure chests in the Depths of Corruption. Take the nagas' holy treasures." />
+	<String id="4202022" string="Bring the nagas' holy treasure chests to Valren." />
+	<String id="4202023" string="Book of Rituals" />
+	<String id="4202024" string="Defeat Resaltuuk on the east side of the Depths of Corruption. Take the Book of Rituals." />
+	<String id="4202025" string="Report back to Valren on the third level." />
+	<String id="4202026" string="&quot;Okay.&quot;" />
+	<String id="4202027" string="Use the &lt;A href=&quot;markmap:loc=7013#-70592,53748,57&amp;type=1&amp;name=teleportal&quot;>teleportal to travel to Dagon's Chantry. Defeat Skuldarik." />
+	<String id="4202028" string="&quot;Thanks.&quot;" />
+	<String id="4202029" string="Activate the Relic of Dagon, and take the Cerulean Gem." />
+	<String id="4202030" string="Bring the Cerulean Gem to Valren." />
+</StrSheet_Quest>

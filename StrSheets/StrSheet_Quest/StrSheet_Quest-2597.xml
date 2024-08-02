@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999856001" string="Collect Blatherweed" />
+	<String id="999856002" string="[Spring Valley] Gather blatherweed." />
+	<String id="999856003" string="Blatherweed" />
+	<String id="999856004" string="Claim your reward!" />
+	<String id="999856005" string="Blatherweed" />
+</StrSheet_Quest>

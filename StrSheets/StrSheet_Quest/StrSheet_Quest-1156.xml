@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4883001" string="Suppression Orders: Hursaras" />
+	<String id="4883002" string="Proof of Kill: Hursaras" />
+	<String id="4883003" string="&quot;The pleasure is mine.&quot;" />
+	<String id="4883004" string="Hunt down and destroy {@LinkCreature:48#8#Hursaras}." />
+	<String id="4883005" string="Report to Oria." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="937001" string="Beheading a Nightmare" />
+	<String id="937002" string="Victory for Valkyon!" />
+	<String id="937003" string="Lamakus's Head" />
+	<String id="937004" string="Find the hidden chamber at the southeastern end of the second floor of the labyrinth. Kill Lamakus." />
+	<String id="937005" string="Deliver Lamakus's head to Tryphena at Relic Hunter Outpost." />
+	<String id="937006" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

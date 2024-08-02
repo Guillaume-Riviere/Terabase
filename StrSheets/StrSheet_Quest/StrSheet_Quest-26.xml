@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="239001" string="The Storm Has Passed" />
+	<String id="239002" string="They'll welcome the news." />
+	<String id="239003" string="Thank you for coming here to tell us." />
+	<String id="239004" string="&quot;Thank the federation for me!&quot;" />
+	<String id="239005" string="&quot;We'll do what we can.&quot;" />
+	<String id="239006" string="Meet the faeries at the Faerie Pond." />
+</StrSheet_Quest>

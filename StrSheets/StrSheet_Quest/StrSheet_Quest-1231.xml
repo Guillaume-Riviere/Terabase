@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5124001" string="Crystal Clear" />
+	<String id="5124002" string="I'm sure the crystals are the answer." />
+	<String id="5124003" string="The more we know, the better we fight. Good job!" />
+	<String id="5124004" string="Draelkar Crystal" />
+	<String id="5124005" string="Collect draelkar crystals from dominated wendigo shamans, as well as argonomorph tuwangis and orcans." />
+	<String id="5124006" string="Report back to Roland." />
+	<String id="5124007" string="&quot;Absolutely.&quot;" />
+</StrSheet_Quest>

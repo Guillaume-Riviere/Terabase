@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17222001" string="[Dungeon - 457] RK-9 Kennel" />
+	<String id="17222002" string="&quot;I'm on my way.&quot;" />
+	<String id="17222003" string="Speak with Rhodos." />
+	<String id="17222004" string="&quot;I'm on my way.&quot;" />
+	<String id="17222005" string="Speak with Roderan in Spring Valley." />
+	<String id="17222006" string="&quot;You got it.&quot;" />
+	<String id="17222007" string="Find Donakim at Tranquility Falls. Tell him Rhodos sent you." />
+	<String id="17222008" string="Behind Tranquility Falls" />
+	<String id="17222009" string="A mechanical whirring comes from behind the waterfall." />
+	<String id="17222010" string="Investigate Tranquility Falls." />
+	<String id="17222011" string="RK-9 Kennel" />
+	<String id="17222012" string="It's some kind of factory." />
+	<String id="17222013" string="Use the {@LinkCreature:182#9735#teleportal} to investigate the facility." />
+	<String id="17222014" string="Facility Entrance" />
+	<String id="17222015" string="Is that the hooded man?" />
+	<String id="17222016" string="Investigate further into the facility." />
+	<String id="17222017" string="Portal" />
+	<String id="17222018" string="Wait...isn't that Randun?" />
+	<String id="17222019" string="Approach the portal." />
+	<String id="17222020" string="Observation Room" />
+	<String id="17222021" string="" />
+	<String id="17222022" string="Follow Randun." />
+	<String id="17222023" string="Randun finished RK-9 by equipping the bloodshard to it. Defeat RK-9." />
+	<String id="17222024" string="Entrance to RK-9 Kennel" />
+	<String id="17222025" string="Rhodos and Donakim are waiting." />
+	<String id="17222026" string="Use the {@LinkCreature:735#1501#teleportal} to exit the RK-9 Kennel." />
+	<String id="17222027" string="&quot;Of course.&quot;" />
+	<String id="17222028" string="Speak to Rhodos." />
+</StrSheet_Quest>

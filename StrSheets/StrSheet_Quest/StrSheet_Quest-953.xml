@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3940001" string="Defeat the Clawrider Overseers" />
+	<String id="3940002" string="Take down those clawriders at once!" />
+	<String id="3940003" string="Fine piece of fighting!" />
+	<String id="3940004" string="Hunt clawrider overseers near Roughneck Outpost." />
+	<String id="3940005" string="&quot;Thank you.&quot;" />
+	<String id="3940006" string="Report to Kaleon." />
+</StrSheet_Quest>

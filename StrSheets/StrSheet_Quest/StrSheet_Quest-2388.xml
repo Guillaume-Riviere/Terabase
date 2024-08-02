@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800131001" string="Clean up the Vale of Spires" />
+	<String id="800131002" string="[Vale of Spires] Defeat the wendigos and their allies." />
+	<String id="800131003" string="Lorcadan Invaders" />
+	<String id="800131004" string="Claim your reward!" />
+</StrSheet_Quest>

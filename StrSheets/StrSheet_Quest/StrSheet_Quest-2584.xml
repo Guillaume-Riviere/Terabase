@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999842001" string="Collect Boxes of Parts" />
+	<String id="999842002" string="[Arx Umbra] Gather boxes of parts for the Vanguard engineers." />
+	<String id="999842003" string="Box of Parts" />
+	<String id="999842004" string="Claim your reward!" />
+	<String id="999842005" string="Box of Parts" />
+</StrSheet_Quest>

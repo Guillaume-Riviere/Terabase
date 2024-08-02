@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1145001" string="Eliminate the Escorts" />
+	<String id="1145002" string="Take care of it!" />
+	<String id="1145003" string="Nice work!" />
+	<String id="1145004" string="Seadog Tag" />
+	<String id="1145005" string="Use the northern stairs to move downstairs. Collect seadog tags from the Red Lash overseers, petty officers, and buccaneers near the Pirate Captain's Cabin." />
+	<String id="1145006" string="Deliver the seadog tags to Ebosius at the Press Camp." />
+	<String id="1145007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

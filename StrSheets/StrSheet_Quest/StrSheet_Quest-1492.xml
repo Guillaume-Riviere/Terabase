@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8422001" string="Spice it Up" />
+	<String id="8422002" string="You're a lifesaver!" />
+	<String id="8422003" string="Thanks again!" />
+	<String id="8422004" string="Hunt {@LinkCreature:5#10#toads} in {@Rgn:5001$$Tuwangi Mire}, and harvest peppercorns from their stomachs." />
+	<String id="8422005" string="&quot;Thanks.&quot;" />
+	<String id="8422006" string="Hunt {@creature:5#10$$toads} and harvest peppercorns from their stomachs." />
+	<String id="8422007" string="Take the carlams peppercorns to the herb gatherer, {@Creature:68#1012$$Huchu}, in {@Rgn:68001$$Pora Elinu}." />
+	<String id="8422008" string="Huchu" />
+	<String id="8422009" string="Ground Carlams Pepper" />
+	<String id="8422010" string="Deliver ground carlams pepper to {@Creature:84#1209$$Ganim} at {@Rgn:84101$$Kapina Camp}." />
+	<String id="8422011" string="&quot;No problem.&quot;" />
+</StrSheet_Quest>

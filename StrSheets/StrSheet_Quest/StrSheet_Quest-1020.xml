@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4226001" string="Stone of the Resurrected" />
+	<String id="4226002" string="What's bringing the skeletons back to life?" />
+	<String id="4226003" string="I'll wager a year's pay Thulsa's behind this." />
+	<String id="4226004" string="Revivification Stone" />
+	<String id="4226005" string="Collect stones from the skeletal defenders in the Coiling Transepts." />
+	<String id="4226006" string="Bring the proof to Liyaqat at the Ecdysi Atrium." />
+	<String id="4226007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

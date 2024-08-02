@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="102201001" string="Operation: Overwatch" />
+	<String id="102201002" string="Stay within the boundary of the Dreamstorm, or your participation in Operation: Overwatch will be nullified." />
+	<String id="102201003" string="Protect the Oneiric Generator and Focusing Array until the Dreamstorm ends." />
+</StrSheet_Quest>

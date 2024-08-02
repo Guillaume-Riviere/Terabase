@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60112001" string="One-stop Shopping at Argon Depot" />
+	<String id="60112002" string="Some of our finest minds work out of the {@Rgn:46016$$Mindcrown Chamber}." />
+	<String id="60112003" string="Now, let us see what we can see." />
+	<String id="60112004" string="" />
+	<String id="60112005" string="" />
+	<String id="60112006" string="" />
+	<String id="60112007" string="Meet {@LinkCreature:246#3003#Ashinne} at the {@Rgn:46016$$Mindcrown Chamber}." />
+	<String id="60112008" string="&quot;Consider it done.&quot;" />
+	<String id="60112009" string="Altered Sikandari Feather" />
+	<String id="60112010" string="Hunt {@LinkCreature:46#301#argonomorph sikandaris} near the {@Rgn:46008} and collect their feathers." />
+	<String id="60112011" string="Deliver the feathers to {@LinkCreature:246#3003#Ashinne}." />
+	<String id="60112012" string="&quot;Understood.&quot;" />
+	<String id="60112013" string="Tainted Fiend Heart" />
+	<String id="60112014" string="Hunt the {@LinkCreature:46#303#argonomorph blood fiends} that appeared in the {@Rgn:46006} and collect their hearts." />
+	<String id="60112015" string="Deliver the hearts to {@LinkCreature:246#3003#Ashinne}." />
+	<String id="60112016" string="&quot;I'm on it.&quot;" />
+	<String id="60112017" string="Argonified Fey Focus" />
+	<String id="60112018" string="Hunt {@LinkCreature:46#304#argonomorph jalmaraks} in the {@Rgn:46007$$Raga Evala Depths} and collect their foci." />
+	<String id="60112019" string="Deliver the foci to {@LinkCreature:246#3003#Ashinne}." />
+	<String id="60112020" string="&quot;My pleasure.&quot;" />
+</StrSheet_Quest>

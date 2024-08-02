@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70214001" string="[Pond Faire—Daily] Hide-n-Seek" />
+	<String id="70214002" string="&quot;Where do you think he could be?&quot;" />
+	<String id="70214003" string="Find the hiding tuwangi." />
+	<String id="70214004" string="Find the hiding tuwangi." />
+	<String id="70214005" string="Find the hiding tuwangi." />
+	<String id="70214006" string="Find the hiding tuwangi." />
+	<String id="70214007" string="Talk to Haroso." />
+	<String id="70214008" string="&quot;Got it.&quot;" />
+	<String id="70214009" string="Good Hiding Spot" />
+	<String id="70214010" string="You found a likely hiding spot." />
+	<String id="70214011" string="Search for the frightened tuwangi." />
+	<String id="70214012" string="Good Hiding Spot" />
+	<String id="70214013" string="You found a likely hiding spot." />
+	<String id="70214014" string="Search for the frightened tuwangi." />
+	<String id="70214015" string="Good Hiding Spot" />
+	<String id="70214016" string="You found a likely hiding spot." />
+	<String id="70214017" string="Search for the frightened tuwangi." />
+	<String id="70214018" string="Good Hiding Spot" />
+	<String id="70214019" string="You found a likely hiding spot." />
+	<String id="70214020" string="Search for the frightened tuwangi." />
+	<String id="70214021" string="Play Haroso's drum to get the young tuwangi courage to come out." />
+	<String id="70214022" string="The young tuwangi came out of hiding!" />
+	<String id="70214023" string="Play Haroso's drum to get the young tuwangi courage to come out." />
+	<String id="70214024" string="The young tuwangi came out of hiding!" />
+	<String id="70214025" string="Play Haroso's drum to get the young tuwangi courage to come out." />
+	<String id="70214026" string="The young tuwangi came out of hiding!" />
+	<String id="70214027" string="Play Haroso's drum to get the young tuwangi courage to come out." />
+	<String id="70214028" string="The young tuwangi came out of hiding!" />
+	<String id="70214029" string="&quot;Don't be afraid.&quot;" />
+	<String id="70214030" string="Talk to the frightened tuwangi." />
+	<String id="70214031" string="&quot;Yes, but first you have to come out.&quot;" />
+	<String id="70214032" string="Talk to the frightened tuwangi." />
+	<String id="70214033" string="&quot;Yes, let's go find the drums.&quot;" />
+	<String id="70214034" string="Talk to the frightened tuwangi." />
+	<String id="70214035" string="&quot;Yes, it is. But don't be afraid.&quot;" />
+	<String id="70214036" string="Talk to the frightened tuwangi." />
+	<String id="70214037" string="&quot;Glad to help.&quot;" />
+	<String id="70214038" string="Talk to Haroso." />
+</StrSheet_Quest>

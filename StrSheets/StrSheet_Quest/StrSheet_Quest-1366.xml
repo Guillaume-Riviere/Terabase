@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5625001" string="Sower of Whirlwinds" />
+	<String id="5625002" string="The mix of armies down there...it's strange!" />
+	<String id="5625003" string="But we'll still destroy those feathered freaks." />
+	<String id="5625004" string="Bond Ring" />
+	<String id="5625005" string="Devas, to me! Our foes are here!" />
+	<String id="5625006" string="You can't kill us all!" />
+	<String id="5625007" string="Search devan fateshapers and reapers for clues to their purpose." />
+	<String id="5625008" string="Bring the bond rings to Casias." />
+	<String id="5625009" string="Find Denmar." />
+	<String id="5625010" string="Keallach" />
+	<String id="5625011" string="Keallach's Report" />
+	<String id="5625012" string="Inform Denmar about the devan scouts." />
+	<String id="5625013" string="&quot;I think you're right.&quot;" />
+</StrSheet_Quest>

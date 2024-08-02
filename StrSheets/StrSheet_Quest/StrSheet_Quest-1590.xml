@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10119001" string="Heavy Metal" />
+	<String id="10119002" string="&quot;I can do that.&quot;" />
+	<String id="10119003" string="Go to Barsen in Castanica." />
+	<String id="10119004" string="" />
+	<String id="10119005" string="Design: Artisan Hauberk" />
+	<String id="10119006" string="Take the design to Hadrak." />
+	<String id="10119007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

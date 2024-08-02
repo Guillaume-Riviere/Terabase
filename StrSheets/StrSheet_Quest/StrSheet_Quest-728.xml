@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3125001" string="Concrete Solutions" />
+	<String id="3125002" string="Waste not, want not—even if it's evil and undead." />
+	<String id="3125003" string="This should make the quartermaster happy." />
+	<String id="3125004" string="Undead Bone Ash" />
+	<String id="3125005" string="Collect undead bone ash from the ossugon icelords and frosted skeletal thralls." />
+	<String id="3125006" string="Deliver the undead bone ash to Liba at the Glacial Bay Research Station." />
+	<String id="3125007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

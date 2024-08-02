@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18201001" string="Barreling In" />
+	<String id="18201002" string="Investigate the suspicious barrel." />
+	<String id="18201003" string="Archdeva Listening Post" />
+	<String id="18201004" string="You hear voices coming from deeper inside the cave." />
+	<String id="18201005" string="Enter the Archdeva Listening Post by moving the {@LinkCreature:182#2029#suspicious barrel}." />
+	<String id="18201006" string="Kill Transformed Mihog." />
+	<String id="18201007" string="Archdeva Listening Post" />
+	<String id="18201008" string="Madat is waiting near the exit." />
+	<String id="18201009" string="Return to the exit." />
+	<String id="18201010" string="&quot;She left this way, then.&quot;" />
+	<String id="18201011" string="Ask Madat if he saw an archdeva." />
+	<String id="18201012" string="&quot;Got it.&quot;" />
+	<String id="18201013" string="Talk to Dougal." />
+	<String id="18201014" string="&quot;She can't have gotten far.&quot;" />
+	<String id="18201015" string="Ask Zolyn if the archdeva got away." />
+</StrSheet_Quest>

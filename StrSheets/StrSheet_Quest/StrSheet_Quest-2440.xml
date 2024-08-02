@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810060001" string="Hunt Runekeepers" />
+	<String id="810060002" string="[Susurrus Woods] Hunt runekeepers in the Nightwood." />
+	<String id="810060003" string="Runekeepers" />
+	<String id="810060004" string="Claim your reward!" />
+</StrSheet_Quest>

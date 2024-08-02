@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4150001" string="[Dungeon - 457] Red Refuge" />
+	<String id="4150002" string="Take Karakhir’s letter." />
+	<String id="4150003" string="Talk to Seir in Valkyon Federation Headquarters." />
+	<String id="4150004" string="Read Karakhir’s letter." />
+	<String id="4150005" string="Promise to help Muhrak." />
+	<String id="4150006" string="Talk to Seir." />
+	<String id="4150007" string="Use the Frontera Teleport Scroll." />
+	<String id="4150008" string="To the Temple of Dagon" />
+	<String id="4150009" string="Head to the Temple of Dagon." />
+	<String id="4150010" string="Head to the Temple of Dagon from Frontera." />
+	<String id="4150011" string="Karakhir’s Trail" />
+	<String id="4150012" string="You found the tracks of a humanoid. Could it be Karakhir?" />
+	<String id="4150013" string="Search for Karakhir’s tracks along your way to the Temple of Dagon." />
+	<String id="4150014" string="Finish your search and look for more tracks." />
+	<String id="4150015" string="Examine the Destroyed Wagon." />
+	<String id="4150016" string="Karakhir’s Tracks" />
+	<String id="4150017" string="You see Broken Crates." />
+	<String id="4150018" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150019" string="Finish your search and look for more tracks." />
+	<String id="4150020" string="Examine the Broken Crates." />
+	<String id="4150021" string="Karakhir’s Tracks" />
+	<String id="4150022" string="Go little further to find more tracks." />
+	<String id="4150023" string="Continue your search for Karakhir’s trace." />
+	<String id="4150024" string="Karakhir’s Tracks" />
+	<String id="4150025" string="You found a gold pouch." />
+	<String id="4150026" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150027" string="The gold pouch might belong to Karakhir." />
+	<String id="4150028" string="Examine the Tattered Gold Pouch." />
+	<String id="4150029" string="Karakhir’s Tracks" />
+	<String id="4150030" string="You found a secret entrance that leads to a place behind the cliff." />
+	<String id="4150031" string="Karakhir must have been here. Look for more tracks." />
+	<String id="4150032" string="Karakhir’s Tracks" />
+	<String id="4150033" string="You found a hidden village behind the cliff." />
+	<String id="4150034" string="Karakhir’s tracks end here. Use the {@LinkCreature:39#403#teleportal} to find what is behind the cliff." />
+	<String id="4150035" string="Calm him and tell him to wait outside the village." />
+	<String id="4150036" string="Talk to Aktam." />
+	<String id="4150037" string="Passage to the Rooftop" />
+	<String id="4150038" string="" />
+	<String id="4150039" string="Passage to the Village Entrance" />
+	<String id="4150040" string="" />
+	<String id="4150041" string="Choose one passage to continue your search for Karakhir." />
+	<String id="4150042" string="Village Entrance" />
+	<String id="4150043" string="Make your way further inside." />
+	<String id="4150044" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150045" string="Kill all orcan guards to make your way." />
+	<String id="4150046" string="Periphery of the Forge" />
+	<String id="4150047" string="Make your way further inside." />
+	<String id="4150048" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150049" string="Defeat Kalavese." />
+	<String id="4150050" string="Periphery of the Forge" />
+	<String id="4150051" string="You spot a suspicious castanic woman." />
+	<String id="4150052" string="You found the kidnapper. Approach her to rescue Karakhir." />
+	<String id="4150053" string="Rooftop" />
+	<String id="4150054" string="" />
+	<String id="4150055" string="Village Staircase" />
+	<String id="4150056" string="" />
+	<String id="4150057" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150058" string="Byway to the Rooftop" />
+	<String id="4150059" string="Make your way further inside." />
+	<String id="4150060" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150061" string="Kill orcan guards at the staircase." />
+	<String id="4150062" string="Rooftop" />
+	<String id="4150063" string="Make your way further inside." />
+	<String id="4150064" string="Continue your search for Karakhir’s tracks." />
+	<String id="4150065" string="Front Yard of a House" />
+	<String id="4150066" string="Someone might be imprisoned in the house." />
+	<String id="4150067" string="You hear sounds of a fight. Find out what's happening." />
+	<String id="4150068" string="Inside the House" />
+	<String id="4150069" string="You found Karakhir." />
+	<String id="4150070" string="You found imprisoned Karakhir. Approach him." />
+	<String id="4150071" string="Destroy the door." />
+	<String id="4150072" string="Calm Karakhir and set him free." />
+	<String id="4150073" string="Untie Karakhir." />
+	<String id="4150074" string="Tell Karakhir to escape the village and meet his apprentice." />
+	<String id="4150075" string="Talk to Karakhir." />
+	<String id="4150076" string="You found a rigid, sharp object on the floor. Examine it." />
+	<String id="4150077" string="Closely examine the Piece of Amani Horn." />
+	<String id="4150078" string="Destroy the door and kill the Armory guards to chase Hennika." />
+	<String id="4150079" string="Armory" />
+	<String id="4150080" string="Make your way further inside." />
+	<String id="4150081" string="Enter the armory to go after Hennika." />
+	<String id="4150082" string="Defeat Thormentum." />
+	<String id="4150083" string="Trace of a Beast" />
+	<String id="4150084" string="" />
+	<String id="4150085" string="You found traces of a beast by a little passageway. Follow them." />
+	<String id="4150086" string="Defeat Argog." />
+	<String id="4150087" string="Cliff" />
+	<String id="4150088" string="You are back to the facade of the cliff. There is no sign of Hennika. " />
+	<String id="4150089" string="Escape the village and continue chasing Hennika." />
+	<String id="4150090" string="Claim your reward." />
+	<String id="4150091" string="Explain to Aktam what happened in the Red Refuge." />
+</StrSheet_Quest>

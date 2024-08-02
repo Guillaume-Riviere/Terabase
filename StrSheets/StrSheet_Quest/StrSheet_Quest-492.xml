@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1923001" string="War Hyena Hunt" />
+	<String id="1923002" string="Predators are more of a threat than ever these days." />
+	<String id="1923003" string="I see fewer hyenas around." />
+	<String id="1923004" string="Hyena" />
+	<String id="1923005" string="Hunt hyenas that appear in areas between Velik's Vigil and Filton's Dairy Farm." />
+	<String id="1923006" string="&quot;You know it.&quot;" />
+	<String id="1923007" string="Report to Cregan, just off the road." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="7290001" string="Are You Not Entertained?" />
+	<String id="7290002" string="Victory in the Champions' Skyring" />
+	<String id="7290003" string="You've achieved victory in the Champions' Skyring!" />
+	<String id="7290004" string="&quot;Thank you!&quot;" />
+	<String id="7290005" string="Claim your reward from Allemantheia's battle secretariat." />
+</StrSheet_Quest>

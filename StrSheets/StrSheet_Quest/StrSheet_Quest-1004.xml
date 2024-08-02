@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4135001" string="To Crown a Leader" />
+	<String id="4135002" string="Bring me the biggest skull you can find!" />
+	<String id="4135003" string="We've got our crown, now we just need someone to wear it." />
+	<String id="4135004" string="Giant Warmaster Skull" />
+	<String id="4135005" string="Take a skull from a giant warmaster in the south of Feral Valley." />
+	<String id="4135006" string="Take the skull to Karba." />
+	<String id="4135007" string="&quot;I'm honored to help you.&quot;" />
+</StrSheet_Quest>

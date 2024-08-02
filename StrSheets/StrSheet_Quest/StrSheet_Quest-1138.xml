@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4837001" string="Fly the Unfriendly Skies" />
+	<String id="4837002" string="{@Creature:249#1015} waits for you in the tunnel." />
+	<String id="4837003" string="Now we can get fresh supplies in!" />
+	<String id="4837004" string="{@LinkCreature:249#1015}" />
+	<String id="4837005" string="Engineering Orders" />
+	<String id="4837006" string="Deliver the orders to {@LinkCreature:249#1015}." />
+	<String id="4837007" string="&quot;Understood.&quot;" />
+	<String id="4837008" string="{@Rgn:76001}" />
+	<String id="4837009" string="{@Rgn:76001} is safe!&#10;Head to the flight platform!" />
+	<String id="4837010" string="Head to {@Rgn:76001}." />
+	<String id="4837011" string="Flight Stone" />
+	<String id="4837012" string="Report to the flight manager." />
+	<String id="4837013" string="Head to Kanstria's flight platform." />
+	<String id="4837014" string="&quot;You're welcome.&quot;" />
+	<String id="4837015" string="Deliver the flight stone to {@LinkCreature:76#1006}." />
+</StrSheet_Quest>

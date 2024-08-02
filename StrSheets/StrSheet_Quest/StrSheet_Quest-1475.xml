@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6383001" string="Santia's Workshop" />
+	<String id="6383002" string="&quot;I'll talk to Varesha.&quot;" />
+	<String id="6383003" string="Meet Santia in the Creation Workshop." />
+	<String id="6383004" string="&quot;Something to process ore.&quot;" />
+	<String id="6383005" string="Speak with {@LinkCreature:63#1193}." />
+	<String id="6383006" string="&quot;Great, thanks!&quot;" />
+	<String id="6383007" string="Speak with {@LinkCreature:63#1199}." />
+	<String id="6383008" string="Learn the design by right-clicking it in your inventory." />
+	<String id="6383009" string="You have successfully learned the crafting skill." />
+	<String id="6383010" string="&quot;Thank you.&quot;" />
+	<String id="6383011" string="Process the {@RawItem:206809} to make a {@RawItem:206814}." />
+	<String id="6383012" string="Deliver the {@RawItem:206814} to Santia." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1836001" string="Giant Problems" />
+	<String id="1836002" string="For the federation!" />
+	<String id="1836003" string="Well done!" />
+	<String id="1836004" string="Destroy the giant gladiators around Arena of the Exalted." />
+	<String id="1836005" string="&quot;I will.&quot;" />
+	<String id="1836006" string="Report to Chenast hiding at the entrance of the Arena of the Exalted." />
+</StrSheet_Quest>

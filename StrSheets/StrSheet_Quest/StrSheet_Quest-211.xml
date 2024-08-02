@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="880001" string="(Vanarch) Depth Charge" />
+	<String id="880002" string="Proof of Kill: Cursed Creatures" />
+	<String id="880003" string="&quot;For the federation!&quot;" />
+	<String id="880004" string="Eliminate the cursed creatures in the Hungry Caverns Depths and gather proof of their deaths." />
+	<String id="880005" string="Report to Rameria." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2028001" string="Old Weapon" />
+	<String id="2028002" string="Be careful!" />
+	<String id="2028003" string="Well done!" />
+	<String id="2028004" string="Old Weapon" />
+	<String id="2028005" string="Kill the ossugon centurions and skeleton spearmen in the Halls of Shadow and retrieve their weapons." />
+	<String id="2028006" string="Deliver the seized weapons to Humam at the Utterdark Outpost in the Halls of Utterdark." />
+	<String id="2028007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

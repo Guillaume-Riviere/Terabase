@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48825001" string="Return to the Dream" />
+	<String id="48825002" string="Ugh...hope I never end up that way." />
+	<String id="48825003" string="Nature sees, friend." />
+	<String id="48825004" string="Dark Essence" />
+	<String id="48825005" string="Collect dark essences from dread wraiths, furious wraiths, and zealous disc reapers in Sinestral Manor.&#10;[You must select Sinestral Manor (Solo) from the Teleportal} to advance this quest.]" />
+	<String id="48825006" string="Report to Kasador." />
+	<String id="48825007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

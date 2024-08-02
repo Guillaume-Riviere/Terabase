@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3329001" string="Meet the Blood Guard" />
+	<String id="3329002" string="I want to know what the enemy's up to." />
+	<String id="3329003" string="Now, how best to use this information..." />
+	<String id="3329004" string="Suspicious Orders" />
+	<String id="3329005" string="Fight the Blood Guard at the Shrieking Catacombs and the Distortion Prison." />
+	<String id="3329006" string="Bring the suspicious orders to Tirisk." />
+	<String id="3329007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

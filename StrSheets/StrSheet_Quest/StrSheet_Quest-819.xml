@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3435001" string="Frosted Elves" />
+	<String id="3435002" string="They need help. They're getting you." />
+	<String id="3435003" string="I really hate this place." />
+	<String id="3435004" string="&quot;As ordered.&quot;" />
+	<String id="3435005" string="Find Centurion Lucael." />
+	<String id="3435006" string="&quot;Thanks.&quot;" />
+	<String id="3435007" string="Speak with Kahuere." />
+</StrSheet_Quest>

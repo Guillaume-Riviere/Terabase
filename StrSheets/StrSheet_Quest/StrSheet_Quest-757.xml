@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3225001" string="Rage against the Ragers" />
+	<String id="3225002" string="I want Kaidun's troops to suffer. Get after them!" />
+	<String id="3225003" string="Imagine how furious Kaidun must be!" />
+	<String id="3225004" string="Sihran Army Insignia" />
+	<String id="3225005" string="Follow the southern road to the Winterwolves Encampment. Eliminate tuwangi thumpers and Sihran ragers, and collect their insignia." />
+	<String id="3225006" string="Deliver the insignia to Qale." />
+	<String id="3225007" string="&quot;Glad to do my duty!&quot;" />
+</StrSheet_Quest>

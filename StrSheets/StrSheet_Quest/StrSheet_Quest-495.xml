@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1926001" string="Building Fences" />
+	<String id="1926002" string="Please gather up the useful timber. I can use them to build fences along the road." />
+	<String id="1926003" string="We'll be safe once the fence is done." />
+	<String id="1926004" string="&quot;It was no trouble.&quot;" />
+	<String id="1926005" string="Collect useful timber from around the Thrallfield." />
+	<String id="1926006" string="Deliver the useful timber to Cregan, just off the road." />
+</StrSheet_Quest>

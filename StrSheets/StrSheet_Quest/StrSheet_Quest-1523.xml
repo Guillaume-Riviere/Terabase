@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10016001" string="Variable Focus" />
+	<String id="10016002" string="&quot;I'll take care of it.&quot;" />
+	<String id="10016003" string="Craft magicworker's staves." />
+	<String id="10016004" string="Take the staves to Maius for inspection." />
+	<String id="10016005" string="" />
+	<String id="10016006" string="Magicworker's Staves" />
+	<String id="10016007" string="Deliver the staves to Jakarian in Chebika." />
+	<String id="10016008" string="&quot;Use them well!&quot;" />
+</StrSheet_Quest>

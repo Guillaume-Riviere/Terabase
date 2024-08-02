@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4231001" string="Shards for Shields" />
+	<String id="4231002" string="We're dead if we can't raise that shield." />
+	<String id="4231003" string="Not a moment too soon, I'd say." />
+	<String id="4231004" string="&quot;Thank you.&quot;" />
+	<String id="4231005" string="Collect eldritch shards from the Chamber of Lost Souls." />
+	<String id="4231006" string="Deliver the shards to Burtrand." />
+</StrSheet_Quest>

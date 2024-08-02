@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51042001" string="A Relic's Value" />
+	<String id="51042002" string="Gather Omphalos Relics." />
+	<String id="51042003" string="Talk to Ozarun." />
+	<String id="51042004" string="Deliver the Omphalos Relics to {@LinkCreature:207#6001#Ozarun}." />
+</StrSheet_Quest>

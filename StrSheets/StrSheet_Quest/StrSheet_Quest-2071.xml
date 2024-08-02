@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61901001" string="[Fishing] Let's Go Fishing" />
+	<String id="61901002" string="&quot;Okay.&quot;" />
+	<String id="61901003" string="Talk to {@linkcreature:183#2060#Waining} in Highwatch." />
+	<String id="61901004" string="&quot;Let's go.&quot;" />
+	<String id="61901005" string="Speak with {@linkcreature:183#2060#Waining} and teleport to Muricai Fishery." />
+	<String id="61901006" string="&quot;I got it.&quot;" />
+	<String id="61901007" string="Claim the reward." />
+	<String id="61901008" string="Go to {@linkcreature:207#9904#Muten} in Muricai Fishery." />
+	<String id="61901009" string="Try fishing." />
+	<String id="61901010" string="&quot;I got it.&quot;" />
+	<String id="61901011" string="Catch a Crayfish at the Muricai Fishery." />
+	<String id="61901012" string="" />
+</StrSheet_Quest>

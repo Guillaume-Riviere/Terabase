@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200121001" string="Weapon Supplies" />
+	<String id="200121002" string="&quot;I'll get some weapons for you.&quot;" />
+	<String id="200121003" string="" />
+	<String id="200121004" string="" />
+	<String id="200121005" string="Naga Weapon" />
+	<String id="200121006" string="" />
+	<String id="200121007" string="Kill the Crystal Mine Fighters, Scouts, and Throwers and collect their weapons." />
+	<String id="200121008" string="Speak with Aurl." />
+	<String id="200121009" string="&quot;Be careful.&quot;" />
+</StrSheet_Quest>

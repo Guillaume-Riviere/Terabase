@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8705001" string="Take the Fight to Them" />
+	<String id="8705002" string="&quot;Good idea.&quot;" />
+	<String id="8705003" string="Hunt elite orcan soldiers and elite war dogs." />
+	<String id="8705004" string="&quot;I'll find her.&quot;" />
+	<String id="8705005" string="Find and talk to an awkward orcan soldier." />
+	<String id="8705006" string="&quot;I'm on it.&quot;" />
+	<String id="8705007" string="Talk to Mirvan." />
+	<String id="8705008" string="&quot;Mirvan will want to hear about this.&quot;" />
+	<String id="8705009" string="Investigate Rahto's journal at Rahto's home." />
+	<String id="8705010" string="&quot;Understood.&quot;" />
+	<String id="8705011" string="Return to Mirvan at the altar." />
+	<String id="8705012" string="Hunt Bleakrock shamans." />
+	<String id="8705013" string="&quot;I understand.&quot;" />
+	<String id="8705014" string="Talk to the awkward orcan soldier again." />
+	<String id="8705015" string="&quot;I'll take care of it.&quot;" />
+	<String id="8705016" string="Talk to Mirvan." />
+	<String id="8705017" string="Hunt tamed basilisks." />
+	<String id="8705018" string="&quot;Thank you.&quot;" />
+	<String id="8705019" string="Talk to Mirvan." />
+</StrSheet_Quest>

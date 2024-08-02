@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60901001" string="Ways of Highwatch Guards" />
+	<String id="60901002" string="Highwatch Guards are the best!" />
+	<String id="60901003" string="Don't compare us with the Highwatch South Gate Guards!" />
+	<String id="60901004" string="&quot;Understood.&quot;" />
+	<String id="60901005" string="Train how the Highwatch Guards do." />
+	<String id="60901006" string="&quot;It was a good workout.&quot;" />
+	<String id="60901007" string="Report to Marmundam." />
+</StrSheet_Quest>

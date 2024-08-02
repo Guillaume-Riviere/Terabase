@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4827001" string="Payback's a Bitch" />
+	<String id="4827002" string="It killed so many of our troops." />
+	<String id="4827003" string="Baruldur's dead? Thank the titans." />
+	<String id="4827004" string="Find {@LinkCreature:48#25} near {@Rgn:48008}, and kill it." />
+	<String id="4827005" string="&quot;Honored to be of service.&quot;" />
+	<String id="4827006" string="Report to {@LinkCreature:248#1001} at {@Rgn:48002}." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="524001" string="Survey Still Says" />
+	<String id="524002" string="Clear 'em out. I'll be grateful." />
+	<String id="524003" string="You make it look easy!" />
+	<String id="524004" string="Kill the hungry cullars and the tentacullars in the eastern part of Marshlands." />
+	<String id="524005" string="&quot;For the federation!&quot;" />
+	<String id="524006" string="Speak to Torvath." />
+</StrSheet_Quest>

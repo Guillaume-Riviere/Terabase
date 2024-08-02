@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4121001" string="Missing Merchant" />
+	<String id="4121002" string="Please find Safna!" />
+	<String id="4121003" string="I risked my life and is this what I get in return?" />
+	<String id="4121004" string="&quot;I will.&quot;" />
+	<String id="4121005" string="Talk to Junith at the north Frontera gate." />
+	<String id="4121006" string="&quot;I'll find her.&quot;" />
+	<String id="4121007" string="Find Safna before he escapes the Quarantine Zone." />
+	<String id="4121008" string="Bring Merchant Safna's complaint letter to Centurion Jeulile at the Feral Valley Station." />
+	<String id="4121009" string="Safna's Letter of Complaint" />
+	<String id="4121010" string="Deliver Safna's letter to Jeulile at Feral Valley Station." />
+	<String id="4121011" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

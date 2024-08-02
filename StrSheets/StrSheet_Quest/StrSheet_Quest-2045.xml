@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60606001" string="Technological Terrors" />
+	<String id="60606002" string="I've seen the argons wielding a strange device. I want it." />
+	<String id="60606003" string="Now we'll learn the truth." />
+	<String id="60606004" string="Sunya Emitter" />
+	<String id="60606005" string="Collect sunya emitters from {@Rgn:49001$$Argonea}, {@Rgn:50001$$Granarkus}, and the {@Rgn:48001$$Khanovar Front}." />
+	<String id="60606006" string="Deliver the emitters to {@LinkCreature:1022#1002}." />
+	<String id="60606007" string="&quot;Good luck with your research.&quot;" />
+</StrSheet_Quest>

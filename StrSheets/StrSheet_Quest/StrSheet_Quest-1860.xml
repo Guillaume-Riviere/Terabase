@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51032001" string="Ghost and Crystal" />
+	<String id="51032002" string="Put the journal away." />
+	<String id="51032003" string="Read the journal." />
+	<String id="51032004" string="Go back to the camp." />
+	<String id="51032005" string="Gather some fleabanes for the treatment." />
+	<String id="51032006" string="There's something odd about the Pile of Stones. Inspect it." />
+	<String id="51032007" string="&quot;I understand.&quot;" />
+	<String id="51032008" string="Speak with the ghost." />
+	<String id="51032009" string="Direction the Ghost Pointed" />
+	<String id="51032010" string="&quot;Straight to the Isolation Camp...&quot;" />
+	<String id="51032011" string="Go in the direction the ghost pointed." />
+	<String id="51032012" string="&quot;Thanks.&quot;" />
+	<String id="51032013" string="Deliver the fleabane to Ryshan and show him the journal." />
+	<String id="51032014" string="Take Ryshan's medicine." />
+	<String id="51032015" string="It tastes awful. No wonder Ameldas didn't want to drink it." />
+	<String id="51032016" string="&quot;Glad to help.&quot;" />
+	<String id="51032017" string="Talk to Ryshan again." />
+	<String id="51032018" string="You feel stiff and itchy." />
+</StrSheet_Quest>

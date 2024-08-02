@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3736001" string="Prion Relics" />
+	<String id="3736002" string="The Gutrends are mainly found north of this camp." />
+	<String id="3736003" string="The prions are more civilized than they appear." />
+	<String id="3736004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="3736005" string="Collect prion relics around the Gutrend camp north of the Phalangeal Research Camp." />
+	<String id="3736006" string="Report to Lumina at Phalangeal Research Camp." />
+</StrSheet_Quest>

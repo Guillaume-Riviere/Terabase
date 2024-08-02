@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4128001" string="Good Medicine" />
+	<String id="4128002" string="I can do wonders with those flowers...if I had flowers." />
+	<String id="4128003" string="These will do. I'll get to work." />
+	<String id="4128004" string="&quot;I'll do it.&quot;" />
+	<String id="4128005" string="Gather azurebound flowers in the caves in northern Feral Valley." />
+	<String id="4128006" string="Gather azurebound flowers for {@linkcreature:241#1019$$Hoorik}." />
+	<String id="4128007" string="Deliver Hoorik's antidote to {@linkcreature:241#1003#Jaebel}." />
+	<String id="4128008" string="Azurebound Flower Antidote" />
+	<String id="4128009" string="Deliver Hoorik's antidote to {@linkcreature:241#1003#Jaebel}." />
+	<String id="4128010" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

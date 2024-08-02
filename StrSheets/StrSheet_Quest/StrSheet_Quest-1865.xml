@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51051001" string="Medical Supplies for the Wounded" />
+	<String id="51051002" string="Go to High Elder Verikam in Highwatch." />
+	<String id="51051003" string="&quot;Okay.&quot;" />
+	<String id="51051004" string="&quot;Okay.&quot;" />
+	<String id="51051005" string="Ask Verikam if he can provide medical supplies." />
+	<String id="51051006" string="Gather 15 Hemostas Plants." />
+	<String id="51051007" string="Gather 15 Blatherweed. " />
+	<String id="51051008" string="&quot;I hope they get well soon.&quot;" />
+	<String id="51051009" string="Speak with Ryshan." />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4221001" string="Supplying the Temple" />
+	<String id="4221002" string="They need those supplies at Camp Venom. Make haste!" />
+	<String id="4221003" string="Those supplies are a relief! Thank you." />
+	<String id="4221004" string="Get supplies for the soldiers in the Temple of Dagon." />
+	<String id="4221005" string="Talk to Dyanne." />
+	<String id="4221006" string="Dyanne" />
+	<String id="4221007" string="Garrison Supplies" />
+	<String id="4221008" string="Deliver the supplies to Langbau at Camp Venom." />
+	<String id="4221009" string="&quot;I was glad to help.&quot;" />
+</StrSheet_Quest>

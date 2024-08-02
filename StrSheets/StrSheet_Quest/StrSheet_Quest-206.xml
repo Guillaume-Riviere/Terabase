@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="840001" string="Tears for the Fallen" />
+	<String id="840002" string="We owe them this." />
+	<String id="840003" string="If only we'd arrived sooner..." />
+	<String id="840004" string="&quot;I wish I could've done more.&quot;" />
+	<String id="840005" string="Collect the villagers remains from the Hungry Caverns Vaults." />
+	<String id="840006" string="Deliver the remains to Karina." />
+</StrSheet_Quest>

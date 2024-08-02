@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="80902001" string="Clean up Macellarius Catacombs I" />
+	<String id="80902002" string="Defeat a boss monster in Macellarius Catacombs.&lt;br>&lt;br>(You can enter Macellarius Catacombs by using Instance Matching, or &quot;Find Group&quot; in Vanguard Requests.)" />
+	<String id="80902003" string="&quot;Thanks.&quot;" />
+	<String id="80902004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

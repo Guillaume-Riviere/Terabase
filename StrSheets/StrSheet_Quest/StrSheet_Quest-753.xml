@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3202001" string="Goddess' Truth" />
+	<String id="3202002" string="&quot;Sure, I can do that.&quot;" />
+	<String id="3202003" string="&quot;I'll do what I can.&quot;" />
+	<String id="3202004" string="Take a pegasus to see Georrif in Acarum." />
+	<String id="3202005" string="&quot;Okay.&quot;" />
+	<String id="3202006" string="Meet Kennance at the Glacial Bay Research Station in Tempest Reach." />
+	<String id="3202007" string="&quot;I can do that.&quot;" />
+	<String id="3202008" string="Find Versa." />
+	<String id="3202009" string="Hunt the ossugon icelord and retrieve the mana wave map." />
+	<String id="3202010" string="&quot;I'll take care of it.&quot;" />
+	<String id="3202011" string="Bring the mana wave map back to Versa." />
+	<String id="3202012" string="Remove the mana wave map." />
+	<String id="3202013" string="Find the first gauge." />
+	<String id="3202014" string="&quot;Off we go.&quot;" />
+	<String id="3202015" string="Find the second gauge." />
+	<String id="3202016" string="&quot;I'll see you later.&quot;" />
+	<String id="3202017" string="Follow the path and find the person who wrote the note." />
+	<String id="3202018" string="&quot;I'll do it right away.&quot;" />
+	<String id="3202019" string="Talk to Matil." />
+	<String id="3202020" string="Spectral Blood" />
+	<String id="3202021" string="Hunt drowned bosuns and drowned officers near Beacon Point Garrison." />
+	<String id="3202022" string="Bring the spectral blood to Matil." />
+	<String id="3202023" string="&quot;I'll do my best.&quot;" />
+	<String id="3202024" string="Kill the Dark Caller, Seraeno, and capture the Onyx Breath.&lt;BR>&lt;BR>&lt;font color='#FF0000'>[Caution] If the quest item is destroyed, you must abandon and restart the quest.&lt;/font>" />
+	<String id="3202025" string="Bloody Tombstone" />
+	<String id="3202026" string="Use the Quiescent Purifier on the Onyx Breath. Use the result to destroy the tombstones in the maelstrom.&lt;BR>&lt;BR>&lt;font color='#FF0000'>[Caution] If the quest item is destroyed, you must abandon and restart the quest.&lt;/font>" />
+	<String id="3202027" string="&quot;Find peace.&quot;" />
+	<String id="3202028" string="Find the tombstone in the center of the Maelstrom." />
+	<String id="3202029" string="&quot;What do you mean?&quot;" />
+	<String id="3202030" string="Speak with Ona." />
+	<String id="3202031" string="&quot;I'm honored. Thank you.&quot;" />
+	<String id="3202032" string="Speak with Zenobia." />
+	<String id="3202033" string="&quot;Right away.&quot;" />
+	<String id="3202034" string="Report back to Matil." />
+	<String id="3202035" string="&quot;I'll do my best.&quot;" />
+	<String id="3202036" string="Report to Harule in Acarum." />
+</StrSheet_Quest>

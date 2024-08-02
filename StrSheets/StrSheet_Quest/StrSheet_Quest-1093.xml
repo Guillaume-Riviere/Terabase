@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4682001" string="Suppression Orders: Sikandari" />
+	<String id="4682002" string="Continual suppression keeps us safe." />
+	<String id="4682003" string="Thank you for your hard work." />
+	<String id="4682004" string="Proof of Kill: Sikandaris" />
+	<String id="4682005" string="&quot;For the federation.&quot;" />
+	<String id="4682006" string="Defeat {@LinkCreature:46#302#argonomorph fiends}, {@LinkCreature:46#301#argonomorph sikandaris}, {@LinkCreature:46#303#argonomorph blood fiends}, and {@LinkCreature:46#304#argonomorph jalmaraks} in the {@Rgn:46005}." />
+	<String id="4682007" string="Report to the nearest coordinator." />
+</StrSheet_Quest>

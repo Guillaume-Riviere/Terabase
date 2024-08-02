@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3427001" string="The Bluer Part of Valor" />
+	<String id="3427002" string="He's not exactly a fighter." />
+	<String id="3427003" string="Can we work together?" />
+	<String id="3427004" string="&quot;I'll speak with Uchamba.&quot;" />
+	<String id="3427005" string="Find Madyar near the Azurice Shrine." />
+	<String id="3427006" string="&quot;I'll do what I can.&quot;" />
+	<String id="3427007" string="Speak with Uchamba near the Azurice Shrine." />
+	<String id="3427008" string="&quot;Many thanks.&quot;" />
+	<String id="3427009" string="Collect the azure shards northeast of the Azurice Shrine." />
+	<String id="3427010" string="Deliver azure shards to Uchamba." />
+</StrSheet_Quest>

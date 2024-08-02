@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17206001" string="In-Flight Entertainment" />
+	<String id="17206002" string="&quot;Got it.&quot;" />
+	<String id="17206003" string="" />
+	<String id="17206004" string="Fieri's Lunchbox" />
+	<String id="17206005" string="Deliver Paesyn's lunch." />
+	<String id="17206006" string="&quot;Absolutely.&quot;" />
+	<String id="17206007" string="&quot;I'll take it.&quot;" />
+	<String id="17206008" string="Talk to Paesyn." />
+	<String id="17206009" string="&quot;Yes, ma'am.&quot;" />
+	<String id="17206010" string="Deliver the poem to Zolyn." />
+	<String id="17206011" string="&quot;Very well.&quot;" />
+	<String id="17206012" string="Talk to Haruho." />
+	<String id="17206013" string="&quot;To arms! Repel boarders!&quot;" />
+	<String id="17206014" string="Talk to Pico." />
+	<String id="17206015" string="Defeat the attackers." />
+	<String id="17206016" string="&quot;I understand.&quot;" />
+	<String id="17206017" string="Talk to Pico." />
+	<String id="17206018" string="Found the door to the deck." />
+	<String id="17206019" string="Talk to Lekul to go on deck!" />
+	<String id="17206020" string="Find Lekul and look for the way to the deck." />
+	<String id="17206021" string="&quot;I'm here to help.&quot;" />
+	<String id="17206022" string="Proceed to the deck and report to Dougal." />
+</StrSheet_Quest>

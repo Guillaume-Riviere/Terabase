@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1030001" string="Claws and Effect" />
+	<String id="1030002" string="Those claws make fine tools!" />
+	<String id="1030003" string="If you get tired of soldiering, you've got a bright future as a hunter." />
+	<String id="1030004" string="Arachnen Claws" />
+	<String id="1030005" string="Collect claws from arachnen warriors on Serpentis Isle." />
+	<String id="1030006" string="Deliver the claws to Kishastana at the Beachhead." />
+	<String id="1030007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

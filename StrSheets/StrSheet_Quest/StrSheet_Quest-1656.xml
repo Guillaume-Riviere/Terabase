@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18204001" string="Closer to the Truth" />
+	<String id="18204002" string="&quot;Got it.&quot;" />
+	<String id="18204003" string="" />
+	<String id="18204004" string="Rhodos's Sigil" />
+	<String id="18204005" string="Head west from the camp and show &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#8830, -17430, 1275&amp;type=1&amp;name=Rhodos's sigil&quot;>Rhodos's sigil&lt;/A>&lt;/font> to Gaku." />
+	<String id="18204006" string="&quot;Got it.&quot;" />
+	<String id="18204007" string="" />
+	<String id="18204008" string="Rhodos's Sigil" />
+	<String id="18204009" string="Look for &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#7375, -22939, 908&amp;type=1&amp;name=Roderan&quot;>Roderan&lt;/A>&lt;/font> west of the hot springs and ask for directions." />
+	<String id="18204010" string="&quot;Got it.&quot;" />
+	<String id="18204011" string="&quot;Thanks.&quot;" />
+	<String id="18204012" string="Gather blatherweed near the stream and waterfall." />
+	<String id="18204013" string="Deliver the blatherweed to Roderan." />
+	<String id="18204014" string="" />
+	<String id="18204015" string="Rhodos's Sigil" />
+	<String id="18204016" string="Follow the road to &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#6575, -25848, 999&amp;type=1&amp;name=Donel&quot;>Donel&lt;/A>&lt;/font> and show him Rhodos's sigil." />
+	<String id="18204017" string="&quot;I'll do that, thanks.&quot;" />
+	<String id="18204018" string="Archdevan Mystic and Demokron Shock Troopers" />
+	<String id="18204019" string="Kill Archdevan Mystics and Demokron Shock Troopers in the training ground." />
+	<String id="18204020" string="" />
+	<String id="18204021" string="Rhodos's Sigil" />
+	<String id="18204022" string="&lt;BR>Meet &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#8937, -25512, 842&amp;type=1&amp;name=Saduran&quot;>Saduran&lt;/A>&lt;/font> near the Western Varakaley teleport platform." />
+	<String id="18204023" string="&quot;Got it.&quot;" />
+	<String id="18204024" string="" />
+	<String id="18204025" string="Rhodos's Sigil" />
+	<String id="18204026" string="Go north, meet Cromagh, and show him the talismans." />
+	<String id="18204027" string="&quot;Okay, but I need to know how they work.&quot;" />
+</StrSheet_Quest>

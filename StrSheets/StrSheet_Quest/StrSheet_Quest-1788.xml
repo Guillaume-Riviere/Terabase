@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47627001" string="The Lasher" />
+	<String id="47627002" string="A lot bigger. With armor." />
+	<String id="47627003" string="Still will, probably." />
+	<String id="47627004" string="Eliminate Xalory the Lasher in Shriekaal Hall.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.]" />
+	<String id="47627005" string="&quot;Thanks for the warning.&quot;" />
+	<String id="47627006" string="Report to Sember at the Furnace Approach." />
+</StrSheet_Quest>

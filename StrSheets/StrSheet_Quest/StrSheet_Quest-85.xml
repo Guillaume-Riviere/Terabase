@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="435001" string="A Burning Mystery" />
+	<String id="435002" string="Marakadi's death will send a message." />
+	<String id="435003" string="I'll need to update my report to Castanica." />
+	<String id="435004" string="Fiery Key" />
+	<String id="435005" string="Find Marakadi in the western edge of Blazing Vale and kill her. Take any clues or tools she carries." />
+	<String id="435006" string="Use the fiery key on the Cruental Pylon." />
+	<String id="435007" string="Take the tablet." />
+	<String id="435008" string="Engraved Tablet" />
+	<String id="435009" string="Engraved Tablet" />
+	<String id="435010" string="Deliver the tablet to Kimuk." />
+	<String id="435011" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

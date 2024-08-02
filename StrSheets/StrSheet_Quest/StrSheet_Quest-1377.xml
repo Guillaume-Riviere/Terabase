@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5636001" string="You and What Army" />
+	<String id="5636002" string="I want Gelgatum's staff!" />
+	<String id="5636003" string="What does Killian stand to gain from this?" />
+	<String id="5636004" string="Dreamreaver Staff" />
+	<String id="5636005" string="Clever. Determined. But ultimately...futile." />
+	<String id="5636006" string="No matter. The master's plans...are flawless." />
+	<String id="5636007" string="Kill Gelgatum and get his staff." />
+	<String id="5636008" string="Report to Sharithia." />
+	<String id="5636009" string="&quot;Every bit helps.&quot;" />
+</StrSheet_Quest>

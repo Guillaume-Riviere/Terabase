@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60118001" string="A Summons from the Invalesco" />
+	<String id="60118002" string="&quot;As do I.&quot;" />
+	<String id="60118003" string="Report to {@LinkCreature:77#3001#Nithan} at {@Rgn:77001$$Pathfinder Post}." />
+</StrSheet_Quest>

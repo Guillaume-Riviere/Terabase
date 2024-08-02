@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="232001" string="Pluck Their Wings" />
+	<String id="232002" string="Kill the faeries that are interfering with lumbering." />
+	<String id="232003" string="Now I can get back to work." />
+	<String id="232004" string="Faerie Analysis" />
+	<String id="232005" string="Collect wings from faeries." />
+	<String id="232006" string="Report to Keta." />
+	<String id="232007" string="&quot;Happy to help out.&quot;" />
+</StrSheet_Quest>

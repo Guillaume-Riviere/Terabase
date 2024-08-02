@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="601001" string="Emergency Support" />
+	<String id="601002" string="&quot;Of course I'll help.&quot;" />
+	<String id="601003" string="Speak with Prefect Daven in Lumbertown." />
+	<String id="601004" string="&quot;As ordered!&quot;" />
+	<String id="601005" string="Report to Petrina at Two Oaks Ranch." />
+	<String id="601006" string="Defeat Smulch, who is wandering the road near Two Oaks Ranch." />
+	<String id="601007" string="&quot;For the federation!&quot;" />
+	<String id="601008" string="Report to Petrina at Two Oaks Ranch." />
+	<String id="601009" string="&quot;Happy to be of service.&quot;" />
+	<String id="601010" string="Speak with Lethar at Echo Ranch." />
+	<String id="601011" string="&quot;Consider it done.&quot;" />
+	<String id="601012" string="Speak with Sozia at the outskirts of Colchester." />
+	<String id="601013" string="&quot;I'm here to rescue you!&quot;" />
+	<String id="601014" string="Thank you for saving us. We'll never forget you!" />
+	<String id="601015" string="Rescue the villagers trapped inside Colchester and escort them to Sozia." />
+	<String id="601016" string="&quot;Will do.&quot;" />
+	<String id="601017" string="Speak with Sozia on the outskirts of Colchester." />
+</StrSheet_Quest>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8704001" string="Secret of the Red Seal" />
+	<String id="8704002" string="&quot;I'm here to help.&quot;" />
+	<String id="8704003" string="&quot;I'll do what I can.&quot;" />
+	<String id="8704004" string="Recover the garrison supplies." />
+	<String id="8704005" string="Bring the garrison supplies to Ketrath." />
+	<String id="8704006" string="&quot;I'll go get them.&quot;" />
+	<String id="8704007" string="Talk to Leon." />
+	<String id="8704008" string="&quot;I'll find him.&quot;" />
+	<String id="8704009" string="Talk to Esere." />
+	<String id="8704010" string="&quot;Head back to the camp.&quot;" />
+	<String id="8704011" string="Talk to Milio." />
+	<String id="8704012" string="Red Seal" />
+	<String id="8704013" string="Collect 20 red seals from tamed arachnens, orcan tamers, and orcan marauders." />
+	<String id="8704014" string="Bring red seals to Lapau." />
+	<String id="8704015" string="&quot;Who's here?&quot;" />
+	<String id="8704016" string="&quot;Thank you.&quot;" />
+	<String id="8704017" string="Talk to Mirvan." />
+</StrSheet_Quest>

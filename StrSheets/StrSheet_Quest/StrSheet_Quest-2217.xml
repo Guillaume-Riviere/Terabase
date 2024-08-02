@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="302302001" string="[Dungeon - 463] Hidden Enemy" />
+	<String id="302302002" string="&quot;Okay.&quot; " />
+	<String id="302302003" string="Speak with Aheaf in Verrak Fortress." />
+	<String id="302302004" string="Akalath Quarantine" />
+	<String id="302302005" string="You feel something familiar." />
+	<String id="302302006" string="Enter Akalath Quarantine through the {@LinkCreature:2003#1501#teleportal}." />
+	<String id="302302007" string="Defeat {@LinkCreature:3023#1000#Akalath Travan}." />
+	<String id="302302008" string="Defeat {@LinkCreature:3023#2000#Akalath Kashir}." />
+	<String id="302302009" string="&quot;All right.&quot; " />
+	<String id="302302010" string="Speak with Aheaf in Verrak Fortress.&#10;[If you complete the quest, the quest [Important] Kaia’s Anvil will be activated automatically.]" />
+</StrSheet_Quest>

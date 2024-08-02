@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5232001" string="Eliminate Thulsa's Cavalry Brigade" />
+	<String id="5232002" string="Just go do what you do best." />
+	<String id="5232003" string="We won't forget what you've done for us." />
+	<String id="5232004" string="I'll drill a hole into your head!" />
+	<String id="5232005" string="This isn't the end!" />
+	<String id="5232006" string="Eliminate Cursed Legion dragoons and their leader near Firebase Audacity." />
+	<String id="5232007" string="&quot;For the federation!&quot;" />
+	<String id="5232008" string="Report to Karrteh at Firebase Audacity." />
+</StrSheet_Quest>

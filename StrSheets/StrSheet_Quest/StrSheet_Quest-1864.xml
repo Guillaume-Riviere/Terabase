@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51050001" string="Missing? Impossible! " />
+	<String id="51050002" string="&quot;Dead or alive, bring back our men!&quot;" />
+	<String id="51050003" string="&quot;I'm on it!&quot;" />
+	<String id="51050004" string="Search for the lost patrol." />
+	<String id="51050005" string="Nod." />
+	<String id="51050006" string="Talk to Dougal." />
+	<String id="51050007" string="This soldier has passed out." />
+</StrSheet_Quest>

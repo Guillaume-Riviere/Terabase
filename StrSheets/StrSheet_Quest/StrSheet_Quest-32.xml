@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="270001" string="Suppression Orders: Sabertooths (Guild)" />
+	<String id="270002" string="Proof of Kill: Sabertooths" />
+	<String id="270003" string="&quot;Reporting in!&quot;" />
+	<String id="270004" string="Hunt slinking sabertooths in the Fey Forest." />
+	<String id="270005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

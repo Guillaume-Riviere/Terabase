@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3429001" string="The Burden of Leadership" />
+	<String id="3429002" string="Surely they'll retreat. They must." />
+	<String id="3429003" string="Now we can focus on mining for a while." />
+	<String id="3429004" string="Wendigo Focus" />
+	<String id="3429005" string="Kill the wendigo {@linkcreature:34#510#frostweavers} and {@linkcreature:34#500#frostmages} east of Icebase Stalker and collect their foci." />
+	<String id="3429006" string="Deliver the foci to Randaxia at Icebase Stalker." />
+	<String id="3429007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

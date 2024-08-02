@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4622001" string="Strange Golem" />
+	<String id="4622002" string="Please get samples of the {@creature:46#7001$$tholzak emitter} for me." />
+	<String id="4622003" string="Thanks a lot for bringing the samples." />
+	<String id="4622004" string="Find and break the {@creature:46#7001$$tholzak emitter} in the {@Rgn:46018$$Three Towers Upper Level} and collect tholzak emitter element." />
+	<String id="4622005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4622006" string="Collect tholzak emitter elements." />
+	<String id="4622007" string="Go to the {@Rgn:46019$$Beastroar Chamber} and deliver the tholzak emitter elements to {@creature:246#1025$$Alecian}." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2036001" string="Glow Little Glowstone" />
+	<String id="2036002" string="Good luck." />
+	<String id="2036003" string="For the federation!" />
+	<String id="2036004" string="&quot;For the federation!&quot;" />
+	<String id="2036005" string="Collect cultist's glowstones from deposits of glowing ore in the Halls of Utterdark." />
+	<String id="2036006" string="Deliver the magic stones to Lamya." />
+</StrSheet_Quest>

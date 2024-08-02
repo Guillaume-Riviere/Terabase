@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="339001" string="Out on the Edge" />
+	<String id="339002" string="Here, take this canteen." />
+	<String id="339003" string="May they rest in peace." />
+	<String id="339004" string="Droyan" />
+	<String id="339005" string="Droyan's Canteen" />
+	<String id="339006" string="Find Rasima, currently hiding in Deva Silva, and bring her some water." />
+	<String id="339007" string="&quot;Of course I'll help.&quot;" />
+	<String id="339008" string="&quot;This is for his family.&quot;" />
+	<String id="339009" string="Find Keleth's corpse in Deva Silva." />
+	<String id="339010" string="Dead vigilante's corpse." />
+	<String id="339011" string="Keleth's Ring" />
+	<String id="339012" string="Return the ring to Rasima." />
+	<String id="339013" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4829001" string="Fallen, but Not Forgotten" />
+	<String id="4829002" string="We can't just leave them out there." />
+	<String id="4829003" string="I'll see you in Pareseshan, brothers." />
+	<String id="4829004" string="&quot;Rest well, my friend.&quot;" />
+	<String id="4829005" string="&quot;I honor your sacrifice.&quot;" />
+	<String id="4829006" string="&quot;I'll get you home.&quot;" />
+	<String id="4829007" string="&quot;May Kaia honor you.&quot;" />
+	<String id="4829008" string="Retrieve the horns from the slain blacksmiths." />
+	<String id="4829009" string="{@LinkCreature:248#1030}" />
+	<String id="4829010" string="Amani Horn" />
+	<String id="4829011" string="Deliver the horns to Chatran." />
+	<String id="4829012" string="&quot;I'm glad I could help.&quot;" />
+</StrSheet_Quest>

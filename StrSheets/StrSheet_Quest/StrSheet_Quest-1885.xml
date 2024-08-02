@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55029001" string="To the Front Lines V" />
+	<String id="55029002" string="Hunt 10 Brutal Fimbrilisks on the Island of Dawn.&lt;br>&lt;br>(You can teleport directly to a BAM-hunting area via the Vanguard Requests window.)" />
+	<String id="55029003" string="&quot;Thanks.&quot;" />
+	<String id="55029004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

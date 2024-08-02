@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="342001" string="Blazing Eyes" />
+	<String id="342002" string="Only the really best eyes, mind." />
+	<String id="342003" string="Creepy, but possibly useful." />
+	<String id="342004" string="Pristine Eyeball" />
+	<String id="342005" string="Collect pristine eyeballs from basilisks in the Bestial Vale." />
+	<String id="342006" string="Deliver the eyeballs to Parlan." />
+	<String id="342007" string="&quot;Watch out for these.&quot;" />
+</StrSheet_Quest>

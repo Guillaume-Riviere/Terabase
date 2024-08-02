@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50501001" string="[Apex] Velika Banquet" />
+	<String id="50501002" string="&quot;I'd be honored.&quot;" />
+	<String id="50501003" string="Talk to Braga." />
+	<String id="50501004" string="Use the invitation to teleport to Velika." />
+	<String id="50501005" string="Platform - Velika" />
+	<String id="50501006" string="You see Nerinder." />
+	<String id="50501007" string="Talk to Nerinder to go to the Velika Banquet." />
+	<String id="50501008" string="Velika Banquet Entrance" />
+	<String id="50501009" string="Arrived at Velika Banquet Entrance." />
+	<String id="50501010" string="Talk to &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=1#944,4009,1778&amp;type=1&amp;name=Nerinder&quot;>Nerinder&lt;/A>&lt;/font> and teleport to the Velika Banquet." />
+	<String id="50501011" string="&quot;I'll have a word with the Guard Captain.&quot;" />
+	<String id="50501012" string="Talk to Verdas.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501013" string="&quot;I see. Very well.&quot;" />
+	<String id="50501014" string="Speak with Kamilia.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501015" string="" />
+	<String id="50501016" string="&quot;Thank you.&quot;" />
+	<String id="50501017" string="Go to Velika Headquarters and speak to Seir.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501018" string="&quot;I guess I’ll hit the dance floor, then.&quot;" />
+	<String id="50501019" string="Speak to Meren to get information about the celebration.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501020" string="Banquet Dance Floor" />
+	<String id="50501021" string="Dance with the people." />
+	<String id="50501022" string="Go to the Dance Floor.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501023" string="That was exhilirating!" />
+	<String id="50501024" string="Type &quot;/dance&quot; in your Chat window to dance.&lt;br>(The quest completes when you finish dancing.)&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501025" string="&quot;I am a bit hungry, actually.&quot;" />
+	<String id="50501026" string="Speak to Etomar.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501027" string="Traditional Bleakfields BBQ" />
+	<String id="50501028" string="Freeholds Flame Salad" />
+	<String id="50501029" string="Bleak Wings" />
+	<String id="50501030" string="All this dancing has worked up an appetite. &lt;br>Speak to Eritomar.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501031" string="&quot;I can hardly wait.&quot;" />
+	<String id="50501032" string="&quot;This smells wonderful!&quot;" />
+	<String id="50501033" string="Take your meal.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501034" string="&quot;Mmm...looks tasty!&quot;" />
+	<String id="50501035" string="Take your meal.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501036" string="&quot;Ah, nice and spicy!&quot;" />
+	<String id="50501037" string="Take your meal.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501038" string="Eat the Traditional Bleakfields BBQ.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501039" string="Eat the Freeholds Flame Salad.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501040" string="Eat the Bleak Wings.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501041" string="&quot;Okay. Thanks.&quot;" />
+	<String id="50501042" string="Speak to Eritomar.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501043" string="&quot;Just pick one, eh?&quot;" />
+	<String id="50501044" string="Speak to Carbest.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501045" string="Use the key to open one of the four boxes.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501046" string="&quot;Sure, I can see that.&quot;" />
+	<String id="50501047" string="Obtain the Velika Banquet Coin from the lucky box.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501048" string="Speak to Carbest.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+	<String id="50501049" string="&quot;Why, thank you!&quot;" />
+	<String id="50501050" string="Speak to Meren.&#10;[Talk to Nerinder, who’s near {@linkcreature:63#1604#Maius}, to get to the Velika Banquet.]" />
+</StrSheet_Quest>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1831001" string="Head of the Cult" />
+	<String id="1831002" string="For the federation!" />
+	<String id="1831003" string="Good work, soldier." />
+	<String id="1831004" string="Anaka" />
+	<String id="1831005" string="Anaka's Orders" />
+	<String id="1831006" string="Bring Anaka's order to Chenast, who is hiding at the entrance of the Arena of the Exalted." />
+	<String id="1831007" string="&quot;I can do it.&quot;" />
+	<String id="1831008" string="Cultist's Head" />
+	<String id="1831009" string="It can't be..." />
+	<String id="1831010" string="You'll burn!" />
+	<String id="1831011" string="Kill the Lokian vanguards and magisters near the Plaza of the Mighty. Bring back their heads." />
+	<String id="1831012" string="Show the cultists' heads to Chenast." />
+	<String id="1831013" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

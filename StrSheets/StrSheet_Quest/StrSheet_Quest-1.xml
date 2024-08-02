@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1" string="Accept" />
+	<String id="2" string="Decline" />
+	<String id="3" string="None" />
+	<String id="4" string="Solo" />
+	<String id="5" string="Party" />
+	<String id="6" string="Quest failed. Will automatically restart in a few moments." />
+	<String id="7" string="Quest failed. Teleport out to try again." />
+	<String id="8" string="Not Yet Unlocked" />
+	<String id="9" string="Required level:" />
+	<String id="10" string="Maximum level" />
+	<String id="11" string="Required quest:" />
+	<String id="12" string="You must first complete all preceding quests." />
+	<String id="13" string="You must first complete at least one preceding quest." />
+	<String id="14" string="This quest has no summary." />
+	<String id="15" string="Location Unknown" />
+	<String id="16" string="Diminished quest reward for {QuestName}." />
+	<String id="20" string="[Full]" />
+	<String id="21" string="[Your quest item space is full. Make room for more quest items by turning some in.]" />
+	<String id="22" string="Quest Line:" />
+	<String id="23" string="Recommended for: " />
+	<String id="24" string="Main location:" />
+	<String id="25" string="Lv." />
+	<String id="30" string="Hunt" />
+	<String id="31" string="Battlefield" />
+	<String id="32" string="Crafting" />
+	<String id="33" string="" />
+	<String id="101" string="Find:" />
+	<String id="102" string="" />
+	<String id="103" string="Destination:" />
+	<String id="104" string="Target:" />
+	<String id="105" string="" />
+	<String id="106" string="Target(s):" />
+	<String id="107" string="Source:" />
+	<String id="108" string="Source:" />
+	<String id="109" string="" />
+	<String id="110" string="" />
+	<String id="111" string="To:" />
+	<String id="112" string="To:" />
+	<String id="113" string="" />
+	<String id="114" string="Escort:" />
+	<String id="115" string="Protect:" />
+	<String id="116" string="" />
+	<String id="117" string="Target(s):" />
+	<String id="118" string="Source:" />
+	<String id="119" string="" />
+	<String id="120" string="Target:" />
+	<String id="207" string="To:" />
+	<String id="208" string="To:" />
+	<String id="210" string="To:" />
+	<String id="213" string="To:" />
+	<String id="300" string="Guild Quest Reward Coordinator" />
+	<String id="301" string="Interact" />
+	<String id="302" string="Earning Points" />
+	<String id="303" string="Successful Fishing" />
+	<String id="304" string="Adventure Coin" />
+	<String id="305" string="Production Point" />
+	<String id="306" string="Order Complete" />
+	<String id="400" string="Vanarch Guild" />
+	<String id="401" string="Guild level" />
+	<String id="402" string="Class" />
+	<String id="403" string="Race" />
+	<String id="404" string="Quest start:" />
+	<String id="405" string="Use {Itemname}" />
+	<String id="406" string="Received immediately" />
+	<String id="407" string="Received from {NpcName}" />
+	<String id="408" string="Already completed." />
+	<String id="409" string="Not completed." />
+	<String id="410" string="Urgent Orders from {TerritoryName}" />
+	<String id="501" string="Guardian Legion Mission" />
+	<String id="9901" string="idle1" />
+	<String id="9902" string="idle2" />
+	<String id="9903" string="idle3" />
+	<String id="9904" string="talk1" />
+	<String id="9905" string="talk2" />
+	<String id="9906" string="talk3" />
+	<String id="9907" string="victory" />
+	<String id="9908" string="applaud" />
+	<String id="9909" string="request" />
+	<String id="9910" string="worry" />
+	<String id="9911" string="shy" />
+	<String id="9912" string="angry" />
+	<String id="9913" string="sob" />
+	<String id="9914" string="greet" />
+	<String id="9915" string="taunt" />
+	<String id="9916" string="propose" />
+	<String id="9917" string="attack" />
+	<String id="9918" string="pointing" />
+	<String id="9919" string="dance" />
+	<String id="9920" string="smile" />
+	<String id="250001" string="The tree behind me is the World Tree!" />
+	<String id="250002" string="The World Tree and the Tower of Shara are the two pillars of this world." />
+	<String id="250021" string="You know," />
+	<String id="250022" string="I want this world's Zolyn to smile more often." />
+	<String id="250023" string="I'm happy just to watch her from a distance like this." />
+</StrSheet_Quest>

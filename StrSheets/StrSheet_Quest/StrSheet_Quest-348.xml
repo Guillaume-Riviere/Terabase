@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1324001" string="Essence and Sensibility" />
+	<String id="1324002" string="This is the last thing I'll ask of you. Take out those trees!" />
+	<String id="1324003" string="How interesting..." />
+	<String id="1324004" string="Heartwood Essence" />
+	<String id="1324005" string="Obtain heartwood essence from elder or hardened ghilliedhus." />
+	<String id="1324006" string="Return to Dulari." />
+	<String id="1324007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

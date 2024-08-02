@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6357001" string="Pony Up" />
+	<String id="6357002" string="&quot;Certainly.&quot;" />
+	<String id="6357003" string="Visit Haines at the outskirts of Velika." />
+	<String id="6357004" string="&quot;For the federation!&quot;" />
+	<String id="6357005" string="Collect extract from veridia plants on the grounds nearby the ranch." />
+	<String id="6357006" string="Deliver the extract to Haines." />
+</StrSheet_Quest>

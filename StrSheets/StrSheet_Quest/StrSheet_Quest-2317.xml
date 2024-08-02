@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800015001" string="Complete the Timescape" />
+	<String id="800015002" string="[Timescape] Defeat Valona!" />
+	<String id="800015003" string="Claim your reward!" />
+</StrSheet_Quest>

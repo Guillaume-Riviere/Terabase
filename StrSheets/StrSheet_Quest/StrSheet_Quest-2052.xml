@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60707001" string="Fusion Confusion" />
+	<String id="60707002" string="Fusion is the future!" />
+	<String id="60707003" string="I've never met anyone so brilliant!" />
+	<String id="60707004" string="Return the book to the shelf." />
+	<String id="60707005" string="Find the Fusion Science Record on the shelf in the Collegium Arcane." />
+	<String id="60707006" string="" />
+	<String id="60707007" string="" />
+	<String id="60707008" string="" />
+	<String id="60707009" string="Go to theoretician Klissa in the Unified Field Lab." />
+	<String id="60707010" string="&quot;Show me the future! Test me!&quot;" />
+	<String id="60707011" string="1. Fate" />
+	<String id="60707012" string="2. Love" />
+	<String id="60707013" string="3. Dreams" />
+	<String id="60707014" string="4. Magic" />
+	<String id="60707015" string="Go to theoretician Klissa and take her test." />
+	<String id="60707016" string="&quot;Understood.&quot;" />
+	<String id="60707017" string="1. Speed and acceleration" />
+	<String id="60707018" string="2. Magic and machinery" />
+	<String id="60707019" string="3. Male and female" />
+	<String id="60707020" string="4. Action and reaction" />
+	<String id="60707021" string="Go to theoretician Klissa and take her test." />
+	<String id="60707022" string="&quot;Got it.&quot;" />
+	<String id="60707023" string="1. Allemantheia" />
+	<String id="60707024" string="2. Pegasus travel" />
+	<String id="60707025" string="3. The Core" />
+	<String id="60707026" string="4. Magic stones" />
+	<String id="60707027" string="Go to theoretician Klissa and take her test." />
+	<String id="60707028" string="&quot;I understand.&quot;" />
+	<String id="60707029" string="&quot;Fusion is easy!&quot;" />
+	<String id="60707030" string="Claim your reward from Klissa." />
+</StrSheet_Quest>

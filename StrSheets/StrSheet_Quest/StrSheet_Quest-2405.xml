@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810004001" string="Complete the Cultists' Refuge" />
+	<String id="810004002" string="[Cultists' Refuge] Defeat Bhaozurbas!" />
+	<String id="810004003" string="Claim your reward!" />
+</StrSheet_Quest>

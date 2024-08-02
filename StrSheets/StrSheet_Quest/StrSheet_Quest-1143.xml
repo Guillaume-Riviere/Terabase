@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4842001" string="Priority Targets" />
+	<String id="4842002" string="Please kill those wretched gilgash guardians!" />
+	<String id="4842003" string="Everyone's talking about you." />
+	<String id="4842004" string="Kill gilgash guardians east of Khanovar Citadel." />
+	<String id="4842005" string="&quot;You're welcome.&quot;" />
+	<String id="4842006" string="Report back to {@LinkCreature:248#1001}." />
+</StrSheet_Quest>

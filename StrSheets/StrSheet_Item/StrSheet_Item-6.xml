@@ -1,0 +1,718 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="247500" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247501" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247502" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247503" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247504" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247505" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247506" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247507" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247508" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247509" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247510" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247511" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247512" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247513" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247514" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247515" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247516" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247517" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247518" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247519" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247520" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247521" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247522" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247523" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247524" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247525" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247526" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247527" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247528" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247529" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247530" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247531" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247532" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247533" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247534" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247535" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247536" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247537" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247538" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247539" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247540" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247541" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247542" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247543" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247544" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247545" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247546" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247547" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247548" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247549" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247550" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247551" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247552" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247553" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247554" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247555" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247556" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247557" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247558" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247559" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247560" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247561" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247562" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247563" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247564" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247565" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247566" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247567" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247568" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247569" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247570" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247571" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247572" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247573" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247574" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247575" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247576" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247577" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247578" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247579" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247580" string="Smart Box: Chambermaid's Curtsy" toolTip="A smart box containing the Chambermaid's Curtsy emote. This emote only works while wearing a Chambermaid's Dress. [Smart boxes automatically generate the corresponding emote for your character when you open them.]" />
+	<String id="247581" string="Modern Campus Look Box (Dyeable)" toolTip="A smartbox contaning a Modern Campus Look Costume (Dyeable). [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247582" string="Modern Campus Look Box (Dyeable)" toolTip="A smartbox contaning a Modern Campus Look Costume (Dyeable). [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247583" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247584" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247585" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="247586" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247587" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247588" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247589" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247590" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247591" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247592" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247593" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247594" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247595" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247596" string="Modern Campus Look Box (Dyeable)" toolTip="A smartbox contaning a Modern Campus Look Costume (Dyeable). [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247597" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="247598" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247599" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247600" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247601" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247602" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247603" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247604" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247605" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247606" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247607" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247608" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247609" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247610" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247611" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247612" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247613" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247614" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247615" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247616" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247617" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247618" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247619" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="247620" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247621" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247622" string="Smoldering Soul Wing Loot Box" toolTip="Spred your wings wide and embrace your fate!&amp;lt;BR&amp;gt;&amp;lt;BR&amp;gt;Guaranteed to contain a Dual Fate Token. Also contains one of the following items:&amp;lt;BR&amp;gt;Twin Soul Wings (2%)&amp;lt;BR&amp;gt;Smoldering Soul Wings (1%)&amp;lt;BR&amp;gt;Modular Fashion Forward Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Fish Dish Chest (6–8) (10%)&amp;lt;BR&amp;gt;Modular Noctenium Nation Chest (6–8) (40%)&amp;lt;BR&amp;gt;Modular Potion Notion Chest (6–8) (25%)&amp;lt;BR&amp;gt;Modular Pet Treat Chest (6–8) (5%)&amp;lt;BR&amp;gt;Modular Cut Gem Chest (6–8) (7.5%)&amp;lt;BR&amp;gt;Modular Great Bait Chest (6–8) (5%)" />
+	<String id="247623" string="Smart Box: Swimwear Male A + Female A" toolTip="A smart box containing a Safeguard Costume for Males or a Swimwear A for Females. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247624" string="Smart Box: Swimwear Male B + Female D" toolTip="A smart box containing a Diver Costume for Males or a Swimwear D for Females. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247625" string="Smart Box: Swimwear Female B" toolTip="A smart box containing a Swimwear B. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247626" string="Smart Box: Swimwear Female C" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247627" string="Smart Box: Swimwear Male A + Female A (7 Days)" toolTip="A smart box containing a Safeguard Costume for Males or a Swimwear A for Females. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247628" string="Smart Box: Swimwear Male B + Female D (7 Days)" toolTip="A smart box containing a Diver Costume for Males or a Swimwear D for Females. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247629" string="Smart Box: Swimwear Female B (7 Days)" toolTip="A smart box containing a Swimwear B. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247630" string="Smart Box: Swimwear Female C (7 Days)" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247631" string="Smartbox: Elemental weapon (non-tradable)" toolTip="Smart boxes automatically generate the corresponding equipment for your character when you open them." />
+	<String id="247632" string="Smartbox: Elemental weapon" toolTip="Smart boxes automatically generate the corresponding equipment for your character when you open them." />
+	<String id="247633" string="Smartbox: Rare elemental weapon (non-tradable)" toolTip="Smart boxes automatically generate the corresponding equipment for your character when you open them." />
+	<String id="247634" string="Smartbox: Rare elemental weapon" toolTip="Smart boxes automatically generate the corresponding equipment for your character when you open them." />
+	<String id="247635" string="Smartbox: Rare elemental weapon (3 days)" toolTip="Smart boxes automatically generate the corresponding equipment for your character when you open them." />
+	<String id="247636" string="Wheel of Fortune box" toolTip="Special box containing rare elemental weapon skin." />
+	<String id="247637" string="Wheel of Fortune box: Blue Phoenix" toolTip="Special box containing Riding skill: Summon Phoenix (Blue) (Rare)" />
+	<String id="247638" string="Wheel of Fortune box: Red Phoenix" toolTip="Special box containing Riding skill: Summon Phoenix (Red) (Rare)" />
+	<String id="247639" string="Smartbox: Suit or dress (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247640" string="Smartbox: Suit or dress (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247641" string="Smartbox: Suit or dress (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247642" string="Smartbox: Suit or dress (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247643" string="Smartbox: Suit or dress (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247644" string="Smartbox: Suit or dress (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247645" string="Smartbox: Mummy costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247646" string="Smartbox: Mummy costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247647" string="Smartbox: Mummy costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247648" string="Smartbox: Dyeable mummy costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247649" string="Smartbox: Dyeable mummy costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247650" string="Smartbox: Dyeable mummy costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247651" string="Smartbox: Elemental costume (non-tradable)" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247652" string="Smartbox: Elemental costume" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247653" string="Smartbox: Elemental costume (3 days)" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247654" string="Smartbox: Rare elemental costume (non-tradable)" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247655" string="Smartbox: Rare elemental costume" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247656" string="Smartbox: Rare elemental costume (3 days)" toolTip="A smart box containing a Swimwear C. [Smart boxes automatically generate an exact match to the character who opens it.]" />
+	<String id="247657" string="Smartbox: Stage Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247658" string="Smartbox: Stage Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247659" string="Smartbox: Stage Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247660" string="Smartbox: Dyeable Stage Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247661" string="Smartbox: Dyeable Stage Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247662" string="Smartbox: Dyeable Stage Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247663" string="Wheel of Fortune box" toolTip="Special box containing Stage Costume (Elin) (Rare)" />
+	<String id="247664" string="Wheel of Fortune box" toolTip="Special box containing Effect: Kkultteok Bunny" />
+	<String id="247665" string="Wheel of Fortune box" toolTip="Special box containing Effect: Rubber Duck" />
+	<String id="247666" string="Wheel of Fortune box" toolTip="Special box containing Effect: Cutie" />
+	<String id="247667" string="Wheel of Fortune box" toolTip="Special box containing Effect: Nigiri Kitty" />
+	<String id="247668" string="Wheel of Fortune box" toolTip="Special box containing Effect: Rainbow Rabbit" />
+	<String id="247669" string="Wheel of Fortune box" toolTip="Special box containing Effect: Kkultteok Rabbit" />
+	<String id="247670" string="Smartbox: Mechanical Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247671" string="Smartbox: Mechanical Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247672" string="Smartbox: Mechanical Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247673" string="Smartbox: Mechanical Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247674" string="Smartbox: Dyeable Mechanical Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247675" string="Smartbox: Dyeable Mechanical Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247676" string="Smartbox: Dyeable Mechanical Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247677" string="Smartbox: Dyeable Mechanical Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247678" string="Wheel of Fortune box" toolTip="Special box containing Elin Dyeable Maid Dress" />
+	<String id="247679" string="Smartbox: Winter Fantasy Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247680" string="Smartbox: Winter Fantasy Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247681" string="Smartbox: Winter Fantasy Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247682" string="Smartbox: Winter Fantasy Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247683" string="Smartbox: Winter Fantasy Costume Dyeable (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247684" string="Smartbox: Winter Fantasy Costume Dyeable (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247685" string="Smartbox: Winter Fantasy Costume Dyeable (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247686" string="Smartbox: Winter Fantasy Costume Dyeable (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247687" string="Wheel of Fortune box" toolTip="Special box containing Effect: Flowers" />
+	<String id="247688" string="Lucky box" toolTip="Special box containing Effect: Flowers" />
+	<String id="247689" string="Smartbox: Rare Mechanical Red weapons (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247690" string="Smartbox: Rare Mechanical Red weapons (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247691" string="Smartbox: Rare Mechanical Red weapons (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247692" string="Smartbox: Rare Mechanical Red weapons (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247693" string="Smartbox: Rare Mechanical Silver weapons (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247694" string="Smartbox: Rare Mechanical Silver weapons (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247695" string="Smartbox: Rare Mechanical Silver weapons (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247696" string="Smartbox: Rare Mechanical Silver weapons (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247697" string="Smartbox: Mechanical Red weapons (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247698" string="Smartbox: Mechanical Red weapons (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247699" string="Smartbox: Mechanical Red weapons (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247700" string="Smartbox: Mechanical Red weapons (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247701" string="Smartbox: Mechanical Silver weapons (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247702" string="Smartbox: Mechanical Silver weapons (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247703" string="Smartbox: Mechanical Silver weapons (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247704" string="Smartbox: Mechanical Silver weapons (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247705" string="Wheel of Fortune box" toolTip="Special box containing rare mechanical red weapon skin." />
+	<String id="247706" string="Wheel of Fortune box" toolTip="Special box containing rare mechanical silver weapon skin." />
+	<String id="247707" string="Wheel of Fortune box" toolTip="Special box containing Effect: Penguin A" />
+	<String id="247708" string="Wheel of Fortune box" toolTip="Special box containing Effect: Penguin A Rare" />
+	<String id="247709" string="Wheel of Fortune box" toolTip="Special box containing Effect: Penguin B" />
+	<String id="247710" string="Wheel of Fortune box" toolTip="Special box containing Effect: Penguin B Rare" />
+	<String id="247711" string="Lucky box" toolTip="Special box containing Effect: Penguin A Rare" />
+	<String id="247712" string="Lucky box" toolTip="Special box containing Effect: Penguin B" />
+	<String id="247713" string="Lucky box" toolTip="Special box containing Effect: Penguin B Rare" />
+	<String id="247714" string="Wheel of Fortune box" toolTip="Special box containing Riding Skill: Summon Bluebird (Yellow) (Rare)" />
+	<String id="247715" string="Lucky box" toolTip="Special box containing Riding Skill: Summon Bluebird (Yellow) (Rare)" />
+	<String id="247716" string="Wheel of Fortune box" toolTip="Special box containing Riding Skill: Summon Bluebird (Blue) (Rare)" />
+	<String id="247717" string="Lucky box" toolTip="Special box containing Riding Skill: Summon Bluebird (Blue) (Rare)" />
+	<String id="247718" string="Smartbox: Scout Uniform (Mikasa) (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247719" string="Smartbox: Scout Uniform (Eren) (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247720" string="Smartbox: Scout Uniform (Eren) (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247721" string="Smartbox: Scout Uniform (Levi) (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247722" string="Smartbox: Scout Uniform (Levi) (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247723" string="Smartbox: Scout Uniform (Sasha) (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247724" string="Smartbox: Scout Uniform (Sasha) (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247725" string="Smartbox: Scout Uniform (Mikasa) (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247726" string="Smartbox: Angelic weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247727" string="Smartbox: Angelic weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247728" string="Smartbox: Angelic weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247729" string="Smartbox: Angelic weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247730" string="Smartbox: Diabolic weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247731" string="Smartbox: Diabolic weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247732" string="Smartbox: Diabolic weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247733" string="Smartbox: Diabolic weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247734" string="Wheel of Fortune box" toolTip="Special box containing angelic weapon" />
+	<String id="247735" string="Wheel of Fortune box" toolTip="Special box containing diabolic weapon" />
+	<String id="247736" string="Smartbox: Celestial Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247737" string="Smartbox: Celestial Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247738" string="Smartbox: Celestial Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247739" string="Smartbox: Celestial Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247740" string="Smartbox: Dyeable Celestial Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247741" string="Smartbox: Dyeable Celestial Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247742" string="Smartbox: Dyeable Celestial Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247743" string="Smartbox: Dyeable Celestial Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247744" string="Wheel of Fortune box" toolTip="Special box containing Dyeable Celestial Costume" />
+	<String id="247745" string="Dyeable Celestial Costume" toolTip="Mystic box containing Dyeable Celestial Costume" />
+	<String id="247746" string="Wheel of Fortune box" toolTip="Special box containing Angelic Wings" />
+	<String id="247747" string="Angelic Wings" toolTip="Mystic box containing Angelic Wings" />
+	<String id="247748" string="Diabolic Wings" toolTip="Mystic box containing Diabolic Wings" />
+	<String id="247749" string="Smartbox: Diabolic weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247750" string="Smartbox: Diabolic weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247751" string="Smartbox: Diabolic weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247752" string="Smartbox: Diabolic weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247753" string="Smartbox: Rare Diabolic weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247754" string="Smartbox: Rare Diabolic weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247755" string="Smartbox: Rare Diabolic weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247756" string="Smartbox: Rare Diabolic weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247757" string="Rare Angelic weapon" toolTip="Mystic box containing rare angelic weapon" />
+	<String id="247758" string="Rare Diabolic weapon" toolTip="Mystic box containing rare diabolic weapon" />
+	<String id="247759" string="Lucky box" toolTip="Special box containing rare diabolic weapon" />
+	<String id="247760" string="Lucky box" toolTip="Special box containing rare angelic weapon" />
+	<String id="247761" string="Riding Skill: Rare Elephant" toolTip="Mystic box containing Riding Skill: Rare Elephant" />
+	<String id="247762" string="Lucky box: Rare Elephant" toolTip="Special box containing Riding Skill: Rare Elephant" />
+	<String id="247763" string="Wheel of Fortune box Rare Elephant" toolTip="Special box containing Riding Skill: Rare Elephant" />
+	<String id="247764" string="Smartbox: Swimwear 2018 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247765" string="Smartbox: Swimwear 2018 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247766" string="Smartbox: Swimwear 2018 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247767" string="Smartbox: Swimwear 2018 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247768" string="Smartbox: Dyeable Swimwear 2018 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247769" string="Smartbox: Dyeable Swimwear 2018 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247770" string="Smartbox: Dyeable Swimwear 2018 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247771" string="Smartbox: Dyeable Swimwear 2018 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247772" string="Smartbox: Bikini 2018 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247773" string="Smartbox: Bikini 2018 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247774" string="Smartbox: Bikini 2018 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247775" string="Smartbox: Bikini 2018 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247776" string="Smartbox: Dyeable Bikini 2018 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247777" string="Smartbox: Dyeable Bikini 2018 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247778" string="Smartbox: Dyeable Bikini 2018 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247779" string="Smartbox: Dyeable Bikini 2018 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247780" string="Smartbox: Summer underwear A" toolTip="Smart box containing summer underwear A. The effect of the underwear is selected randomly." />
+	<String id="247781" string="Smartbox: Summer underwear A (3 days)" toolTip="Smart box containing summer underwear A. The effect of the underwear is selected randomly." />
+	<String id="247782" string="Smartbox: Summer underwear A (7 days)" toolTip="Smart box containing summer underwear A. The effect of the underwear is selected randomly." />
+	<String id="247783" string="Smartbox: Summer underwear A (14 days)" toolTip="Smart box containing summer underwear A. The effect of the underwear is selected randomly." />
+	<String id="247784" string="Smartbox: Summer underwear A (30 days)" toolTip="Smart box containing summer underwear A. The effect of the underwear is selected randomly." />
+	<String id="247785" string="Smartbox: Summer underwear A" toolTip="Smart box containing summer underwear A. The effect of the underwear is selected randomly." />
+	<String id="247786" string="Smartbox: Summer underwear B" toolTip="Smart box containing summer underwear B. The effect of the underwear is selected randomly." />
+	<String id="247787" string="Smartbox: Summer underwear B (3 days)" toolTip="Smart box containing summer underwear B. The effect of the underwear is selected randomly." />
+	<String id="247788" string="Smartbox: Summer underwear B (7 days)" toolTip="Smart box containing summer underwear B. The effect of the underwear is selected randomly." />
+	<String id="247789" string="Smartbox: Summer underwear B (14 days)" toolTip="Smart box containing summer underwear B. The effect of the underwear is selected randomly." />
+	<String id="247790" string="Smartbox: Summer underwear B (30 days)" toolTip="Smart box containing summer underwear B. The effect of the underwear is selected randomly." />
+	<String id="247791" string="Smartbox: Summer underwear B" toolTip="Smart box containing summer underwear B. The effect of the underwear is selected randomly." />
+	<String id="247792" string="Critical Underwear" toolTip="Smart box containing randomly underwear (crit.)" />
+	<String id="247793" string="Power Underwear" toolTip="Smart box containing randomly underwear (power)" />
+	<String id="247794" string="Smartbox: Ninja weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247795" string="Smartbox: Rare Ninja weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247796" string="Smartbox: Rare Ninja weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247797" string="Smartbox: Jewel Hair type A (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it. Cannot be used by Aman, Baraka and Popori" />
+	<String id="247798" string="Smartbox: Jewel Hair type A (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it. Cannot be used by Aman, Baraka and Popori" />
+	<String id="247799" string="Smartbox: Random Jewel Hair type A (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it. Cannot be used by Aman, Baraka and Popori" />
+	<String id="247800" string="Smartbox: Random Jewel Hair type A (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it. Cannot be used by Aman, Baraka and Popori" />
+	<String id="247801" string="Kit for Haircut type B" toolTip="Special box containing Jewel Hair type B and Hair Dye coupon" />
+	<String id="247802" string="Kit for Haircut type A" toolTip="Special box containing Jewel Hair type A and Hair Dye coupon" />
+	<String id="247803" string="Wheel of Fortune box" toolTip="Special box containing Kit for Haircut type B" />
+	<String id="247804" string="Wheel of Fortune box" toolTip="Special box containing Kit for Haircut type A" />
+	<String id="247805" string="Smartbox: Rare Dakuryon" toolTip="Smart box containing Rare Dakuryon. The type of the potions used is selected randomly." />
+	<String id="247806" string="Smartbox: Rare Dakuryon" toolTip="Smart box containing Rare Dakuryon. The type of the potions used is selected randomly." />
+	<String id="247807" string="Smartbox: Rare Dakuryon (3 days)" toolTip="Smart box containing Rare Dakuryon. The type of the potions used is selected randomly." />
+	<String id="247808" string="Smartbox: Rare Dakuryon (7 days)" toolTip="Smart box containing Rare Dakuryon. The type of the potions used is selected randomly." />
+	<String id="247809" string="Smartbox: Rare Dakuryon (14 days)" toolTip="Smart box containing Rare Dakuryon. The type of the potions used is selected randomly." />
+	<String id="247810" string="Smartbox: Rare Dakuryon (30 days)" toolTip="Smart box containing Rare Dakuryon. The type of the potions used is selected randomly." />
+	<String id="247811" string="Smartbox: Rare Arcane weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247812" string="Smartbox: Rare Arcane weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247813" string="Smartbox: Rare Arcane weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247814" string="Smartbox: Rare Arcane weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247815" string="Smartbox: Rare Arcane weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247816" string="Smartbox: Rare Arcane weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247817" string="Smartbox: Arcane weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247818" string="Smartbox: Arcane weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247819" string="Smartbox: Arcane weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247820" string="Smartbox: Arcane weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247821" string="Smartbox: Arcane weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247822" string="Smartbox: Arcane weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247823" string="Smartbox: Dyeable Metallic Monokini (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247824" string="Smartbox: Dyeable Metallic Monokini (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247825" string="Smartbox: Dyeable Metallic Monokini (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247826" string="Smartbox: Dyeable Metallic Monokini (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247827" string="Smartbox: Dyeable Metallic Monokini (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247828" string="Smartbox: Dyeable Metallic Monokini (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247829" string="Smartbox: Dyeable Swimwear (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247830" string="Smartbox: Dyeable Swimwear (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247831" string="Smartbox: Dyeable Swimwear (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247832" string="Smartbox: Dyeable Swimwear (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247833" string="Smartbox: Dyeable Swimwear (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247834" string="Smartbox: Dyeable Swimwear (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247835" string="Wheel of Fortune box" toolTip="Special box containing Dyeable After School Swimsuit (Elin)" />
+	<String id="247836" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Dyeable Swimwear" />
+	<String id="247837" string="Smartbox: PUBG C (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247838" string="Smartbox: PUBG C (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247839" string="Smartbox: PUBG C (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247840" string="Smartbox: PUBG C (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247841" string="Smartbox: PUBG C (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247842" string="Smartbox: PUBG C (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247843" string="Smartbox: PUBG B (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247844" string="Smartbox: PUBG B (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247845" string="Smartbox: PUBG B (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247846" string="Smartbox: PUBG B (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247847" string="Smartbox: PUBG B (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247848" string="Smartbox: PUBG B (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247849" string="Smartbox: PUBG A (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247850" string="Smartbox: PUBG A (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247851" string="Smartbox: PUBG A (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247852" string="Smartbox: PUBG A (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247853" string="Smartbox: PUBG A (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247854" string="Smartbox: PUBG A (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247855" string="Smartbox: St. Patrick's Day Clover costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247856" string="Smartbox: St. Patrick's Day Clover costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247857" string="Smartbox: St. Patrick's Day Clover costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247858" string="Smartbox: St. Patrick's Day Clover costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247859" string="Smartbox: St. Patrick's Day Clover costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247860" string="Smartbox: St. Patrick's Day Clover costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247861" string="Smartbox: Rare School uniform (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247862" string="Smartbox: Rare School uniform (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247863" string="Smartbox: Rare School uniform (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247864" string="Smartbox: Rare School uniform (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247865" string="Smartbox: Rare School uniform (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247866" string="Smartbox: Rare School uniform (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247867" string="Smartbox: School uniform (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247868" string="Smartbox: School uniform (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247869" string="Smartbox: School uniform (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247870" string="Smartbox: School uniform (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247871" string="Smartbox: School uniform (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247872" string="Smartbox: School uniform (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247873" string="Smartbox: April Fools fun weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247874" string="Smartbox: Gold Mechanical Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247875" string="Smartbox: Gold Mechanical Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247876" string="Smartbox: Gold Mechanical Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247877" string="Smartbox: Gold Mechanical Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247878" string="Smartbox: Gold Mechanical Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247879" string="Smartbox: Gold Mechanical Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247880" string="Smartbox: Hankok 4 (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247881" string="Smartbox: Hankok 4 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247882" string="Smartbox: Hankok 4 (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247883" string="Smartbox: Hankok 4 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247884" string="Smartbox: Hankok 4 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247885" string="Smartbox: Hankok 4 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247886" string="Smartbox: Hankok 3 (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247887" string="Smartbox: Hankok 3 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247888" string="Smartbox: Hankok 3 (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247889" string="Smartbox: Hankok 3 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247890" string="Smartbox: Hankok 3 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247891" string="Smartbox: Hankok 3 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247892" string="Smartbox: Hankok 2 (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247893" string="Smartbox: Hankok 2 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247894" string="Smartbox: Hankok 2 (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247895" string="Smartbox: Hankok 2 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247896" string="Smartbox: Hankok 2 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247897" string="Smartbox: Hankok 2 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247898" string="Smartbox: Hankok 1 (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247899" string="Smartbox: Hankok 1 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247900" string="Smartbox: Hankok 1 (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247901" string="Smartbox: Hankok 1 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247902" string="Smartbox: Hankok 1 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247903" string="Smartbox: Hankok 1 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247904" string="Smartbox: Midnight Blue Hanbok (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247905" string="Smartbox: Midnight Blue Hanbok (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247906" string="Smartbox: Midnight Blue Hanbok (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247907" string="Smartbox: Midnight Blue Hanbok (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247908" string="Smartbox: Midnight Blue Hanbok (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247909" string="Smartbox: Midnight Blue Hanbok (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247910" string="Smartbox: Pixie Black Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247911" string="Smartbox: Pixie Black Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247912" string="Smartbox: Pixie Black Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247913" string="Smartbox: Pixie Black Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247914" string="Smartbox: Pixie Black Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247915" string="Smartbox: Pixie Black Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247916" string="Smartbox: Red elemental weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247917" string="Smartbox: Red elemental weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247918" string="Smartbox: Red elemental weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247919" string="Smartbox: Red elemental weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247920" string="Smartbox: Red elemental weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247921" string="Smartbox: Red elemental weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247922" string="Wheel of Fortune box" toolTip="Special box containing Pixie Black Costume" />
+	<String id="247923" string="Wheel of Fortune box" toolTip="Special box containing Red elemental weapon" />
+	<String id="247924" string="Wheel of Fortune box" toolTip="Special box containing Gold Mechanical Costume" />
+	<String id="247925" string="Wheel of Fortune box" toolTip="Special box containing Midnight Blue Hanbok" />
+	<String id="247926" string="Smartbox: Swimwear 2019 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247927" string="Smartbox: Swimwear 2019 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247928" string="Smartbox: Swimwear 2019 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247929" string="Smartbox: Swimwear 2019 (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247930" string="Smartbox: Swimwear 2019 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247931" string="Smartbox: Swimwear 2019 (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247932" string="Smartbox: Swimwear 2019 Rare (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247933" string="Smartbox: Swimwear 2019 Rare (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247934" string="Smartbox: Swimwear 2019 Rare (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247935" string="Smartbox: Swimwear 2019 Rare (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247936" string="Smartbox: Swimwear 2019 Rare (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247937" string="Smartbox: Swimwear 2019 Rare (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247938" string="Smartbox: Swimwear 2019 Dye (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247939" string="Smartbox: Swimwear 2019 Dye (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247940" string="Smartbox: Swimwear 2019 Dye (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247941" string="Smartbox: Swimwear 2019 Dye (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247942" string="Smartbox: Swimwear 2019 Dye (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247943" string="Smartbox: Swimwear 2019 Dye (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247944" string="Smartbox: Social motion (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247945" string="Smartbox: Social motion (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247946" string="Mystic box Swimwear 2019" toolTip="Mystic box containing swimwear 2019" />
+	<String id="247947" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="247948" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="247949" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="247950" string="Adventure coincs box" toolTip="Special box containing adventure coincs" />
+	<String id="247951" string="Smartbox: Purple Duckie Swimsuit (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247952" string="Smartbox: Purple Duckie Swimsuit (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247953" string="Smartbox: Purple Duckie Swimsuit (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247954" string="Smartbox: Purple Duckie Swimsuit (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247955" string="Smartbox: Purple Duckie Swimsuit (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247956" string="Smartbox: Purple Duckie Swimsuit (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247957" string="Smartbox: Mint Duckie Swimsuit (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247958" string="Smartbox: Mint Duckie Swimsuit (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247959" string="Smartbox: Mint Duckie Swimsuit (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247960" string="Smartbox: Mint Duckie Swimsuit (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247961" string="Smartbox: Mint Duckie Swimsuit (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247962" string="Smartbox: Mint Duckie Swimsuit (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247963" string="Smartbox: Magenta Duckie Swimsuit (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247964" string="Smartbox: Magenta Duckie Swimsuit (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247965" string="Smartbox: Magenta Duckie Swimsuit (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247966" string="Smartbox: Magenta Duckie Swimsuit (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247967" string="Smartbox: Magenta Duckie Swimsuit (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247968" string="Smartbox: Magenta Duckie Swimsuit (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247969" string="Smartbox: Lily Duckie Swimsuit (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247970" string="Smartbox: Lily Duckie Swimsuit (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247971" string="Smartbox: Lily Duckie Swimsuit (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247972" string="Smartbox: Lily Duckie Swimsuit (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247973" string="Smartbox: Lily Duckie Swimsuit (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247974" string="Smartbox: Lily Duckie Swimsuit (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247975" string="Smartbox: Bonnie Duckie Swimsuit (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247976" string="Smartbox: Bonnie Duckie Swimsuit (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247977" string="Smartbox: Bonnie Duckie Swimsuit (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247978" string="Smartbox: Bonnie Duckie Swimsuit (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247979" string="Smartbox: Bonnie Duckie Swimsuit (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247980" string="Smartbox: Bonnie Duckie Swimsuit (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247981" string="Smartbox: Duckie Swimsuit (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247982" string="Smartbox: Swimwear NA 2019 (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247983" string="Smartbox: Swimwear NA 2019 (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247984" string="Smartbox: Swimwear NA 2019 (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247985" string="Smartbox: Swimwear NA 2019 (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247986" string="Smartbox: Swimwear NA 2019 (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247987" string="Smartbox: Swimwear NA 2019 (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247988" string="Smartbox: Gold Dragon Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247989" string="Smartbox: Gold Dragon Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247990" string="Smartbox: Gold Dragon Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247991" string="Smartbox: Gold Dragon Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247992" string="Smartbox: Gold Dragon Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247993" string="Smartbox: Gold Dragon Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247994" string="Smartbox: Gold Dragon weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247995" string="Smartbox: Gold Dragon weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247996" string="Smartbox: Gold Dragon weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247997" string="Smartbox: Gold Dragon weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247998" string="Smartbox: Gold Dragon weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="247999" string="Smartbox: Gold Dragon weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248000" string="Wheel of Fortune box" toolTip="Special box containing Gold Dragon weapon" />
+	<String id="248001" string="Wheel of Fortune box" toolTip="Special box containing Gold Dragon Costume" />
+	<String id="248002" string="Sacred Mallet" toolTip="Contains a non-tradeable enchanting material. Right-click to open." />
+	<String id="248003" string="Refined Lepidoptera Crystal Dust" toolTip="Contains a non-tradeable enchanting material. Right-click to open." />
+	<String id="248004" string="Pure Crystal Butterfly Crystal Spring" toolTip="Contains a non-tradeable enchanting material. Right-click to open." />
+	<String id="248005" string="Purified Ancient Beast Ring Fragment" toolTip="Contains a non-tradeable enchanting material. Right-click to open." />
+	<String id="248006" string="Purified Ancient Beast Ornament Fragment" toolTip="Contains a non-tradeable enchanting material. Right-click to open." />
+	<String id="248007" string="Smartbox: Dye Yukata Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248008" string="Smartbox: Dye Yukata Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248009" string="Smartbox: Dye Yukata Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248010" string="Smartbox: Dye Yukata Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248011" string="Smartbox: Dye Yukata Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248012" string="Smartbox: Dye Yukata Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248013" string="Smartbox: Rare Yukata Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248014" string="Smartbox: Rare Yukata Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248015" string="Smartbox: Rare Yukata Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248016" string="Smartbox: Rare Yukata Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248017" string="Smartbox: Rare Yukata Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248018" string="Smartbox: Rare Yukata Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248019" string="Smartbox: Yukata Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248020" string="Smartbox: Yukata Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248021" string="Smartbox: Yukata Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248022" string="Smartbox: Yukata Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248023" string="Smartbox: Yukata Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248024" string="Smartbox: Yukata Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248025" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Rare Yukata Costume (tradable)" />
+	<String id="248026" string="Mystic box Yukata costume" toolTip="Mystic box containing Yukata costume" />
+	<String id="248027" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Dye Yukata Costume (tradable)" />
+	<String id="248028" string="Smartbox: Violet Dragon Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248029" string="Smartbox: Violet Dragon Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248030" string="Smartbox: Violet Dragon Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248031" string="Smartbox: Violet Dragon Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248032" string="Smartbox: Violet Dragon Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248033" string="Smartbox: Violet Dragon Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248034" string="Smartbox: Violet Dragon weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248035" string="Smartbox: Violet Dragon weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248036" string="Smartbox: Violet Dragon weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248037" string="Smartbox: Violet Dragon weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248038" string="Smartbox: Violet Dragon weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248039" string="Smartbox: Violet Dragon weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248040" string="Wheel of Fortune box" toolTip="Special box containing Violet Dragon weapon" />
+	<String id="248041" string="Mystic box Violet Dragon Weapon" toolTip="Mystic box containing Violet Dragon Weapon" />
+	<String id="248042" string="Wheel of Fortune box" toolTip="Special box containing Violet Dragon Costume" />
+	<String id="248043" string="Mystic box Violet Dragon Costume" toolTip="Mystic box containing Violet Dragon Costume" />
+	<String id="248044" string="Smartbox: Almah costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248045" string="Smartbox: Almah costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248046" string="Smartbox: Almah costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248047" string="Smartbox: Almah costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248048" string="Smartbox: Almah costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248049" string="Smartbox: Almah costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248050" string="Smartbox: Rare Almah costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248051" string="Smartbox: Rare Almah costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248052" string="Smartbox: Rare Almah costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248053" string="Smartbox: Rare Almah costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248054" string="Smartbox: Rare Almah costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248055" string="Smartbox: Rare Almah costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248056" string="Smartbox: Dye Almah costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248057" string="Smartbox: Dye Almah costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248058" string="Smartbox: Dye Almah costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248059" string="Smartbox: Dye Almah costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248060" string="Smartbox: Dye Almah costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248061" string="Smartbox: Dye Almah costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248062" string="Smartbox: 19 innerwear" toolTip="Smart box containing 19 innerwear. The effect of the underwear is selected randomly." />
+	<String id="248063" string="Smartbox: 19 innerwear (3 days)" toolTip="Smart box containing 19 innerwear. The effect of the underwear is selected randomly." />
+	<String id="248064" string="Smartbox: 19 innerwear (7 days)" toolTip="Smart box containing 19 innerwear. The effect of the underwear is selected randomly." />
+	<String id="248065" string="Smartbox: 19 innerwear (14 days)" toolTip="Smart box containing 19 innerwear. The effect of the underwear is selected randomly." />
+	<String id="248066" string="Smartbox: 19 innerwear (30 days)" toolTip="Smart box containing 19 innerwear. The effect of the underwear is selected randomly." />
+	<String id="248067" string="Smartbox: 19 innerwear" toolTip="Smart box containing 19 innerwear. The effect of the underwear is selected randomly." />
+	<String id="248068" string="Smartbox: 19 rare innerwear" toolTip="Smart box containing 19 rare innerwear. The effect of the underwear is selected randomly." />
+	<String id="248069" string="Smartbox: 19 rare innerwear (3 days)" toolTip="Smart box containing 19 rare innerwear. The effect of the underwear is selected randomly." />
+	<String id="248070" string="Smartbox: 19 rare innerwear (7 days)" toolTip="Smart box containing 19 rare innerwear. The effect of the underwear is selected randomly." />
+	<String id="248071" string="Smartbox: 19 rare innerwear (14 days)" toolTip="Smart box containing 19 rare innerwear. The effect of the underwear is selected randomly." />
+	<String id="248072" string="Smartbox: 19 rare innerwear (30 days)" toolTip="Smart box containing 19 rare innerwear. The effect of the underwear is selected randomly." />
+	<String id="248073" string="Smartbox: 19 rare innerwear" toolTip="Smart box containing 19 rare innerwear. The effect of the underwear is selected randomly." />
+	<String id="248074" string="Mystic box Almah Costume" toolTip="Mystic box containing Almah Costume" />
+	<String id="248075" string="Wheel of Fortune box" toolTip="Special box containing Rare Almah costume" />
+	<String id="248076" string="Wheel of Fortune box" toolTip="Special box containing Rare Almah costume" />
+	<String id="248077" string="Pet box (100%)" toolTip="When you open a box, you'll get a random pet." />
+	<String id="248078" string="Costume box (100%)" toolTip="When you open a box, you'll get a random smartbox with costume. Costumes are rare and dye in the box. Some of costume not available for man." />
+	<String id="248079" string="Partner box (100%)" toolTip="When you open a box, you'll get a random partner." />
+	<String id="248080" string="Innewear box 2018 (100%)" toolTip="When you open a box, you'll get a random innerwear 2018." />
+	<String id="248081" string="Legendary mounts box (100%)" toolTip="When you open a box, you'll get a random legendary mount." />
+	<String id="248082" string="Relic box" toolTip="When you open a box, you'll get a 5 Ishara's Halidom I or 5 Amarun's Relic I." />
+	<String id="248083" string="Forcetic Radiant Accessories box" toolTip="When you open a box, you'll get a random Forcetic Radiant Accessory." />
+	<String id="248084" string="Growth support box" toolTip="When you open a box, you'll get a Rapid Growth Potion (200% -400%) (1 day) and Skill Polishing 15 (1 day)." />
+	<String id="248085" string="Exp Package" toolTip="When you open a box, you'll get a Rapid Growth Potion (500% -1000%) (1 hour) and Exp Gift (500 000 000 EXP)." />
+	<String id="248086" string="Wish box [Rank 8]" toolTip="When you open a box, there's a 50% chance you'll get a Relic box or Forcetic Radiant Accessories box." />
+	<String id="248087" string="Wish box [Rank 7]" toolTip="When you open a box, there's a 50% chance you'll get a Legendary mounts box (100%) or Wish box [Rank 8]" />
+	<String id="248088" string="Wish box [Rank 6]" toolTip="When you open a box, there's a 50% chance you'll get a Innerwear 2018 box (100%) or Wish box [Rank 7]." />
+	<String id="248089" string="Wish box [Rank 5]" toolTip="When you open a box, there's a 50% chance you'll get a Exp package or Wish box [Rank 6]." />
+	<String id="248090" string="Wish box [Rank 4]" toolTip="When you open a box, there's a 50% chance you'll get a Partner box (100%) or Wish box [Rank 5]." />
+	<String id="248091" string="Wish box [Rank 3]" toolTip="When you open a box, there's a 50% chance you'll get a Costume Box (100%) or Wish box [Rank 4]." />
+	<String id="248092" string="Wish box [Rank 2]" toolTip="When you open a box, there's a 50% chance you'll get a Growth support box or Wish box [Rank 3]." />
+	<String id="248093" string="Wish box [Rank 1]" toolTip="When you open a box, there's a 50% chance you'll get a 100% Pet Box or Wish box [Rank 2]." />
+	<String id="248094" string="Smartbox: Dye Halloween Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248095" string="Smartbox: Dye Halloween Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248096" string="Smartbox: Dye Halloween Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248097" string="Smartbox: Dye Halloween Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248098" string="Smartbox: Dye Halloween Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248099" string="Smartbox: Dye Halloween Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248100" string="Smartbox: Rare Halloween Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248101" string="Smartbox: Rare Halloween Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248102" string="Smartbox: Rare Halloween Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248103" string="Smartbox: Rare Halloween Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248104" string="Smartbox: Rare Halloween Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248105" string="Smartbox: Rare Halloween Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248106" string="Smartbox: Halloween Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248107" string="Smartbox: Halloween Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248108" string="Smartbox: Halloween Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248109" string="Smartbox: Halloween Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248110" string="Smartbox: Halloween Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248111" string="Smartbox: Halloween Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248112" string="Mystic box Halloween costume" toolTip="Mystic box containing Halloween costume" />
+	<String id="248113" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Rare Halloween Costume (tradable)" />
+	<String id="248114" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Dye Halloween Costume (tradable)" />
+	<String id="248115" string="Smartbox: Neon purple weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248116" string="Smartbox: Neon purple weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248117" string="Smartbox: Neon purple weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248118" string="Smartbox: Neon purple weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248119" string="Smartbox: Neon purple weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248120" string="Smartbox: Neon purple weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248121" string="Smartbox: Neon cyan weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248122" string="Smartbox: Neon cyan weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248123" string="Smartbox: Neon cyan weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248124" string="Smartbox: Neon cyan weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248125" string="Smartbox: Neon cyan weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248126" string="Smartbox: Neon cyan weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248127" string="Wheel of Fortune box" toolTip="Special box containing Neon purple weapon" />
+	<String id="248128" string="Mystic box Neon purple weapon" toolTip="Mystic box containing Neon purple weapon" />
+	<String id="248129" string="Wheel of Fortune box" toolTip="Special box containing Neon Cyan weapon" />
+	<String id="248130" string="Mystic box Neon Cyan weapon" toolTip="Mystic box containing Neon Cyan weapon" />
+	<String id="248131" string="Dark Shard Enchantment Box" toolTip="Box containing Dark Shard enchanting materials" />
+	<String id="248132" string="Smartbox: Christmas FUN Weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248133" string="Smartbox: Christmas FUN Weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248134" string="Smartbox: Christmas FUN Weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248135" string="Smartbox: Christmas FUN Weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248136" string="Smartbox: Christmas FUN Weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248137" string="Smartbox: Christmas FUN Weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248138" string="Wheel of Fortune box" toolTip="Special box containing Christmas FUN Weapon" />
+	<String id="248139" string="Mystic box Christmas FUN Weapon" toolTip="Mystic box containing Christmas FUN Weapon" />
+	<String id="248140" string="Smartbox: Guinea Pig Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248141" string="Smartbox: Guinea Pig Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248142" string="Smartbox: Guinea Pig Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248143" string="Smartbox: Guinea Pig Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248144" string="Smartbox: Guinea Pig Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248145" string="Smartbox: Guinea Pig Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248146" string="Smartbox: Bear Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248147" string="Smartbox: Bear Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248148" string="Smartbox: Bear Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248149" string="Smartbox: Bear Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248150" string="Smartbox: Bear Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248151" string="Smartbox: Bear Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248152" string="Bear" toolTip="Special box containing Bear Costume and mask" />
+	<String id="248153" string="Guinea Pig" toolTip="Special box containing Guinea Pig Costume and mask" />
+	<String id="248154" string="Smartbox: Hanbok (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248155" string="Smartbox: Hanbok Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248156" string="Smartbox: Hanbok Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248157" string="Smartbox: Hanbok Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248158" string="Smartbox: Hanbok Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248159" string="Smartbox: Hanbok Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248160" string="Smartbox: Rare Hanbok Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248161" string="Smartbox: Rare Hanbok Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248162" string="Smartbox: Rare Hanbok Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248163" string="Smartbox: Rare Hanbok Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248164" string="Smartbox: Rare Hanbok Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248165" string="Smartbox: Rare Hanbok Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248166" string="Smartbox: Dye Hanbok Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248167" string="Smartbox: Dye Hanbok Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248168" string="Smartbox: Dye Hanbok Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248169" string="Smartbox: Dye Hanbok Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248170" string="Smartbox: Dye Hanbok Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248171" string="Smartbox: Dye Hanbok Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248172" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Dye Hanbok Costume (tradable)" />
+	<String id="248173" string="Wheel of Fortune box" toolTip="Special box containing Smartbox: Rare Hanbok Costume (tradable)" />
+	<String id="248174" string="Mystic box Hanbok costume" toolTip="Mystic box containing Hanbok costume" />
+	<String id="248175" string="Wheel of Fortune box" toolTip="Special box containing Rare Rogue weapon" />
+	<String id="248176" string="Animal pet box" toolTip="Special box containing animal pet box" />
+	<String id="248177" string="Smartbox: Princess Wand FUN Weapon (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248178" string="Smartbox: Princess Wand FUN Weapon (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248179" string="Smartbox: Princess Wand FUN Weapon (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248180" string="Smartbox: Princess Wand FUN Weapon (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248181" string="Smartbox: Princess Wand FUN Weapon (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248182" string="Smartbox: Princess Wand FUN Weapon (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248183" string="Wheel of Fortune box" toolTip="Special box containing Princess Wand FUN Weapon" />
+	<String id="248184" string="Mystic box Princess Wand FUN Weapon" toolTip="Mystic box containing Princess Wand FUN Weapon" />
+	<String id="248185" string="Smartbox: Frozen Blossoms Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248186" string="Smartbox: Frozen Blossoms Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248187" string="Smartbox: Frozen Blossoms Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248188" string="Smartbox: Frozen Blossoms Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248189" string="Smartbox: Frozen Blossoms Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248190" string="Smartbox: Frozen Blossoms Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248191" string="Smartbox: Rare Frozen Blossoms Costume (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248192" string="Smartbox: Rare Frozen Blossoms Costume (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248193" string="Smartbox: Rare Frozen Blossoms Costume (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248194" string="Smartbox: Rare Frozen Blossoms Costume (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248195" string="Smartbox: Rare Frozen Blossoms Costume (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248196" string="Smartbox: Rare Frozen Blossoms Costume (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248197" string="Smartbox: Off Shoulder Dress (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248198" string="Smartbox: Off Shoulder Dress (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248199" string="Smartbox: Off Shoulder Dress (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248200" string="Smartbox: Off Shoulder Dress (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248201" string="Smartbox: Off Shoulder Dress (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248202" string="Smartbox: Off Shoulder Dress (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248203" string="Smartbox: Rare Off Shoulder Dress (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248204" string="Smartbox: Rare Off Shoulder Dress (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248205" string="Smartbox: Rare Off Shoulder Dress (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248206" string="Smartbox: Rare Off Shoulder Dress (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248207" string="Smartbox: Rare Off Shoulder Dress (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248208" string="Smartbox: Rare Off Shoulder Dress (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248209" string="Smartbox: Dye Off Shoulder Dress (non-tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248210" string="Smartbox: Dye Off Shoulder Dress (tradable)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248211" string="Smartbox: Dye Off Shoulder Dress (3 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248212" string="Smartbox: Dye Off Shoulder Dress (7 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248213" string="Smartbox: Dye Off Shoulder Dress (14 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+	<String id="248214" string="Smartbox: Dye Off Shoulder Dress (30 days)" toolTip="Smart boxes automatically generate an exact match to the character who opens it." />
+</StrSheet_Item>

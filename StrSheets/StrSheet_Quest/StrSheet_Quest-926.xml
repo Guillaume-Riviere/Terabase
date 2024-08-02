@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3871001" string="(Guild) Suppression Orders: Canyon Enemies" />
+	<String id="3871002" string="Proof of Kill: Canyon Enemy Deaths" />
+	<String id="3871003" string="&quot;For the federation!&quot;" />
+	<String id="3871004" string="Defeat the monsters around Roostcliff Quarter." />
+	<String id="3871005" string="Report to Slevene in Elenea." />
+</StrSheet_Quest>

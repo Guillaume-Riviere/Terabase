@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1340001" string="Painful Disc-overies" />
+	<String id="1340002" string="Disc reapers are aggressive. Be careful!" />
+	<String id="1340003" string="Well done!" />
+	<String id="1340004" string="Hunt disc reapers around the Tainted Gorge Outpost." />
+	<String id="1340005" string="&quot;For the federation!&quot;" />
+	<String id="1340006" string="Report to Perrin." />
+</StrSheet_Quest>

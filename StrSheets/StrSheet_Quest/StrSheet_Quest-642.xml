@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2529001" string="Always the Latest Intelligence" />
+	<String id="2529002" string="Just keep killing until you find it." />
+	<String id="2529003" string="There's no time to lose!" />
+	<String id="2529004" string="Scouting Report" />
+	<String id="2529005" string="Eliminate devan deathmasters and obtain their reports." />
+	<String id="2529006" string="Deliver the scouting reports to Coordinator Culetta at Vindicator Redoubt." />
+	<String id="2529007" string="&quot;I've got it.&quot;" />
+	<String id="2529008" string="Coordinator Culetta" />
+	<String id="2529009" string="Requisition for Reinforcements" />
+	<String id="2529010" string="Deliver the requisition to Prefect Rendalf at Vindicator Redoubt." />
+	<String id="2529011" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

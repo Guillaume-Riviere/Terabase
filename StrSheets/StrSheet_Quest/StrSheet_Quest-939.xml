@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3926001" string="What Remains" />
+	<String id="3926002" string="Gather what you can for their families." />
+	<String id="3926003" string="Thanks for helping us keep the faith with our fallen." />
+	<String id="3926004" string="&quot;The honor is mine.&quot;" />
+	<String id="3926005" string="Collect the bones of the arachnens' victims from the lowest level of Arachnaea." />
+	<String id="3926006" string="Bring the bones to Chaman." />
+</StrSheet_Quest>

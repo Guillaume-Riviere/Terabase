@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2070001" string="(Guild) Suppression Orders: Slavers" />
+	<String id="2070002" string="Proof of Kill: Slaver Deaths" />
+	<String id="2070003" string="&quot;It was no trouble.&quot;" />
+	<String id="2070004" string="Kill the slave overseers, morale boosters, slave foremen, and cruel taskmasters in the Tenebrous Mines." />
+	<String id="2070005" string="Report to Kayina in Chebika." />
+</StrSheet_Quest>

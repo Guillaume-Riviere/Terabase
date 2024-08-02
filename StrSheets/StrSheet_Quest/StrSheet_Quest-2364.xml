@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800107001" string="Clean up the Tenebrous Mines" />
+	<String id="800107002" string="[Tenebrous Mines] Defeat mercenaries and skeletons." />
+	<String id="800107003" string="Shadow Soldiers" />
+	<String id="800107004" string="Claim your reward!" />
+</StrSheet_Quest>

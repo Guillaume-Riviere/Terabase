@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4627001" string="Techno-Taxidermy" />
+	<String id="4627002" string="Skin the {@creature:46#303#argonomorph blood fiends}." />
+	<String id="4627003" string="Thanks for dropping this off." />
+	<String id="4627004" string="Blood Fiend Skin" />
+	<String id="4627005" string="Kill {@creature:46#303#argonomorph blood fiends} in the {@Rgn:46006$$Raga Shadi Depths}." />
+	<String id="4627006" string="Return to the entrance of {@Rgn:46006$$Raga Shadi Depths} and deliver the blood fiend skin to {@creature:246#1028$$Rhentar}." />
+	<String id="4627007" string="&quot;On my way.&quot;" />
+	<String id="4627008" string="&quot;Just doing my duty.&quot;" />
+	<String id="4627009" string="Go to {@Creature:246#1029$$Gloann} in the {@Rgn:46022$$Metaseed Chamber}." />
+</StrSheet_Quest>

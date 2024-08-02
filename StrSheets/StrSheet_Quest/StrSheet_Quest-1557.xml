@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10050001" string="The Technique of the Robe" />
+	<String id="10050002" string="&quot;I can do that.&quot;" />
+	<String id="10050003" string="Create officer's robes for the war effort." />
+	<String id="10050004" string="Take the robes to Atiun." />
+</StrSheet_Quest>

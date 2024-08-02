@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2271001" string="(Guild) Putting Them in Their Place" />
+	<String id="2271002" string="Vadoma Medallions" />
+	<String id="2271003" string="&quot;Thank you.&quot;" />
+	<String id="2271004" string="Kill the vadoma acolytes on the third floor and collect their medallions." />
+	<String id="2271005" string="Report to the reward coordinator." />
+</StrSheet_Quest>

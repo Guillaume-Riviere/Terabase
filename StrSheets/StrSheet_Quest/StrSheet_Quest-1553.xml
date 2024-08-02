@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10046001" string="Desert Threads" />
+	<String id="10046002" string="&quot;I'll take care of it.&quot;" />
+	<String id="10046003" string="Craft clothcrafter's robes." />
+	<String id="10046004" string="Take the robes to Maius for inspection." />
+	<String id="10046005" string="" />
+	<String id="10046006" string="Clothcrafter's Robes" />
+	<String id="10046007" string="Deliver the robes to Jakarian in Chebika." />
+	<String id="10046008" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

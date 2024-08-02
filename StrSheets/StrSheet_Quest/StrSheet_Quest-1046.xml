@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4522001" string="Observations in the Field" />
+	<String id="4522002" string="Yes, we are a bit bored. However did you guess?" />
+	<String id="4522003" string="Never bet a baraka." />
+	<String id="4522004" string="Kill {@creature:45#1002#argonomorph dwarf orcans} in the {@Rgn:45002$$Tower Approach}" />
+	<String id="4522005" string="&quot;Glad to help.&quot;" />
+	<String id="4522006" string="Report to Laskan at {@Rgn:45010$$Valor Watchpoint}" />
+</StrSheet_Quest>

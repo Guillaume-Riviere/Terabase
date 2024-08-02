@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="983001001" string="Win in Celestial Arena" />
+	<String id="983001002" string="[Celestial Arena] Seize victory in the arena!" />
+	<String id="983001003" string="Won a match!" />
+	<String id="983001004" string="Claim your rewards!" />
+</StrSheet_Quest>

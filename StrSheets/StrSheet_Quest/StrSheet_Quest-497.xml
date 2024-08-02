@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1928001" string="Irreparable Mistake" />
+	<String id="1928002" string="Please find those weapons." />
+	<String id="1928003" string="I'll see to it they hurt no one else." />
+	<String id="1928004" string="&quot;Victory for Valkyon.&quot;" />
+	<String id="1928005" string="Retrieve the weapons from the weapon crate inside the Free Brotherhood's encampment." />
+	<String id="1928006" string="Bring the weapons to Tashaberia at Velik's Vigil in Freeholds." />
+</StrSheet_Quest>

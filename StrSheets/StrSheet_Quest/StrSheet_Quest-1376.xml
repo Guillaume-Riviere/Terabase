@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5635001" string="Desecrate the Bloodtombs" />
+	<String id="5635002" string="Bring back some pieces for me to examine!" />
+	<String id="5635003" string="This is lunacy. Sheer lunacy!" />
+	<String id="5635004" string="&quot;They're too focused on Sikander.&quot;" />
+	<String id="5635005" string="Destroy the bloodtombs around the stairway." />
+	<String id="5635006" string="Show the bloodtomb debris to Vella." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="7291001" string="We, Who Are About to Fight, Salute You (Battle)" />
+	<String id="7291002" string="Victory in the Champions' Skyring" />
+	<String id="7291003" string="You've achieved victory in the Champions' Skyring!" />
+	<String id="7291004" string="&quot;Thank you.&quot;" />
+	<String id="7291005" string="See the coordinator for your reward." />
+</StrSheet_Quest>

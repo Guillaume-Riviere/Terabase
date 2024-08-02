@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1303001" string="The Secret Life of Trees" />
+	<String id="1303002" string="Vekas is a powerful creature—and cunning. Be careful!" />
+	<String id="1303003" string="Jorhon, could you show the newcomer around the base?" />
+	<String id="1303004" string="Time to chop Vekas down to size..." />
+	<String id="1303005" string="&quot;Understood.&quot;" />
+	<String id="1303006" string="Tim-BERRR! Time to make Nivek's day..." />
+	<String id="1303007" string="&quot;Understood&quot;" />
+	<String id="1303008" string="Follow the road leading up to the Northern Overwatch and meet Neziir" />
+	<String id="1303009" string="&quot;For the federation!&quot;" />
+	<String id="1303010" string="Deliver the commanders' reports to Adria." />
+</StrSheet_Quest>

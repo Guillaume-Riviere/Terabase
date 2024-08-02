@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4824001" string="Hungry Like the Athakela" />
+	<String id="4824002" string="We can't lose the foundry!" />
+	<String id="4824003" string="Kill the athakela hunters attacking the {@Rgn:48004}." />
+	<String id="4824004" string="&quot;As ordered!&quot;" />
+	<String id="4824005" string="Speak with {@LinkCreature:48#1007}." />
+</StrSheet_Quest>

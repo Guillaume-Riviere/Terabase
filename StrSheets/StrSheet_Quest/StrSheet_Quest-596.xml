@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2334001" string="Gardens of Stone" />
+	<String id="2334002" string="The teraliths no longer follow their true purpose." />
+	<String id="2334003" string="I wonder what caused the change in their behavior..." />
+	<String id="2334004" string="Seal Stone" />
+	<String id="2334005" string="Destroy the lurking teraliths and collect their seal stones." />
+	<String id="2334006" string="Report back to Serelia." />
+	<String id="2334007" string="&quot;Many thanks.&quot;" />
+</StrSheet_Quest>

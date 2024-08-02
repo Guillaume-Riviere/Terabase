@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="536001" string="Collecting Data" />
+	<String id="536002" string="Moong is no match for you!" />
+	<String id="536003" string="Stop Moong. Hurry!" />
+	<String id="536004" string="Order-Inscribed Tablet" />
+	<String id="536005" string="Kill the Tuwangi Warfroggers in Mighty Frog Pond to the southwest and collect order-inscribed tablets." />
+	<String id="536006" string="Deliver the order-inscribed tablets to Pangari in Shaman's Shelter." />
+	<String id="536007" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

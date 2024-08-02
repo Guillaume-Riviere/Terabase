@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59910001" string="For the Children" />
+	<String id="59910002" string="Inner Temple Entrance" />
+	<String id="59910003" string="You found the Inner Temple Entrance." />
+	<String id="59910004" string="Move to the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=5#33417,9337,-1537&amp;type=1&amp;name=Inner Temple Entrance&quot;>Inner Temple Entrance&lt;/A>&lt;/font>." />
+	<String id="59910005" string="Open the gate." />
+	<String id="59910006" string="Inside the Temple of the Tree" />
+	<String id="59910007" string="Go into the Temple of the Tree." />
+	<String id="59910008" string="Go into the Temple of the Tree." />
+	<String id="59910009" string="&quot;Anya must be close!&quot;" />
+	<String id="59910010" string="Pick up Anya's doll." />
+	<String id="59910011" string="Receive the item." />
+	<String id="59910012" string="Ask Emun what happened." />
+	<String id="59910013" string="Use the items from Captain Emun.&lt;br>&lt;br>Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> to open up the Inventory and use the &lt;img src='img://__Icon_Items.potion10_Tex' width='18' height='18' vspace='-6'/>Bravery Potion and &lt;img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='18' height='18' vspace='-6'/>Minor Battle Solution." />
+	<String id="59910014" string="&quot;Let’s go.&quot;" />
+	<String id="59910015" string="Talk to Dougal." />
+	<String id="59910016" string="A path leading to the Heart of Sorrow" />
+	<String id="59910017" string="" />
+	<String id="59910018" string="Enter the &lt;font color='#2478FF'>Heart of Sorrow&lt;/A>&lt;/font>." />
+	<String id="59910019" string="Argon Predator" />
+	<String id="59910020" string="Defeat the Argon Predator." />
+	<String id="59910021" string="Find a way to open Anya’s dream chamber." />
+	<String id="59910022" string="&quot;There’s nothing for me here now…&quot;" />
+	<String id="59910023" string="Talk to Dougal." />
+	<String id="59910024" string="Nod." />
+	<String id="59910025" string="Talk to Walgrey." />
+</StrSheet_Quest>

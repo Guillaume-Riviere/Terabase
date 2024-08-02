@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10060001" string="Alchemical Nourishment" />
+	<String id="10060002" string="&quot;No, thank you.&quot;" />
+	<String id="10060003" string="Growth Serum" />
+	<String id="10060004" string="Take the finished product to Tagat." />
+</StrSheet_Quest>

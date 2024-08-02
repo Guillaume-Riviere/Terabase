@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1127001" string="Hidden Treasure of the Pirates" />
+	<String id="1127002" string="Good decision. See you soon." />
+	<String id="1127003" string="I said clear out!" />
+	<String id="1127004" string="Collect the silt." />
+	<String id="1127005" string="Find the pirate's treasure chest hidden at the West Pier Boundary." />
+	<String id="1127006" string="Collect the silt." />
+	<String id="1127007" string="Find the pirate's treasure chest hidden at the South Pier Boundary." />
+	<String id="1127008" string="&quot;For the federation!&quot;" />
+	<String id="1127009" string="Deliver the silt to Ellex at the Vanguard Bastion." />
+</StrSheet_Quest>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18210001" string="Birthplace of Knowledge" />
+	<String id="18210002" string="&quot;Understood.&quot;" />
+	<String id="18210003" string="Meet High Seeker." />
+	<String id="18210004" string="" />
+	<String id="18210005" string="High Seeker's Pass" />
+	<String id="18210006" string="Follow the northern road, and show High Seeker Janiam's Sigil to Madok." />
+	<String id="18210007" string="&quot;Thank you.&quot;" />
+	<String id="18210008" string="" />
+	<String id="18210009" string="High Seeker Janiam's Sigil" />
+	<String id="18210010" string="Show High Seeker Janiam's Sigil to Daraon." />
+	<String id="18210011" string="&quot;I appreciate your help.&quot;" />
+	<String id="18210012" string="" />
+	<String id="18210013" string="High Seeker Janiam's Sigil" />
+	<String id="18210014" string="Show High Seeker Janiam's Sigil to Marmundam in Highwatch." />
+	<String id="18210015" string="&quot;Thanks.&quot;" />
+	<String id="18210016" string="&quot;You humble me. Thank you.&quot;" />
+	<String id="18210017" string="Go to House of High Elder via Meditation Way to meet Verikam." />
+</StrSheet_Quest>

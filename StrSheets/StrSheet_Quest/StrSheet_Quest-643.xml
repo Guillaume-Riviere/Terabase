@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2530001" string="Preemptive Strike for Victory" />
+	<String id="2530002" string="I want to see those skulls!" />
+	<String id="2530003" string="That's one way to get ahead." />
+	<String id="2530004" string="Undead General's Skull" />
+	<String id="2530005" string="Collect skulls from the ossugon warchiefs in the Dark Cathedral." />
+	<String id="2530006" string="Report to Rendalf at the Vindicator Redoubt." />
+	<String id="2530007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

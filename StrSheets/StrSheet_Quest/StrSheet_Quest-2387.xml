@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800130001" string="Clean up the Plain of the Damned" />
+	<String id="800130002" string="[Plain of the Damned] Defeat the Cursed Legion and their allies." />
+	<String id="800130003" string="Ksharan Army" />
+	<String id="800130004" string="Claim your reward!" />
+</StrSheet_Quest>

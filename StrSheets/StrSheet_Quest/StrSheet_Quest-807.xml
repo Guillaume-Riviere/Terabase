@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3423001" string="Hold on to the Knife" />
+	<String id="3423002" string="Remember—tough! Really tough!" />
+	<String id="3423003" string="Horrible, but useful." />
+	<String id="3423004" string="Maligos Hide" />
+	<String id="3423005" string="Slay maligos icestalkers along the Ice Trail and collect their hides." />
+	<String id="3423006" string="Bring the hides to Forsil in Bleakrock." />
+	<String id="3423007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

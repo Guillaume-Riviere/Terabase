@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5129001" string="Something's Bugging Me" />
+	<String id="5129002" string="Watch those claws, now. They'll rip you in two!" />
+	<String id="5129003" string="The only good arachnen's a dead one." />
+	<String id="5129004" string="Hunt snowfield arachnens in Frostclaw Crag." />
+	<String id="5129005" string="&quot;Thanks!&quot;" />
+	<String id="5129006" string="Report to Naktaj." />
+</StrSheet_Quest>

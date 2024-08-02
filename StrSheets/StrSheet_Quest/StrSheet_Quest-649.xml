@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2536001" string="In Deeper" />
+	<String id="2536002" string="Ask Doron about Runha." />
+	<String id="2536003" string="The others went through the teleportal." />
+	<String id="2536004" string="&quot;Got it. Thanks.&quot;" />
+	<String id="2536005" string="Speak with Doron about Runha's whereabouts." />
+	<String id="2536006" string="&quot;Smart move.&quot;" />
+	<String id="2536007" string="Find Runha in the Grand Chapel." />
+</StrSheet_Quest>

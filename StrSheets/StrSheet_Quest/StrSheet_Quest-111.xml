@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="530001" string="The Emperor's New Hat" />
+	<String id="530002" string="My hats! My beautiful hats!" />
+	<String id="530003" string="You're a lifesaver." />
+	<String id="530004" string="Fancy Headdress" />
+	<String id="530005" string="Kill the Tuwangi Workers in their village and collect the headdresses." />
+	<String id="530006" string="Deliver the headdresses to Boermas." />
+	<String id="530007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3623001" string="Salvage Operation" />
+	<String id="3623002" string="I hope they've left anything to salvage." />
+	<String id="3623003" string="You've been a great help." />
+	<String id="3623004" string="&quot;I did what I could.&quot;" />
+	<String id="3623005" string="Go to Outlaws' Nest and retrieve the stolen supplies." />
+	<String id="3623006" string="Report to Ishuram at Runner's Watch." />
+</StrSheet_Quest>

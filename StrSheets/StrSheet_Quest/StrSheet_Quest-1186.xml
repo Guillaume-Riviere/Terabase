@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4950001" string="The Master of the Spire" />
+	<String id="4950002" string="Don't die on my account." />
+	<String id="4950003" string="What an accomplishment!" />
+	<String id="4950004" string="Kill Solorog and the kalash defenders at the {@Rgn:49003}." />
+	<String id="4950005" string="&quot;Understood.&quot;" />
+	<String id="4950006" string="Head back to Kanstria and speak with {@LinkCreature:76#1024}." />
+	<String id="4950007" string="&quot;I won't let you down.&quot;" />
+	<String id="4950008" string="Find {@LinkCreature:250#1006} at Shroud Outpost." />
+</StrSheet_Quest>

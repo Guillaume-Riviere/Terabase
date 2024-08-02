@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="639001" string="News of Victory" />
+	<String id="639002" string="Please go to Vindicator Camp." />
+	<String id="639003" string="Gutrends in a panic! Very exciting news!" />
+	<String id="639004" string="&quot;Understood.&quot;" />
+	<String id="639005" string="Visit Prefect Crevan in Vindicator Camp to report that you have eliminated the majority of the Gutrends." />
+	<String id="639006" string="&quot;For the federation!&quot;" />
+	<String id="639007" string="Deliver the news to Whimnia on the road to Valselok Shrine." />
+</StrSheet_Quest>

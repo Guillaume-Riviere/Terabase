@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5535001" string="A Murder of Crows" />
+	<String id="5535002" string="Black-feathered menaces..." />
+	<String id="5535003" string="Time isn't exactly on our side." />
+	<String id="5535004" string="Tainted Ichor" />
+	<String id="5535005" string="You...will DIE!" />
+	<String id="5535006" string="I...have failed..." />
+	<String id="5535007" string="Eliminate the mekonari arcanathieves and their minions in the Plaza of the Fallen." />
+	<String id="5535008" string="Bring the ichor to Jola at Valumnir Outpost." />
+	<String id="5535009" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

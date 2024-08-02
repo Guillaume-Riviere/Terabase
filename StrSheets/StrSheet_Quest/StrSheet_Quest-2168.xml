@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="118302001" string="[Valkyrie] A New Story" />
+	<String id="118302002" string="&quot;I'll try to find it.&quot;" />
+	<String id="118302003" string="Go to {@linkcreature:183#1015#Omeros} in Highwatch." />
+	<String id="118302004" string="Read the book that Omeros gave you." />
+	<String id="118302005" string="&quot;Okay.&quot;" />
+	<String id="118302006" string="Go to {@linkcreature:183#1015#Omeros} in Highwatch." />
+</StrSheet_Quest>

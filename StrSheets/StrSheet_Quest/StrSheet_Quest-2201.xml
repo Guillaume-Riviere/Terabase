@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="210501001" string="[Important] A Hidden Passage" />
+	<String id="210501002" string="&quot;Okay.&quot;" />
+	<String id="210501003" string="Speak with Dougal." />
+	<String id="210501004" string="&quot;Okay.&quot;" />
+	<String id="210501005" string="Speak with Jelena." />
+	<String id="210501006" string="Draakon Code Book" />
+	<String id="210501007" string="Kill Draakons and collect their code books." />
+	<String id="210501008" string="Speak with Jelena." />
+	<String id="210501009" string="&quot;Okay.&quot;" />
+	<String id="210501010" string="&quot;Okay.&quot;" />
+	<String id="210501011" string="Speak with Dougal." />
+	<String id="210501012" string="&quot;I'll be there right away.&quot;" />
+	<String id="210501013" string="Speak with Titus." />
+	<String id="210501014" string="Restricted Area Corridor" />
+	<String id="210501015" string="You found Jelena's tracks. Follow her into the corridor" />
+	<String id="210501016" string="Enter the Restricted Area Corridor." />
+	<String id="210501017" string="Abyss Entrance" />
+	<String id="210501018" string="You found Jelena's tracks. Follow her into the Engine Room" />
+	<String id="210501019" string="Go to the Abyss Entrance in Verrak Fortress." />
+	<String id="210501020" string="Verrak Fortress Cloistered Corridor" />
+	<String id="210501021" string="Go to the Engine Room" />
+	<String id="210501022" string="Go to the Verrak Fortress Cloistered Corridor." />
+	<String id="210501023" string="&quot;Let's take a look.&quot;" />
+	<String id="210501024" string="Speak with Jelena in Verrak Fortress." />
+</StrSheet_Quest>

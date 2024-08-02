@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810036001" string="Hunt Dusky Basilisks" />
+	<String id="810036002" string="[Basilisk Crag] Hunt dusky basilisks in the Vale of Graves." />
+	<String id="810036003" string="Essence of Dusky Basilisk" />
+	<String id="810036004" string="Claim your reward!" />
+</StrSheet_Quest>

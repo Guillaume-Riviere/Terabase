@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18109001" string="It's All Relative" />
+	<String id="18109002" string="&quot;Count on me.&quot;" />
+	<String id="18109003" string="Entrance to Diranas Quarry" />
+	<String id="18109004" string="Entered Diranas Quarry." />
+	<String id="18109005" string="Enter Diranas Quarry." />
+	<String id="18109006" string="[&lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7031#26646, -15854, 2593&amp;type=1&amp;name=Diranas Quarry&quot;>Diranas Quarry&lt;/A>&lt;/font>]&#10;Use Hagand's Invisibility Potion in Diranas Quarry." />
+	<String id="18109007" string="You become invisible." />
+	<String id="18109008" string="&quot;That...makes sense.&quot;" />
+	<String id="18109009" string="Collect Relativity Stones while invisible." />
+	<String id="18109010" string="Bring Relativity Stones to Guikol." />
+	<String id="18109011" string="&quot;Sigh...fine. You're the smuggler.&quot;" />
+	<String id="18109012" string="Speak with Guikol." />
+	<String id="18109013" string="&quot;This looks like the place.&quot;" />
+	<String id="18109014" string="Hide the Relativity Stones under the pile of rocks." />
+</StrSheet_Quest>

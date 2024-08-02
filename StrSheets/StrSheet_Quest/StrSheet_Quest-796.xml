@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3335001" string="Breaking the Circuit" />
+	<String id="3335002" string="I must have those aetherducts." />
+	<String id="3335003" string="Thulsa's going to weep when my plan goes off!" />
+	<String id="3335004" string="&quot;For the federation!&quot;" />
+	<String id="3335005" string="Collect aetherducts in the Chambers of Endless Misery." />
+	<String id="3335006" string="Bring the aetherducts to Lastair." />
+</StrSheet_Quest>

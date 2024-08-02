@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5139001" string="Soup's On" />
+	<String id="5139002" string="I used to be a mighty hunter." />
+	<String id="5139003" string="Or maybe we can grill them." />
+	<String id="5139004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="5139005" string="Collect Autumn Mushrooms in Frostclaw Crag on the Plain of the Damned" />
+	<String id="5139006" string="Deliver the Autumn Mushrooms to Primus Traveron in the last cave of Raseri Festning" />
+</StrSheet_Quest>

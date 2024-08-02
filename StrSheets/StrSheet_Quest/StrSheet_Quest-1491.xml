@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8421001" string="Some Pig" />
+	<String id="8421002" string="Thank you!" />
+	<String id="8421003" string="Delicious!" />
+	<String id="8421004" string="{@Rgn:2001$$Fey Forest}" />
+	<String id="8421005" string="{@Rgn:13001$$Island of Dawn}" />
+	<String id="8421006" string="{@Rgn:19001$$Freeholds}" />
+	<String id="8421007" string="{@Rgn:23001$$Lake of Tears}" />
+	<String id="8421008" string="Speak to {@LinkCreature:84#1208$$Tapa}." />
+	<String id="8421009" string="&quot;Here I go!&quot;" />
+	<String id="8421010" string="Hunt {@creature:2#8#hoglings} in the {@Rgn:2001$$Fey Forest} and harvest their meat." />
+	<String id="8421011" string="Hunt {@creature:13#1#piglings} on the {@Rgn:13001$$Island of Dawn} and harvest their meat." />
+	<String id="8421012" string="Hunt {@creature:19#1003#fat piglings} in {@Rgn:19001$$Freeholds} and harvest their meat." />
+	<String id="8421013" string="Hunt {@creature:23#4#forest piglings} around the {@Rgn:23001$$Lake of Tears} and harvest their meat." />
+	<String id="8421014" string="&quot;Thanks.&quot;" />
+	<String id="8421015" string="Hunt {@creature:2#8#hoglings} and harvest their meat for {@LinkCreature:84#1208$$Tapa}." />
+	<String id="8421016" string="Deliver the pigling meat to {@Creature:84#1208$$Tapa} at {@Rgn:84101$$Kapina Camp}." />
+	<String id="8421017" string="Return to Tapa." />
+	<String id="8421018" string="Grilled Pigling" />
+	<String id="8421019" string="Deliver the grilled pigling to {@Creature:84#1217$$Kothul}." />
+	<String id="8421020" string="&quot;It was my pleasure.&quot;" />
+</StrSheet_Quest>

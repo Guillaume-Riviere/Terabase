@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60709001" string="Fuelish Heart" />
+	<String id="60709002" string="I thank you, and the future thanks you." />
+	<String id="60709003" string="It recharged the bot almost immediately!" />
+	<String id="60709004" string="Icereaver Giant Crystals" />
+	<String id="60709005" string="Collect three crystals from icereaver giants in Frost Reach." />
+	<String id="60709006" string="Deliver the crystals to Zerit." />
+	<String id="60709007" string="&quot;Anything for science.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2240001" string="Going to the Chapel" />
+	<String id="2240002" string="Those dark prelates will pay for their attack!" />
+	<String id="2240003" string="We'll deal with the altar once we reclaim our castle!" />
+	<String id="2240004" string="Slay the dark prelates and ensorceled disc reapers guarding the Altar of Vadoma." />
+	<String id="2240005" string="&quot;Thanks.&quot;" />
+	<String id="2240006" string="Report to Cordella." />
+</StrSheet_Quest>

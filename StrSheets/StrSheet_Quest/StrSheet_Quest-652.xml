@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2540001" string="Hunt Down the Fanatic Priests" />
+	<String id="2540002" string="If it's not one crazy lot, it's another." />
+	<String id="2540003" string="A little less crazy in the world is a good thing." />
+	<String id="2540004" string="Fanatic's Crest" />
+	<String id="2540005" string="Collect fanatic's crests from primal Lokians in the Grand Chapel." />
+	<String id="2540006" string="Deliver the fanatic's crests to Karus in the Dark Cathedral." />
+	<String id="2540007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70104001" string="[Event] Ice to Meet You" />
+	<String id="70104002" string="Thank you in advance!" />
+	<String id="70104003" string="Come for cool sarberry ice." />
+	<String id="70104004" string="&quot;I think I understand.&quot;" />
+	<String id="70104005" string="&quot;I'll...tell her that.&quot;" />
+	<String id="70104006" string="Get ice from Luman." />
+	<String id="70104007" string="&quot;You're very...kind.&quot;" />
+	<String id="70104008" string="Get sarberries from Luman." />
+	<String id="70104009" string="&quot;Okay, I'm on it.&quot;" />
+	<String id="70104010" string="Talk to Lilan." />
+	<String id="70104011" string="Put the chunk of ice in the ice shaver." />
+	<String id="70104012" string="&quot;That seems easy enough.&quot;" />
+	<String id="70104013" string="Get shaved ice." />
+	<String id="70104014" string="Talk to Trilyn." />
+	<String id="70104015" string="Make a sarberry ice." />
+	<String id="70104016" string="You have made a sarberry ice." />
+	<String id="70104017" string="&quot;It's been very...interesting.&quot;" />
+	<String id="70104018" string="Make a sarberry ice." />
+	<String id="70104019" string="Take sarberry ice to Lilan." />
+</StrSheet_Quest>

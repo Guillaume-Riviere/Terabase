@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4102001" string="A New Breed" />
+	<String id="4102002" string="&quot;I'll talk to him.&quot;" />
+	<String id="4102003" string="&quot;Okay.&quot;" />
+	<String id="4102004" string="See Lauma in Frontera." />
+	<String id="4102005" string="&quot;Kechalku? Got it.&quot;" />
+	<String id="4102006" string="Meet with Grunath at the Feral Valley Station." />
+	<String id="4102007" string="&quot;I understand.&quot;" />
+	<String id="4102008" string="Meet Kechaku at the Experior Outpost in Feral Valley." />
+	<String id="4102009" string="Climb the cliff near the Arena of Blood and fight the gula executors." />
+	<String id="4102010" string="&quot;Lair, flute. Okay.&quot;" />
+	<String id="4102011" string="Report to Paduk of the Emissary Point in the Feral Valley that the gula executors have been killed." />
+	<String id="4102012" string="Find the secret cave entrance near the Arena of Blood. Go to the meeting point, then use the summoning flute." />
+	<String id="4102013" string="This Graatush must be the contact." />
+	<String id="4102014" string="&quot;That doesn't sound quite right....&quot;" />
+	<String id="4102015" string="Get information from Graatush." />
+	<String id="4102016" string="Badoask's Head" />
+	<String id="4102017" string="Kill Badoask in the Arena of Blood. Take his head." />
+	<String id="4102018" string="Take Badoask's head to Karba at Emissary Point." />
+	<String id="4102019" string="&quot;He won't escape!&quot;" />
+	<String id="4102020" string="Vadrask's Head" />
+	<String id="4102021" string="Kill Vadrask and bring back his head." />
+	<String id="4102022" string="Take Vadrask's head to Karba at Emissary Point." />
+	<String id="4102023" string="&quot;I'll do it.&quot;" />
+	<String id="4102024" string="Karba the Revered" />
+	<String id="4102025" string="Karba's Letter" />
+	<String id="4102026" string="Deliver Karba's letter to Lauma in Frontera." />
+	<String id="4102027" string="&quot;If you say so...&quot;" />
+</StrSheet_Quest>

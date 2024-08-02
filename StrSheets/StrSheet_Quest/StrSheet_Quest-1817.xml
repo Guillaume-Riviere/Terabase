@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48925001" string="The Last Thing We Wanted to See" />
+	<String id="48925002" string="Be careful. No one knows what might come out." />
+	<String id="48925003" string="Do you think the argons are really in league with the cultists?" />
+	<String id="48925004" string="Use the Seal Deactivation Scroll to remove the Eldritch Seal.&#10;[You must select Cultists' Refuge (Solo) from  {@LinkCreature:225#1023#Runha} to advance this quest.] " />
+	<String id="48925005" string="Eliminate the creatures inside the Chamber of Wonder.&#10;[You must select Cultists' Refuge (Solo) from  {@LinkCreature:225#1023#Runha} to advance this quest.] " />
+	<String id="48925006" string="&quot;For the federation!&quot;" />
+	<String id="48925007" string="Speak to Jelena." />
+</StrSheet_Quest>

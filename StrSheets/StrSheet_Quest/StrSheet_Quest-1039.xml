@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4270001" string="(Guild) Suppression Orders: First Floor Survivors" />
+	<String id="4270002" string="Proof of Kill: First Floor Survivors" />
+	<String id="4270003" string="&quot;I'm happy I could help.&quot;" />
+	<String id="4270004" string="Hunt naga survivors on the first level." />
+	<String id="4270005" string="Report to Esrill in Frontera." />
+</StrSheet_Quest>

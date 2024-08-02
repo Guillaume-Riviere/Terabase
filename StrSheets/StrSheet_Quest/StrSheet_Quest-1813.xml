@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48921001" string="Dark Beings" />
+	<String id="48921002" string="Destroy the cores." />
+	<String id="48921003" string="Good job. Thanks for your hard work." />
+	<String id="48921004" string="Darkness Core" />
+	<String id="48921005" string="Eliminate the dark beings in the Cultists' Refuge and collect their cores.&#10;[You must select Cultists' Refuge (Solo) from  {@LinkCreature:225#1023#Runha} to advance this quest.]  " />
+	<String id="48921006" string="Bring the cores to Karus on the second floor of the Dark Cathedral." />
+	<String id="48921007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

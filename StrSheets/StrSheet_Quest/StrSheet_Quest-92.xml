@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="443001" string="Essence of Bahaar" />
+	<String id="443002" string="Fyrmount's full of unique ores—all of them useful." />
+	<String id="443003" string="Oh, these are great nodules!" />
+	<String id="443004" string="&quot;For the federation!&quot;" />
+	<String id="443005" string="Find flamelicked ore on the ground near the entrance to Molten Reach." />
+	<String id="443006" string="Deliver flamelicked ore to Eurice at Firebase Valor." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="774001" string="(Guild) Suppression Orders: Juggernaut Mercenaries" />
+	<String id="774002" string="Proof of Kill: Juggernaut Deaths" />
+	<String id="774003" string="&quot;For the federation!&quot;" />
+	<String id="774004" string="Eliminate the juggernaut mercenaries in the eastern Cardovek Remnants." />
+	<String id="774005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

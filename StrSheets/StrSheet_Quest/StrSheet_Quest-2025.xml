@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60511001" string="Skin and Bones—and Claws" />
+	<String id="60511002" string="&quot;I love killing stuff.&quot;" />
+	<String id="60511003" string="" />
+	<String id="60511004" string="" />
+	<String id="60511005" string="" />
+	<String id="60511006" string="" />
+	<String id="60511007" string="Talk to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60511008" string="&quot;Count me in.&quot;" />
+	<String id="60511009" string="Naga Parts" />
+	<String id="60511010" string="Hunt {@LinkCreature:10#8#naga battlemasters} on {@Rgn:10001#Serpentis Isle} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60511011" string="" />
+	<String id="60511012" string="&quot;Here you go.&quot;" />
+	<String id="60511013" string="Naga Parts" />
+	<String id="60511014" string="Hunt {@LinkCreature:10#16#naga clawriders} on {@Rgn:10001#Serpentis Isle} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60511015" string="" />
+	<String id="60511016" string="&quot;Here you go.&quot;" />
+	<String id="60511017" string="Naga Parts" />
+	<String id="60511018" string="Hunt {@LinkCreature:10#17#naga clawmasters} on {@Rgn:10001#Serpentis Isle} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60511019" string="" />
+	<String id="60511020" string="&quot;Here you go.&quot;" />
+	<String id="60511021" string="Naga Parts" />
+	<String id="60511022" string="Hunt {@LinkCreature:10#18#naga leviathan} on {@Rgn:10001#Serpentis Isle} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60511023" string="" />
+	<String id="60511024" string="&quot;Here you go.&quot;" />
+	<String id="60511025" string="&quot;See you soon.&quot;" />
+	<String id="60511026" string="Talk to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

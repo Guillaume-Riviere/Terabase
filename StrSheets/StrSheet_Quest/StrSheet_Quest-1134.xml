@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4831001" string="One Father's Legacy" />
+	<String id="4831002" string="I hope you find the chapters, my friend." />
+	<String id="4831003" string="Our son will have something of his father's. Thank you." />
+	<String id="4831004" string="&quot;I'll treasure it. Thanks.&quot;" />
+	<String id="4831005" string="Search the {@Rgn:48001} for the missing chapters to Dalmuri's book." />
+	<String id="4831006" string="Deliver the chapters to {@LinkCreature:78#1008} at {@Rgn:78001}." />
+</StrSheet_Quest>

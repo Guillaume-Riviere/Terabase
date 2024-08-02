@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200123001" string="[Daily Quest] Clear Exodor Farmlands" />
+	<String id="200123002" string="&quot;[Exodor Farmlands] Defeat 100 monsters in the inner island area.&quot;" />
+	<String id="200123003" string="Clear Exodor Farmlands" />
+	<String id="200123004" string="&quot;Claim your reward! (You cannot obtain Credits until you complete all [Important] quests).&quot;" />
+</StrSheet_Quest>

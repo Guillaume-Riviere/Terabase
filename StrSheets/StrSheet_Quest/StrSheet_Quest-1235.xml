@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5128001" string="I'm Hunting Puddy-Tats" />
+	<String id="5128002" string="Those bloody sabertooths don't just purr, you know?" />
+	<String id="5128003" string="I—I must thank you. I don't know that I could have killed them all." />
+	<String id="5128004" string="Pristine Sabertooth Hide" />
+	<String id="5128005" string="Hunt iceheart sabertooths in Frostclaw Crag and collect their hides." />
+	<String id="5128006" string="Deliver the hides to Craxan." />
+	<String id="5128007" string="&quot;Go help your daughter.&quot;" />
+</StrSheet_Quest>

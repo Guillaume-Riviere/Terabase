@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3434001" string="The Nail that Sticks Up" />
+	<String id="3434002" string="Without Kaijas, less fighting." />
+	<String id="3434003" string="It's a new era for us. A new path." />
+	<String id="3434004" string="Azurice Staff" />
+	<String id="3434005" string="Meddling ends now!" />
+	<String id="3434006" string="Impossible! Can't...die." />
+	<String id="3434007" string="Find Kaijas north of the Azurice Shrine, slay him, and bring back his staff." />
+	<String id="3434008" string="Speak with Krrevaas at the Azurice Shrine." />
+	<String id="3434009" string="&quot;Let me speak with Madyar.&quot;" />
+	<String id="3434010" string="&quot;I'll do what I can.&quot;" />
+	<String id="3434011" string="Speak with Madyar." />
+	<String id="3434012" string="&quot;Thank you.&quot;" />
+	<String id="3434013" string="Speak with Lalash." />
+</StrSheet_Quest>

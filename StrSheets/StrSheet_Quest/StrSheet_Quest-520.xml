@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2032001" string="Clearing the Supply Route" />
+	<String id="2032002" string="For the federation!" />
+	<String id="2032003" string="Great work!" />
+	<String id="2032004" string="Kill hammerhand slaves and stonecrusher slaves blocking the supply route." />
+	<String id="2032005" string="&quot;Glad I could help.&quot;" />
+	<String id="2032006" string="Report to Humam at the Utterdark Outpost in the Halls of Utterdark." />
+</StrSheet_Quest>

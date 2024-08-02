@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2502001" string="A Race through Dark Places" />
+	<String id="2502002" string="&quot;Okay.&quot;" />
+	<String id="2502003" string="It’s an emergency recall order. Report to Raciel in Tulufan." />
+	<String id="2502004" string="&quot;Okay.&quot;" />
+	<String id="2502005" string="Go to Tulufan and speak with Brurun." />
+	<String id="2502006" string="&quot;Okay.&quot;" />
+	<String id="2502007" string="Deliver the news about Elleon to Baruch in Tulufan." />
+	<String id="2502008" string="&quot;Okay.&quot;" />
+	<String id="2502009" string="Meet Orlaith at the Crusader Camp.&#10;[Use the {@LinkCreature:66#1015#Teleportal} to go to Crusader Camp.]" />
+	<String id="2502010" string="&quot;Okay.&quot;" />
+	<String id="2502011" string="Find Elsine in the Cathedral Redoubt far south in the Shattered City." />
+	<String id="2502012" string="&quot;Okay.&quot;" />
+	<String id="2502013" string="Find Rendalf in the Dark Cathedral." />
+	<String id="2502014" string="&quot;Okay.&quot;" />
+	<String id="2502015" string="Find Karus near the teleportal." />
+	<String id="2502016" string="Eliminate Nurkrasid, Valursus, and Masakrad and take their mementos of sacrifice." />
+	<String id="2502017" string="Activate the {@linkobject:31#summoning stone} in the Chapterhouse of the Dark Cathedral to summon Libtrixas. " />
+	<String id="2502018" string="Kill Libtrixas!" />
+	<String id="2502019" string="&quot;I understand.&quot;" />
+	<String id="2502020" string="Deliver the news to Runha that you have defeated Libtrixas." />
+</StrSheet_Quest>

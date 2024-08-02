@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2430001" string="A Dark Crystal" />
+	<String id="2430002" string="There's enough in this for both of us." />
+	<String id="2430003" string="Easy money." />
+	<String id="2430004" string="Kumas Crystal" />
+	<String id="2430005" string="Kill kumases along Aurum Road and find a necklace with a kumas crystal." />
+	<String id="2430006" string="Return to Kalminius at Sandwalker Refuge." />
+	<String id="2430007" string="&quot;Happy to help!&quot;" />
+</StrSheet_Quest>

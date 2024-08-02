@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60804001" string="Cutting Expenses" />
+	<String id="60804002" string="We'll all profit!" />
+	<String id="60804003" string="The ledger looks better now." />
+	<String id="60804004" string="Hunt three vulcans in Azarel's Labyrinth." />
+	<String id="60804005" string="&quot;Another day, another bonus.&quot;" />
+	<String id="60804006" string="Claim your reward from Rhales." />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="300701001" string="Jumpstart: Saleron's Sky Garden (Solo)" />
+	<String id="300701002" string="Defeat the final boss in Saleron's Sky Garden (Solo).&lt;br>&lt;br>Saleron's Sky Garden (Solo) can be entered through a teleportal. To teleport to the entry use Vanguard Initiative UI." />
+	<String id="300701003" string="&quot;Thanks.&quot;" />
+	<String id="300701004" string="Talk to Uriela in Velika." />
+</StrSheet_Quest>

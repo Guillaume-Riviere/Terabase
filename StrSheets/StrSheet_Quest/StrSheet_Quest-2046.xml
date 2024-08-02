@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60701001" string="Starting at the Bottom" />
+	<String id="60701002" string="Cluttered lab, cluttered mind..." />
+	<String id="60701003" string="Janitorial work suits you!" />
+	<String id="60701004" string="&quot;Anything to help.&quot;" />
+	<String id="60701005" string="Pick up discarded research papers scattered around the Unified Field Lab." />
+	<String id="60701006" string="Bring the discarded research to Fitae." />
+</StrSheet_Quest>

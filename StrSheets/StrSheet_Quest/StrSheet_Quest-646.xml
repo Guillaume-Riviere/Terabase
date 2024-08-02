@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2533001" string="Evil Scripture" />
+	<String id="2533002" string="I'm curious. Aren't you?" />
+	<String id="2533003" string="If they believe that, I almost feel sorry for them." />
+	<String id="2533004" string="Cultist Scripture" />
+	<String id="2533005" string="Collect cultist scriptures from the dark bishops." />
+	<String id="2533006" string="Bring the cultist scriptures to Rendalf at the Vindicator Redoubt." />
+	<String id="2533007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

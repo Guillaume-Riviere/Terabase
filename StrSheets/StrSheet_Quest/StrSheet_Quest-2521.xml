@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="983102001" string="Complete Echoes of Aranea" />
+	<String id="983102002" string="[Echoes of Aranea] Journey back in time to Castle Aranea and restore the Echo Arcana!" />
+	<String id="983102003" string="Restored Echo Arcana" />
+	<String id="983102004" string="Claim your reward!" />
+</StrSheet_Quest>

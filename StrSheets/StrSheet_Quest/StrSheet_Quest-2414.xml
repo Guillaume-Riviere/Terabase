@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810031001" string="Clean up Godric's Farm" />
+	<String id="810031002" string="[Celestial Hills] Eliminate enemies in the Omphalos Plains and Cardovek Remnants." />
+	<String id="810031003" string="Godric's Farm monsters" />
+	<String id="810031004" string="Claim your reward!" />
+</StrSheet_Quest>

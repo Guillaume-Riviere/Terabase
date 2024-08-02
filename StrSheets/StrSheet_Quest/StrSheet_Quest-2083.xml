@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61913001" string="[Fishing] When It's Time to Relax II" />
+	<String id="61913002" string="Hand over the fish." />
+	<String id="61913003" string="Deliver a Queen Salmon to {@linkcreature:83#9905#Ainve} at the Celsian Lake Fishery." />
+	<String id="61913004" string="" />
+	<String id="61913005" string="Claim the reward." />
+	<String id="61913006" string="Go to {@linkcreature:83#9905#Ainve} at the Celsian Lake Fishery." />
+</StrSheet_Quest>

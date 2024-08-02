@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3723001" string="The Scouting Report" />
+	<String id="3723002" string="We'll find something else from them to do." />
+	<String id="3723003" string="Argons...our worst nightmare..." />
+	<String id="3723004" string="Eliminate the Cryptkeeper Destroyers around and north of Phalangeal Research Camp." />
+	<String id="3723005" string="&quot;Understood!&quot;" />
+	<String id="3723006" string="Go to Brista, who is far north of Phalangeal Research Camp." />
+	<String id="3723007" string="We can't retreat from here!" />
+	<String id="3723008" string="Zhaathi..." />
+	<String id="3723009" string="Eliminate Nithatlos, leader of the cryptkeepers." />
+	<String id="3723010" string="&quot;Yes.&quot;" />
+	<String id="3723011" string="Report to Crasius at Phalangeal Research Camp." />
+</StrSheet_Quest>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8709001" string="New Member of the Federation" />
+	<String id="8709002" string="Take care! May Kaia give you strength." />
+	<String id="8709003" string="&quot;I understand.&quot;" />
+	<String id="8709004" string="Speak with Rida at {@Rgn:84001$$Kaiator} Command Center again." />
+	<String id="8709005" string="&quot;I'll think about it.&quot;" />
+	<String id="8709006" string="Talk to Commander {@creature:528#5005$$Tamur} at {@Rgn:84001$$Kaiator} Command Center.&#10;[Speak with {@linkcreature:84#1088$$Yunari} to enter the Kaiator Command Center.]" />
+	<String id="8709007" string="&quot;I see. Okay, I accept.&quot;" />
+	<String id="8709008" string="Discuss Tamur's condition with Rida." />
+	<String id="8709009" string="&quot;As ordered.&quot;" />
+	<String id="8709010" string="Report to {@creature:528#5005$$Tamur} at {@Rgn:84001$$Kaiator} Command Center that you'll join the federation." />
+	<String id="8709011" string="&quot;I'm on my way.&quot;" />
+	<String id="8709012" string="Speak with {@creature:528#5011$$Ukenul} at {@Rgn:84001$$Kaiator} Command Center." />
+	<String id="8709013" string="Front of Kaiator Command Center" />
+	<String id="8709014" string="Someone approaches." />
+	<String id="8709015" string="Go outside Headquarters to meet Kunar.&#10;[Speak with {@creature:528#5008$$Kamat} to go outside Headquarters.]" />
+	<String id="8709016" string="&quot;Sure. Okay.&quot;" />
+	<String id="8709017" string="Hasmina calls you over. Speak with Hasmina. " />
+	<String id="8709018" string="Where Hasmina Went" />
+	<String id="8709019" string="Hasmina is waiting. " />
+	<String id="8709020" string="Follow Hasmina." />
+	<String id="8709021" string="Where Hasmina Went" />
+	<String id="8709022" string="Hasmina seems to be thinking deeply about something." />
+	<String id="8709023" string="Follow Hasmina." />
+	<String id="8709024" string="Kaiator Transporation Hall" />
+	<String id="8709025" string="You arrived at Kaiator Transporation Hall!" />
+	<String id="8709026" string="Follow Hasmina to the Kaiator Transporation Hall." />
+	<String id="8709027" string="Kaiator Transporation Hall" />
+	<String id="8709028" string="You see the supplies ready." />
+	<String id="8709029" string="Follow Hasmina to the Kaiator Transporation Hall." />
+	<String id="8709030" string="&quot;Farewell.&quot;" />
+	<String id="8709031" string="Speak with Hasmina at the Transporation Hall." />
+	<String id="8709032" string="&quot;Thank you.&quot;" />
+	<String id="8709033" string="Speak with Kunar and receive your supplies. " />
+</StrSheet_Quest>

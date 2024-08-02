@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6336001" string="The Cat's Meow" />
+	<String id="6336002" string="&quot;I'll just hold on to this.&quot;" />
+	<String id="6336003" string="Buy a silvervine branch from a Hyderad Legacy merchant." />
+	<String id="6336004" string="Deliver the branch to Thaman." />
+</StrSheet_Quest>

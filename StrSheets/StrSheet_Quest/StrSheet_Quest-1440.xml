@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6335001" string="How Now Brown Cowl" />
+	<String id="6335002" string="&quot;That's a relief.&quot;" />
+	<String id="6335003" string="Purchase a cowl harness from a Valsekyr Hunt merchant." />
+	<String id="6335004" string="Deliver the harness to Thaman." />
+</StrSheet_Quest>

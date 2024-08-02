@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5601001" string="Drowned In Blood" />
+	<String id="5601002" string="&quot;Nice meeting you.&quot; " />
+	<String id="5601003" string="&quot;I'll head to Camp Umbra.&quot;" />
+	<String id="5601004" string="Ask Yedwin, Explorer Guild Master of Dragonfall, about the kidnapping." />
+	<String id="5601005" string="Nighteye Talisman" />
+	<String id="5601006" string="I hear more offerings coming!" />
+	<String id="5601007" string="My blood...for Sikander!" />
+	<String id="5601008" string="More blood for the altar!" />
+	<String id="5601009" string="Sika-aaaark!" />
+	<String id="5601010" string="Wipe out the mekonari hunters and ebonweavers that are kidnapping people in the Nightwood." />
+	<String id="5601011" string="Bring the Nighteye Talisman to Arshak and tell him that you took care of the kidnappers." />
+	<String id="5601012" string="&quot;Thanks.&quot;" />
+	<String id="5601013" string="&quot;I understand.&quot;" />
+	<String id="5601014" string="Go to Camp Umbra and inform Arshak about the rituals." />
+	<String id="5601015" string="We'll add your bones to the pile!" />
+	<String id="5601016" string="Sikander! Take me!" />
+	<String id="5601017" string="Volunteering for the ritual? How marvelous!" />
+	<String id="5601018" string="Too weak... Unworthy..." />
+	<String id="5601019" string="Search mekonari templars and dedicants for a key to the altar." />
+	<String id="5601020" string="&quot;Who's there?&quot;" />
+	<String id="5601021" string="Keep searching for the way to the altar." />
+	<String id="5601022" string="&quot;Can you get me in?&quot;" />
+	<String id="5601023" string="Talk to the ghostly figure." />
+	<String id="5601024" string="&quot;Right. Okay.&quot;" />
+	<String id="5601025" string="Follow the spirit to the altar entrance." />
+	<String id="5601026" string="Enter the {@linkcreature:256#1501#teleportal} to the Raven Altar&#10;Stop the ritual: timed, 16 minutes&#10;Destroy the pillar of blood on the Raven Altar and stop the ritual to awaken Sikander." />
+	<String id="5601027" string="&quot;Thanks. I'm on my way!&quot;" />
+	<String id="5601028" string="Return to Arshak." />
+</StrSheet_Quest>

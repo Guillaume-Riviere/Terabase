@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60106001" string="Grin and Bear It" />
+	<String id="60106002" string="Helvarian's research is too vital to interrupt. Help him however you can." />
+	<String id="60106003" string="I'll let Elben know how helpful you were. Thanks." />
+	<String id="60106004" string="" />
+	<String id="60106005" string="" />
+	<String id="60106006" string="" />
+	<String id="60106007" string="Speak with {@LinkCreature:247#3509} at {@Rgn:47006$$Field Base Lunacy}." />
+	<String id="60106008" string="&quot;No problem.&quot;" />
+	<String id="60106009" string="Kill one {@linkcreature:47#1001#Tirkai Grizzly}, {@linkcreature:47#1002#Argonomorph Tirkai grizzly}, and {@linkcreature:47#1003#Argonomorph Mugato}." />
+	<String id="60106010" string="Kill two {@linkcreature:47#1001#Tirkai Grizzlies}, {@linkcreature:47#1002#Argonomorph Tirkai Grizzlies}, and {@linkcreature:47#1003#Argonomorph Mugatos}." />
+	<String id="60106011" string="Kill three {@linkcreature:47#1001#Tirkai Grizzlies}, {@linkcreature:47#1002#Argonomorph Tirkai Grizzlies}, and {@linkcreature:47#1003#Argonomorph Mugatos}." />
+	<String id="60106012" string="&quot;Anytime.&quot;" />
+	<String id="60106013" string="Report back to Helvarian." />
+</StrSheet_Quest>

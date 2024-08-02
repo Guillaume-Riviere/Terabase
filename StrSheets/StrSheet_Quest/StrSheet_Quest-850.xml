@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3536001" string="Protect Jagged Crest" />
+	<String id="3536002" string="They're no better than vultures." />
+	<String id="3536003" string="Thank you." />
+	<String id="3536004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="3536005" string="Collect the remains of the Jagged Crest defenders." />
+	<String id="3536006" string="Deliver the remains to Deldre at Jagged Crest." />
+</StrSheet_Quest>

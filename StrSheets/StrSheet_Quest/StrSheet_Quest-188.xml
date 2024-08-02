@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="822001" string="Gold in Them Thar Swamps" />
+	<String id="822002" string="I have my doubts about Krudo..." />
+	<String id="822003" string="Oh, those are fine specimens!" />
+	<String id="822004" string="Nimphy Horn" />
+	<String id="822005" string="Obtain nimphy horns from caprin imps in Vexatus Swamp to the southwest of Castanica." />
+	<String id="822006" string="Deliver the nimphy horns to Alchemist Krudo at Avenger Outpost." />
+	<String id="822007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

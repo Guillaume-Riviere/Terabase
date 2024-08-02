@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4228001" string="Searching for Tilian" />
+	<String id="4228002" string="I'm worried about Tilian." />
+	<String id="4228003" string="I'll avenge Tilian!" />
+	<String id="4228004" string="A Piece of Tilian's Armor" />
+	<String id="4228005" string="Hunt skeletal guardians and look for any clues about Tilian." />
+	<String id="4228006" string="Report to Trikaian on the second level of the Ecdysi Atrium." />
+	<String id="4228007" string="Talk to Burtrand." />
+	<String id="4228008" string="Centurion Trikaian" />
+	<String id="4228009" string="A Piece of Tilian's Armor" />
+	<String id="4228010" string="Tell Burtrand about his brother." />
+	<String id="4228011" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="824001" string="The Caiman Problem" />
+	<String id="824002" string="Those pesky caimans've got to go!" />
+	<String id="824003" string="Nice work!" />
+	<String id="824004" string="Caiman Fang" />
+	<String id="824005" string="Eliminate the caiman mercenaries and caiman guards in the Hungry Caverns Vaults and pull their fangs." />
+	<String id="824006" string="Deliver the caiman fangs to Smernav at Avenger Outpost." />
+	<String id="824007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

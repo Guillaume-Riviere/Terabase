@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51022001" string="Butterfly Effect" />
+	<String id="51022002" string="&quot;Those butterflies are everywhere!&quot;" />
+	<String id="51022003" string="&quot;We need a closer look.&quot;" />
+	<String id="51022004" string="&quot;Okay.&quot;" />
+	<String id="51022005" string="Kierhan's observation post" />
+	<String id="51022006" string="Kierhan is on the Overwatch!" />
+	<String id="51022007" string="Go to Kierhan." />
+	<String id="51022008" string="&quot;Okay.&quot;" />
+	<String id="51022009" string="Talk to Kierhan." />
+	<String id="51022010" string="Hunt Mournwings and Murderwings." />
+	<String id="51022011" string="&quot;Okay.&quot;" />
+	<String id="51022012" string="Report to Kierhan." />
+	<String id="51022013" string="&quot;I'll take a look.&quot;" />
+	<String id="51022014" string="Deliver Kierhan's report." />
+	<String id="51022015" string="Read Kierhan's report." />
+	<String id="51022016" string="You don't know the exact location." />
+	<String id="51022017" string="Suspicious Area" />
+	<String id="51022018" string="What is that!" />
+	<String id="51022019" string="Search the area." />
+	<String id="51022020" string="&quot;Okay.&quot;" />
+	<String id="51022021" string="Report to Ziehenne." />
+</StrSheet_Quest>

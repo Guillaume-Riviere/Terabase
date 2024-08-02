@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70109001" string="[Event—Daily] Skyrockets in Flight" />
+	<String id="70109002" string="Always with reverence in your heart…" />
+	<String id="70109003" string="Balder will protect you." />
+	<String id="70109004" string="&quot;I got it.&quot;" />
+	<String id="70109005" string="Flame of Sacrifice" />
+	<String id="70109006" string="Before you is the Flame of Sacrifice." />
+	<String id="70109007" string="Go to the Flame of Sacrifice." />
+	<String id="70109008" string="Use a Remembrance Rocket." />
+	<String id="70109009" string="You set off a Remembrance Rocket." />
+	<String id="70109010" string="Flame of Honor" />
+	<String id="70109011" string="Before you is the Flame of Honor." />
+	<String id="70109012" string="Go to the Flame of Honor." />
+	<String id="70109013" string="Use a Remembrance Rocket." />
+	<String id="70109014" string="You set off a Remembrance Rocket." />
+	<String id="70109015" string="Flame of Mercy" />
+	<String id="70109016" string="Before you is the Flame of Mercy." />
+	<String id="70109017" string="Go to the Flame of Mercy." />
+	<String id="70109018" string="Use a Remembrance Rocket." />
+	<String id="70109019" string="You set off a Remembrance Rocket." />
+	<String id="70109020" string="&quot;Thanks. Perhaps I'll see you again tomorrow.&quot;" />
+	<String id="70109021" string="Talk to Modan." />
+</StrSheet_Quest>

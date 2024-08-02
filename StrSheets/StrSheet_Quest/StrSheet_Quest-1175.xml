@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4939001" string="Day of the Arbor" />
+	<String id="4939002" string="Kill {@Creature:49#21} and end his attacks on the Casian Tree." />
+	<String id="4939003" string="I thank you on behalf of the tree." />
+	<String id="4939004" string="Kill {@LinkCreature:49#21} to thwart the argon attacks on the Casian Tree." />
+	<String id="4939005" string="&quot;Good luck with your studies.&quot;" />
+	<String id="4939006" string="Report back to {@LinkCreature:249#1013}." />
+</StrSheet_Quest>

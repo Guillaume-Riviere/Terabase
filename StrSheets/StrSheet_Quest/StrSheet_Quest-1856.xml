@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51021001" string="For Essenia!" />
+	<String id="51021002" string="&quot;I've never been so busy!&quot;" />
+	<String id="51021003" string="&quot;Come whenever you want!&quot;" />
+	<String id="51021004" string="&quot;Got it.&quot;" />
+	<String id="51021005" string="&quot;I'm not sure if this is helping...&quot;" />
+	<String id="51021006" string="Gather Veridia Root.&#10;(Obtainable from Wild Veridia.)" />
+	<String id="51021007" string="Talk to Zeuk." />
+	<String id="51021008" string="&quot;Don't mind it.&quot;" />
+	<String id="51021009" string="Gather Plain Stone." />
+	<String id="51021010" string="Talk to Zeihenne." />
+	<String id="51021011" string="&quot;This better be good.&quot;" />
+	<String id="51021012" string="Gather Xermetal Ore.)" />
+	<String id="51021013" string="Talk to Kierhan." />
+	<String id="51021014" string="&quot;Okay.&quot;" />
+	<String id="51021015" string="Return to Zeuk." />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1382001" string="Gathering Your Strength" />
+	<String id="1382002" string="Remember, weakness is reversible. Death is not." />
+	<String id="1382003" string="&quot;On my way!&quot;" />
+	<String id="1382004" string="Speak with Gurney, the tactics Instructor at the Tower Base." />
+	<String id="1382005" string="&quot;Understood.&quot;" />
+	<String id="1382006" string="Speak with Lilni." />
+	<String id="1382007" string="&quot;Thank you.&quot;" />
+	<String id="1382008" string="Press [F] to collect ore from a Mock Rock near Lilni." />
+	<String id="1382009" string="Check back with Lilni for other tips on gathering." />
+</StrSheet_Quest>

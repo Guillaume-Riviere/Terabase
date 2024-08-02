@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="250012001" string="Dangerous Presence" />
+	<String id="250012002" string="Warded Area Entrance" />
+	<String id="250012003" string="Use the {@LinkCreature:2500#2502#Forest of the Fallen Teleportal} or the {@LinkCreature:2501#1502#Teleportal} to reach the {@LinkTerritory:2502#250200001#Forest of the Fallen}." />
+	<String id="250012004" string="Listen to Lok, and then follow him." />
+	<String id="250012005" string="Defeat summoned golems." />
+	<String id="250012006" string="Warded Area" />
+	<String id="250012007" string="Move to the Warded Area." />
+	<String id="250012008" string="Where Lok Indicated" />
+	<String id="250012009" string="Go where Lok asked you to." />
+	<String id="250012010" string="Defeat {@LinkCreature:2502#502#Corrupted Divine Guardian} and {@LinkCreature:2502#500#Corrupted Divine Guardian}." />
+	<String id="250012011" string="Enter the ward and help Lok." />
+	<String id="250012012" string="I'll kill you!" />
+	<String id="250012013" string="Defeat Thulsa." />
+	<String id="250012014" string="&quot;Okay.&quot;" />
+	<String id="250012015" string="Talk to Lok." />
+</StrSheet_Quest>

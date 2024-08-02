@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1026001" string="A Makeup Test" />
+	<String id="1026002" string="This is a personal favor—you understand?" />
+	<String id="1026003" string="Let's just keep this between us." />
+	<String id="1026004" string="Longtusk Hoof" />
+	<String id="1026005" string="Hunt down longtusk slashers in the Boan Strand and collect their hooves." />
+	<String id="1026006" string="Deliver the hooves to Bethalle at Viper Camp." />
+	<String id="1026007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

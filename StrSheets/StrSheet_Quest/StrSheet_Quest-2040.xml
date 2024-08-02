@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60601001" string="Puzzling Pieces" />
+	<String id="60601002" string="We must examine intact examples of this technology." />
+	<String id="60601003" string="Excellent! Now we can puzzle out their function." />
+	<String id="60601004" string="Nexus Teinocrons" />
+	<String id="60601005" string="Recover nexus teinocrons from creatures in the nexus." />
+	<String id="60601006" string="Deliver the teinocrons to {@LinkCreature:1022#1002}." />
+	<String id="60601007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

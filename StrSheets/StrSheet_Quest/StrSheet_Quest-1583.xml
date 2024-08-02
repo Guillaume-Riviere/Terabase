@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10112001" string="Staff Turnover" />
+	<String id="10112002" string="&quot;Thank you.&quot;" />
+	<String id="10112003" string="Make officer's staves." />
+	<String id="10112004" string="Take the staves to Jennes." />
+</StrSheet_Quest>

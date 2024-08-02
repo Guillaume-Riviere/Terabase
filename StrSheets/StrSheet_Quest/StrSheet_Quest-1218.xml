@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5038001" string="A Glimmer of Hope" />
+	<String id="5038002" string="Use the tyalinth blossom on the shambling creepers in the {@Rgn:50008}." />
+	<String id="5038003" string="&quot;That's amazing!&quot;" />
+	<String id="5038004" string="Report back to {@LinkCreature:250#1002}." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2570001" string="(Guild) Suppression Orders: Cultist Advance Party" />
+	<String id="2570002" string="Proof of Kill: Advance Party Deaths" />
+	<String id="2570003" string="&quot;Glad to be of service.&quot;" />
+	<String id="2570004" string="Defeat the cultist advance party at the secret entrance to the Dark Cathedral." />
+	<String id="2570005" string="Report to Delwen in Tulufan." />
+</StrSheet_Quest>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60516001" string="Hunting the Hostiles" />
+	<String id="60516002" string="&quot;Not yet.&quot;" />
+	<String id="60516003" string="" />
+	<String id="60516004" string="" />
+	<String id="60516005" string="" />
+	<String id="60516006" string="" />
+	<String id="60516007" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60516008" string="&quot;I'd be happy to go.&quot;" />
+	<String id="60516009" string="Lizard Skin" />
+	<String id="60516010" string="Hunt {@LinkCreature:24#5#swift storm lizards} on {@Rgn:24001#Aurum Road} and deliver lizard skin to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60516011" string="" />
+	<String id="60516012" string="&quot;Thanks.&quot;" />
+	<String id="60516013" string="Useful Item" />
+	<String id="60516014" string="Hunt {@LinkCreature:24#9#desert lightning kumases} in {@Rgn:24001#Aurum Road} and deliver collected items to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60516015" string="" />
+	<String id="60516016" string="&quot;Thanks.&quot;" />
+	<String id="60516017" string="Useful Item" />
+	<String id="60516018" string="Hunt {@LinkCreature:24#12#covetous vulcans} in {@Rgn:24001#Aurum Road} and deliver collected items to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60516019" string="" />
+	<String id="60516020" string="&quot;Thanks.&quot;" />
+	<String id="60516021" string="Useful Item" />
+	<String id="60516022" string="Hunt {@LinkCreature:24#62#yearning vulcans} in {@Rgn:24001#Aurum Road} and deliver collected items to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60516023" string="" />
+	<String id="60516024" string="&quot;Thanks.&quot;" />
+	<String id="60516025" string="&quot;Thank you, kindly.&quot;" />
+	<String id="60516026" string="Visit {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

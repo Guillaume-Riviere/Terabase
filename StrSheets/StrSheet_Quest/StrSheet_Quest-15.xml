@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="228001" string="Phonon's Flight of Fancy" />
+	<String id="228002" string="It's a game of tag...with faeries." />
+	<String id="228003" string="Faerie dust! Thanks!" />
+	<String id="228004" string="Faerie Dust" />
+	<String id="228005" string="Hunt the faeries near Maon's Cabin to recover Phonon's faerie dust." />
+	<String id="228006" string="Bring the faerie dust back to Phonon." />
+	<String id="228007" string="&quot;Fun game, kid.&quot;" />
+</StrSheet_Quest>

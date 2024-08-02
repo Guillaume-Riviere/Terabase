@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="302701001" string="[Dungeon - 473] Past is Prologue" />
+	<String id="302701002" string="&quot;Got it.&quot;" />
+	<String id="302701003" string="Speak with Verdas in Wyvern Watch." />
+	<String id="302701004" string="Search for the white wolf." />
+	<String id="302701005" string="This must be the place." />
+	<String id="302701006" string="Go to where the {@LinkCreature:38#2002#White Wolf} was probably heading." />
+	<String id="302701007" string="&quot;Got it.&quot; " />
+	<String id="302701008" string="Speak with Halrath in Thunder Hold." />
+	<String id="302701009" string="Use the scroll to summon Halrath to {@LinkCreature:38#2003#the top of the Ruined Tower}." />
+	<String id="302701010" string="&quot;I will.&quot;" />
+	<String id="302701011" string="Speak with Halrath at {@LinkCreature:38#2003#the top of the Ruined Tower}." />
+	<String id="302701012" string="Investigate the Forbidden Arena." />
+	<String id="302701013" string="&quot;Got it.&quot; " />
+	<String id="302701014" string="Speak with Halrath at {@LinkCreature:38#2003#the top of the Ruined Tower}." />
+	<String id="302701015" string="&quot;Got it.&quot;" />
+	<String id="302701016" string="Speak with Verdas in Wyvern Watch." />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4526001" string="More Bubbles" />
+	<String id="4526002" string="Head northwest, and you'll find the grellem spires." />
+	<String id="4526003" string="You don't have to worry." />
+	<String id="4526004" string="Break the {@creature:45#7003#grellem spires} in the northwestern swamp of the {@Rgn:45003$$Vale of the Reaper} and collect shards." />
+	<String id="4526005" string="Intruder! Intruder!" />
+	<String id="4526006" string="Kill the {@creature:45#6001#argonomorph tuwangi frogmaster} in the far northwest of the {@Rgn:45003$$Vale of the Reaper}." />
+	<String id="4526007" string="&quot;For the federation.&quot;" />
+	<String id="4526008" string="Collect controller shards." />
+	<String id="4526009" string="Deliver the shards to {@LinkCreature:245#1013$$Chaxanaz} at {@Rgn:45007$$Field Base Tenacity}." />
+</StrSheet_Quest>

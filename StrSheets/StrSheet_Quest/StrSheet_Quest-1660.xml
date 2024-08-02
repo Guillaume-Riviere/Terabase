@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18208001" string="Not FDA-Approved" />
+	<String id="18208002" string="&quot;I'm sure he's nearby.&quot;" />
+	<String id="18208003" string="Talk to Dougal." />
+	<String id="18208004" string="&quot;She could stand to relax a bit...&quot;" />
+	<String id="18208005" string="&quot;Okay, but this is the last time.&quot;" />
+	<String id="18208006" string="&quot;Maybe you should just leave her be.&quot;" />
+	<String id="18208007" string="Find Paesyn and talk to him." />
+	<String id="18208008" string="&quot;All right.... I'll do what I can.&quot;" />
+	<String id="18208009" string="Hot Springs Creature Meat" />
+	<String id="18208010" string="Kill Hot Springs Starfish and Hot Springs Kamara to get their meat." />
+	<String id="18208011" string="Bring Hot Springs Creature Meat to Paesyn." />
+	<String id="18208012" string="&quot;I hope it works...for your sake.&quot;" />
+	<String id="18208013" string="&quot;Sigh...fine. Let's get it over with.&quot;" />
+	<String id="18208014" string="Ask Paesyn if he's ready to return." />
+	<String id="18208015" string="&quot;Um...I need to report to Renish...&quot;" />
+	<String id="18208016" string="Deliver the tonic to Zolyn." />
+	<String id="18208017" string="&quot;Got it.&quot;" />
+	<String id="18208018" string="Bring the restored pendant to Renish at Amadjuak Trading Post." />
+	<String id="18208019" string="" />
+</StrSheet_Quest>

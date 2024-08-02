@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60102001" string="Capping the Well" />
+	<String id="60102002" string="Without the cyasma distillers, the argons might starve." />
+	<String id="60102003" string="If this works, we'll know one of their weaknesses." />
+	<String id="60102004" string="Find and activate the first cyasma distiller." />
+	<String id="60102005" string="Find and activate the second cyasma distiller." />
+	<String id="60102006" string="Find and activate the third cyasma distiller." />
+	<String id="60102007" string="&quot;A laudable goal.&quot;" />
+	<String id="60102008" string="Report to {@LinkCreature:77#3008} at {@Rgn:77001$$Pathfinder Post}." />
+</StrSheet_Quest>

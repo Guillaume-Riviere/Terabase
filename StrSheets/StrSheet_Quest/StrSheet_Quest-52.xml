@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="334001" string="Losing Focus" />
+	<String id="334002" string="Remember, kill devas, not castanics." />
+	<String id="334003" string="These contain dark power! They'll be very useful." />
+	<String id="334004" string="Devan Amulet" />
+	<String id="334005" string="Kill Kulsilva, the sporewalkers, and the arcanists in Deva Silva and collect their amulets." />
+	<String id="334006" string="Bring the amulets back to Pholus." />
+	<String id="334007" string="&quot;Here you are.&quot;" />
+</StrSheet_Quest>

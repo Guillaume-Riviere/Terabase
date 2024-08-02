@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2421001" string="Desert Rats" />
+	<String id="2421002" string="Don't know what's worse...kobolds or the federation." />
+	<String id="2421003" string="You took action. I appreciate that." />
+	<String id="2421004" string="Wipe out the Sand Wind kobold looters, lobbers, and headhunters on the Desert of Plunder near Tulufan." />
+	<String id="2421005" string="&quot;Happy to be of service.&quot;" />
+	<String id="2421006" string="Return to Magistrate Turrek in Tulufan." />
+</StrSheet_Quest>

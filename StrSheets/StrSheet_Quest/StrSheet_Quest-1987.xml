@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60301001" string="Beat the Brush" />
+	<String id="60301002" string="Never drop your guard, even for easy targets." />
+	<String id="60301003" string="Same time tomorrow?" />
+	<String id="60301004" string="" />
+	<String id="60301005" string="" />
+	<String id="60301006" string="" />
+	<String id="60301007" string="Find {@LinkCreature:76#3010#Beiran} at the gate to {@Rgn:76001$$Kanstria}." />
+	<String id="60301008" string="&quot;On my way.&quot;" />
+	<String id="60301009" string="Eliminate {@LinkCreature:49#13#kalash brutes} near {@Rgn:76001$$Kanstria}." />
+	<String id="60301010" string="Eliminate {@LinkCreature:49#12#kalash protectors} near {@Rgn:76001$$Kanstria}." />
+	<String id="60301011" string="Eliminate {@LinkCreature:49#10#kallan reavers} near the {@Rgn:49004$$Melgatol Portal} north of {@Rgn:76001$$Kanstria}." />
+	<String id="60301012" string="&quot;Hits the spot!&quot;" />
+	<String id="60301013" string="Return to {@LinkCreature:76#3010#Beiran}." />
+</StrSheet_Quest>

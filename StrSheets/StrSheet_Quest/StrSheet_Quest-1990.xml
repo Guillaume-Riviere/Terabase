@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60304001" string="Argonian Safari" />
+	<String id="60304002" string="By clear trails, I mean slay argons." />
+	<String id="60304003" string="A pleasure to watch you work!" />
+	<String id="60304004" string="" />
+	<String id="60304005" string="" />
+	<String id="60304006" string="" />
+	<String id="60304007" string="Go to {@Rgn:50002$$Shroud Outpost} in {@Rgn:50001$$Granarkus} and find {@LinkCreature:250#3001#Derik}." />
+	<String id="60304008" string="&quot;It'll be a pleasure.&quot;" />
+	<String id="60304009" string="Argon Hide" />
+	<String id="60304010" string="Hunt {@LinkCreature:50#5#athakela prowlers} around {@Rgn:50002$$Shroud Outpost} and collect their hides." />
+	<String id="60304011" string="Bring argon hides to {@LinkCreature:250#3001#Derik}." />
+	<String id="60304012" string="&quot;I suppose.&quot;" />
+	<String id="60304013" string="Argon Hide" />
+	<String id="60304014" string="Hunt {@LinkCreature:50#10#zomgul gatherers} in Granarkus and take their hides." />
+	<String id="60304015" string="Bring argon hides to {@LinkCreature:250#3001#Derik}." />
+	<String id="60304016" string="&quot;No thanks.&quot;" />
+	<String id="60304017" string="Argon Hide" />
+	<String id="60304018" string="Hunt {@LinkCreature:50#4#kalash devastators} north of {@Rgn:50002$$Shroud Outpost} and skin them." />
+	<String id="60304019" string="Bring argon hides to {@LinkCreature:250#3001#Derik}." />
+	<String id="60304020" string="&quot;Quite a few.&quot;" />
+</StrSheet_Quest>

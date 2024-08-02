@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47625001" string="Bug Hunt" />
+	<String id="47625002" string="Shouldn't be hard for someone as tough as you!" />
+	<String id="47625003" string="Please don't tell anyone!" />
+	<String id="47625004" string="Eliminate arachnen painweavers in Shriekaal Hall.&#10;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.] " />
+	<String id="47625005" string="&quot;Everyone has their thing.&quot;" />
+	<String id="47625006" string="Report to Sember at Furnace Approach." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2125001" string="Desert Scavengers" />
+	<String id="2125002" string="Victory for Valkyon!" />
+	<String id="2125003" string="Phew, what a relief!" />
+	<String id="2125004" string="Kill the yurklag hyenas and the desert arachnen workers near the Desert Research Station." />
+	<String id="2125005" string="&quot;For the federation!&quot;" />
+	<String id="2125006" string="Report to Kellan at the Desert Research Station." />
+</StrSheet_Quest>

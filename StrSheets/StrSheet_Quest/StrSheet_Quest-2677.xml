@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999981001" string="Collect Reflective Roots" />
+	<String id="999981002" string="[Ex Prima] Gather reflective roots near Havenstone Ruins." />
+	<String id="999981003" string="Reflective Root" />
+	<String id="999981004" string="Claim your reward!" />
+	<String id="999981005" string="Reflective Root" />
+</StrSheet_Quest>

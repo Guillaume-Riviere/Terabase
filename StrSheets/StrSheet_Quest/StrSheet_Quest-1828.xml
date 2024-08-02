@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50525001" string="[Apex] Following the Followers" />
+	<String id="50525002" string="&quot;Thanks. I'll need it.&quot;" />
+	<String id="50525003" string="Speak with Verdas." />
+	<String id="50525004" string="Defeat the Shurian Summoners and their minions." />
+	<String id="50525005" string="&quot;I understand. Thank you.&quot;" />
+	<String id="50525006" string="Speak with the Shurian Summoner Commander." />
+	<String id="50525007" string="Defeat the Elite Dragons." />
+	<String id="50525008" string="Up the Mountain" />
+	<String id="50525009" string="The federation troops have arrived!" />
+	<String id="50525010" string="Go &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7004#117802,89058,6316&amp;type=1&amp;name=further up the mountain&quot;>further up the mountain&lt;/A>&lt;/font>." />
+	<String id="50525011" string="&quot;Thanks for coming.&quot;" />
+	<String id="50525012" string="Speak with Uriela." />
+	<String id="50525013" string="&quot;...the end of the world.&quot;" />
+	<String id="50525014" string="Speak with Verdas." />
+</StrSheet_Quest>

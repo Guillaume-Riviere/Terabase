@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18382001" string="Elemental Fire Fusion" />
+	<String id="18382002" string="Fuses the required items into an Ember Flame Orb." />
+	<String id="18382003" string="Hand over the materials." />
+	<String id="18382004" string="Talk to Sionne." />
+</StrSheet_Quest>

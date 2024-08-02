@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200223001" string="[Daily Quest] Clear Iridian Wetlands" />
+	<String id="200223002" string="&quot;[Iridian Wetlands] Defeat 100 monsters in the inner island area!&quot;" />
+	<String id="200223003" string="Clear Iridian Wetlands" />
+	<String id="200223004" string="&quot;Claim your reward! (You cannot obtain Credits until you complete all [Important] quests).&quot;" />
+</StrSheet_Quest>

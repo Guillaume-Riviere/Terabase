@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1730001" string="Hootenanny" />
+	<String id="1730002" string="Let's do this!" />
+	<String id="1730003" string="Heavens Fall won't last long without food..." />
+	<String id="1730004" string="Worn Farm Tools" />
+	<String id="1730005" string="Kill {@LinkCreature:17#103#Heavens Fall overseers} and {@LinkCreature:17#102#laborers} in the fields near the compound and collect their tools." />
+	<String id="1730006" string="Give Lurig the tools you acquired." />
+	<String id="1730007" string="&quot;Glad to do it.&quot;" />
+</StrSheet_Quest>

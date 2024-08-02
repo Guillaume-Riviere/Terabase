@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1621001" string="Tracking Down Jadan" />
+	<String id="1621002" string="Where did he get off to?" />
+	<String id="1621003" string="Poor Jadan..." />
+	<String id="1621004" string="&quot;Of course.&quot;" />
+	<String id="1621005" string="Talk to Centurion Okon at the northern gate of Popolion." />
+	<String id="1621006" string="&quot;Thank you.&quot;" />
+	<String id="1621007" string="Ask Kripa if he's seen Jadan." />
+	<String id="1621008" string="&quot;Rest in peace, Jadan.&quot;" />
+	<String id="1621009" string="Find Jadan." />
+	<String id="1621010" string="&quot;Straightaway.&quot;" />
+	<String id="1621011" string="Tell Kripa you found the messenger." />
+	<String id="1621012" string="&quot;I wish I knew.&quot;" />
+	<String id="1621013" string="Report to Paka." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3040001" string="Bearly Fashionable" />
+	<String id="3040002" string="I never expected to find a hot item like this.&#10;Is it talent? Is it fate?" />
+	<String id="3040003" string="I guarantee you that bear fur will dominate Allemantheian fashion." />
+	<String id="3040004" string="{@linkcreature:30#200$$Plainstalker Bear} Fur" />
+	<String id="3040005" string="Hunt {@linkcreature:30#200#plainstalker bears} and collect their fur." />
+	<String id="3040006" string="Deliver the fur to {@linkcreature:230#1027$$Legan}." />
+	<String id="3040007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

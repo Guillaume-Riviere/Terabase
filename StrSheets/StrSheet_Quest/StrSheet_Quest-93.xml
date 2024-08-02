@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="444001" string="Shards of Blood and Fire" />
+	<String id="444002" string="We must destroy the bloodshard if it exists." />
+	<String id="444003" string="It's safe now. Well done." />
+	<String id="444004" string="Destroy the smoldering bloodshard near the Forge of Fury." />
+	<String id="444005" string="&quot;For Valkyon!&quot;" />
+	<String id="444006" string="Report to Calram at Firebase Intrepid." />
+</StrSheet_Quest>

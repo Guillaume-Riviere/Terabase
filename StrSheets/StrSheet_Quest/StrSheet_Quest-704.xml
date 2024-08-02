@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3045001" string="The Eternal Omelet" />
+	<String id="3045002" string="It makes sense. Eggs often symbolize rebirth and unending cycles." />
+	<String id="3045003" string="Anyone know how to prepare eggs?" />
+	<String id="3045004" string="&quot;Glad to help.&quot;" />
+	<String id="3045005" string="Collect eggs from {@linkcreature:30#1000#Arkai Perch$$Arkaina}." />
+	<String id="3045006" string="Deliver the eggs to {@linkcreature:230#1036$$Filine}." />
+</StrSheet_Quest>

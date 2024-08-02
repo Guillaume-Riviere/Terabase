@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2701001" string="The Desert Jewel" />
+	<String id="2701002" string="&quot;I understand.&quot;" />
+	<String id="2701003" string="Meet Commander Seir in Velika." />
+	<String id="2701004" string="&quot;I understand.&quot;" />
+	<String id="2701005" string="Meet with Priestess Ciebel." />
+	<String id="2701006" string="&quot;I understand.&quot;" />
+	<String id="2701007" string="Travel to Allemantheia and speak with Elleon." />
+	<String id="2701008" string="&quot;I understand.&quot;" />
+	<String id="2701009" string="Speak with Arshadh to find the whereabouts of Commander Fraya." />
+	<String id="2701010" string="&quot;I understand.&quot;" />
+	<String id="2701011" string="Speak with Commander Fraya." />
+	<String id="2701012" string="&quot;Thank you.&quot;" />
+	<String id="2701013" string="Speak with Fraya again." />
+</StrSheet_Quest>

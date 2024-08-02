@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19106001" string="Shut the Front Door" />
+	<String id="19106002" string="&quot;As ordered!&quot;" />
+	<String id="19106003" string="Destroy the first vortex gate and defeat the demokrons." />
+	<String id="19106004" string="Destroy the second vortex gate and defeat the demokrons." />
+	<String id="19106005" string="Destroy the third vortex gate and defeat the demokrons." />
+	<String id="19106006" string="&quot;Lead the way.&quot;" />
+	<String id="19106007" string="Speak with Rhodos." />
+</StrSheet_Quest>

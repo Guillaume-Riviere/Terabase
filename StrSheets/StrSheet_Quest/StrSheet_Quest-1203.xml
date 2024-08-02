@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5022001" string="Nature Finds a Way" />
+	<String id="5022002" string="How could such a flower survive?" />
+	<String id="5022003" string="Kill the kalash devastators around the {@Rgn:50005}." />
+	<String id="5022004" string="&quot;Such a pretty flower.&quot;" />
+	<String id="5022005" string="Collect the raindrop bellflower." />
+	<String id="5022006" string="" />
+	<String id="5022007" string="Raindrop Bellflower" />
+	<String id="5022008" string="Deliver the raindrop bellflower to {@LinkCreature:250#1014}." />
+	<String id="5022009" string="&quot;You're welcome.&quot;" />
+</StrSheet_Quest>

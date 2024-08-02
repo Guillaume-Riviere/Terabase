@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61801001" string="[Important] Kaia's Anvil" />
+	<String id="61801002" string="&quot;Got it.&quot;" />
+	<String id="61801003" string="Speak with {@linkcreature:84#1088#Yunari}." />
+	<String id="61801004" string="&quot;Got it.&quot; " />
+	<String id="61801005" string="Speak with {@LinkCreature:528#5005#Tamur} in Kaiator Command Center.&#10;[Speak with {@LinkCreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="61801006" string="&quot;I am honored.&quot;" />
+	<String id="61801007" string="Speak with {@LinkCreature:528#5032#Goddess Kaia} in Kaiator Command Center.&#10;[Speak with {@LinkCreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="61801008" string="Argon Weapon" />
+	<String id="61801009" string="Argon Core" />
+	<String id="61801010" string="Collect an Argon Core and an Argon Weapon at the Secret Base in Verrak Fortress." />
+	<String id="61801011" string="Speak with {@LinkCreature:528#5032#Goddess Kaia} in Kaiator Command Center.&#10;[Speak with {@LinkCreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="61801012" string="&quot;Got it.&quot;" />
+	<String id="61801013" string="&quot;Yes.&quot;" />
+	<String id="61801014" string="Speak with {@LinkCreature:411#5017#Fovarth} in Muhrak's Workshop in Habere.&#10;[Use the {@LinkCreature:79#1501#Teleportal} to enter Muhrak's Workshop.]" />
+	<String id="61801015" string="&quot;Got it.&quot; " />
+	<String id="61801016" string="Speak with {@LinkCreature:411#7000#Goddess Kaia} in Muhrak's Workshop  in Habere.&#10;[Use the {@LinkCreature:79#1501#Teleportal} to enter Muhrak's Workshop.]" />
+	<String id="61801017" string="Defeat {@linkcreature:3026#1000$$Kelsaik} in Corrupted Skynest and collect a Black Core Nodule." />
+	<String id="61801018" string="Speak with {@LinkCreature:411#7000#Goddess Kaia} in Muhrak’s Workshop in Habere." />
+	<String id="61801019" string="&quot;Okay.&quot;" />
+	<String id="61801020" string="Speak with {@LinkCreature:411#5017#Fovarth} in Muhrak’s Workshop in Habere.&#10;Use the {@LinkCreature:79#1501#Teleportal} to enter Muhrak’s Workshop." />
+	<String id="61801021" string="Speak with {@LinkCreature:411#5017#Fovarth} in the Blacksmith’s Workshop in Habere.&#10;[Use the {@LinkCreature:79#1501#Teleportal} to enter the Blacksmith’s Workshop.]" />
+</StrSheet_Quest>

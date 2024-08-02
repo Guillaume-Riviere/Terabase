@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1335001" string="One of Our Couriers Is Missing" />
+	<String id="1335002" string="Kerson looked anxious about something." />
+	<String id="1335003" string="Your assistance is appreciated." />
+	<String id="1335004" string="&quot;I'll find her.&quot;" />
+	<String id="1335005" string="Speak to Kerson." />
+	<String id="1335006" string="&quot;For the federation!&quot;" />
+	<String id="1335007" string="Look for Chione along the flight route to the Tainted Gorge." />
+</StrSheet_Quest>

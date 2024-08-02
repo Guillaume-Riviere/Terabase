@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55007001" string="Challenge of the Masters" />
+	<String id="55007002" string="Accept" />
+	<String id="55007003" string="Begin your challenge." />
+	<String id="55007004" string="Find Coldren in Velika." />
+	<String id="55007005" string="Complete Vault of Kaprima and Shadow Sanguinary." />
+	<String id="55007006" string="&quot;Okay.&quot;" />
+	<String id="55007007" string="Report to Coldren." />
+</StrSheet_Quest>

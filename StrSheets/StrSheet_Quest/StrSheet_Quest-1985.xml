@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60217001" string="On Behalf of the Shariar" />
+	<String id="60217002" string="Your name keeps coming up in conversations." />
+	<String id="60217003" string="The Shariar will never forget you." />
+	<String id="60217004" string="&quot;Thank you!&quot;" />
+	<String id="60217005" string="Report to {@LinkCreature:78#3002} at {@Rgn:78001$$Zulfikar Fortress}." />
+</StrSheet_Quest>

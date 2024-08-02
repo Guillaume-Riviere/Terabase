@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="770001" string="(Guild) Suppression Orders: Red Fang Orcans" />
+	<String id="770002" string="Proof of Kill: Red Fang Deaths" />
+	<String id="770003" string="&quot;For the federation!&quot;" />
+	<String id="770004" string="Eliminate the Red Fang orcans and fighters near Casidhe's Stand." />
+	<String id="770005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

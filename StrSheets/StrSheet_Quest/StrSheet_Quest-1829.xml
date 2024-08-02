@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50526001" string="[Apex] Between Worlds" />
+	<String id="50526002" string="&quot;I'm on it.&quot;" />
+	<String id="50526003" string="Speak with Verdas." />
+	<String id="50526004" string="Use the teleportal device." />
+	<String id="50526005" string="Location Unknown" />
+	<String id="50526006" string="You arrive in an unfamiliar, alien landscape." />
+	<String id="50526007" string="Stay focused—anything could happen!&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526008" string="Location Unknown - Outer Area" />
+	<String id="50526009" string="Something is coming." />
+	<String id="50526010" string="Go up the stairs.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526011" string="Location Unknown - Center Area" />
+	<String id="50526012" string="The Black Dragon!" />
+	<String id="50526013" string="Confront the Black Dragon.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526014" string="Defeat Khemadia.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526015" string="Use Mystel's Aura. (You must be able to learn all new skills.)&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526016" string="Soulscape" />
+	<String id="50526017" string="What...? Did the Black Dragon kill me?" />
+	<String id="50526018" string="Use Mystel's Aura to enter the Inner Abyss.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526019" string="Defeat your Inner Demons.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+	<String id="50526020" string="&quot;I guess I have no choice.&quot;" />
+	<String id="50526021" string="Speak with Mystel.&lt;BR>(Use the Unknown Device at &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7004#116221,91048,6445&amp;type=1&amp;name=Unknown Device&quot;>{@Rgn:4013$$Edge of the Mountain}&lt;/A>&lt;/font> if you leave the quest area.)" />
+</StrSheet_Quest>

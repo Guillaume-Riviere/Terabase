@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3527001" string="Restless Rage" />
+	<String id="3527002" string="They've killed so many of us. Let's return the favor." />
+	<String id="3527003" string="My fellow warriors—behold! The horns of the demons who killed our comrades!" />
+	<String id="3527004" string="Vulcan Horn" />
+	<String id="3527005" string="Crush the vulcan wastewalkers at Zaeltarazad Shrine and gather their horns to avenge fallen soldiers." />
+	<String id="3527006" string="Deliver horns to Ramsleigh at Firespine Outpost." />
+	<String id="3527007" string="&quot;For the fallen!&quot;" />
+</StrSheet_Quest>

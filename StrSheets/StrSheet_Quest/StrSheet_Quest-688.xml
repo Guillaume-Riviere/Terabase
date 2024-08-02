@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3029001" string="Core of the Problem" />
+	<String id="3029002" string="They might even tell us how to repair the sun towers." />
+	<String id="3029003" string="I must pack a few things first." />
+	<String id="3029004" string="Brass Conservator Core" />
+	<String id="3029005" string="[{@Rgn:30007$$Balder's Pavilion}]&#10;Extract several {@linkcreature:30#180#brass conservator} cores." />
+	<String id="3029006" string="Report to {@linkcreature:230#1005$$Naisas}." />
+	<String id="3029007" string="&quot;Hope they help.&quot;" />
+	<String id="3029008" string="&quot;All part of the job.&quot;" />
+	<String id="3029009" string="Find {@linkcreature:230#1019$$Sestena}." />
+</StrSheet_Quest>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17208001" string="Rough Landing" />
+	<String id="17208002" string="&quot;Certainly.&quot;" />
+	<String id="17208003" string="&quot;On my way.&quot;" />
+	<String id="17208004" string="Collect the supply crates." />
+	<String id="17208005" string="Deliver the supply crates to Dougal." />
+	<String id="17208006" string="&quot;Fine! I will.&quot;" />
+	<String id="17208007" string="Speak with Zolyn." />
+	<String id="17208008" string="&quot;Hang on, soldier!&quot;" />
+	<String id="17208009" string="Speak with Tysan." />
+	<String id="17208010" string="&quot;Don't give up, Broderik.&quot;" />
+	<String id="17208011" string="Talk to Broderik." />
+	<String id="17208012" string="&quot;I'll tell Dougal.&quot;" />
+	<String id="17208013" string="Speak with Zolyn." />
+	<String id="17208014" string="&quot;For the federation!&quot;" />
+	<String id="17208015" string="Talk to Dougal." />
+</StrSheet_Quest>

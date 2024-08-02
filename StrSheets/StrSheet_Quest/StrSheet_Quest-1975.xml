@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60207001" string="Strike First, Strike Hard" />
+	<String id="60207002" string="Head to {@Rgn:48003$$Peril Cavern} and crush the argons!" />
+	<String id="60207003" string="Outstanding! We need more fighters like you!" />
+	<String id="60207004" string="" />
+	<String id="60207005" string="" />
+	<String id="60207006" string="Report to {@LinkCreature:248#3010#Orveras} at {@Rgn:48003$$Peril Cavern}." />
+	<String id="60207007" string="&quot;As ordered.&quot;" />
+	<String id="60207008" string="Kill {@LinkCreature:48#6#vulnaq threshers} in the {@Rgn:48007$$Argon Bulwark}." />
+	<String id="60207009" string="Destroy the {@LinkCreature:48#400#zolnaj transporters} in {@Rgn:48005$$Valgurati Stronghold}." />
+	<String id="60207010" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="60207011" string="Report back to {@LinkCreature:248#3010#Orveras}." />
+</StrSheet_Quest>

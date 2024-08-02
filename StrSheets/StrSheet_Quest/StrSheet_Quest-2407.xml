@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810006001" string="Complete the Golden Labyrinth" />
+	<String id="810006002" string="[Golden Labyrinth] Defeat Baracos!" />
+	<String id="810006003" string="Claim your reward!" />
+</StrSheet_Quest>

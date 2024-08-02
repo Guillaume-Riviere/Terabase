@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4524001" string="Suspicious Pylons" />
+	<String id="4524002" string="The implications are frightening." />
+	<String id="4524003" string="Thanks for these." />
+	<String id="4524004" string="Fight off {@creature:45#2001#argonomorph blood fiends} in the eastern part of the {@Rgn:45003$$Vale of the Reaper}." />
+	<String id="4524005" string="Break the cyadal pylons in the eastern part of the {@Rgn:45003$$Vale of the Reaper} and collect samples." />
+	<String id="4524006" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4524007" string="Collect samples." />
+	<String id="4524008" string="Deliver the samples to Rennie at {@Rgn:45007$$Field Base Tenacity}." />
+</StrSheet_Quest>

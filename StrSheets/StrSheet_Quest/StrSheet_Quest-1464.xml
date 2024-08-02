@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6361001" string="Dynamic Veridian" />
+	<String id="6361002" string="&quot;It will indeed!&quot;" />
+	<String id="6361003" string="Report to Dougal at the headquarters in Velika." />
+	<String id="6361004" string="Get some extract." />
+	<String id="6361005" string="Visit Ranch Owner Haines at the outskirts of Velika." />
+	<String id="6361006" string="&quot;It's an honor to serve.&quot;" />
+	<String id="6361007" string="Collect extract from veridia plants on the grounds near the ranch." />
+	<String id="6361008" string="Deliver the extract to Haines." />
+</StrSheet_Quest>

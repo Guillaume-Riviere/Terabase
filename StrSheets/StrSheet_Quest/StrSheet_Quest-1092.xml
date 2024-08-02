@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4681001" string="Suppression Orders: Kulkaris" />
+	<String id="4681002" string="Continual suppression keeps us safe." />
+	<String id="4681003" string="Thank you for your hard work." />
+	<String id="4681004" string="Proof of Kill: Kulkaris" />
+	<String id="4681005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4681006" string="Kill {@LinkCreature:46#201#argonomorph kulkari crusher}, {@LinkCreature:46#202#argonomorph kulkari shaman}, and {@LinkCreature:46#203#argonomorph Lokian slayer} and collect tokens." />
+	<String id="4681007" string="Report to the nearest coordinator." />
+</StrSheet_Quest>

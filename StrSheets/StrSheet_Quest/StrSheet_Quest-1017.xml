@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4223001" string="Clear the Path" />
+	<String id="4223002" string="I just want to gather herbs. Is that such a crime?" />
+	<String id="4223003" string="Now I can get back to work." />
+	<String id="4223004" string="Hunt vigilant chikas near the entrance to the Temple of Dagon." />
+	<String id="4223005" string="&quot;I'm glad I could help.&quot;" />
+	<String id="4223006" string="Report to Odrun at the Ecdysi Atrium." />
+</StrSheet_Quest>

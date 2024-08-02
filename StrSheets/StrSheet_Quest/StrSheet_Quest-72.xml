@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="422001" string="Vanquished Foes" />
+	<String id="422002" string="I wouldn't take on a fangspawn alone, but that's just me." />
+	<String id="422003" string="You're sure living up to your reputation!" />
+	<String id="422004" string="Smoldering Heart" />
+	<String id="422005" string="Slay the fangspawns in the Brimstone Highlands and collect their hearts." />
+	<String id="422006" string="Deliver the hearts to Aarinia at Cauldron Outpost." />
+	<String id="422007" string="&quot;No doubt.&quot;" />
+</StrSheet_Quest>

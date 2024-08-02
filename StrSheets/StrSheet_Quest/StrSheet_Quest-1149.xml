@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4848001" string="Tying the Hands" />
+	<String id="4848002" string="If you disable the navashad, the argons won't be able to stop our airships." />
+	<String id="4848003" string="I never thought I'd see those damn arms stop flailing." />
+	<String id="4848004" string="Kill {@LinkCreature:48#7} and the zariik dazzlers guarding the {@Rgn:48009}." />
+	<String id="4848005" string="Destroy the yuntaal converter." />
+	<String id="4848006" string="&quot;Happy to help.&quot;" />
+	<String id="4848007" string="Report to {@LinkCreature:248#1012}." />
+</StrSheet_Quest>

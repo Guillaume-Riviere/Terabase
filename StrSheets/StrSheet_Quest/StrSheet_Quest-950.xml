@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3937001" string="The Vrentsuul Hunt" />
+	<String id="3937002" string="Arachne's Lokian allies must pay for their crimes." />
+	<String id="3937003" string="It won't bring back the dead, but it will comfort the living." />
+	<String id="3937004" string="Vrentsuul Tokens" />
+	<String id="3937005" string="Hunt Vrentsuul Lokians near Roughneck Outpost and collect their tokens." />
+	<String id="3937006" string="Deliver the tokens to Ordinio at Roughneck Outpost." />
+	<String id="3937007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5251001" string="Horns of the Heroes" />
+	<String id="5251002" string="We will not forget them!" />
+	<String id="5251003" string="This is my solemn vow." />
+	<String id="5251004" string="&quot;Let's hope it's soon.&quot;" />
+	<String id="5251005" string="Collect amani horns from horn graves near Firebase Audacity on the Plain of the Damned." />
+	<String id="5251006" string="Deliver the amani horns to Munim at Firebase Audacity." />
+</StrSheet_Quest>

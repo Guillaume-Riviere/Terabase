@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59911001" string="For the Federation!" />
+	<String id="59911002" string="&quot;I won't let you down.&quot;" />
+	<String id="59911003" string="Talk to Emun." />
+	<String id="59911004" string="&quot;Okay.&quot;" />
+	<String id="59911005" string="Tell Dougal you'll join the Valkyon Federation." />
+	<String id="59911006" string="&quot;Until then.&quot;" />
+	<String id="59911007" string="Talk to Orbellus." />
+	<String id="59911008" string="Velika Travel Control Office" />
+	<String id="59911009" string="Talk to Orbellus." />
+	<String id="59911010" string="Use a pegasus to fly to Velika.&lt;br>&lt;br>Talk to {@LinkCreature:599#903}, click on the &lt;font color='#2478FF'>Travel&lt;/A>&lt;/font> button to open a map and choose Velika." />
+	<String id="59911011" string="&quot;Glad to help.&quot;" />
+	<String id="59911012" string="Provide Troius with proof of your identity." />
+</StrSheet_Quest>

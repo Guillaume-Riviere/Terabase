@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70116001" string="[Event] Would You Like to Play a Game" />
+	<String id="70116002" string="Go meet Langon, who you see in front of the tavern over there." />
+	<String id="70116003" string="Now, enjoy the festival as much as you want." />
+	<String id="70116004" string="&quot;Sure, I can do that.&quot;" />
+	<String id="70116005" string="Go meet the little popori 'Langon' in front of the West Beach Tavern." />
+	<String id="70116006" string="Collect sand from sand piles near the water and make 3 sand castles." />
+	<String id="70116007" string="Used construction sand to build a sand castle. (1/3)" />
+	<String id="70116008" string="Use construction sand to build sand castles." />
+	<String id="70116009" string="Used construction sand to build a sand castle. (2/3)" />
+	<String id="70116010" string="Use construction sand to build sand castles." />
+	<String id="70116011" string="Used construction sand to build a sand castle. (3/3)" />
+	<String id="70116012" string="&quot;That actually does look like fun.&quot;" />
+	<String id="70116013" string="Go meet the little popori 'Langon' in front of the West Beach Tavern." />
+	<String id="70116014" string="&quot;Sure, I'll try that.&quot;" />
+	<String id="70116015" string="Find Wahmel, the manager of the melon bash game area." />
+	<String id="70116016" string="Talk to Wahmel to participate in the melon bash game." />
+	<String id="70116017" string="&quot;Sounds pretty easy.&quot;" />
+	<String id="70116018" string="Go to Wahmel, the manager of the melon bash game area." />
+	<String id="70116019" string="&quot;This could be fun. I'm in.&quot;" />
+	<String id="70116020" string="Go to Chelton, the manager of the splash cannon game area." />
+	<String id="70116021" string="Talk to Chelton to participate in the splash cannon shooting game." />
+	<String id="70116022" string="&quot;Okay, I'll play!&quot;" />
+	<String id="70116023" string="Talk to Chelton, the manager of the splash cannon game area." />
+	<String id="70116024" string="&quot;Okay, I'm in!&quot;" />
+	<String id="70116025" string="Go see Stefanna on the other side of the beach." />
+	<String id="70116026" string="&quot;I'm on my way.&quot;" />
+	<String id="70116027" string="Go meet Dolme the horn carver in a hut on the east coast." />
+	<String id="70116028" string="Warthog Molar" />
+	<String id="70116029" string="Get a molar of a baykun warthog on Serpentis Isle." />
+	<String id="70116030" string="Deliver the molar you got to Dolme." />
+	<String id="70116031" string="&quot;Sounds good.&quot;" />
+	<String id="70116032" string="" />
+	<String id="70116033" string="Popori Statue" />
+	<String id="70116034" string="Take the popori statue to Ramsay, the owner of the East Beach Tavern." />
+	<String id="70116035" string="&quot;Thanks. It's been a blast so far.&quot;" />
+</StrSheet_Quest>

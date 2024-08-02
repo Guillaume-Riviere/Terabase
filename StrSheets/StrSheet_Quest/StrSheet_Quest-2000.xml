@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60405001" string="Keep Off the Grass" />
+	<String id="60405002" string="Good you were here for this." />
+	<String id="60405003" string="Real lucky you're around!" />
+	<String id="60405004" string="" />
+	<String id="60405005" string="" />
+	<String id="60405006" string="" />
+	<String id="60405007" string="Go to {@LinkCreature:230#3004#Kurda} at {@Rgn:30012$$Camp Curiosity}." />
+	<String id="60405008" string="&quot;Leave it to me.&quot;" />
+	<String id="60405009" string="Destroy the malfunctioning {@LinkCreature:30#2004#brass warden}." />
+	<String id="60405010" string="Stop the {@LinkCreature:30#3004#remorseless sentinel}." />
+	<String id="60405011" string="Clear the {@LinkCreature:30#3005#argent soulkeeper} blocking the bridge by the Archive Stronghold." />
+	<String id="60405012" string="&quot;A shame.&quot;" />
+	<String id="60405013" string="Return to {@LinkCreature:230#3004#Kurda}." />
+	<String id="60405014" string="&quot;Glad to help.&quot;" />
+	<String id="60405015" string="Report to {@LinkCreature:230#3004#Kurda}." />
+	<String id="60405016" string="&quot;Hard to believe.&quot;" />
+	<String id="60405017" string="Go back to {@LinkCreature:230#3004#Kurda}." />
+</StrSheet_Quest>

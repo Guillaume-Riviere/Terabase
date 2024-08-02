@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="303101001" string="[Field PvP] Conquer the Outer Core District" />
+	<String id="303101002" string="[Outer Core District] Defeat monsters in the Outer Core District. (The Outer Core District is a PvP area.)" />
+	<String id="303101003" string="Conquer the Outer Core District" />
+	<String id="303101004" string="Claim your reward!" />
+</StrSheet_Quest>

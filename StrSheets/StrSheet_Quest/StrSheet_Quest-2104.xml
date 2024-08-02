@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70121001" string="[Event—Daily] Beauty at the Beach" />
+	<String id="70121002" string="Ah, thank you." />
+	<String id="70121003" string="It was too much work for me. Thank you." />
+	<String id="70121004" string="" />
+	<String id="70121005" string="" />
+	<String id="70121006" string="" />
+	<String id="70121007" string="" />
+	<String id="70121008" string="Ask Stefanna which customer needs tanning oil." />
+	<String id="70121009" string="&quot;I'll take care of it.&quot;" />
+	<String id="70121010" string="" />
+	<String id="70121011" string="Tanning Oil" />
+	<String id="70121012" string="Deliver tanning oil to Stefanna's client." />
+	<String id="70121013" string="&quot;Here's your tanning oil.&quot;" />
+	<String id="70121014" string="" />
+	<String id="70121015" string="Tanning Oil" />
+	<String id="70121016" string="Deliver tanning oil to Stefanna's client." />
+	<String id="70121017" string="&quot;Special delivery from Stefanna.&quot;" />
+	<String id="70121018" string="" />
+	<String id="70121019" string="Tanning Oil" />
+	<String id="70121020" string="Deliver tanning oil to Stefanna's client." />
+	<String id="70121021" string="&quot;Is this your tanning oil?&quot;" />
+	<String id="70121022" string="" />
+	<String id="70121023" string="Tanning Oil" />
+	<String id="70121024" string="Deliver tanning oil to Stefanna's client." />
+	<String id="70121025" string="&quot;I'm supposed to give this to you.&quot;" />
+	<String id="70121026" string="&quot;Yes, I'll take a break. Thanks.&quot;" />
+	<String id="70121027" string="Return to Stefanna and report a successful delivery." />
+</StrSheet_Quest>

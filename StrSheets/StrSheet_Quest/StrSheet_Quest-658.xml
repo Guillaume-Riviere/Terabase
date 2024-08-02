@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2573001" string="(Guild) Suppression Orders: Cultist Priests" />
+	<String id="2573002" string="Proof of Kill: Cultist Priest Deaths" />
+	<String id="2573003" string="&quot;Glad to be of service.&quot;" />
+	<String id="2573004" string="Eliminate the cultists on the Grand Chapel area." />
+	<String id="2573005" string="Report to Delwen in Tulufan." />
+</StrSheet_Quest>

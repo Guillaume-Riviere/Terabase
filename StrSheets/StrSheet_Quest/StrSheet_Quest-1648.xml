@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18115001" string="Moment of Truth" />
+	<String id="18115002" string="&quot;It's Paesyn. Of course I'll help.&quot;" />
+	<String id="18115003" string="&quot;Are you actually worried about him?&quot;" />
+	<String id="18115004" string="&quot;I haven't seen him in a while.&quot;" />
+	<String id="18115005" string="Find &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#29737, -6355, 4072&amp;type=1&amp;name=Zolyn&quot;>Zolyn&lt;/A>&lt;/font> and talk to her." />
+	<String id="18115006" string="&quot;He's more capable than you think. But yes, I'll help.&quot;" />
+	<String id="18115007" string="&quot;Looks like he went this way.&quot;" />
+	<String id="18115008" string="Look for Paesyn's trail." />
+	<String id="18115009" string="&quot;He was running from something...&quot;" />
+	<String id="18115010" string="Look for Paesyn's trail." />
+	<String id="18115011" string="Save Paesyn from the monsters." />
+	<String id="18115012" string="&quot;This is the last time, right? Then okay.&quot;" />
+	<String id="18115013" string="Talk to Paesyn." />
+	<String id="18115014" string="&quot;I think you just made his day, Zolyn.&quot;" />
+	<String id="18115015" string="Deliver the bouquet of flowers to Zolyn." />
+	<String id="18115016" string="&quot;She does seem a lot less murder-y. Well done, Paesyn.&quot;" />
+	<String id="18115017" string="Talk to Paesyn." />
+	<String id="18115018" string="&quot;Sounds good. Take care, Paesyn!&quot;" />
+	<String id="18115019" string="Speak with Zolyn." />
+</StrSheet_Quest>

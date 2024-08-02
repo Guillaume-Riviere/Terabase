@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18352001" string="[Valkyrie] Omeros's Request" />
+	<String id="18352002" string="I will look for the tome." />
+	<String id="18352003" string="Go to {@linkcreature:183#1015#Omeros} in Highwatch." />
+	<String id="18352004" string="Close tome." />
+	<String id="18352005" string="Read the {@linkcreature:183#2200#Dusty Tome}." />
+	<String id="18352006" string="Close tome." />
+	<String id="18352007" string="Read the {@linkcreature:183#2201#Dusty Tome}." />
+	<String id="18352008" string="Close tome." />
+	<String id="18352009" string="Read the {@linkcreature:183#2202#Dusty Tome}." />
+	<String id="18352010" string="(Nods head.)" />
+	<String id="18352011" string="Go to {@linkcreature:183#1015#Omeros} in Highwatch." />
+</StrSheet_Quest>

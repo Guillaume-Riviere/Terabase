@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18211001" string="Need to Know" />
+	<String id="18211002" string="Will do." />
+	<String id="18211003" string="&quot;Who is Dakuryon disguised as?&quot;" />
+	<String id="18211004" string="Read Oriyn's Will." />
+	<String id="18211005" string="&quot;If I don't, who else?&quot;" />
+	<String id="18211006" string="Enter the Vault of Oriyn through {@linkcreature:183#1100#Oriyn's Will} and read Oriyn's Arcana." />
+	<String id="18211007" string="Oriyn's Glyph" />
+	<String id="18211008" string="Enter the Vault of Oriyn through {@linkcreature:183#1100#Oriyn's Will} and pass Oriyn's trial." />
+	<String id="18211009" string="Show Oriyn's Glyph to Verikam." />
+	<String id="18211010" string="&quot;Just this glyph...&quot;" />
+	<String id="18211011" string="&quot;I...I think it means you, Verikam.&quot;" />
+	<String id="18211012" string="Ask Verikam to translate the glyph." />
+	<String id="18211013" string="&quot;I can't deal with you when you're...like this...&quot;" />
+	<String id="18211014" string="Ask Rhodos what happened to Madat." />
+	<String id="18211015" string="&quot;I'll talk to Dougal.&quot;" />
+	<String id="18211016" string="Talk to Zolyn." />
+</StrSheet_Quest>

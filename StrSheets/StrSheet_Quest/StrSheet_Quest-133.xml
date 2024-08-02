@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="606001" string="For Valor Above and Beyond" />
+	<String id="606002" string="&quot;Okay.&quot;" />
+	<String id="606003" string="&quot;My pleasure, sir.&quot;" />
+	<String id="606004" string="Talk to Jodoc again." />
+	<String id="606005" string="&quot;Alright.&quot;" />
+	<String id="606006" string="Go to {@LinkCreature:59#1013#Zinji} and ride a pegasus to Velika. Speak with Dougal in Velika Headquarters." />
+	<String id="606007" string="&quot;Thank you.&quot;" />
+	<String id="606008" string="Bring the report to Garrison Commander Samael at Velika Headquarters." />
+	<String id="606009" string="Bring the report to Garrison Commander Samael at Velika Headquarters." />
+	<String id="606010" string="&quot;For the federation!&quot;" />
+	<String id="606011" string="Receive reward from Samael at Velik's Steps." />
+	<String id="606012" string="&quot;Thank you.&quot;" />
+	<String id="606013" string="Receive reward from Samael at Velik's Steps. " />
+</StrSheet_Quest>

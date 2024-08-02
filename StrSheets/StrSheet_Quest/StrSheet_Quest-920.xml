@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3835001" string="What the Giants Left Behind" />
+	<String id="3835002" string="You look a lot more equipped for the job than I am." />
+	<String id="3835003" string="I can do a lot from here, if I must." />
+	<String id="3835004" string="&quot;Best of luck.&quot;" />
+	<String id="3835005" string="Find giant relics at Thunder Hold." />
+	<String id="3835006" string="Report to Zalik at Wyvern Watch" />
+</StrSheet_Quest>

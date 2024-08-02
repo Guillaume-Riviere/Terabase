@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200222001" string="Handling Disturbance" />
+	<String id="200222002" string="&quot;All right.&quot;" />
+	<String id="200222003" string="" />
+	<String id="200222004" string="" />
+	<String id="200222005" string="" />
+	<String id="200222006" string="" />
+	<String id="200222007" string="Kill Azart Molochs at the Beast Farm." />
+	<String id="200222008" string="&quot;Will do.&quot;" />
+	<String id="200222009" string="Speak with Basheek." />
+</StrSheet_Quest>

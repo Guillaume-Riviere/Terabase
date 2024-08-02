@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="340001" string="Good News for a Change" />
+	<String id="340002" string="Sure you can carry all that?" />
+	<String id="340003" string="From Droyan? Thanks!" />
+	<String id="340004" string="Droyan" />
+	<String id="340005" string="Field Package" />
+	<String id="340006" string="Deliver the field package to Hendry at the Vanguard Outpost." />
+	<String id="340007" string="&quot;Here you go.&quot;" />
+</StrSheet_Quest>

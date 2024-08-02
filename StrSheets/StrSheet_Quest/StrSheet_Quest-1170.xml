@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4933001" string="Bird Watching" />
+	<String id="4933002" string="Watch out—those raptors aren't cuddly like other monsters." />
+	<String id="4933003" string="What do they use them for?" />
+	<String id="4933004" string="Altered Iteris Shard" />
+	<String id="4933005" string="Kill suulvir raptors and collect three altered iteris shards." />
+	<String id="4933006" string="Report back to {@LinkCreature:76#1023}." />
+	<String id="4933007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

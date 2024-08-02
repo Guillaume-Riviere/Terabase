@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4838001" string="Access Denied" />
+	<String id="4838002" string="Argons keep pouring through those portals." />
+	<String id="4838003" string="Hah! That ought to slow them down." />
+	<String id="4838004" string="Transporter Fragment" />
+	<String id="4838005" string="Destroy at least three zolnaj transporters." />
+	<String id="4838006" string="Bring the transporter fragments back to Batao." />
+	<String id="4838007" string="&quot;Stay strong, Batao.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50540001" string="[Solo] Need a Rest" />
+	<String id="50540002" string="&quot;Okay.&quot;" />
+	<String id="50540003" string="Go to Meren in Highwatch." />
+	<String id="50540004" string="&quot;Okay.&quot;" />
+	<String id="50540005" string="Use the Teleport Scroll to go to Launa. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and use a Bleakrock Teleport Scroll to teleport to Launa's location.]" />
+	<String id="50540006" string="Give Launa a hand by claiming 4 Guardian Legion Mission rewards." />
+	<String id="50540007" string="&quot;Okay.&quot;" />
+	<String id="50540008" string="Return to Bleakrock and speak with Launa." />
+	<String id="50540009" string="Use the Frost Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open inventory and use a Frost Stone.]" />
+	<String id="50540010" string="&quot;I should get going.&quot;" />
+	<String id="50540011" string="Talk to Launa again." />
+	<String id="50540012" string="&quot;Glad to help.&quot;" />
+	<String id="50540013" string="Speak to Meren in Highwatch." />
+</StrSheet_Quest>

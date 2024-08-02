@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="631001" string="Securing Provisions" />
+	<String id="631002" string="More food will do a lot for morale." />
+	<String id="631003" string="Well done." />
+	<String id="631004" string="I'll get them." />
+	<String id="631005" string="Go to Sozia in Colchester." />
+	<String id="631006" string="&quot;For the federation!&quot;" />
+	<String id="631007" string="Collect sacks of supplies in Colchester." />
+	<String id="631008" string="Deliver the supplies to Sozia." />
+</StrSheet_Quest>

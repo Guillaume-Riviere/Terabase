@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18113001" string="Narrowing the Search" />
+	<String id="18113002" string="&quot;I'll do what I can.&quot;" />
+	<String id="18113003" string="&quot;Okay, wait here.&quot;" />
+	<String id="18113004" string="Talk to Jagreg." />
+	<String id="18113005" string="Collect 5 pecunius fruits from moneytrees." />
+	<String id="18113006" string="" />
+	<String id="18113007" string="Pecunius Fruit" />
+	<String id="18113008" string="Deliver the pecunius fruits to Jagreg." />
+	<String id="18113009" string="&quot;Enjoy your pecunius fruits, Jagreg.&quot;" />
+	<String id="18113010" string="&quot;All right.&quot;" />
+	<String id="18113011" string="Talk to Kamun." />
+	<String id="18113012" string="Glittering Scale" />
+	<String id="18113013" string="Kill chupathingies for their glittering scales." />
+	<String id="18113014" string="Deliver the scales to Kamun." />
+	<String id="18113015" string="&quot;All in a day's work.&quot;" />
+	<String id="18113016" string="&quot;Thank you, Kamun.&quot;" />
+	<String id="18113017" string="Talk to Kamun." />
+</StrSheet_Quest>

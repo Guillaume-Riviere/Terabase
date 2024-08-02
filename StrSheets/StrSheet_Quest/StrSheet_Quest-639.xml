@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2526001" string="It Just Won't Die" />
+	<String id="2526002" string="They're slightly less creepy when they're dead." />
+	<String id="2526003" string="Nice work." />
+	<String id="2526004" string="Frenzied Core" />
+	<String id="2526005" string="Collect frenzied cores from the skeletal pikemen in the Northeast Shattered City." />
+	<String id="2526006" string="Take the cores to Essunia at the Scholar's Refuge." />
+	<String id="2526007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

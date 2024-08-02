@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47223001" string="Greedy Eyes" />
+	<String id="47223002" string="I know it sounds crazy, but if I have eyes, I can make gold!" />
+	<String id="47223003" string="I can be generous now, because soon I'll have more gold than anyone!" />
+	<String id="47223004" string="Eye of Avarice" />
+	<String id="47223005" string="Eliminate Sihran Avaritians in the Golden Labyrinth, and collect their eyes.&#10;[You must select Golden Labyrinth (Solo) from the {@LinkCreature:208#1501#Teleportal} to advance this quest.]" />
+	<String id="47223006" string="Deliver the eyes to Alchemist Krudo." />
+	<String id="47223007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

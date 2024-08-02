@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5031001" string="{@Creature:76#1011}'s Dispatch" />
+	<String id="5031002" string="Take the note." />
+	<String id="5031003" string="Investigate the stone tomb near the {@Rgn:50005}." />
+	<String id="5031004" string="Read {@LinkCreature:76#1011}'s note." />
+	<String id="5031005" string="Claim your reward." />
+	<String id="5031006" string="Investigate the stone tomb near the {@Rgn:50005}." />
+</StrSheet_Quest>

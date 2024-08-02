@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200304001" string="[Important] The Hero Returns" />
+	<String id="200304002" string="&quot;I will.&quot;" />
+	<String id="200304003" string="Go to Seir." />
+	<String id="200304004" string="Comfort Sinoeta" />
+	<String id="200304005" string="Check on the funeral with Sinoeta." />
+	<String id="200304006" string="&quot;Okay.&quot;" />
+	<String id="200304007" string="Speak with Seir." />
+	<String id="200304008" string="&quot;Okay, I will.&quot;" />
+	<String id="200304009" string="Speak with Seir again." />
+	<String id="200304010" string="Elleon Memorial" />
+	<String id="200304011" string="Jelena already arrived." />
+	<String id="200304012" string="Go to the Memorial." />
+	<String id="200304013" string="&quot;If you insist.&quot;" />
+	<String id="200304014" string="Speak with Jelena." />
+	<String id="200304015" string="Elleon Memorial" />
+	<String id="200304016" string="You dedicate the monument of Elleon." />
+	<String id="200304017" string="Enter the Memorial." />
+	<String id="200304018" string="Erect the statue in the Memorial Hall." />
+	<String id="200304019" string="&quot;Right. Okay.&quot;" />
+	<String id="200304020" string="Talk to Seir." />
+	<String id="200304021" string="&quot;I wish to see you again.&quot;" />
+	<String id="200304022" string="Speak with Jelena." />
+</StrSheet_Quest>

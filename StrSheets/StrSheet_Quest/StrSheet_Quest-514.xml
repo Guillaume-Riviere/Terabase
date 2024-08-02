@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2026001" string="Something to Remember Them By" />
+	<String id="2026002" string="For the federation!" />
+	<String id="2026003" string="Better than nothing—much better." />
+	<String id="2026004" string="&quot;Glad I could help.&quot;" />
+	<String id="2026005" string="Collect the belongings of the missing miners from the western part of the Halls of Shadow." />
+	<String id="2026006" string="Deliver the miners' belongings to Nemuro at the Utterdark Outpost." />
+</StrSheet_Quest>

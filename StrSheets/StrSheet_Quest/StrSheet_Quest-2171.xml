@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200003001" string="[Important] The Rescue" />
+	<String id="200003002" string="&quot;No problem.&quot;" />
+	<String id="200003003" string="Speak with Elleon at Rogash's Garden Entrance." />
+	<String id="200003004" string="&quot;Good. Stay safe.&quot;" />
+	<String id="200003005" string="Speak with Amarre at Rogash's Garden Entrance. " />
+	<String id="200003006" string="Glory to Our Mother!" />
+	<String id="200003007" string="" />
+	<String id="200003008" string="Defeat the Naga Guides and Naga Throwers." />
+	<String id="200003009" string="&quot;I'll get that tag.&quot;" />
+	<String id="200003010" string="Find Elleon in Rogash's Garden." />
+	<String id="200003011" string="Draakon Identification Tag" />
+	<String id="200003012" string="Who's there?" />
+	<String id="200003013" string="Argh!" />
+	<String id="200003014" string="Defeat a Naga Knight and obtain the Draakon Identification Tag." />
+	<String id="200003015" string="Deliver the Draakon Identification Tag to Elleon." />
+	<String id="200003016" string="&quot;Let's go in.&quot;" />
+	<String id="200003017" string="Inside Rogash's Manor" />
+	<String id="200003018" string="Speak with {@linkcreature:2000#20105#Elleon} and enter Rogash's Manor." />
+	<String id="200003019" string="Defeat the Naga Fighters in Rogash's Manor." />
+	<String id="200003020" string="Prison Key" />
+	<String id="200003021" string="Who are you! Are you after the key!?" />
+	<String id="200003022" string="Defeat the Draakon Sniper and obtain the Prison Key." />
+	<String id="200003023" string="Deliver the Prison Key to Elleon." />
+	<String id="200003024" string="&quot;Here's the key.&quot;" />
+	<String id="200003025" string="&quot;Go find what you need.&quot;" />
+	<String id="200003026" string="Speak with Titus." />
+	<String id="200003027" string="&quot;I'll do what I can.&quot;" />
+	<String id="200003028" string="Speak with Aurl in the cell." />
+	<String id="200003029" string="&quot;You should save everything for later.&quot;" />
+	<String id="200003030" string="Speak with Titus in Rogash's Mansion." />
+	<String id="200003031" string="&quot;Let's go outside.&quot;" />
+	<String id="200003032" string="Speak with Elleon in Rogash's Mansion." />
+	<String id="200003033" string="Rogash's Manor Back Gate" />
+	<String id="200003034" string="You've found Jelena." />
+	<String id="200003035" string="Find Jelena by Rogash's Manor Back Gate." />
+	<String id="200003036" string="&quot;We could split up.&quot;" />
+	<String id="200003037" string="Speak with Jelena by Rogash's Manor Back Gate." />
+	<String id="200003038" string="Follow Jelena." />
+	<String id="200003039" string="Speak with Jelena by Rogash's Manor Back Gate." />
+	<String id="200003040" string="&quot;Let's head down.&quot;" />
+	<String id="200003041" string="Speak with Jelena at the Larvae Hatchery Entrance." />
+	<String id="200003042" string="Larvae Hatchery" />
+	<String id="200003043" string="You've infiltrated the Larvae Hatchery." />
+	<String id="200003044" string="Use the platform to enter the Larvae Hatchery." />
+	<String id="200003045" string="&quot;I'll follow you.&quot;" />
+	<String id="200003046" string="Speak with Jelena." />
+	<String id="200003047" string="Where the sound came from" />
+	<String id="200003048" string="You found the captured villagers." />
+	<String id="200003049" string="Go to where the sound came from." />
+	<String id="200003050" string="&quot;Okay, I will.&quot;" />
+	<String id="200003051" string="Speak with Tina in the Larvae Hatchery." />
+	<String id="200003052" string="Where Tina said Airene was" />
+	<String id="200003053" string="You found Airene." />
+	<String id="200003054" string="Go find Airene." />
+	<String id="200003055" string="Carefully lay her down." />
+	<String id="200003056" string="Check on Airene." />
+	<String id="200003057" string="&quot;I will do my best.&quot;" />
+	<String id="200003058" string="Comfort Aurl in the Larvae Hatchery." />
+	<String id="200003059" string="Defeat Naga Foremen and Naga Throwers in the Larvae Hatchery." />
+	<String id="200003060" string="Larvae Hatchery Exit" />
+	<String id="200003061" string="You've found Titus." />
+	<String id="200003062" string="Join Titus at the Larvae Hatchery Exit." />
+	<String id="200003063" string="&quot;Agreed.&quot;" />
+	<String id="200003064" string="Speak with Titus by the Larvae Hatchery Exit." />
+	<String id="200003065" string="&quot;Okay.&quot;" />
+	<String id="200003066" string="Speak with Titus by the Larvae Hatchery Entrance." />
+	<String id="200003067" string="&quot;Okay.&quot;" />
+	<String id="200003068" string="Speak with Elleon at the Platform - Rogash's Garden." />
+</StrSheet_Quest>

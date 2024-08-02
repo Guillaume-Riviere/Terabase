@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="250001001" string="Another World" />
+	<String id="250001002" string="Square Entrance" />
+	<String id="250001003" string="You’ve arrived at the new area." />
+	<String id="250001004" string="Move to the Square Entrance." />
+	<String id="250001005" string="&quot;Okay.&quot;" />
+	<String id="250001006" string="Approach Anya and press F to speak." />
+	<String id="250001007" string="World Tree Bridge" />
+	<String id="250001008" string="Move to the World Tree Bridge." />
+	<String id="250001009" string="&quot;Let's do so.&quot;" />
+	<String id="250001010" string="Talk to Anya." />
+</StrSheet_Quest>

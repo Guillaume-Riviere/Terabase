@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5140001" string="Drinks for All My Men" />
+	<String id="5140002" string="Find me that wine." />
+	<String id="5140003" string="I'll drink with you in Kaiator!" />
+	<String id="5140004" string="&quot;And you!&quot;" />
+	<String id="5140005" string="Collect Wine Barrels in Wendigo's Howl." />
+	<String id="5140006" string="Deliver the Wine Barrels to Prefect Thenuvia at Icebase Defiance." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1728001" string="You Look Very Familiar" />
+	<String id="1728002" string="Those bastards!" />
+	<String id="1728003" string="Supply Crate" />
+	<String id="1728004" string="Stolen Federation Supplies" />
+	<String id="1728005" string="Take the stolen supplies to Kenton." />
+	<String id="1728006" string="&quot;No problem.&quot;" />
+</StrSheet_Quest>

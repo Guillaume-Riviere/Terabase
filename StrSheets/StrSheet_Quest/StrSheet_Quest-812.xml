@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3428001" string="Neither Sleet nor Snow nor Wendigos" />
+	<String id="3428002" string="Just keep them away from here." />
+	<String id="3428003" string="You've gained us some time." />
+	<String id="3428004" string="Slay the wendigo ragers and wendigo warlords south of Icebase Stalker." />
+	<String id="3428005" string="&quot;For the federation!&quot;" />
+	<String id="3428006" string="Report to Rodena at Icebase Stalker." />
+</StrSheet_Quest>

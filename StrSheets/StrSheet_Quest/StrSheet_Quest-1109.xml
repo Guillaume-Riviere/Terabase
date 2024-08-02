@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4771001" string="(Guild) Order to Subjugate the Whitefrost Forest" />
+	<String id="4771002" string="Continuous subjugation always brings peace." />
+	<String id="4771003" string="Thank you for your hard work." />
+	<String id="4771004" string="Token of Subjugating the Whitefrost Forest" />
+	<String id="4771005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4771006" string="Kill {@Creature:47#1001#Tirkai grizzlies}, {@Creature:47#1002#argonomorph Tirkai grizzlies}, and {@Creature:47#1003$$argonomorph mugatos} in the {@Rgn:47002$$Whitefrost Forest} and collect tokens." />
+	<String id="4771007" string="Report to Laetesha at Pathfinder Post when mission is complete." />
+</StrSheet_Quest>

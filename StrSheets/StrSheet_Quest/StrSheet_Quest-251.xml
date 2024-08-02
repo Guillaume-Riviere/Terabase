@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1033001" string="Malagash Must Die" />
+	<String id="1033002" string="Take your closest friends. Nah, take your heaviest-armed friends!" />
+	<String id="1033003" string="They'll think twice about fighting without their warlord." />
+	<String id="1033004" string="Find and slay the naga warlord Malagash." />
+	<String id="1033005" string="&quot;For the federation!&quot;" />
+	<String id="1033006" string="Report to Ecryl at the Beachhead." />
+</StrSheet_Quest>

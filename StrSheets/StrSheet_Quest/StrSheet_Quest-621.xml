@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2438001" string="Seeking Sea Shells by the Seashore" />
+	<String id="2438002" string="Those clams could make my fortune." />
+	<String id="2438003" string="Maybe I'll save a few for myself." />
+	<String id="2438004" string="Glad to be of service!" />
+	<String id="2438005" string="Find derasa clam shells from the west coast of Aurum Road." />
+	<String id="2438006" string="Deliver derasa clam shells to Lusinde at Torrent Outpost." />
+</StrSheet_Quest>

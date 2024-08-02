@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2525001" string="Good Night, Dread Knights" />
+	<String id="2525002" string="Clear me a path." />
+	<String id="2525003" string="Well done." />
+	<String id="2525004" string="Hunt the dread knights in the Shattered City." />
+	<String id="2525005" string="&quot;Glad to be of service.&quot;" />
+	<String id="2525006" string="Report to Essunia in the Cathedral Redoubt near the entrance of the Dark Cathedral." />
+</StrSheet_Quest>

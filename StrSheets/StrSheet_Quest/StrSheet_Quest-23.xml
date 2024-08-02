@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="236001" string="Parts Unknown" />
+	<String id="236002" string="Get my bridge parts back from those redcaps!" />
+	<String id="236003" string="Thanks!" />
+	<String id="236004" string="Bridge Parts" />
+	<String id="236005" string="Retrieve the bridge parts from the redcaps." />
+	<String id="236006" string="Deliver the bridge parts to Niklas at the Faevine Vale Camp." />
+	<String id="236007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

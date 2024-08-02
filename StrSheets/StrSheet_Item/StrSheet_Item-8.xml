@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<StrSheet_Item>
+	<String id="249000" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249001" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249002" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249003" string="Swimwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Angora flying rabbit mount, alkahests, or spellbinds!" />
+	<String id="249004" string="Swimwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Lilac flying rabbit mount, alkahests, or spellbinds!" />
+	<String id="249005" string="Swimwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Cherry Blossom flying wolf mount, spellbinds, or alkahests." />
+	<String id="249006" string="Swimwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain a Thunderbolt flying wolf mount, spellbinds, or alkahests." />
+	<String id="249007" string="Swimwear Box" toolTip="A loot box guaranteed to contain a semi-enigmatic scroll. May also contain an Obsidian flying wolf mount, spellbinds, or alkahests." />
+	<String id="249008" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249009" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249010" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249011" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249012" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="249013" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="249014" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="249015" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="249016" string="Tera Emergency MA Box II" toolTip="Thank you for waiting!" />
+	<String id="249017" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249018" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249019" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249020" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249021" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249022" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249023" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249024" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249025" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249026" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249027" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249028" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249029" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249030" string="Swimwear Box" toolTip="Contains a swimwear outfit.$BRThe outfit fits your race." />
+	<String id="249031" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249032" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249033" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249034" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249035" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249036" string="Federation Bill Lucky Box" toolTip="???????????????? ????????????????????????? ?????????????????????????? ??????? 3,000 ????????????? 500,000" />
+	<String id="249037" string="Starglow Weapon Skin Box" toolTip="???????????????? ?????????????? Starglow Weapon Skin ???? ?????????????????" />
+	<String id="249038" string="Starglow Costume Box" toolTip="???????????????? ??? Starglow Costume ???? ??????????????????????" />
+	<String id="249039" string="Dyeable Female Gothic Dress Costume Box" toolTip="???????????????? ??? Dyeable Female Gothic Dress ???? ????????????????????" />
+	<String id="249040" string="Dyeable Male Noblesse Suit Costume Box" toolTip="???????????????? ??? Dyeable Male Noblesse Suit ???? ???????????????????" />
+	<String id="249041" string="Male Classic Butler's Uniform Costume Box" toolTip="???????????????? ??? Male Classic Butler's Uniform ???? ???????????????????" />
+	<String id="249042" string="Dyeable Female Classic Housekeeper Uniform Costume Box" toolTip="???????????????? ??? Dyeable Female Classic Housekeeper Uniform ???? ????????????????????" />
+	<String id="249043" string="Male Fitted Beach Wear Costume Box" toolTip="???????????????? ??? Male Fitted Beach Wear ???? ???????????????????" />
+	<String id="249044" string="Dyeable Female Striped Bikini Costume Box" toolTip="???????????????? ??? Dyeable Female Striped Bikini ???? ????????????????????" />
+	<String id="249045" string="Female Striped Bikini Costume Box" toolTip="???????????????? ??? Female Striped Bikini ???? ????????????????????" />
+	<String id="249046" string="Dyeable Bomber JacketCostume Box" toolTip="???????????????? ??? Dyeable Bomber Jacket ???? ??????????????????????" />
+	<String id="249047" string="Bomber Jacket Costume Box" toolTip="???????????????? ??? Bomber Jacket ???? ??????????????????????" />
+	<String id="249048" string="Female Dyeable 2017 Maid Costume Costume Box" toolTip="???????????????? ??? Female Dyeable 2017 Maid Costume???? ???????????????????" />
+	<String id="249049" string="Male Dyeable Embroidered Suit Costume Box" toolTip="???????????????? ??? Male Dyeable  Embroidered Suits ???? ???????????????????" />
+	<String id="249050" string="Female Dyeable  Chiffon Dress Costume Box" toolTip="???????????????? ??? Female Dyeable  Chiffon Dress ???? ????????????????????" />
+	<String id="249051" string="Assassin Costume Box" toolTip="???????????????? ??? Assassin Costume ???? ??????????????????????" />
+	<String id="249052" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249053" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249054" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249055" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249056" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249057" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249058" string="Iron Wing Gacha" toolTip="???????????????? Flying Skill: Ironwing ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Ironwing - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249059" string="Crimson Wing Gacha" toolTip="???????????????? Flying Skill: Crimsonwing ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Crimsonwing - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249060" string="Dracolich Gacha" toolTip="???????????????? Flying Skill: Dracolich ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Dracolich - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249061" string="Glitter Wing Gacha" toolTip="???????????????? Flying Skill: Glitterwing ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Glitterwing - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249062" string="Bonefury Gacha" toolTip="???????????????? Flying Skill: Bonefury ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Bonefury - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249063" string="Nightfury Gacha" toolTip="???????????????? Flying Skill: Nightfury ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Nightfury - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249064" string="Ultrafury Gacha" toolTip="???????????????? Flying Skill: Ultrafury ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Ultrafury - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249065" string="Astrafury Gacha" toolTip="???????????????? Flying Skill: Astrafury ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? - Flying Skill: Astrafury - Smart Dyad Niveot Structure - Dyad Niveot Structure - Rampant Evidence - Arborea Golden Crystalline - Superior Noctenium Elixir - Valkyon Health Potion - Aged Elinu's Tear" />
+	<String id="249066" string="White Cute Llma Gacha" toolTip="???????????????? Flying Skill: White Cute Llma ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: White Cute Llma]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249067" string="White Tuxido Llma Gacha" toolTip="???????????????? Flying Skill: White Tuxido Llma ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: White Tuxido Llma]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249068" string="Brown Tuxido Llma Gacha" toolTip="???????????????? Flying Skill: Brown Tuxido Llma ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Brown Tuxido Llma]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249069" string="Winged Lion White Gacha" toolTip="???????????????? Flying Skill: Winged Lion White ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Winged Lion White]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249070" string="Winged Lion Black Gacha" toolTip="???????????????? Flying Skill: Winged Lion Black ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Winged Lion Black]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249071" string="Winged Lion Gold Gacha" toolTip="???????????????? Flying Skill: Winged Lion Gold ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Winged Lion Gold]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249072" string="Winged Lion Silver Gacha" toolTip="???????????????? Flying Skill: Winged Lion Silver ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ?????? &lt;br>&lt;br>[Flying Skill: Winged Lion Silver]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249073" string="Red Phoenix Gacha" toolTip="???????????????? Red Phoenix ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Pteryx]&lt;br>[Flying Skill: Blazing Phoenix]&lt;br>[Flying Skill: Red Phoenix]&lt;br>[Flying Skill: Fiery Phoenix]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249074" string="Blue Phoenix Gacha" toolTip="???????????????? Blue Phoenix ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Urvog]&lt;br>[Flying Skill: Azure Phoenix]&lt;br>[Flying Skill: Sapphire Phoenix]&lt;br>[Flying Skill: Blue Phoenix]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249075" string="Red Phoenix Gacha" toolTip="???????????????? Red Phoenix ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Pteryx]&lt;br>[Flying Skill: Blazing Phoenix]&lt;br>[Flying Skill: Red Phoenix]&lt;br>[Flying Skill: Fiery Phoenix]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249076" string="Blue Phoenix Gacha" toolTip="???????????????? Blue Phoenix ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: Urvog]&lt;br>[Flying Skill: Azure Phoenix]&lt;br>[Flying Skill: Sapphire Phoenix]&lt;br>[Flying Skill: Blue Phoenix]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249077" string=" Dyeable Urban HIPHOP Uniform Costume Box" toolTip="???????????????? ???  Dyeable Urban HIPHOP Uniform ???? ??????????????????????" />
+	<String id="249078" string="Duck Animal Clothes Costume Box" toolTip="???????????????? ??? Duck Animal Clothes ???? ??????????????????????" />
+	<String id="249079" string="Rainbow Bear Animal Clothes Costume Box" toolTip="???????????????? ??? Rainbow Bear Animal Clothes ???? ??????????????????????" />
+	<String id="249080" string="Snowboard Suit Costume Box" toolTip="???????????????? ??? Personalized Gym Uniform ???? ??????????????????????" />
+	<String id="249081" string="Personalized Gym Uniform Costume Box" toolTip="???????????????? ??? Personalized Gym Uniform ???? ??????????????????????" />
+	<String id="249082" string="Ironward Armor Costume Box" toolTip="???????????????? ??? Ironward Armor Costume ???? ??????????????????????" />
+	<String id="249083" string="Dawn's Guard Armor Costume Box" toolTip="???????????????? ??? Dawn's Guard Armor Costume ???? ??????????????????????" />
+	<String id="249084" string="Night Watch Armor Costume Box" toolTip="???????????????? ??? Night Watch Armor Costume ???? ??????????????????????" />
+	<String id="249085" string="Mechanical Costume (?????????) Box" toolTip="???????????????? ???  Mechanical Costume (?????????) ???? ??????????????????????" />
+	<String id="249086" string="Mechanical Costume Box" toolTip="???????????????? ???  Mechanical Costume ???? ??????????????????????" />
+	<String id="249087" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249088" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249089" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249090" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249091" string="Red High Waist School Uniform (Shirt) Costume Box" toolTip="???????????????? ??? Red High Waist School Uniform (Shirt) ???? ?????????????????????" />
+	<String id="249092" string="Black High Waist School Uniform (Shirt) Costume Box" toolTip="???????????????? ???  Black High Waist School Uniform (Shirt) ???? ?????????????????????" />
+	<String id="249093" string="Blue High Waist School Uniform (Shirt) Costume Box" toolTip="???????????????? ???   Blue High Waist School Uniform (Shirt) ???? ?????????????????????" />
+	<String id="249094" string="Red High Waist School Uniform (Blazer) Costume Box" toolTip="???????????????? ???  Red High Waist School Uniform (Blazer) ???? ?????????????????????" />
+	<String id="249095" string="Black High Waist School Uniform (Blazer) Costume Box" toolTip="???????????????? ???  Black High Waist School Uniform (Blazer) ???? ?????????????????????" />
+	<String id="249096" string="Blue High Waist School Uniform (Blazer) Costume Box" toolTip="???????????????? ???  Blue High Waist School Uniform (Blazer) ???? ?????????????????????" />
+	<String id="249097" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249098" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249099" string="Female Jaeron's White Nurse Uniform Costume Box" toolTip="???????????????? ??? Female Jaeron's White Nurse Uniform ???? ?????????????????????" />
+	<String id="249100" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249101" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249102" string="Songkran Costume Gacha" toolTip="Contains amethysts. Right-click to open." />
+	<String id="249103" string="Winter Dress: Snow Flower Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249104" string="Winter Dress: Mi Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249105" string="Winter Dress: Sun Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249106" string="Winter Dress: Jin Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249107" string="Female Jaeron's Black Nurse Uniform Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249108" string="Female Jaeron's Pink Nurse Uniform Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249109" string="Unique Modern Campus Look Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249110" string="Dyeable Red Flame Jumpsuit Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249111" string="Dyeable Valkyon Federation Uniform Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249112" string="Noblesse Suit Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249113" string="Explorer Vest Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249114" string="Dyeable Titan Force Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249115" string="Royal Diamond Dragon" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249116" string="Royal Ghost Dragon Gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249117" string="Royal Crimson Dragon Gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249118" string="Royal Iron Dragon Gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249119" string="Innerwear lucky Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249120" string="Amethyst Chest" toolTip="Contains amethysts. Right-click to open." />
+	<String id="249121" string="v68 new angel (Normal) event weapon box (7days)" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249122" string="v68 Red new angel (Rare) weapon box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249123" string="v68 Red new angel (normal) weapon box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249124" string="v68 new angel (Rare) weapon box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249125" string="v68 new angel (normal) weapon box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249126" string="v68 new angel (rare) Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249127" string="v68 new angel (normal) Costume Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="249128" string="Mechanical Worm Box (50)" toolTip="Use to obtain 50 Mechanical Worms.&lt;br>Increase the chance to catch a high-grade fish by 80%, BAF by 15%." />
+	<String id="249129" string="Mechanical Worm Box (50)" toolTip="Use to obtain 50 Mechanical Worms.&lt;br>Increase the chance to catch a high-grade fish by 80%, BAF by 15%." />
+	<String id="249130" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249131" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249132" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249133" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249134" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249135" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249136" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249137" string="Red Light Beam Weapon Box" toolTip="A box containing Red Light Beam Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249138" string="Chromaplasm Weapon Box" toolTip="A box containing Chromaplasm Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249139" string="Chromaplasm Weapon Box" toolTip="A box containing Chromaplasm Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249140" string="Token of Friendship: Level 60" toolTip="To commemorate the occasion of reaching level 60, we present you with this token of friendship." />
+	<String id="249141" string="Token of Friendship: Level 65" toolTip="To commemorate the occasion of reaching level 65, we present you with this token of friendship." />
+	<String id="249142" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249143" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249144" string="Blue Uniform Costume Box" toolTip="A box containing Blue Uniform Costume&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249145" string="Kaia's Gold Hero Weapon Box" toolTip="A box containing Kaia's Gold Hero Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249146" string="Kaia's Silver Hero Weapon Box" toolTip="A box containing Kaia's Silver Hero Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249147" string="Kaia's Faded Hero Weapon Box" toolTip="A box containing Kaia's Faded Hero Weapon skin&lt;br>&#10;[Smart boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249148" string="Benjamin's Beam Weapon Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249149" string="Platinum [Battle Pass] Random Reward Box" toolTip="Open to receive various items.&lt;br>Requires a Platinum [Battle Pass] Key to open." />
+	<String id="249150" string="" toolTip="" />
+	<String id="249151" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="249152" string="Kaia's Hero Weapon Gacha Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Kaia's Faded Hero Weapon&lt;br>- Kaia's Silver Hero Weapon&lt;br>- Kaia's Gold Hero Weapon&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249153" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249154" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249155" string="Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249156" string="Dyeable Bikini Costume Box" toolTip="A gacha box which random one of Bikini and Swimwear (Dyeable) inside the box.&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]" />
+	<String id="249157" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="249158" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="249159" string="Token of Friendship: Level 60" toolTip="To commemorate the occasion of reaching level 60, we present you with this token of friendship." />
+	<String id="249160" string="Rookie Package" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="249161" string="Bound Dyad Structure Box" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249162" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="249163" string="Bound Dyad Structure Box" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249164" string="Lovely Maid Weapon Box" toolTip="???????????????? Lovely Maid Weapon ???? ????????????????? ?????? Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="249165" string="Midnight Party Dress Costume Box" toolTip="???????????????? ??? Midnight Party Dress Costume ???? ???????????? ????????" />
+	<String id="249166" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249167" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249168" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249169" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249170" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249171" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249172" string="Castanic Only Gacha Costume Box" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249173" string="Style Box [Human Female]" toolTip="A box that contains a selection of fashion accessories and clothes, including some special garments for Human women." />
+	<String id="249174" string="Bluebird Gacha Box" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249175" string="Shadow Costume Gacha" toolTip="" />
+	<String id="249176" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="249177" string="Moonlight Shadow Weapon Box" toolTip="???????????????? Moonlight Shadow Weapon ???? ?????????????????" />
+	<String id="249178" string="Flash Light Shadow Weapon Box" toolTip="???????????????? Flash Light Shadow Weapon ???? ?????????????????" />
+	<String id="249179" string="Moonlight Shadow Ninja Costume Box" toolTip="???????????????? ??? Moonlight Shadow Costume  ???? ??????????????????????" />
+	<String id="249180" string="Flash Shadow Ninja Costume Box" toolTip="???????????????? ??? Flash Shadow Costume  ???? ??????????????????????" />
+	<String id="249181" string="Tera Cooking Set gacha" toolTip="" />
+	<String id="249182" string="Shadow Weapon Gacha" toolTip="" />
+	<String id="249183" string="Shadow Costume Gacha" toolTip="" />
+	<String id="249184" string="New Footstamp gacha" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249185" string="New dragon gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249186" string="Moonlight Party Dress Costume Box" toolTip="???????????????? ??? Moonlight Party Dress Costume ???? ???????????? ????????" />
+	<String id="249187" string="Midnight Party Dress Costume Box" toolTip="???????????????? ??? Midnight Party Dress Costume ???? ???????????? ????????" />
+	<String id="249188" string="Lovely Maid Weapon Box" toolTip="???????????????? Lovely Maid Weapon ???? ????????????????? ?????? Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="249189" string="Dyeable Maid Costume Box" toolTip="???????????????? ??? Maid Costume ????????? ???? ???????????? ????????" />
+	<String id="249190" string="Male Butler Costume Box" toolTip="???????????????? ??? Butler Classic ???? ??????????? ????????" />
+	<String id="249191" string="Arcade Block Weapon Box" toolTip="???????????????? Arcade Block Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="249192" string="Arcade Rainow Weapon Box" toolTip="???????????????? Arcade Rainbow Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="249193" string="Arcade Crystal Weapon Box" toolTip="???????????????? Arcade Crystal Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="249194" string="Arcade Prism Weapon Box" toolTip="???????????????? Arcade Prism Weapon ???? ????????????????? ?????? Brawler, Ninja, Valkyrie" />
+	<String id="249195" string="New Pet gacha" toolTip="New Pet gacha" />
+	<String id="249196" string="Arcade 8 bit Weapon gacha" toolTip="Arcade 8 bit Weapon gacha" />
+	<String id="249197" string="Lovely Maid Weapon Gacha" toolTip="Lovely Maid Weapon Gacha" />
+	<String id="249198" string="Halloween Flesh Wrap Costume Box" toolTip="???????????????? ??? Flesh Wrap Costume ????" />
+	<String id="249199" string="Halloween Dyeable Flesh Wrap Costume Box" toolTip="???????????????? ??? Dyeable Flesh Wrap Costume ????" />
+	<String id="249200" string="Halloween Costume Random Box" toolTip="A gacha box containing many costumes inside. You can get one item random from below list. &lt;br>&#10; - Halloween Flesh Wrap Costume Box &lt;br> -- Dyeable Halloween Flesh Wrap Costume Box &lt;br>- Pumpkin Skull Mask &lt;br>- Glow Skull Mask &lt;br>- Fresh Pumpkin Mask (&lt;br>- Stylish Pumpkin Mask &lt;br>- Mr. Franken Headdress&lt;br>- Ailuri Giantkiller Mask &lt;br>- Grand Witch's Hat &lt;br>- Monster Mask &lt;br>- Stonebeak's Pumpkin Glasses &lt;br>- Hell Golem's Pumpkin Glasses" />
+	<String id="249201" string="Legendary Phoenix gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="249202" string="Halloween Stamp Gacha" toolTip="Contains pearls. Right-click to open." />
+	<String id="249203" string="Journal of Adventurer Package" toolTip="The special package for journal around Arborea. &lt;br>&lt;br>Right click to use and you will guarantee to get Village Atlas(30 Days), Travel Journal(30 Day)&lt;br>&lt;br>[Random one item from below]&lt;br>&lt;br>- Flying Skill: Rare Moon Rabbit [Red] (30 Days)&lt;br>- Flying Skill: Moon Rabbit [Blue] (30 Days)&lt;br>- Flying Skill: Skycycle MHx (30 Days)&lt;br>- Flying Skill: Jetcycle MHx (30 Days)&lt;br>- Flying Skill: Black Mane Wolf (30 Days)&lt;br>- Flying Skill: Blue Mane Ghost Wolf (30 Days)&lt;br>- Flying Skill: Pink Mane Wolf (30 Days)" />
+	<String id="249204" string="Modern Campus Look Box" toolTip="A smartbox contaning a Modern Campus Look Costume. [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="249205" string="Modern Campus Look Box (Dyeable)" toolTip="A smartbox contaning a Modern Campus Look Costume (Dyeable). [Smart boxes automatically generate the corresponing equipment for your character when you open them.]" />
+	<String id="249206" string="Modern Campus Look Gacha" toolTip="A gacha box containinga Modern Campus Look Costume inside. You can get one item random from below list. &lt;br>&lt;br>- Dyeable Modern Campus Look Costume Box &lt;br>- Modern Campus Look Costume Box &lt;br>- I Can Haz Backpack &lt;br>- Popo Piper Pack &lt;br>- Magic Bubble Hairband &lt;br>- Canvas Bag (White)&lt;br>- Canvas Bag (Pink)&lt;br>- Upgrading materials or comsumable items" />
+	<String id="249207" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="249208" string="" toolTip="" />
+	<String id="249209" string="" toolTip="" />
+	<String id="249210" string="" toolTip="" />
+	<String id="249211" string="" toolTip="" />
+	<String id="249212" string="" toolTip="" />
+	<String id="249213" string="" toolTip="" />
+	<String id="249214" string="" toolTip="" />
+	<String id="249215" string="" toolTip="" />
+	<String id="249216" string="" toolTip="" />
+	<String id="249217" string="" toolTip="" />
+	<String id="249218" string="" toolTip="" />
+	<String id="249219" string="" toolTip="" />
+	<String id="249220" string="" toolTip="" />
+	<String id="249221" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="249222" string="Cooking Set Weapon Box" toolTip="???????????????? Cooking Set Weapon ???? ?????????????????  ?????? Reaper, Brawler, Gunner, Ninja, Valkyrie" />
+	<String id="249223" string="Premium [Battle Pass] Reward Box I" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249224" string="Castanica Tech Unifrom Costume Box" toolTip="???????????????? ??? Castanica Tech Unifrom Costume ???? &lt;p> ????????????? ?????? Aman" />
+	<String id="249225" string="Icaruna School for Girls Unifrom Costume Box" toolTip="???????????????? ??? Icaruna School for Girls Unifrom Costume ???? &lt;p> ????????????? ?????? Aman" />
+	<String id="249226" string="School Uniform Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249227" string="Icetouch weapon Box" toolTip="???????????????? Icetouch Weapon ???? ????????????????? ?????? Brawler, Gunner, Ninja, Valkyrie ??? Reaper" />
+	<String id="249228" string="Icegrip weapon Box" toolTip="???????????????? Icegrip Weapon ???? ????????????????? ?????? Brawler, Gunner, Ninja, Valkyrie ??? Reaper" />
+	<String id="249229" string="Icy Freeze weapon Gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249230" string="Steam Powered Weapon Box" toolTip="???????????????? Steam Powered Weapon ???? ????????????????? ?????? Brawler, Gunner, Ninja, Valkyrie ??? Reaper" />
+	<String id="249231" string="Steam Powered Costume Box" toolTip="???????????????? ??? Clockwork Coreset ???? ????????????? ?????? Gentleman's Garb ???? ????????????" />
+	<String id="249232" string="Dyeable Steam Powered Costume Box" toolTip="???????????????? ??? Dyeable Clockwork Coreset ???? ????????????? ?????? Dyeable Gentleman's Garb ???? ????????????" />
+	<String id="249233" string="Steam Powered Weapon Gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249234" string="Elemental Weapon Box" toolTip="???????????????? Elemental Weapon ????" />
+	<String id="249235" string="Rare Elemental Weapon Box" toolTip="???????????????? Rare Elemental Weapon ????" />
+	<String id="249236" string="Elemental Weapon gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249237" string="Obsidian Dragon Weapon (14 Days) Box" toolTip="???????????????? Obsidian Dragon Weapon (14 Days)" />
+	<String id="249238" string="Santa Claus Suit Box" toolTip="???????????????? ??? Santa Claus Suit  ????" />
+	<String id="249239" string="Christmas Santa Costume Gacha" toolTip="" />
+	<String id="249240" string="Winter Stamp Gacha" toolTip="" />
+	<String id="249241" string="New Dragon Costume Box" toolTip="???????????????? ??? New Dragon Costume ????" />
+	<String id="249242" string="New Dragon Cosutme Gacha" toolTip="Use to obtain event rewards." />
+	<String id="249243" string="Glacial Dragon Costume Set Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Glacial Dragon Armor Box&lt;br>- Glacial Dragon Weapon Box&lt;br>- Glacial Dragon Wing&lt;br>- Glacial Dragon Helmet&lt;br>- Upgrading materials or comsumable items" />
+	<String id="249244" string="Volcanic Dragon Weapon Box" toolTip="???????????????? Volcanic Dragon Weapon ????" />
+	<String id="249245" string="Volcanic Dragon Armor Costume Box" toolTip="???????????????? Volcanic Dragon Armor" />
+	<String id="249246" string="Metallic Swimwear Collection II Box" toolTip="???????????????? Metallic Swimwear Collection II" />
+	<String id="249247" string="Metallic Swimwear Collection I Box" toolTip="???????????????? Metallic Swimwear Collection I" />
+	<String id="249248" string="Dyeable Wedding Costume Box" toolTip="???????????????? Dyeable Wedding Costume" />
+	<String id="249249" string="Wedding Costume Box" toolTip="???????????????? Wedding Costume" />
+	<String id="249250" string="Dyeable SWAT Uniform Costume Box" toolTip="???????????????? Dyeable SWAT Uniform" />
+	<String id="249251" string="SWAT Uniform Costume Box" toolTip="???????????????? SWAT Uniform" />
+	<String id="249252" string="Dyeable Chinese Dress (Female) Costume Box" toolTip="???????????????? ??? Dyeable Chinese Dress (Female) Costume ????" />
+	<String id="249253" string="Chinese Dress (Female) Costume Box" toolTip="???????????????? ??? Chinese Dress (Female) Costume ????" />
+	<String id="249254" string="Life Guard (Male) Costume Box" toolTip="???????????????? Life Guard (Male) Costume" />
+	<String id="249255" string="Dyeable Summer Wrap (Female) Costume Box" toolTip="???????????????? ??? Dyeable Summer Wrap (Female) Costume ????" />
+	<String id="249256" string="Summer Wrap (Female) Costume Box" toolTip="???????????????? ??? Summer Wrap (Female) Costume ????" />
+	<String id="249257" string="Volcanic Dragon Costume Set Gacha" toolTip="Autumn Dancer Loot Box (295 EMP)" />
+	<String id="249258" string="Summer Swimwear Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="249259" string="Flying Cycle Gacha" toolTip="A gacha box containing only Castanic Costume&lt;br>&#10;You can get one random costume inside the box." />
+	<String id="249260" string="Chinese Dress Gacha" toolTip="Contains an emerald. Right-click to open." />
+	<String id="249261" string="SWAT Uniform Gacha" toolTip="Contains sapphires. Right-click to open." />
+	<String id="249262" string="Wedding Costume Gacha" toolTip="Contains pearls. Right-click to open." />
+	<String id="249263" string="Metallic Swimwear Gacha" toolTip="Contains pearls. Right-click to open." />
+	<String id="249264" string="Geen Hanbok Costume Box" toolTip="???????????????? Green Hanbok Costume" />
+	<String id="249265" string="Rare Green Hanbok Costume Box" toolTip="???????????????? Rare Green Hanbok Costume" />
+	<String id="249266" string="Gray Hanbok Costume Box" toolTip="???????????????? Gray Hanbok Costume" />
+	<String id="249267" string="Rare Gray Hanbok Costume Box" toolTip="???????????????? Rare Gray Hanbok Costume" />
+	<String id="249268" string="HanBok Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="249269" string="Rare Diabolic Weapon Box (Tradable)" toolTip="A box containing Rare Diabolic Weapon (Tradable) permanently" />
+	<String id="249270" string="Diabolic Weapon Box (Tradable)" toolTip="A box containing Diabolic Weapon (Tradable) permanently" />
+	<String id="249271" string="Rare Angelic Weapon Box (Tradable)" toolTip="A box containing Rare Angelic Weapon (Tradable) permanently" />
+	<String id="249272" string="Angelic Weapon Box (Tradable)" toolTip="A box containing Angelic Weapon (Tradable) permanently" />
+	<String id="249273" string="Dyeable Celestial Costume Box (Tradable)" toolTip="A box contain Dyeable Celestial Costume (Tradable)" />
+	<String id="249274" string="Celestial Costume Box (Tradable)" toolTip="A box contain Celestial Costume (Tradable)" />
+	<String id="249275" string="Pig Animal Costume Box (Tradable)" toolTip="A box contain Pig Animal Costume (Tradable)" />
+	<String id="249276" string="Black Sheep Animal Costume Box (Tradable)" toolTip="A box contain Black Sheep Animal Costume (Tradable)" />
+	<String id="249277" string="Penguin Animal Costume Box (Tradable)" toolTip="A box contain Penguin Animal Costume (Tradable)" />
+	<String id="249278" string="Raccoon Animal Costume Box (Tradable)" toolTip="A box contain Raccoon Animal Costume (Tradable)" />
+	<String id="249279" string="Cat Animal Costume Box (Tradable)" toolTip="A box contain Cat Animal Costume (Tradable)" />
+	<String id="249280" string="Elemental Flight Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="249281" string="God and Devil Set Gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249282" string="Cutie Animal Costume Gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249283" string="Onink Dancer Stamp Gacha" toolTip="Contains pearls. Right-click to open." />
+	<String id="249284" string="PUBG Costume Set A Box" toolTip="A box contain PUBG Costume Set A" />
+	<String id="249285" string="PUBG Costume Set B Box" toolTip="A box contain PUBG Costume Set B" />
+	<String id="249286" string="PUBG Costume Set C Box" toolTip="A box contain PUBG Costume Set C" />
+	<String id="249287" string="PUBG Costume Gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249288" string="PUBG Stamp Gacha" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="249289" string="PUBG Pet Gacha" toolTip="Randomly receive Partner, Pets (Legend, Rare, Uncommon) or Partner's item and pet 1EA. There is a chance to get New Partner Lico and Ello." />
+	<String id="249290" string="Alice, Mad Hatter Costume Box" toolTip="A box contain Alice Dress for Female and Mad Hatter Suit for Male" />
+	<String id="249291" string="New Alice, Mad Hatter Costume Box" toolTip="A box contain New Alice Dress for Female and New Mad Hatter Suit for Male" />
+	<String id="249292" string="[Untradable] Night Watch Costume Box" toolTip="A box contain [Untradable] Night Watch Costume" />
+	<String id="249293" string="Female Dyeable Cowgirl Costume Box" toolTip="A box contain Female Dyeable Cowgirl Costume" />
+	<String id="249294" string="Male Dyeable Wrestler Costume Box" toolTip="A box contain Male Dyeable Wrestler Costume" />
+	<String id="249295" string="New Alice, Mad Hatter Costume Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249296" string="Female Dyeable Cowgirl Costume Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249297" string="Male Dyeable Wrestler Costume Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249298" string="Royal Dragon Gacha" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="249299" string="New School Uniform Costume Box" toolTip="A box contain New School Uniform Costume" />
+	<String id="249300" string="New School Uniform [Rare] Costume Box" toolTip="A box contain New School Uniform [Rare] Costume" />
+	<String id="249301" string="New School Uniform Costume Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249302" string="Female Hanbok (Blue) Costume Box" toolTip="A box contain Female Hanbok (Blue) Costume" />
+	<String id="249303" string="Female Hanbok (Green) Costume Box" toolTip="A box contain Female Hanbok (Green) Costume" />
+	<String id="249304" string="Female Hanbok (Red) Costume Box" toolTip="A box contain Female Hanbok (Red) Costume" />
+	<String id="249305" string="Dyeable Female Hanbok Costume Box" toolTip="A box contain Dyeable Female Hanbok Costume" />
+	<String id="249306" string="Female  Hanbok Costume Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249307" string="Koinobori Gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249308" string="New Dragon Gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249309" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="249310" string="Jumpstart Level-Up Box" toolTip="Open to obtain an item useful for leveling up." />
+	<String id="249311" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="249312" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="249313" string="Back Decoration Mystery Chest" toolTip="A mysterious chest containing one or many possible back decorations. What will you find inside?&lt;BR>&lt;BR>The mysterious chest may contain a decoration which is not suitable for your race or gender." />
+	<String id="249314" string="Crimson Frost Weapon Box" toolTip="A box containing Crimson Frost Costume Box" />
+	<String id="249315" string="Bright World Dragon Weapon Box" toolTip="A box containing Bright World Dragon Costume Box" />
+	<String id="249316" string="Bright World Dragon Costume Box" toolTip="A box contain Bright World Dragon Costume Box" />
+	<String id="249317" string="Mechanical Costume [Tradeable] Box" toolTip="A box contain Mechanical Costume [Tradeable] Box" />
+	<String id="249318" string="Dyeable Mechanical Costume [Tradeable] Box" toolTip="A box contain Dyeable Mechanical Costume [Tradeable] Box" />
+	<String id="249319" string="Hot Summer Swimwear Costume Box" toolTip="A box contain Hot Summer Swimwear Costume" />
+	<String id="249320" string="Arborea Police Costume Box" toolTip="A box contain Arborea Police Costume Box" />
+	<String id="249321" string="Special Police Costume for ELIN Gacha" toolTip="Contains pearls. Right-click to open." />
+	<String id="249322" string="Arborea Police Costume Box Gacha" toolTip="Contains sapphires. Right-click to open." />
+	<String id="249323" string="Crimson Frost Weapon Gacha" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249324" string="Bright World Dragon Costume Gacha" toolTip="???????????????? Flying Skill: White Cute Llma ????????????????????? Rampant Evidence 400 ???? (??????????????????????????????????) ?????????????????????????????????????? 1 ????? (?????????) ??????&lt;br>&lt;br>[Flying Skill: White Cute Llma]&lt;br>[Smart Dyad Niveot Structure]&lt;br>[Dyad Niveot Structure]&lt;br>[Rampant Evidence]&lt;br>[Arborea Golden Crystalline]&lt;br>[Arborea Silver Crystalline]&lt;br>[Superior Noctenium Elixir]&lt;br>[Valkyon Health Potion]&lt;br>[Aged Elinu's Tear]" />
+	<String id="249325" string="Legendary Wolve Gacha" toolTip="A gacha box containing many Flying mounts inside. You can get one item random from below list. &lt;br>&lt;br>- Flying Skill: Urvog &lt;br>- Flying Skill: Pteryx &lt;br>- Flying Skill: Azure Phoenix &lt;br>- Flying Skill: Blazing Phoenix &lt;br>- Flying Skill: Sapphire Phoenix &lt;br>- Flying Skill: Fiery Phoenix &lt;br>- Flying Skill: Blue Phoenix &lt;br>- Flying Skill: Red Phoenix &lt;br>- Upgrading materials or comsumable items" />
+	<String id="249326" string="Mechanical Costume Gacha" toolTip="When right click this box. You can receive various items contained in it." />
+	<String id="249327" string="Brawler Cat Punch Gacha" toolTip="Open this chest to obtain at least one dyad niveot structure." />
+	<String id="249328" string="Hot Summer Swimwear Costume Gacha" toolTip="2019 Innerwear - Crit (250 EMP)" />
+	<String id="249329" string="Arborea Crystalline Lucky Box II" toolTip="A lucky box which is random one item containing in the box. &lt;br>You can get the items from the below list.&lt;br>&lt;br>-Arborea Golden Steel Plate,&lt;br>-Arborea Golden Fragment, Arborea Golden Crystalline,&lt;br>-Arborea Silver Steel Plate, Arborea Silver Fragment,&lt;br>-Arborea Silver Crystalline or Ruby" />
+	<String id="249330" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="249331" string="Pearl Chest" toolTip="Contains pearls. Right-click to open." />
+	<String id="249332" string="[Fixed] Booster Box" toolTip="Open to obtain [Random] Enchanting Materials and [Random] XP Potion Box.$BR$BR[Random] Enchanting Materials$BRMay contain Skill Advancement 15 (1 Hour) or up to 33 Signs of Growth which can be exchanged for Heroic Oath gear enchanting items and Radiant accessory upgrading items." />
+	<String id="249333" string="Golden Dragon Costume Box" toolTip="A box contain Golden Dragon Costume Box" />
+	<String id="249334" string="Golden Dragon Weapon Box" toolTip="A box containing Golden Dragon Box" />
+	<String id="249335" string="Golden Rabbit Gacha" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="249336" string="Golden Dragon Costume Gacha" toolTip="Legendary treasure of dragons in your hands! Open it to get a reward!" />
+	<String id="249337" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="249338" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="249339" string="Coin of Adventure Box (400)" toolTip="Right click to use and will get 11 items which can refill Coin of Adventure 400 immediately" />
+	<String id="249340" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="249341" string="[PC Cafe] Enchanter's Blessing Scroll Box" toolTip="Contains enchantment scroll with enchanter's blessing. You may get enchantment scroll with Revered Enchanter's Blessing." />
+	<String id="249342" string="Golden Dragon Gacha" toolTip="A special package containing the items for beginner.&lt;br>Inventory Expansion, Village Atlas, Travel Journal&lt;br>Random flying mount for 30 days." />
+	<String id="249343" string="Starglow Weapon [Tradeable] Box" toolTip="A box containing Starglow Weapon [Tradeable] Box" />
+	<String id="249344" string="Starglow Comstume [Tradeable] Box" toolTip="A box contain Starglow Comstume [Tradeable] Box" />
+	<String id="249345" string="Dyeable Valkyon Federation Uniform Box" toolTip="A box contain Dyeable Valkyon Federation Uniform Box" />
+	<String id="249346" string="Valkyon Federation Uniform Box" toolTip="A box contain Valkyon Federation Uniform Box" />
+	<String id="249347" string="US Swimwear 2019 Comstume Box" toolTip="A box contain US Swimwear 2019 Comstume" />
+	<String id="249348" string="Flash Shadow Costume and Weapon Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&lt;BR>- Flash Shadow Ninja Costume Box&lt;BR>-Moonlight Shadow Ninja Costume Box&lt;BR>-Flash Light Shadow Weapon Box&lt;BR>- Moonlight Shadow Weapon Box&lt;BR>- Upgrading materials or consumable items" />
+	<String id="249349" string="Starglow Costume and Weapon Gacha" toolTip="A gacha box containing random Innerwear, upgrade materials and buff items inside the box.&lt;br>You can get the items from the below list.&lt;br>- Federation Bill&lt;br>- Superior Noctenium Refiner&lt;br>- Superior Noctenium Elixir&lt;br>- Noctenium Infusion&lt;br>- Veteran Apothecary Dye&lt;br>- Arborea Golden Crystalline&lt;br>- Arborea Silver Crystalline&lt;br>- Complete Veteran Crystalbind&lt;br>- Crystalbind&lt;br>- Bravery Potion II&lt;br>Valkyon Health Potion" />
+	<String id="249350" string="Valkyon Federation Uniform Gacha" toolTip="" />
+	<String id="249351" string="US Swimwear 2019 Costume Gacha" toolTip="Contains amethysts. Right-click to open." />
+	<String id="249352" string="Special Motion Swimwear 2019 Box" toolTip="A box contain Special Motion Swimwear 2019" />
+	<String id="249353" string="Dyable Swimwear 2019 Costume Box" toolTip="A box contain Dyable Swimwear 2019 Costume" />
+	<String id="249354" string="Rare Swimwear 2019 Costume Box" toolTip="A box contain Rare Swimwear 2019 Costume" />
+	<String id="249355" string="Swimwear 2019 Costume Box" toolTip="A box contain Swimwear 2019 Costume" />
+	<String id="249356" string="Female Dyeable Apron Maid Costume Box" toolTip="A box contain Female Dyeable Apron Maid Costume" />
+	<String id="249357" string="Female Apron Maid Rare A Costume Box" toolTip="A box contain Female Apron Maid Rare A Costume" />
+	<String id="249358" string="Female Apron Maid Rare B Costume Box" toolTip="A box contain Female Apron Maid Rare B Costume" />
+	<String id="249359" string="Female Apron Maid Costume Box" toolTip="A box contain Female Apron Maid Costume" />
+	<String id="249360" string="Swimwear 2019 Costume Gacha" toolTip="Contains sapphires. Right-click to open." />
+	<String id="249361" string="Female Apron Maid Costume Gacha" toolTip="2019 Innerwear - Crit (250 EMP)" />
+	<String id="249362" string="Yellow Duckie Costume Box" toolTip="A box contain Yellow Duckie Costume Box" />
+	<String id="249363" string="Dyeable Duckie Costume Box" toolTip="A box contain Dyeable Duckie Costume Box" />
+	<String id="249364" string="Rainy Pack Gacha" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249365" string="Dyeable Yukata Costume Box" toolTip="A box contain Dyeable Yukata Costume Box" />
+	<String id="249366" string="Rare Yukata Costume Box" toolTip="A box contain Rare Yukata Costume Box" />
+	<String id="249367" string="Yukata Costume Box" toolTip="A box contain Yukata Costume Box" />
+	<String id="249368" string="Yukata Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&#10;&lt;BR>- Dyeable Yukata Costume Box&lt;BR>- Rare Yukata Costume Box&lt;BR>- Yukata Costume Box&lt;BR>- Yukata Headband A&#10;&lt;BR>- Yukata Headband B&lt;BR>- Yukata Hairpin A&#10;&lt;BR>- Yukata Hairpin B &lt;BR>- Upgrading materials or consumable items" />
+	<String id="249369" string="Yukata Costume Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;BR>&#10;&lt;BR>- Dyeable Yukata Costume Box&lt;BR>- Rare Yukata Costume Box&lt;BR>- Yukata Costume Box&lt;BR>- Yukata Headband A&#10;&lt;BR>- Yukata Headband B&lt;BR>- Yukata Hairpin A&#10;&lt;BR>- Yukata Hairpin B &lt;BR>- Upgrading materials or consumable items" />
+	<String id="249370" string="Benjamin's Beam Weapon Box" toolTip="A gacha box which random one of item inside the box.&lt;br>You can get the items from the below list.&lt;br>- Chromasplasm Weapon Box&lt;br>- Ultraplasm Weapon Box&lt;br>- Unique Blue Light Beam Weapon Box&lt;br>- Unique Green Light Beam Weapon&lt;br>- Unique Purple Light Beam Weapon&lt;br>- Unique Red Light Beam Weapon&lt;br> [The boxes automatically generate the corresponding equipment for your character when you open them.]&lt;br>&lt;br>&lt;font color='#c21919'>Valkyrie cannot use this item&lt;/font>" />
+	<String id="249371" string="[Random] Comeback Swimwear Beach Bikini Gacha Box" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>- Dyeable Swimwear Beach Costume Box&lt;br>- Dyeable Bikini Costume Box&lt;br>- Swimwear Beach Costume Box&lt;br>- Bikini Costume Box&lt;br>- Accessories for this Bikini set" />
+	<String id="249372" string="[Random] 2018 Dragon Gacha" toolTip="A box containing several Dragon for year 2018" />
+	<String id="249373" string="[Event] Demoros's Luminous Box" toolTip="Requires [Demoros's Mysterious Key] to open the box.$BRContains Demoros's Die and one of the following items:$BR$BR&lt;font color = '#FFBB00'>[Items]&lt;/font>$BRAccessory Amplifier II$BR(Limited Duration) Skill Advancement Tome IV" />
+	<String id="249374" string="Pocket Expansion Token 30+5" toolTip="A box containing Pocket Expansion Token x30 and bonus  x5" />
+	<String id="249375" string="Pocket Expansion Token 30+5" toolTip="A box containing Pocket Expansion Token x30 and bonus  x5" />
+	<String id="249376" string="100% Pet Box" toolTip="Right click to open box. You will get 1  Pet Resgistration from the list.&lt;br>- Pet Resgistration: Rare Brown Cat&lt;br>- Pet Resgistration: Rare Gray Cat&lt;br>- Pet Resgistration: Simon&lt;br>- Pet Resgistration: Totes&lt;br>- Pet Resgistration: Cheeks&lt;br>- Pet Registration: Felicity&lt;br>- Several Pet Registrations for combination." />
+	<String id="249377" string="Growth Support Box" toolTip="Right click to open. You will get: &lt;br>- Fast Growth Potion (200%-400%) (1 Day)&lt;br>- Skill Polishing 15 (1 Day)&lt;br>- 100% Gold Hunter Boost (1 Day)" />
+	<String id="249378" string="Rare Random Costume Box" toolTip="Right click to open. You will get one Costume from the list. &lt;br>- Dyeable Celestial Costume Box&lt;br>- Volcanic Dragon Armor Costume Box&lt;br>- Dyeable Modern Campus Look Costume Box&lt;br>- Dyeable Steam Powered Costume Box&lt;br>- Rare TERA School International 2019 Costume Box" />
+	<String id="249379" string="100% Partner Box" toolTip="Right click to open box. You will get 1  Pet Resgistration from the list.&lt;br>Kuncun, Loo and Cocomin (Superior, Rare and Uncommon)" />
+	<String id="249380" string="Passive Levelup Package" toolTip="Right click to open. You will get: &lt;br>- EXP Gift Box&lt;br>- Fast Growth Potion (500%-1000%) (1 Hour)" />
+	<String id="249381" string="Summer Innerwear Box" toolTip="Right click to open box. You will get 1  Summer Innerwear from the list.&lt;br>Summer Yellow Innerwear or Summer Black Innerwear &lt;br>With random option." />
+	<String id="249382" string="Legendary Flying Mount Box" toolTip="Right click to open box. You will get 1  Flying mount from the list.&lt;br>- Flying Skill: Royal Ghost Dragon&lt;br>- Flying Skill: Flying Skill: Royal Diamond Dragon&lt;br>- Flying Skill: Astrafury&lt;br>- Flying Skill: Ashfury&lt;br>- Flying Skill: Pteryx&lt;br>- Flying Skill: Ultra Blue Bird (Special)&lt;br>- Flying Skill: Ultra Yellow Bird (Special)&lt;br>- Flying Skill: Ultra Dark Dragon [Blue] (Special)&lt;br>- Flying Skill: Ultra Dark Dragon [Red] (Special)" />
+	<String id="249383" string="Perfect Relic Box" toolTip="Right click to open. You have 50% chance to get one item between &lt;br>Ishara's Halidom I x5 or Amarun's Relic I x5" />
+	<String id="249384" string="Perfect Light Accessory Box" toolTip="Right click to open. You will get 1 item from the list.&lt;br>- Enigmatic Carving Radiant Earring&lt;br>- Enigmatic Carving Radiant Ring&lt;br>- Enigmatic Forcetic Radiant Earring&lt;br>- Enigmatic Forcetic Radiant Ring&lt;br>- Enigmatic Carving Radiant Necklace&lt;br>- Enigmatic Forcetic Radiant Necklace&lt;br>- Enigmatic Radiant Circlet" />
+	<String id="249385" string="[Step 8] 2019 Wish Box" toolTip="Right click to open. You will get Perfect Relic Box and Perfect Light Accessory Box." />
+	<String id="249386" string="Female Dyeable Autumn Dancer Costume Box" toolTip="A box contain Female Dyeable Autumn Dancer Costume" />
+	<String id="249387" string="Female Rare Autumn Dancer Costume Box" toolTip="A box contain Female Rare Autumn Dancer Costume" />
+	<String id="249388" string="Female Autumn Dancer Costume Box" toolTip="A box contain Female Autumn Dancer Costume" />
+	<String id="249389" string="New Partner Ramdom Box I" toolTip="Randomly receive Partner, Pets (Legend, Rare, Uncommon) or Partner's item and pet 1EA. There is a chance to get New Partner Lico and Ello." />
+	<String id="249390" string="2019 Innerwear Lucky Box" toolTip="Contains TERA Anniversary Footsteps: Lucky 7 and a Premium [Battle Pass] Key.&lt;br>Requires a Premium [Battle Pass] Key to open." />
+	<String id="249391" string="Autumn Leaves Stamp Gacha" toolTip="A gacha box containing many items inside. You can get one item random from below list.&lt;br>&lt;br>- Rare Jade Hanbok Costume Box&lt;br>- Jade Hanbok Costume Box&lt;br>- Rare Crimson Hanbok Costume Box&lt;br>- Crimson Hanbok Costume Box&lt;br>- Upgrading materials or comsumable items" />
+	<String id="249392" string="Female Autumn Dancer Costume Gacha" toolTip="Contains pearls. Right-click to open." />
+	<String id="249393" string="[Step 7] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between Legendary Flying Mount Box or [Step 8] 2019 Wish Box" />
+	<String id="249394" string="[Step 6] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between Summer Innerwear Box or [Step 7] 2019 Wish Box" />
+	<String id="249395" string="[Step 5] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between Passive Levelup Package or [Step 6] 2019 Wish Box" />
+	<String id="249396" string="[Step 4] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between Rare Random Costume Box or [Step 5] 2019 Wish Box" />
+	<String id="249397" string="[Step 3] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between Rare Random Costume Box or [Step 4] 2019 Wish Box" />
+	<String id="249398" string="[Step 2] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between Growth Support Box or [Step 3] 2019 Wish Box" />
+	<String id="249399" string="[Step 1] 2019 Wish Box" toolTip="Right click to open. You have 50% chance to get one item between 100% Pet Box or [Step 2] 2019 Wish Box" />
+	<String id="249400" string="Halloween Costume Box" toolTip="A box contain Halloween Costume" />
+	<String id="249401" string="Rare Halloween Costume Box" toolTip="A box contain Rare Halloween Costume" />
+	<String id="249402" string="Dyeable Halloween Costume Box" toolTip="A box contain Dyeable Halloween Costume" />
+	<String id="249403" string="Halloween Costume Gacha" toolTip="Contains sapphires. Right-click to open." />
+	<String id="855605" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855606" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855607" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855608" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855609" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855610" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855611" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855612" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855613" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855614" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855615" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855616" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855617" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855618" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855619" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855620" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855621" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855622" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855623" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855624" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+	<String id="855625" string="Noble Heights Design Box" toolTip="There is a high chance of getting a Blubred or Landsheart accessory design at random." />
+</StrSheet_Item>

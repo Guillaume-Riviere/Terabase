@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60513001" string="The Big, the Bad, and the Ugly" />
+	<String id="60513002" string="&quot;You know me.&quot;" />
+	<String id="60513003" string="" />
+	<String id="60513004" string="" />
+	<String id="60513005" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60513006" string="&quot;I'm ready.&quot;" />
+	<String id="60513007" string="Big Monster Parts" />
+	<String id="60513008" string="Hunt {@LinkCreature:18#17#ancient teraliths} in the {@Rgn:18001#Colossal Ruins}, and deliver collected items to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60513009" string="" />
+	<String id="60513010" string="&quot;Thanks.&quot;" />
+	<String id="60513011" string="Big Monster Parts" />
+	<String id="60513012" string="Take down {@LinkCreature:18#18#giant gladiators} in the {@Rgn:18001#Colossal Ruins}, and deliver collected items to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60513013" string="" />
+	<String id="60513014" string="&quot;Thanks.&quot;" />
+	<String id="60513015" string="&quot;Where, indeed?&quot;" />
+	<String id="60513016" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

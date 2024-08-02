@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800059001" string="Hunt Devas" />
+	<String id="800059002" string="[Susurrus Woods] Hunt devas in Dakonan Junction." />
+	<String id="800059003" string="Devas" />
+	<String id="800059004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60110001" string="Curiosity Killed the Scientist's Assistant" />
+	<String id="60110002" string="Volvur's a good scientist. A tad eccentric, but good." />
+	<String id="60110003" string="Your dedication to the Invalesco means a lot." />
+	<String id="60110004" string="" />
+	<String id="60110005" string="" />
+	<String id="60110006" string="" />
+	<String id="60110007" string="Report to {@LinkCreature:245#3511#Volvur} at {@Rgn:45009}." />
+	<String id="60110008" string="&quot;At your service.&quot;" />
+	<String id="60110009" string="Athakela Fang" />
+	<String id="60110010" string="Hunt {@LinkCreature:45#3004#athakela stalkers} around {@Rgn:45009} and collect their fangs." />
+	<String id="60110011" string="Deliver the fangs to {@LinkCreature:245#3511#Volvur}." />
+	<String id="60110012" string="&quot;Glad I could help.&quot;" />
+	<String id="60110013" string="Argonomorph Tuwangi Blood" />
+	<String id="60110014" string="Hunt {@LinkCreature:45#4002#argonomorph tuwangis} near {@Rgn:45009} and collect samples of their blood." />
+	<String id="60110015" string="Deliver the blood to {@LinkCreature:245#3511#Volvur}." />
+	<String id="60110016" string="&quot;Eww. Good luck.&quot;" />
+	<String id="60110017" string="&quot;Rock on, Volvur.&quot;" />
+	<String id="60110018" string="Collect argonite ore around the road south of {@Rgn:45009}." />
+	<String id="60110019" string="Deliver the ore to {@LinkCreature:245#3511#Volvur}." />
+</StrSheet_Quest>

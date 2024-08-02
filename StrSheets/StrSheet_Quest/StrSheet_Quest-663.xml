@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2702001" string="Rotten to the Core" />
+	<String id="2702002" string="Travel to Tria." />
+	<String id="2702003" string="Maintain the utmost discretion." />
+	<String id="2702004" string="&quot;I understand.&quot;" />
+	<String id="2702005" string="Travel to Tria and meet with Raeren." />
+	<String id="2702006" string="&quot;I understand.&quot;" />
+	<String id="2702007" string="Consult with Rorise about the Stronghold of Blood." />
+	<String id="2702008" string="&quot;I understand.&quot;" />
+	<String id="2702009" string="Speak with Lubdok at Castra Mysterium in Essenian Crest about the Core Crux." />
+	<String id="2702010" string="Intruders! Destroy!" />
+	<String id="2702011" string="Systems failure!" />
+	<String id="2702012" string="Fight past the ancient bladegolems to reach Liberation Station." />
+	<String id="2702013" string="&quot;I understand.&quot;" />
+	<String id="2702014" string="Order Velnen at Liberation Station to retreat." />
+	<String id="2702015" string="Attack!" />
+	<String id="2702016" string="Mana overload!" />
+	<String id="2702017" string="Destroy the ancient speargolems to open up a path of retreat." />
+	<String id="2702018" string="Use the homing device to locate the infiltrators." />
+	<String id="2702019" string="There's a signal!" />
+	<String id="2702020" string="Signal Location" />
+	<String id="2702021" string="The homing device is vibrating. " />
+	<String id="2702022" string="Go to signal location." />
+	<String id="2702023" string="&quot;I understand.&quot;" />
+	<String id="2702024" string="Order Erbale to retreat. " />
+	<String id="2702025" string="Taydis's Camp" />
+	<String id="2702026" string="There's the fortress. " />
+	<String id="2702027" string="Go to {@linkcreature:227#1023#Taydis}'s location." />
+	<String id="2702028" string="&quot;I understand.&quot;" />
+	<String id="2702029" string="Give {@linkcreature:227#1023#Taydis} the order to retreat." />
+	<String id="2702030" string="Find and activate the {@linkObject:7#shield stones} in the northeast sector of the fortress." />
+	<String id="2702031" string="Close the chest." />
+	<String id="2702032" string="Investigate the {@linkcreature:227#1031#chest}." />
+	<String id="2702033" string="Intruder!" />
+	<String id="2702034" string="Thulsa..." />
+	<String id="2702035" string="Take out the intruders!" />
+	<String id="2702036" string="Thulsa..." />
+	<String id="2702037" string="Eliminate the iskaragards and recover the Core Crux." />
+	<String id="2702038" string="Core Crux" />
+	<String id="2702039" string="Legion commander {@LinkCreature:27#20#Gernik} must have the Core Crux. Kill him and take it." />
+	<String id="2702040" string="Deliver the Core Crux to Taydis." />
+	<String id="2702041" string="&quot;I understand.&quot;" />
+	<String id="2702042" string="&quot;Thank you.&quot;" />
+	<String id="2702043" string="Report to Raeren in Tria that you have retrieved the Core Crux." />
+</StrSheet_Quest>

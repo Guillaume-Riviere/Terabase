@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200302001" string="[Important] To the Engine Room" />
+	<String id="200302002" string="&quot;Ready.&quot;" />
+	<String id="200302003" string="Speak with Jelena." />
+	<String id="200302004" string="Activate the alarm to distract the enemy." />
+	<String id="200302005" string="You insignificant worm..." />
+	<String id="200302006" string="You stop here!" />
+	<String id="200302007" string="Defeat the Draakon Lieutenant in Verrak Fortress. " />
+	<String id="200302008" string="Aheaf's Hideout." />
+	<String id="200302009" string="Someone is whispering your name." />
+	<String id="200302010" string="Go to the upper level of Verrak Fortress and find Aheaf's Hideout." />
+	<String id="200302011" string="&quot;Thanks.&quot;" />
+	<String id="200302012" string="Speak with Aheaf in the upper level of Verrak Fortress." />
+	<String id="200302013" string="Rogash will be pleased to see your body!" />
+	<String id="200302014" string="Lagos...!" />
+	<String id="200302015" string="Defeat the Draakon Ravagers in the upper level of Verrak Fortress." />
+	<String id="200302016" string="&quot;Okay.&quot;" />
+	<String id="200302017" string="Speak with Jelena." />
+	<String id="200302018" string="Square " />
+	<String id="200302019" string="There too many of them." />
+	<String id="200302020" string="Go downstairs." />
+	<String id="200302021" string="Defeat Draakon Dominators and Draakon Watchers in Verrak Fortress Depths." />
+	<String id="200302022" string="&quot;Stay safe.&quot;" />
+	<String id="200302023" string="Speak with Jelena." />
+	<String id="200302024" string="Defeat the Draakon Pursuer in Verrak Fortress Depths." />
+	<String id="200302025" string="Cloistered Corridor" />
+	<String id="200302026" string="Aheaf appeared." />
+	<String id="200302027" string="Go to the Cloistered Corridor." />
+	<String id="200302028" string="&quot;Thank you.&quot;" />
+	<String id="200302029" string="Speak with Aheaf in the Abyss Corridor." />
+	<String id="200302030" string="&quot;Yes.&quot;" />
+	<String id="200302031" string="Speak with Jelena in front of the Engine Room." />
+</StrSheet_Quest>

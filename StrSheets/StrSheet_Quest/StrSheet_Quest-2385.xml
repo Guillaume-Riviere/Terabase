@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800128001" string="Clean up Tor Exsul" />
+	<String id="800128002" string="[Tor Exsul] Defeat the Tenebrara Legion and their allies." />
+	<String id="800128003" string="Tenebrara Invaders" />
+	<String id="800128004" string="Claim your reward!" />
+</StrSheet_Quest>

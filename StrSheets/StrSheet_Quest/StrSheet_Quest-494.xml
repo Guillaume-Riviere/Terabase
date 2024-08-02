@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1925001" string="Heart-Shaped Box" />
+	<String id="1925002" string="We must shut down these golems before they claim more victims." />
+	<String id="1925003" string="Well done!" />
+	<String id="1925004" string="Crystal Heart" />
+	<String id="1925005" string="Obtain crystal hearts from the golems around Filton's Dairy Farm and destroy them." />
+	<String id="1925006" string="Deliver the crystal hearts to Cregan, just off the road." />
+	<String id="1925007" string="&quot;No problem.&quot;" />
+</StrSheet_Quest>

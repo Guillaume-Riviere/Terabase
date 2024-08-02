@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8702001" string="The Ash Princess" />
+	<String id="8702002" string="&quot;I get it.&quot;" />
+	<String id="8702003" string="Attack the training dummy using Double Shear I." />
+	<String id="8702004" string="&quot;Understood.&quot;" />
+	<String id="8702005" string="Talk to Larni." />
+	<String id="8702006" string="Attack a training dummy using Grim Strike I." />
+	<String id="8702007" string="&quot;As you wish.&quot;" />
+	<String id="8702008" string="Talk to Rida at the Princess' Quarters." />
+	<String id="8702009" string="&quot;Watch me.&quot;" />
+	<String id="8702010" string="Talk to Tuaha." />
+	<String id="8702011" string="Attack a training dummy using Spiral Barrage I." />
+	<String id="8702012" string="&quot;Okay.&quot;" />
+	<String id="8702013" string="Talk to Tuaha." />
+</StrSheet_Quest>

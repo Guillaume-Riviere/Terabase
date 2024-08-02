@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60528001" string="Hands with Many Hats" />
+	<String id="60528002" string="&quot;I'll do what I can.&quot;" />
+	<String id="60528003" string="Find {@LinkCreature:63#3001#Barian} in Velika." />
+</StrSheet_Quest>

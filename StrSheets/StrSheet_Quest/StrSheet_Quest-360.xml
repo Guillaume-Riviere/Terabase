@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1336001" string="Chione's Missing Cargo" />
+	<String id="1336002" string="We need those supply crates as quickly as possible!" />
+	<String id="1336003" string="If fate is kind, nothing's damaged." />
+	<String id="1336004" string="&quot;For the federation!&quot;" />
+	<String id="1336005" string="Retrieve the supply crates." />
+	<String id="1336006" string="Take what you've gathered to Chione." />
+</StrSheet_Quest>

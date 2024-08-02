@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4621001" string="Mysterious Tower" />
+	<String id="4621002" string="We need your help." />
+	<String id="4621003" string="Thanks for coming by." />
+	<String id="4621004" string="&quot;Got it.&quot;" />
+	<String id="4621005" string="Go to the {@Rgn:45013$$Khanovar Post} and ask {@Creature:245#1030$$Horona} about the situation." />
+	<String id="4621006" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4621007" string="Go to {@Creature:246#1103$$Lensa} at {@Rgn:46014$$Three Towers Research Base} in {@Rgn:46001$$the Three Towers}." />
+</StrSheet_Quest>

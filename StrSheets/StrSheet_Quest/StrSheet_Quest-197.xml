@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="831001" string="Balancing the Ledgers" />
+	<String id="831002" string="If we only knew who was behind it all..." />
+	<String id="831003" string="I'll get this to my commanding officer." />
+	<String id="831004" string="Slave Trade Ledger" />
+	<String id="831005" string="Kill gula overseers and kobold thugs until you find the slave trade ledger." />
+	<String id="831006" string="Deliver the ledger to Loxetrius." />
+	<String id="831007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

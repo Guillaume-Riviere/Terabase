@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47323001" string="Let Kaia Sort Them Out" />
+	<String id="47323002" string="Empty that tower!" />
+	<String id="47323003" string="Evil must be eradicated. Kaia bless you, hero." />
+	<String id="47323004" string="Proof of Kill: Tower Reinforcements" />
+	<String id="47323005" string="Eliminate Ebon Tower shamans and guards, arachnen painspinners, and anguish fiends in Ebon Tower.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]" />
+	<String id="47323006" string="Report to Kesarik in the cave near Ebon Tower." />
+	<String id="47323007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

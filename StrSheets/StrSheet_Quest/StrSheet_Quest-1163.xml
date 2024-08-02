@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4923001" string="Time for the News" />
+	<String id="4923002" string="Thanks for talking with me, soldier." />
+	<String id="4923003" string="&quot;I appreciate the information. Thanks.&quot;" />
+	<String id="4923004" string="Deliver news to {@Rgn:76001}." />
+</StrSheet_Quest>

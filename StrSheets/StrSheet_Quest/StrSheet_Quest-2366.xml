@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800109001" string="Clean up Azarel's Labyrinth" />
+	<String id="800109002" string="[Azarel's Labyrinth] Defeat gulas and alzarin imps." />
+	<String id="800109003" string="Maze Runners" />
+	<String id="800109004" string="Claim your reward!" />
+</StrSheet_Quest>

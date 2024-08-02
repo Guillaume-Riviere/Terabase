@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19112001" string="The Reckoning" />
+	<String id="19112002" string="&quot;I'm with you!&quot;" />
+	<String id="19112003" string="Into the passage." />
+	<String id="19112004" string="This leads somewhere mysterious." />
+	<String id="19112005" string="Follow through the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#38407,46365,8735&amp;type=1&amp;name=passage&quot;>passage&lt;/A>&lt;/font>." />
+	<String id="19112006" string="&quot;I am ready.&quot;" />
+	<String id="19112007" string="Protect Rhodos and find Dakuryon." />
+	<String id="19112008" string="&quot;Time to die, Dakuryon!&quot;" />
+	<String id="19112009" string="Speak with Rhodos." />
+	<String id="19112010" string="Defeat Dakuryon." />
+	<String id="19112011" string="&quot;You're welcome.&quot;" />
+	<String id="19112012" string="Talk to Verikam." />
+	<String id="19112013" string="&quot;Got it.&quot;" />
+	<String id="19112014" string="Speak with Rhodos." />
+	<String id="19112015" string="&quot;Thank you.&quot;" />
+	<String id="19112016" string="Speak with Braga." />
+	<String id="19112017" string="&quot;For the federation!&quot;" />
+	<String id="19112018" string="Speak with Dougal." />
+	<String id="19112019" string="&quot;Thank you.&quot;" />
+	<String id="19112020" string="Talk to Rhodos." />
+</StrSheet_Quest>

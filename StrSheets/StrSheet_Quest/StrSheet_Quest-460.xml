@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1731001" string="Quis Custodiet" />
+	<String id="1731002" string="For Valkyon!" />
+	<String id="1731003" string="Maybe we can use these inferior weapons for...I got nothin'." />
+	<String id="1731004" string="Makeshift Weapon" />
+	<String id="1731005" string="Eliminate Heavens Fall guards and barrelhead threshers guarding the farm in the northeast and collect their weapons." />
+	<String id="1731006" string="Report to Ganti and give him the weapons." />
+	<String id="1731007" string="&quot;That was fun!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4523001" string="Keeping Runes" />
+	<String id="4523002" string="Abia will be glad to see you." />
+	<String id="4523003" string="Gotta keep those routes open." />
+	<String id="4523004" string="Runekeeper Rune" />
+	<String id="4523005" string="Kill {@creature:45#1003#argonomorph runekeepers} in the western part of the {@Rgn:45002$$Tower Approach} and collect runes." />
+	<String id="4523006" string="Report to Abia at {@Rgn:45007$$Field Base Tenacity}." />
+	<String id="4523007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

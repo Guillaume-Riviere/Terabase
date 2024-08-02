@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55016001" string="[Event] Final Test for the Worthy Brawler" />
+	<String id="55016002" string="Defeat D'harniv in Fort Tenebris, Antaroth in Antaroth's Abyss, Nightmare Lachelith in Ruinous Manor (Hard), Nightmare RK-9 in RK-9 Kennel (Hard) once each." />
+	<String id="55016003" string="&quot;Thank you.&quot;" />
+	<String id="55016004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

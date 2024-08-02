@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1632001" string="Don't Test Me" />
+	<String id="1632002" string="For the federation!" />
+	<String id="1632003" string="Darkness looms...but we will prevail." />
+	<String id="1632004" string="Blood Sample" />
+	<String id="1632005" string="Collect blood from blood maids in the Forsaken Fields." />
+	<String id="1632006" string="Report to Korwyn." />
+	<String id="1632007" string="&quot;Oh boy...&quot;" />
+</StrSheet_Quest>

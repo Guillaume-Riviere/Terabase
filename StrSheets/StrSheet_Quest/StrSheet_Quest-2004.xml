@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60409001" string="A Chance of Sun" />
+	<String id="60409002" string="The lighthouses are vital! Please hurry!" />
+	<String id="60409003" string="Hope the Mysterium can repair this one soon." />
+	<String id="60409004" string="&quot;Right away!&quot;" />
+	<String id="60409005" string="Find {@LinkCreature:230#3026#Lilis}." />
+	<String id="60409006" string="Restart the {@WorkObject:77} at the top of the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60409007" string="&quot;I'm glad I was!&quot;" />
+	<String id="60409008" string="Return to {@LinkCreature:230#3026#Lilis}." />
+</StrSheet_Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999851001" string="[Unified Gear] Gain Victory in Corsairs' Stronghold." />
+	<String id="999851002" string="[Corsairs' Stronghold] Seize victory in Corsairs' Stronghold!" />
+	<String id="999851003" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18303001" string="Berserker Training: Punishing Strike" />
+	<String id="18303002" string="&quot;Understood.&quot;" />
+	<String id="18303003" string="Use the second hit of Punishing Strike on a training dummy." />
+	<String id="18303004" string="&quot;Understood.&quot;" />
+	<String id="18303005" string="Speak with Tarkloon." />
+</StrSheet_Quest>

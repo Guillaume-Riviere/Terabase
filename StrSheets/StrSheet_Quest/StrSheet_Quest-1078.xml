@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4625001" string="Argon Indoctrination" />
+	<String id="4625002" string="The {@creature:46#203#argonomorph Lokian slayers} have the samples we need." />
+	<String id="4625003" string="I'm sure the {@creature:46#203#argonomorph Lokian slayers} put up a struggle, but I'm glad you prevailed." />
+	<String id="4625004" string="Get argon brainwashing samples from {@creature:46#203#argonomorph Lokian slayers} in {@Rgn:46004$$Raga Kabash}." />
+	<String id="4625005" string="&quot;Understood!&quot;" />
+	<String id="4625006" string="Collect argon brainwashing samples." />
+	<String id="4625007" string="Return to the {@Rgn:46015$$Hexheart Chamber} and deliver the argon brainwashing samples to {@creature:246#1026$$Beranie}." />
+	<String id="4625008" string="{@creature:246#1026$$Beranie}" />
+	<String id="4625009" string="Argon Brainwashing Sample" />
+	<String id="4625010" string="Take the nearby elevator down and deliver the argon brainwashing samples to {@creature:246#1102$$Nevian} in the {@Rgn:46016$$Mindcrown Chamber}." />
+	<String id="4625011" string="&quot;Thanks for this.&quot;" />
+</StrSheet_Quest>

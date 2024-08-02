@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="928001" string="Cook the Chefs" />
+	<String id="928002" string="Gula brains are an essential ingredient. Hurry up, we need them!" />
+	<String id="928003" string="This should be sufficient." />
+	<String id="928004" string="Gula Brain" />
+	<String id="928005" string="Collect gula butcher brains in the main hall on the first floor of the labyrinth." />
+	<String id="928006" string="Return to Glorine at the Relic Hunter Outpost." />
+	<String id="928007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

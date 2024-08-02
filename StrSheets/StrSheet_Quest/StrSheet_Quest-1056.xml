@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4533001" string="Skyfields Forever" />
+	<String id="4533002" string="It seems ridiculous to be afraid of tuwangis, does it not?" />
+	<String id="4533003" string="That should clear the way. Thank you." />
+	<String id="4533004" string="Kill {@creature:45#4003#argonomorph tuwangi warfroggers} southwest of Thrallhold." />
+	<String id="4533005" string="&quot;Happy to help out.&quot;" />
+	<String id="4533006" string="Return to Pokara at {@Rgn:45009$$Camp Insanity}." />
+</StrSheet_Quest>

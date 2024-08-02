@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5033001" string="Unlocking the Gatekeeper" />
+	<String id="5033002" string="Be careful out there. You're no good to me dead." />
+	<String id="5033003" string="Find {@Creature:250#1003} far to the northeast." />
+	<String id="5033004" string="{@Creature:250#1003} emerges from hiding." />
+	<String id="5033005" string="Walk over to {@Creature:250#1003}." />
+	<String id="5033006" string="&quot;You got it.&quot;" />
+	<String id="5033007" string="Speak with {@LinkCreature:250#1003}." />
+	<String id="5033008" string="Kill {@LinkCreature:50#14} and his prismar watchers." />
+	<String id="5033009" string="&quot;For the federation!&quot;" />
+	<String id="5033010" string="Report back to {@LinkCreature:250#1008}." />
+</StrSheet_Quest>

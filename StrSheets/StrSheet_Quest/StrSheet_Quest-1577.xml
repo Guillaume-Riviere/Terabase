@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10106001" string="Crafting the Axe" />
+	<String id="10106002" string="&quot;I did my duty.&quot;" />
+	<String id="10106003" string="Create artisan greataxes." />
+	<String id="10106004" string="Deliver the axes to Kunar." />
+</StrSheet_Quest>

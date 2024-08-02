@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810135001" string="Clean up the Khanovar Front" />
+	<String id="810135002" string="[Khanovar Front] Defeat argon invaders and their allies." />
+	<String id="810135003" string="Argon Invaders" />
+	<String id="810135004" string="Claim your reward!" />
+</StrSheet_Quest>

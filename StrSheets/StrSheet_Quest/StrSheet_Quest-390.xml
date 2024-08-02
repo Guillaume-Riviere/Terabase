@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1389001" string="Emptying Pandora's Box" />
+	<String id="1389002" string="I'll show you something" />
+	<String id="1389003" string="If you're lucky, you can double your items" />
+	<String id="1389004" string="Use the Pandora's Box" />
+	<String id="1389005" string="Get lessons on how to use Pandora's Box from Priscus at Elleon's Outpost" />
+	<String id="1389006" string="Use the Pandora's Box while Resting" />
+	<String id="1389007" string="You have successfully used the &lt;b>Pandora's Box&lt;/b>!" />
+	<String id="1389008" string="Receive reward" />
+	<String id="1389009" string="Successfully used Pandora's Box. Listen to Teon for other tips on Pandora's Box" />
+</StrSheet_Quest>

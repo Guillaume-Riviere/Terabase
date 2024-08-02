@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="823001" string="Gula Pet" />
+	<String id="823002" string="Taking out the gulas' minions just makes our job easier." />
+	<String id="823003" string="That's a lot of tusks!" />
+	<String id="823004" string="Dirty Tusk" />
+	<String id="823005" string="Eliminate the auric imps and armored hyenas in the Hungry Caverns Vaults." />
+	<String id="823006" string="Report to Herein at Avenger Outpost." />
+	<String id="823007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

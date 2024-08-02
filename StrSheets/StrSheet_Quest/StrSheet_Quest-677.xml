@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3008001" string="Seren's Lake" />
+	<String id="3008002" string="Take the cliff path and look for telescopes." />
+	<String id="3008003" string="Talk to Nandu." />
+	<String id="3008004" string="Ask {@linkcreature:230#1024$$Alais} where Rida has gone." />
+	<String id="3008005" string="{@linkcreature:230#1015$$Elsine}" />
+	<String id="3008006" string="Ceremony Scrolls" />
+	<String id="3008007" string="[{@Rgn:30009$$Upper Archive}]&#10;Ask {@linkcreature:230#1024$$Alais} for Rida's location." />
+	<String id="3008008" string="&quot;As you order, sir.&quot;" />
+	<String id="3008009" string="{@linkcreature:230#1024$$Alais}" />
+	<String id="3008010" string="The Path of Purification" />
+	<String id="3008011" string="[{@Rgn:30014$$Seren's Lake}]&#10;Find {@linkcreature:230#1082$$Rida} and perform the purification ceremony." />
+	<String id="3008012" string="&quot;I'll be right back.&quot;" />
+	<String id="3008013" string="&quot;Okay, I'm ready.&quot;" />
+	<String id="3008014" string="[{@Rgn:30014$$Seren's Lake}]&#10;Collect &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7015#-5446.7466,84946.2734,-192.0204&amp;type=1&amp;name=moonlight lotuses&quot;>moonlight lotuses&lt;/A>&lt;/FONT>." />
+	<String id="3008015" string="Give the Moonlight Lotuses to {@linkcreature:230#1082$$Rida}." />
+	<String id="3008016" string="Break the final seal." />
+	<String id="3008017" string="&quot;That's sound advice.&quot;" />
+	<String id="3008018" string="Thank {@linkcreature:230#1082$$Rida}." />
+	<String id="3008019" string="&quot;I'll do my best.&quot;" />
+	<String id="3008020" string="[{@Rgn:30015$$Archive Stronghold}]&#10;Find {@linkcreature:230#1053$$Alais} and tell him the seals are broken." />
+</StrSheet_Quest>

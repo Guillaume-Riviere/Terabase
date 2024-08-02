@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60514001" string="A Time to Kill" />
+	<String id="60514002" string="&quot;I'm game.&quot;" />
+	<String id="60514003" string="" />
+	<String id="60514004" string="" />
+	<String id="60514005" string="" />
+	<String id="60514006" string="" />
+	<String id="60514007" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60514008" string="&quot;Understood.&quot;" />
+	<String id="60514009" string="Body Parts" />
+	<String id="60514010" string="Hunt {@LinkCreature:21#1#vicious dusky basilisks} in {@Rgn:21001#Basilisk Crag} and deliver scales to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60514011" string="" />
+	<String id="60514012" string="&quot;Thanks.&quot;" />
+	<String id="60514013" string="Body Parts" />
+	<String id="60514014" string="Hunt {@LinkCreature:21#2#dusky basilisks} in {@Rgn:21001#Basilisk Crag} and deliver scales to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60514015" string="" />
+	<String id="60514016" string="&quot;Thanks.&quot;" />
+	<String id="60514017" string="Body Parts" />
+	<String id="60514018" string="Hunt {@LinkCreature:21#3#vicious orisks} in {@Rgn:21001#Basilisk Crag} and deliver claws to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60514019" string="" />
+	<String id="60514020" string="&quot;Thanks.&quot;" />
+	<String id="60514021" string="Body Parts" />
+	<String id="60514022" string="Hunt {@LinkCreature:21#4#brutal orisks} in {@Rgn:21001#Basilisk Crag} and deliver claws to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60514023" string="" />
+	<String id="60514024" string="&quot;Thanks.&quot;" />
+	<String id="60514025" string="&quot;Glad I could help.&quot;" />
+	<String id="60514026" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17207001" string="The Battle for Intrepid" />
+	<String id="17207002" string="&quot;Understood.&quot;" />
+	<String id="17207003" string="&quot;I'm on it.&quot;" />
+	<String id="17207004" string="Speak with Dougal." />
+	<String id="17207005" string="&quot;Leave him to me.&quot;" />
+	<String id="17207006" string="Speak with Zolyn." />
+	<String id="17207007" string="Kill Shiaka before he destroys Intrepid." />
+	<String id="17207008" string="&quot;Count on it.&quot;" />
+	<String id="17207009" string="Speak with Zolyn." />
+	<String id="17207010" string="Escort Paesyn." />
+	<String id="17207011" string="Thank you. You saved me!" />
+	<String id="17207012" string="Escort Paesyn to Dougal." />
+	<String id="17207013" string="&quot;Got it.&quot;" />
+	<String id="17207014" string="Talk to Dougal." />
+	<String id="17207015" string="Sound the horn." />
+	<String id="17207016" string="The horn sounds the order to abandon the sky cruiser." />
+	<String id="17207017" string="&quot;Yes, sir!&quot;" />
+	<String id="17207018" string="Speak with Dougal." />
+	<String id="17207019" string="&quot;Thank her for me.&quot;" />
+	<String id="17207020" string="Talk to Paesyn." />
+</StrSheet_Quest>

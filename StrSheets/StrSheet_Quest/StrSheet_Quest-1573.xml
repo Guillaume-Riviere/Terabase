@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10102001" string="Lancers Equipped" />
+	<String id="10102002" string="&quot;I did it for the federation.&quot;" />
+	<String id="10102003" string="Create weaponsmith's lances." />
+	<String id="10102004" string="Take the lances to Taurmik." />
+</StrSheet_Quest>

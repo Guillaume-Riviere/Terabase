@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61908001" string="[Fishing] Fishy Frittery Goodness" />
+	<String id="61908002" string="&quot;I got it.&quot;" />
+	<String id="61908003" string="Deliver a Fish Fritter to {@linkcreature:223#9906#Paparong} at the Lake of Tears Fishery." />
+	<String id="61908004" string="" />
+	<String id="61908005" string="Hand over the fish." />
+	<String id="61908006" string="Deliver two Freshwater Eels to {@linkcreature:223#9906#Paparong} at the Lake of Tears Fishery." />
+	<String id="61908007" string="" />
+</StrSheet_Quest>

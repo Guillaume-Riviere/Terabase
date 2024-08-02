@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5534001" string="Do Not Meddle in the Affairs of Dracoloths" />
+	<String id="5534002" string="Corrupted or not, a dracoloth is nothing to sneeze at. Be careful!" />
+	<String id="5534003" string="I've never met anyone who slew a dracoloth. Remarkable!" />
+	<String id="5534004" string="Dracoloth Heart" />
+	<String id="5534005" string="Kill the dracoloths in the Plaza of the Fallen." />
+	<String id="5534006" string="Bring the hearts to Arast at Valumnir Outpost." />
+	<String id="5534007" string="&quot;Just doing my duty.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="738001" string="Blessing of Kaia" />
+	<String id="738002" string="&quot;For the federation!&quot;" />
+	<String id="738003" string="Get selective reward item, Kaia's binding from repeatable quest." />
+	<String id="738004" string="Bring Kaia's binding to Dougal in Velika HQ." />
+</StrSheet_Quest>

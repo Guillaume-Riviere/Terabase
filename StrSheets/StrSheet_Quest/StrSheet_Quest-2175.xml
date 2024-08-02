@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200023001" string="[Daily Quest] Clear Rogash's Garden" />
+	<String id="200023002" string="&quot;[Rogash's Garden] Defeat 100 monsters in the inner island area. (You cannot obtain Credits until you complete all Exodor [Important] quests).&quot;" />
+	<String id="200023003" string="Clear Rogash's Garden" />
+	<String id="200023004" string="&quot;Claim your reward! (You cannot obtain Credits until you complete all [Important] quests).&quot;" />
+</StrSheet_Quest>

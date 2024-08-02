@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60412001" string="You're Not on My List" />
+	<String id="60412002" string="Stay safe!" />
+	<String id="60412003" string="How'd I get by without you here?" />
+	<String id="60412004" string="&quot;Say no more.&quot;" />
+	<String id="60412005" string="Go to {@LinkCreature:230#3026#Lilis} by the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60412006" string="Destroy the {@LinkCreature:417#2001#old keeper} on the sixth floor of the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60412007" string="&quot;Good luck!&quot;" />
+	<String id="60412008" string="Return to {@LinkCreature:230#3026#Lilis}." />
+</StrSheet_Quest>

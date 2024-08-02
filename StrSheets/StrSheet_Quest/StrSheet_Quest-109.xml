@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="528001" string="Ingredients for the Antidote" />
+	<String id="528002" string="I need those eyeballs!" />
+	<String id="528003" string="You saved my life." />
+	<String id="528004" string="Garangka Eyeball" />
+	<String id="528005" string="Kill the garangkas the tuwangi overseers ride." />
+	<String id="528006" string="Bring the eyeballs back to Boermas." />
+	<String id="528007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

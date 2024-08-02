@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2024001" string="Thermiosity" />
+	<String id="2024002" string="For the federation." />
+	<String id="2024003" string="Victory will be ours, in good time. Thanks again." />
+	<String id="2024004" string="&quot;I will.&quot;" />
+	<String id="2024005" string="Find Ruanal in the Halls of Gloom." />
+	<String id="2024006" string="Thermionic Deposit Nugget" />
+	<String id="2024007" string="Collect the thermionic deposit nuggets from cruel taskmasters, slave overseers, and zomporis in the Halls of Gloom." />
+	<String id="2024008" string="Deliver the nuggets to Pelsus at the Reliquary Station in the Halls of Shadow." />
+	<String id="2024009" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

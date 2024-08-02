@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6378001" string="Snowballs for Peace" />
+	<String id="6378002" string="How may I help you?" />
+	<String id="6378003" string="Go find {@linkcreature:63#9004} in Velika." />
+	<String id="6378004" string="&quot;On my way&quot;" />
+	<String id="6378005" string="&quot;Go on...&quot;" />
+	<String id="6378006" string="Win a battle in the Wintera Snowfield." />
+	<String id="6378007" string="You're back!&#10;&#10;Who won? Red or blue?" />
+	<String id="6378008" string="&quot;Thanks for this.&quot;" />
+	<String id="6378009" string="Return to {@linkcreature:63#9004} in Velika." />
+</StrSheet_Quest>

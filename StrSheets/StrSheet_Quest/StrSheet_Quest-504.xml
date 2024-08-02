@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1970001" string="(Guild) Fangs a Lot" />
+	<String id="1970002" string="Sharp Fang" />
+	<String id="1970003" string="&quot;It was no trouble.&quot;" />
+	<String id="1970004" string="Kill the beasts that roam the Thrallfield and collect their fangs." />
+	<String id="1970005" string="Report to Kayina in Chebika." />
+</StrSheet_Quest>

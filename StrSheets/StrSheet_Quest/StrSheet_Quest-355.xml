@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1331001" string="Climbing through the Ranks" />
+	<String id="1331002" string="The road leads in all directions, but your path is to the east." />
+	<String id="1331003" string="You are doing better than I expected." />
+	<String id="1331004" string="&quot;You can count on me.&quot;" />
+	<String id="1331005" string="Speak with Gyebrik." />
+	<String id="1331006" string="Obelisk Shard" />
+	<String id="1331007" string="Retrieve obelisk shards from the {@linkcreature:13#301194#stonebeaks} at the northeastern part of the Tower Base." />
+	<String id="1331008" string="Got all of the shards. Now, inspect the obelisk and repair it." />
+	<String id="1331009" string="Finish the repairs." />
+	<String id="1331010" string="Mathar Spire" />
+	<String id="1331011" string="Found Mathar Spire!" />
+	<String id="1331012" string="Climb up the vines to reach the Mathar Spire." />
+	<String id="1331013" string="Gather the Skyreach Flower." />
+	<String id="1331014" string="&quot;Thank you.&quot;" />
+	<String id="1331015" string="Use the flower's or potion's effect to jump off the cliff safely. Then report to Jorhon." />
+</StrSheet_Quest>

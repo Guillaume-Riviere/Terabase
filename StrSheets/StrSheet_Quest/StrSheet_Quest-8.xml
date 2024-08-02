@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="221001" string="Fool in the Forest" />
+	<String id="221002" string="And tell him, &quot;No excuses this time.&quot;" />
+	<String id="221003" string="I sure hope you can help." />
+	<String id="221004" string="Lennert" />
+	<String id="221005" string="Bridge Repair Tools" />
+	<String id="221006" string="Deliver bridge repair tools to Weldon at Woodcutter Palisade." />
+	<String id="221007" string="&quot;I'm here to help!&quot;" />
+</StrSheet_Quest>

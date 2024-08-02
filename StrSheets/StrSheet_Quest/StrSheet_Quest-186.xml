@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="806001" string="The Long Goodbye" />
+	<String id="806002" string="Read the rescue orders." />
+	<String id="806003" string="Hennika!" />
+	<String id="806004" string="Detrian" />
+	<String id="806005" string="Tell Karina that Detrian is missing." />
+	<String id="806006" string="Bring the news about Hennika to Detrian at Avenger Outpost." />
+	<String id="806007" string="&quot;I'm on my way.&quot;" />
+	<String id="806008" string="Tell Karina that Detrian is missing." />
+	<String id="806009" string="&quot;I'll try my best.&quot;" />
+	<String id="806010" string="Check with Loxetrius at Vanguard Post Alpha." />
+	<String id="806011" string="Eliminate the gula skinners and slavering auric imps in the Hungry Caverns Catacombs." />
+	<String id="806012" string="&quot;Return to the dream, my friend.&quot;" />
+	<String id="806013" string="Search the half-eaten corpse." />
+	<String id="806014" string="&quot;I'm on my way.&quot;" />
+	<String id="806015" string="Report back to Loxetrius at Vanguard Post Alpha." />
+	<String id="806016" string="&quot;I'll check it out.&quot;" />
+	<String id="806017" string="Report to Rendia at Vanguard Post Beta." />
+	<String id="806018" string="Detrian" />
+	<String id="806019" string="There's someone in the cell on the right. It's Detrian!" />
+	<String id="806020" string="Find the first cell." />
+	<String id="806021" string="&quot;I'll save her, Detrian. I promise.&quot;" />
+	<String id="806022" string="Speak to Detrian." />
+	<String id="806023" string="Detrian" />
+	<String id="806024" string="Fight the aberrant gulons and rescue the abducted villagers from the second cell." />
+	<String id="806025" string="Move on to the second cell." />
+	<String id="806026" string="Eliminate the aberrant gulons in the Cavern of Tears." />
+	<String id="806027" string="&quot;No time to talk. Run!&quot;" />
+	<String id="806028" string="&quot;No time to talk. Run!&quot;" />
+	<String id="806029" string="&quot;No time to talk. Run!&quot;" />
+	<String id="806030" string="&quot;No time to talk. Run!&quot;" />
+	<String id="806031" string="&quot;No time to talk. Run!&quot;" />
+	<String id="806032" string="Free the abductees from their cell." />
+	<String id="806033" string="&quot;I'll find it.&quot;" />
+	<String id="806034" string="Speak with Hennika." />
+	<String id="806035" string="Eliminate vulgar inquisitors in the Hungry Caverns Depths, and retrieve Detrian's sword." />
+	<String id="806036" string="&quot;I'm sure he'd be proud.&quot;" />
+	<String id="806037" string="Deliver Detrian's sword to Hennika at Avenger Outpost." />
+	<String id="806038" string="Deliver Detrian's sword to Hennika at Avenger Outpost." />
+	<String id="806039" string="&quot;I'm sorry I couldn't do more.&quot;" />
+	<String id="806040" string="Report to Karina." />
+</StrSheet_Quest>

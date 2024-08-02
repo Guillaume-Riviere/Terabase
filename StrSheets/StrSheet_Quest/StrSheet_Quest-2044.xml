@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60605001" string="Echoes in the Stone" />
+	<String id="60605002" string="Please gather some nexulitic fragments. They're the key." />
+	<String id="60605003" string="Thank you. I'll do my best not to betray your expectations." />
+	<String id="60605004" string="&quot;I hope it pays off.&quot;" />
+	<String id="60605005" string="Collect nexulitic fragments across Val Kaeli." />
+	<String id="60605006" string="Deliver the fragments to the {@LinkCreature:1022#1003} at Kanstria." />
+</StrSheet_Quest>

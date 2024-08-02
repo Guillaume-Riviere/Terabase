@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800002001" string="Complete Sinestral Manor!" />
+	<String id="800002002" string="[Sinestral Manor] Defeat Malgarios!" />
+	<String id="800002003" string="Claim your reward!" />
+</StrSheet_Quest>

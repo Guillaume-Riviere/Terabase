@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60303001" string="Gearstalker" />
+	<String id="60303002" string="Good hunting!" />
+	<String id="60303003" string="A shame I couldn't join you." />
+	<String id="60303004" string="" />
+	<String id="60303005" string="" />
+	<String id="60303006" string="Find {@LinkCreature:76#3010#Beiran} at {@Rgn:76001$$Kanstria}'s gates." />
+	<String id="60303007" string="&quot;Let's get going!&quot;" />
+	<String id="60303008" string="Hunt {@LinkCreature:49#16#zariik cyanowitches} in the {@Rgn:49003$$Agnurok Engine}." />
+	<String id="60303009" string="Hunt {@LinkCreature:49#14#kalash defenders} in the {@Rgn:49003$$Agnurok Engine}." />
+	<String id="60303010" string="&quot;I see why.&quot;" />
+	<String id="60303011" string="Return to {@LinkCreature:76#3001#Keinbara}." />
+</StrSheet_Quest>

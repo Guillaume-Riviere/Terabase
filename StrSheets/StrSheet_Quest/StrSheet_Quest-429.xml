@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1623001" string="Head Chief" />
+	<String id="1623002" string="It's time to face off!" />
+	<String id="1623003" string="Now, to watch them scatter." />
+	<String id="1623004" string="Kirithia's Head" />
+	<String id="1623005" string="Take down Kirithia and collect her head for Pemo." />
+	<String id="1623006" string="Report to Pemo." />
+	<String id="1623007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

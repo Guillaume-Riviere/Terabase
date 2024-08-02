@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800115001" string="Clean up the Blightwood" />
+	<String id="800115002" string="[Blightwood] Eliminate corrupted beasts." />
+	<String id="800115003" string="Corrupted Beasts" />
+	<String id="800115004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48924001" string="Imp-robable Problem" />
+	<String id="48924002" string="Please...avenge their deaths." />
+	<String id="48924003" string="Thank you." />
+	<String id="48924004" string="Eliminate Eager Auric Imps in the Cultists' Refuge.&#10;[You must select Cultists' Refuge (Solo) from  {@LinkCreature:225#1023#Runha} to advance this quest.]  " />
+	<String id="48924005" string="&quot;For the federation!&quot;" />
+	<String id="48924006" string="Report to Raubelak at Cultists' Refuge." />
+</StrSheet_Quest>

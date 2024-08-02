@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+}
+.result {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    height: 80px;
+}
+.id{
+    height: 100%;
+    width: 50px;
+    padding: 0 10px;
+    border-right: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+div.info{
+    height: 100%;
+    text-align: left;
+    display: block;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.result div img {
+    height: 64px;
+    width: 64px;
+    background-image: url("Icons/Icon_Items/none.png");
+    overflow: hidden;
+}
+
+.result div img:before {
+    content: " ";
+    font-size: 1000px;
+}

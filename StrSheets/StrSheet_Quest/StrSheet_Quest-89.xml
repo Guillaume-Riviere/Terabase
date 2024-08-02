@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="439001" string="Take No Prisoners" />
+	<String id="439002" string="Soulstalkers are the bane of my existence!" />
+	<String id="439003" string="I can't tell you how glad I am that they're dead." />
+	<String id="439004" string="Soulcrest" />
+	<String id="439005" string="Slay the soulstalkers in Molten Reach and collect their crests." />
+	<String id="439006" string="Deliver the crests to Eurice." />
+	<String id="439007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

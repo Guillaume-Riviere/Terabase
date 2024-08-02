@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810133001" string="Clean up Thrallhold" />
+	<String id="810133002" string="[Thrallhold] Defeat argonomorph invaders." />
+	<String id="810133003" string="Argonomorph Invaders" />
+	<String id="810133004" string="Claim your reward!" />
+</StrSheet_Quest>

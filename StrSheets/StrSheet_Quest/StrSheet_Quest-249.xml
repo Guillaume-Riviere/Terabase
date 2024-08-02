@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1031001" string="Population Control" />
+	<String id="1031002" string="Kamaras are...frisky." />
+	<String id="1031003" string="Not bad, not bad at all." />
+	<String id="1031004" string="Eliminate the kamaras on Serpentis Isle." />
+	<String id="1031005" string="&quot;For the federation!&quot;" />
+	<String id="1031006" string="Report to Allashane at the Beachhead." />
+</StrSheet_Quest>

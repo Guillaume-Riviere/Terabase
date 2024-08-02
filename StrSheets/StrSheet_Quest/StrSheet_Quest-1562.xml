@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10055001" string="It's in the Water" />
+	<String id="10055002" string="&quot;Of course!&quot;" />
+	<String id="10055003" string="Speak to Tidak in Velika." />
+	<String id="10055004" string="&quot;I can do that.&quot;" />
+	<String id="10055005" string="Visit Jakarian in Chebika." />
+	<String id="10055006" string="" />
+	<String id="10055007" string="Oasis Water" />
+	<String id="10055008" string="Bring the water to Tidak." />
+	<String id="10055009" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

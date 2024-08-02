@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10030001" string="Armored Altitude" />
+	<String id="10030002" string="&quot;Thank you.&quot;" />
+	<String id="10030003" string="Craft officer's hauberks." />
+	<String id="10030004" string="Deliver the hauberks to Samiruuz." />
+</StrSheet_Quest>

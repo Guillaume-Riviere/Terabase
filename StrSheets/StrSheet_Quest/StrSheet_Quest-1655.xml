@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18203001" string="In Search of Answers" />
+	<String id="18203002" string="&quot;Got it.&quot;" />
+	<String id="18203003" string="&quot;Sounds like a plan.&quot;" />
+	<String id="18203004" string="Discuss the archdevan plans with Rhodos." />
+	<String id="18203005" string="&quot;I can do that.&quot;" />
+	<String id="18203006" string="Talk to Madat." />
+	<String id="18203007" string="&quot;Okay, I'll do that.&quot;" />
+	<String id="18203008" string="Talk to Renish." />
+	<String id="18203009" string="Mysterious Talisman" />
+	<String id="18203010" string="Kill Parthian bowmen, Parthian warriors, and Parthian riders to collect mysterious talismans." />
+	<String id="18203011" string="Show the mysterious talismans to Renish." />
+	<String id="18203012" string="&quot;I'll go see him, then.&quot;" />
+	<String id="18203013" string="" />
+	<String id="18203014" string="Collection of Talismans" />
+	<String id="18203015" string="Bring the collection of talismans to Madat." />
+	<String id="18203016" string="&quot;Consider it done.&quot;" />
+</StrSheet_Quest>

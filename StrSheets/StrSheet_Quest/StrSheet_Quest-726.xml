@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3123001" string="Safety First" />
+	<String id="3123002" string="We're civilians, not soldiers. We can't face them." />
+	<String id="3123003" string="We're not going to give in to a walking pile of bones!" />
+	<String id="3123004" string="Undead Bone Fragments" />
+	<String id="3123005" string="Collect bones from the deathfrost chargers." />
+	<String id="3123006" string="Bring the bone fragments to Gron at the Glacial Bay Research Station." />
+	<String id="3123007" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

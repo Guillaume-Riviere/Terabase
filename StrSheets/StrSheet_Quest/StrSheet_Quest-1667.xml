@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18299001" string="You Have Talent" />
+	<String id="18299002" string="Hand over the token." />
+	<String id="18299003" string="Learn more about talents and collect your package in the shop!" />
+	<String id="18299004" string="Talk to Renish in Highwatch." />
+</StrSheet_Quest>

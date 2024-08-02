@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47124001" string="Lasting Grudge" />
+	<String id="47124002" string="I lost my only son to those monsters. Don't let more good people die." />
+	<String id="47124003" string="Thank you." />
+	<String id="47124004" string="Core of Darkness" />
+	<String id="47124005" string="Eliminate vengeful shades throughout the Necromancer Tomb. &#10;[You must select Necromancer Tomb (Solo) from the {@LinkCreature:233#1501#Teleportal} to advance this quest.]" />
+	<String id="47124006" string="Deliver Cores of Darkness to Vandrea at the Underground Base in the Citadel of Torment." />
+	<String id="47124007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

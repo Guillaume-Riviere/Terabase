@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4534001" string="Left Behind" />
+	<String id="4534002" string="There may be something of value left there." />
+	<String id="4534003" string="This is a wonderful find." />
+	<String id="4534004" string="&quot;Thanks.&quot;" />
+	<String id="4534005" string="Collect argon construction tools near the {@Rgn:45012$$Collapsed Argon Fortress Entrance} southwest of {@Rgn:45005$$Skyfields}." />
+	<String id="4534006" string="Return to {@Rgn:45009$$Camp Insanity} and deliver the argon construction tools to {@creature:245#1029$$Pokara}." />
+</StrSheet_Quest>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="244001" string="The Faerie Emissary" />
+	<String id="244002" string="You could save Himir's life!" />
+	<String id="244003" string="Nice work!" />
+	<String id="244004" string="Escort" />
+	<String id="244005" string="Thank you!" />
+	<String id="244006" string="Teleport to the Woodland Path and escort Himir to safety across the bridge." />
+	<String id="244007" string="&quot;I did my duty.&quot;" />
+	<String id="244008" string="Talk to Nenuel." />
+	<String id="244009" string="&quot;Thank you.&quot;" />
+	<String id="244010" string="Report to Lymei." />
+</StrSheet_Quest>

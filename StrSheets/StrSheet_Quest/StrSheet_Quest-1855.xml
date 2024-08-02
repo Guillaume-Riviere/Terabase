@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51020001" string="Find My Daughter!" />
+	<String id="51020002" string="&quot;My daughter...please find her!&quot;" />
+	<String id="51020003" string="&quot;The missing airship...it's my last hope...&quot;" />
+	<String id="51020004" string="&quot;I'll look into it.&quot;" />
+	<String id="51020005" string="Possible witness" />
+	<String id="51020006" string="Look, up on the overwatch!" />
+	<String id="51020007" string="Search the area for possible witnesses." />
+	<String id="51020008" string="&quot;Thank you.&quot;" />
+	<String id="51020009" string="Talk to Zeuk. (Hint: use a flying mount)" />
+	<String id="51020010" string="Airship Crash Scene" />
+	<String id="51020011" string="Is that her?" />
+	<String id="51020012" string="Crash site." />
+	<String id="51020013" string="Collect the body." />
+	<String id="51020014" string="Collect the body." />
+	<String id="51020015" string="&quot;Got it.&quot;" />
+	<String id="51020016" string="Return to Haron." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1135001" string="Finders, Keepers" />
+	<String id="1135002" string="Be careful with the antiques. They're irreplaceable." />
+	<String id="1135003" string="Such rare finds..." />
+	<String id="1135004" string="&quot;For the federation!&quot;" />
+	<String id="1135005" string="Find the plunder in the hold on the first level and collect the antiques inside." />
+	<String id="1135006" string="Deliver the antiques to Leina." />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4925001" string="All the News That's Fit to Print" />
+	<String id="4925002" string="Thanks for talking with me, soldier." />
+	<String id="4925003" string="&quot;I appreciate the information. Thanks.&quot;" />
+	<String id="4925004" string="Talk to Hekasha in the village of {@Rgn:76001}." />
+</StrSheet_Quest>

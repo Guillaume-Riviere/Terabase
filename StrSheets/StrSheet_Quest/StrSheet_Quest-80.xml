@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="430001" string="Taming the Fangs" />
+	<String id="430002" string="Fangspawns are dumb, but vicious!" />
+	<String id="430003" string="That is one big heart. Is it steaming?" />
+	<String id="430004" string="Infernal Heart" />
+	<String id="430005" string="Hunt down the fangspawns in the Blazing Vale and collect their hearts." />
+	<String id="430006" string="Report back to Kimuk." />
+	<String id="430007" string="&quot;Ready for more!&quot;" />
+</StrSheet_Quest>

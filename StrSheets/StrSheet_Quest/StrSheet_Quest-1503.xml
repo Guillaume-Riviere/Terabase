@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8706001" string="Those Who Sow the Wind..." />
+	<String id="8706002" string="&quot;I'm on my way.&quot;" />
+	<String id="8706003" string="Path to Pora Elinu" />
+	<String id="8706004" string="The only path to Pora Elinu is engulfed in flames." />
+	<String id="8706005" string="Enter the Path to Pora Elinu." />
+	<String id="8706006" string="Path to Pora Elinu" />
+	<String id="8706007" string="Pora Elinu is visible in the distance, beyond the orcan siege camp." />
+	<String id="8706008" string="Use Cable Step and Shadow Step to pass quickly." />
+	<String id="8706009" string="Hunt elite orcan combatants and sharp claw arachnens." />
+	<String id="8706010" string="&quot;I'll do what I can.&quot;" />
+	<String id="8706011" string="Talk to Arin outside Pora Elinu." />
+	<String id="8706012" string="&quot;You can count on me.&quot;" />
+	<String id="8706013" string="Talk to Meilyn inside Pora Elinu." />
+	<String id="8706014" string="&quot;I understand.&quot;" />
+	<String id="8706015" string="Pick corpse-lash flowers." />
+	<String id="8706016" string="Give the corpse-lash flowers to Meilyn." />
+	<String id="8706017" string="&quot;I understand.&quot;" />
+	<String id="8706018" string="Talk to Arin outside Pora Elinu." />
+	<String id="8706019" string="Supply Package" />
+	<String id="8706020" string="Bring Supply Package to Koro." />
+	<String id="8706021" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

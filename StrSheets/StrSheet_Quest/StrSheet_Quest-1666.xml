@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18214001" string="The Frog Gig" />
+	<String id="18214002" string="Use Flying Skill: Tulpar." />
+	<String id="18214003" string="" />
+	<String id="18214004" string="&quot;Hmm. Maybe Garta has some advice.&quot;" />
+	<String id="18214005" string="Use the flying horse to reach Garta's frog." />
+	<String id="18214006" string="Report to Morick." />
+	<String id="18214007" string="Report to Garta of the Goblin Smugglers' League." />
+	<String id="18214008" string="&quot;Um, okay. Well, good luck, Morick.&quot;" />
+	<String id="18214009" string="Talk to Morick in the Goblin Smugglers' League." />
+</StrSheet_Quest>

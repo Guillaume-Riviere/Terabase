@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4791001" string="Whitefrost Menace" />
+	<String id="4791002" string="This will be a big help." />
+	<String id="4791003" string="Proof of Kill: Tirkai Grizzlies" />
+	<String id="4791004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4791005" string="Kill {@LinkCreature:47#1001#Tirkai grizzlies}, {@LinkCreature:47#4001#argonomorph Dagonite crusaders}, and {@LinkCreature:47#2001#argonomorph caprin imps} in the {@Rgn:47002$$Whitefrost Forest}." />
+	<String id="4791006" string="See {@Creature:247#1002$$Salaine} at {@Rgn:47006$$Field Base Lunacy} for your reward." />
+</StrSheet_Quest>

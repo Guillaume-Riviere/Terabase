@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5423001" string="Guerillas in the Mist" />
+	<String id="5423002" string="Be careful! The mist gives them a nasty temper too." />
+	<String id="5423003" string="I only hope it will be enough." />
+	<String id="5423004" string="Misted Hide" />
+	<String id="5423005" string="Collect misted hides from bloodhorn mugatos, stonebrow cubs, and curltress piglings near Scythera Fae." />
+	<String id="5423006" string="Bring the misted hides to Lidaera at Scythera Fae." />
+	<String id="5423007" string="&quot;I hope it works.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="425001" string="Howling Mad" />
+	<String id="425002" string="Do something about those wolves. The howling is making me crazy!" />
+	<String id="425003" string="Hear that silence? Wonderful, isn't it?" />
+	<String id="425004" string="Cull the ashstalker wolves in the Brimstone Highlands." />
+	<String id="425005" string="&quot;It wasn't so hard.&quot;" />
+	<String id="425006" string="Return to Kridan at Cauldron Outpost." />
+</StrSheet_Quest>

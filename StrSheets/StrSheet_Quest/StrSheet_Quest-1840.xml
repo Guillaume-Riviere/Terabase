@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50537001" string="[Solo] Olivung's Intermediate Cooking Class" />
+	<String id="50537002" string="&quot;I'll help.&quot;" />
+	<String id="50537003" string="Find Olivung on the Island of Dawn." />
+	<String id="50537004" string="Fimbrilisk's Durignite" />
+	<String id="50537005" string="Obtain a Cruel Fimbrilisk's Durignite and deliver it to Olivung." />
+	<String id="50537006" string="Taste the Magma Ice Cream." />
+	<String id="50537007" string="Taste the Magma Ice Cream. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory, and select the Magma Ice Cream.]" />
+	<String id="50537008" string="Obtain the second piece of the Aspiration Stone." />
+	<String id="50537009" string="Speak with Olivung at the Southern Checkpoint." />
+	<String id="50537010" string="Use the second piece of the Aspiration Stone to empower the Eternal Crown. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory, and select the Aspiration Stone - Second Piece.]" />
+	<String id="50537011" string="Claim reward." />
+	<String id="50537012" string="Speak with Olivung at the Southern Checkpoint." />
+</StrSheet_Quest>

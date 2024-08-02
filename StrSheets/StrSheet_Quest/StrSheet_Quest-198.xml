@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="832001" string="The Biggest Butcher" />
+	<String id="832002" string="They're in for a shock!" />
+	<String id="832003" string="That is disgusting. That's his stomach?" />
+	<String id="832004" string="Glauka's Stomach" />
+	<String id="832005" string="Eliminate Glauka in the Hungry Caverns Catacombs and retrieve his stomach." />
+	<String id="832006" string="Deliver the...stomach...to Loxetrius." />
+	<String id="832007" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

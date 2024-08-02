@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="300601001" string="Jumpstart: Akasha's Hideout (Solo)" />
+	<String id="300601002" string="Defeat the final boss in Akasha's Hideout (Solo).&lt;br>&lt;br>Akasha's Hideout (Solo) can be entered through a teleportal. To teleport to the entry use Vanguard Initiative UI." />
+	<String id="300601003" string="&quot;Thanks.&quot;" />
+	<String id="300601004" string="Talk to Uriela in Velika." />
+</StrSheet_Quest>

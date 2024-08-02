@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3121001" string="One Bad Apple" />
+	<String id="3121002" string="That emblem should change a few minds." />
+	<String id="3121003" string="Thanks for everything you've done!" />
+	<String id="3121004" string="Karihne" />
+	<String id="3121005" string="Emblem of Acarum" />
+	<String id="3121006" string="Convince Arvo." />
+	<String id="3121007" string="&quot;You can count on me.&quot;" />
+	<String id="3121008" string="Karihne" />
+	<String id="3121009" string="Emblem of Acarum" />
+	<String id="3121010" string="Convince Shekkram." />
+	<String id="3121011" string="&quot;Thank you.&quot;" />
+	<String id="3121012" string="Karihne" />
+	<String id="3121013" string="Emblem of Acarum" />
+	<String id="3121014" string="Convince Peivan." />
+	<String id="3121015" string="&quot;Thank you.&quot;" />
+	<String id="3121016" string="&quot;I'll be there shortly!&quot;" />
+	<String id="3121017" string="Report to Acarum Aide Karihne." />
+	<String id="3121018" string="Karihne" />
+	<String id="3121019" string="Letter for Gron" />
+	<String id="3121020" string="Go to the Glacial Bay Research Station and speak with Commissioner Gron." />
+	<String id="3121021" string="&quot;I did what I could.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="983201001" string="Complete the Pit of Petrax" />
+	<String id="983201002" string="[Pit of Petrax] Defeat Petrax and the archdevan researcher!" />
+	<String id="983201003" string="Petrax" />
+	<String id="983201004" string="Claim your reward!" />
+</StrSheet_Quest>

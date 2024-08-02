@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2124001" string="The Tooth Will Set You Free" />
+	<String id="2124002" string="For the federation!" />
+	<String id="2124003" string="We are much safer now." />
+	<String id="2124004" string="Beldresk's Tooth" />
+	<String id="2124005" string="Go to Mags Tohopka and kill Beldresk. Bring back his tooth." />
+	<String id="2124006" string="Deliver the tooth to Gattius at the Desert Research Station." />
+	<String id="2124007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2025001" string="Morale Boost" />
+	<String id="2025002" string="Be careful." />
+	<String id="2025003" string="Victory for Valkyon!" />
+	<String id="2025004" string="Kill the morale boosters in the northeast area of the Halls of Gloom." />
+	<String id="2025005" string="&quot;It was no trouble.&quot;" />
+	<String id="2025006" string="Report to Pelsus at the Reliquary Station in the Halls of Shadow." />
+</StrSheet_Quest>

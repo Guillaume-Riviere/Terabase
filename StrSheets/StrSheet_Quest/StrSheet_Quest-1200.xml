@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5001001" string="Finding the Flame" />
+	<String id="5001002" string="&quot;I understand.&quot;" />
+	<String id="5001003" string="Go to Commander {@linkcreature:528#5005#Tamur} at Kaiator Command Center and report that you have destroyed the Cyasma Spire at {@Rgn:49001$$Argonea}.&#10;[Speak with {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="5001004" string="&quot;I understand.&quot;" />
+	<String id="5001005" string="Speak with Adeldur at Kaiator Command Center.&#10;[Speak with {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="5001006" string="&quot;Let's go.&quot;" />
+	<String id="5001007" string="Tell Adeldur that you're off to investigate the researchers." />
+	<String id="5001008" string="&quot;Right. Okay.&quot;" />
+	<String id="5001009" string="&quot;I understand.&quot;" />
+	<String id="5001010" string="Go to Shroud Outpost at Granarkus and confirm the Agnurok Engine research results from Virienne." />
+	<String id="5001011" string="Near the Argon Energy Purifier" />
+	<String id="5001012" string="You found the energy Virienne is tracking." />
+	<String id="5001013" string="Go to the {@linkobject:120#energy purifier} southeast of Noyul Extractor in Granarkus, then open a teleportal for the researchers." />
+	<String id="5001014" string="Eliminate the zomgul gatherers around the energy purifier so the researchers are safe. " />
+	<String id="5001015" string="Insert a teleport stone into the purifier so the researchers can come through a temporary teleportal." />
+	<String id="5001016" string="&quot;I understand.&quot;" />
+	<String id="5001017" string="Speak to Virienne, who came through the portal." />
+	<String id="5001018" string="&quot;I understand.&quot;" />
+	<String id="5001019" string="Follow Dadoam, who left to follow the energy conduits." />
+	<String id="5001020" string="Destroy the incubator before it produces argons." />
+	<String id="5001021" string="Origin of the Howls" />
+	<String id="5001022" string="You see Kelsaik!" />
+	<String id="5001023" string="You hear Kelsaik's howl near the Incubator. Investigate the area." />
+	<String id="5001024" string="Destroy the Crossing the Streams near Kelsaik." />
+	<String id="5001025" string="&quot;I understand.&quot;" />
+	<String id="5001026" string="Talk to Dadoam about Kelsaik and Shandra Manaya." />
+</StrSheet_Quest>

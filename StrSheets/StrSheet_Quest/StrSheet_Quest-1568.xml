@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10061001" string="Stretching Etchings 2" />
+	<String id="10061002" string="&quot;I appreciate this.&quot;" />
+	<String id="10061003" string="Obtain {@RawItem:206818} from a Crimson Essence, {@RawItem:206819} from an Earth Essence, and {@RawItem:206820} from an Azure Essence" />
+	<String id="10061004" string="Give your catch to Kundra." />
+</StrSheet_Quest>

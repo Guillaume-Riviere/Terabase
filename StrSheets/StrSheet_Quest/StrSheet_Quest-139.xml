@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="626001" string="Stubborn Old Man" />
+	<String id="626002" string="The more you kill, the better I'll like it." />
+	<String id="626003" string="Who's laughing now, eh?" />
+	<String id="626004" string="Exterminate hyenas that prey on Echo Ranch cows." />
+	<String id="626005" string="&quot;For the federation!&quot;" />
+	<String id="626006" string="Report to Zackran at Echo Ranch." />
+</StrSheet_Quest>

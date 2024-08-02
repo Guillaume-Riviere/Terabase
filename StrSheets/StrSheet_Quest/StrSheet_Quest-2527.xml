@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="983402001" string="Dominate the Skies" />
+	<String id="983402002" string="[Guardian Legion (Flight)] Complete 'The Rhapsody of Wind and Fire' or 'Search and Destroy' and claim a Guardian Legion reward." />
+	<String id="983402003" string="Guardian Legion Flight Mission Interaction" />
+	<String id="983402004" string="Claim your reward!" />
+</StrSheet_Quest>

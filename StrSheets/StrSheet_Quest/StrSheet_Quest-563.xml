@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2229001" string="Take Out the Head" />
+	<String id="2229002" string="Serena must be stopped." />
+	<String id="2229003" string="It grieves me to see our headmistress laid low." />
+	<String id="2229004" string="Serena's Necklace" />
+	<String id="2229005" string="Defeat Serena and recover her necklace." />
+	<String id="2229006" string="Return to Wheelow." />
+	<String id="2229007" string="&quot;Way to stay positive.&quot;" />
+</StrSheet_Quest>

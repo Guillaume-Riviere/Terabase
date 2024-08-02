@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1350001" string="Strange Attractors" />
+	<String id="1350002" string="There must be some connection between them." />
+	<String id="1350003" string="This is not good in any way..." />
+	<String id="1350004" string="Suspicious Object" />
+	<String id="1350005" string="Collect evidence from kariagons, disc reapers, and terron thralls in the eastern part of the gorge." />
+	<String id="1350006" string="Report to Sersine with what you've found." />
+	<String id="1350007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

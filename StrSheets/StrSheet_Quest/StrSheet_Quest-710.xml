@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3051001" string="Recording the Future" />
+	<String id="3051002" string="You'll see what I mean soon enough." />
+	<String id="3051003" string="All credit goes to you." />
+	<String id="3051004" string="Transcribe the repository's words." />
+	<String id="3051005" string="Transcribe the repository's words." />
+	<String id="3051006" string="Transcribe the repository's words." />
+	<String id="3051007" string="Transcribe the repository's words." />
+	<String id="3051008" string="Investigate the {@linkcreature:230#1095#repositories of vision}." />
+	<String id="3051009" string="&quot;For the federation.&quot;" />
+	<String id="3051010" string="Report what you've learned." />
+	<String id="3051011" string="Deliver your transcription to {@linkcreature:71#1101$$Alais}." />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4236001" string="A Business Proposition" />
+	<String id="4236002" string="What are the nagas and gulas up to now?" />
+	<String id="4236003" string="Ah. Same old story. Slavery." />
+	<String id="4236004" string="Naga Contract" />
+	<String id="4236005" string="Engage the naga masakaris on the third level of the Temple of Dagon. Gather any evidence you find." />
+	<String id="4236006" string="Report your findings to Darim on the third level." />
+	<String id="4236007" string="Talk to Bartosia." />
+	<String id="4236008" string="&quot;I'll get it done.&quot;" />
+	<String id="4236009" string="Ask Bartosia to decipher the documents." />
+</StrSheet_Quest>

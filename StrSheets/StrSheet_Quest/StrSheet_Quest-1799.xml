@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48724001" string="Fangs for Nothing" />
+	<String id="48724002" string="Their bite is much worse than their bark." />
+	<String id="48724003" string="Every scout and sentry in Oblivion Woods owes you a drink." />
+	<String id="48724004" string="Tainted Fang" />
+	<String id="48724005" string="Eliminate the hyena sentries in the Bastion of Lok and collect their fangs.&#10;[You must select Bastion of Lok (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.]" />
+	<String id="48724006" string="Report back to Tersiaj. " />
+	<String id="48724007" string="&quot;My pleasure.&quot;" />
+</StrSheet_Quest>

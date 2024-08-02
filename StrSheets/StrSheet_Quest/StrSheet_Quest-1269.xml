@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5230001" string="Cure for Deadly Venom" />
+	<String id="5230002" string="Bring me the tearroot please!" />
+	<String id="5230003" string="This will make a generous supply." />
+	<String id="5230004" string="&quot;For the federation!&quot;" />
+	<String id="5230005" string="Gather tearroot from the snow fields to the southwest of Habere." />
+	<String id="5230006" string="Report to Horia at the western entrance of Habere." />
+</StrSheet_Quest>

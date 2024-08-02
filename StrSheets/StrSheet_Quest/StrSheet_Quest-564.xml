@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2230001" string="Harming Marm" />
+	<String id="2230002" string="Those curses are supposed to hurt intruders, not students!" />
+	<String id="2230003" string="Who's caused this?" />
+	<String id="2230004" string="Eliminate the blood marm on the second floor." />
+	<String id="2230005" string="&quot;Thank you.&quot;" />
+	<String id="2230006" string="Return to Drusla at the Eldritch Bastion." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1036001" string="Their Only Weakness" />
+	<String id="1036002" string="Put those slayers down!" />
+	<String id="1036003" string="Fine work out there!" />
+	<String id="1036004" string="Armored Scales" />
+	<String id="1036005" string="Collect armored scales from naga slayers and subordinates in the Adderkin Jungle." />
+	<String id="1036006" string="Deliver the scales to Libine at the Coastal Overwatch." />
+	<String id="1036007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

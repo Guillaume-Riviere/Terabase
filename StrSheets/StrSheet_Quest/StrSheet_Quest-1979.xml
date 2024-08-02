@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60211001" string="Fluxing the Capacitor" />
+	<String id="60211002" string="If you destroy the {@LinkCreature:418#2008#vendron capacitors}, that could cripple the argons." />
+	<String id="60211003" string="You're unstoppable!" />
+	<String id="60211004" string="&quot;I can handle it.&quot;" />
+	<String id="60211005" string="Report to {@LinkCreature:418#2002#Tibonel} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60211006" string="Ask {@LinkCreature:418#2002$$Tibonel} to open the portal. Go through and destroy the vendron capacitors in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60211007" string="&quot;For the federation!&quot;" />
+	<String id="60211008" string="Report back to {@LinkCreature:418#2002#Tibonel}." />
+</StrSheet_Quest>

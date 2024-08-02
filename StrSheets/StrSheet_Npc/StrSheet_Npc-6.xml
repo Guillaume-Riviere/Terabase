@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Npc>
+	<String id="400000000" string="Shop" />
+	<String id="400000001" string="Shop" />
+	<String id="400000002" string="Shop" />
+	<String id="400000003" string="Shop" />
+	<String id="400000004" string="Shop" />
+	<String id="400000005" string="Shop" />
+	<String id="400000006" string="Shop" />
+	<String id="400000007" string="Shop" />
+	<String id="400000008" string="Shop" />
+	<String id="400000009" string="Shop" />
+	<String id="400000010" string="Soul Wing Shop" />
+	<String id="400000011" string="Shop" />
+	<String id="400000012" string="Personal Inner Armor Shop" />
+	<String id="400000013" string="Shop" />
+</StrSheet_Npc>

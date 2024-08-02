@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18205001" string="Lucky Charms" />
+	<String id="18205002" string="&quot;Got it.&quot;" />
+	<String id="18205003" string="Lucky Charms" />
+	<String id="18205004" string="Kill Archdevan Priests in the training camp and retrieve a control pendant." />
+	<String id="18205005" string="Bring the archdevan control pendant to Cromagh." />
+	<String id="18205006" string="&quot;I got it.&quot;" />
+	<String id="18205007" string="&quot;Got it.&quot;" />
+	<String id="18205008" string="Show the pendant to Cromagh." />
+	<String id="18205009" string="&quot;That...actually makes sense.&quot;" />
+	<String id="18205010" string="Ask Cromagh if he is okay." />
+	<String id="18205011" string="Pendant Replacement Request" />
+	<String id="18205012" string="Kill a Parthian Courier." />
+	<String id="18205013" string="Show the request to Dyona, the archdevan mystic." />
+	<String id="18205014" string="&quot;Thank you. Um...hail Lakan?&quot;" />
+	<String id="18205015" string="&quot;How...how do you know my name?&quot;" />
+	<String id="18205016" string="Find the shaman Keezar in the cave north of the Hina Hot Springs." />
+</StrSheet_Quest>

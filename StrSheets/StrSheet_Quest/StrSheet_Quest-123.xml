@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="543001" string="More Tuwangis to Kill" />
+	<String id="543002" string="Raguga needs to die." />
+	<String id="543003" string="Well, that's a relief." />
+	<String id="543004" string="Raguga's Heart" />
+	<String id="543005" string="Kill Battlehopper Raguga in Tuwangi Thorp and bring back his heart." />
+	<String id="543006" string="Report to Mitany." />
+	<String id="543007" string="&quot;I was glad to help.&quot;" />
+</StrSheet_Quest>

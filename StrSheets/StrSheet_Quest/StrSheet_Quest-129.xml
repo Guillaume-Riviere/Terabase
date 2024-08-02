@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="602001" string="The Force Behind the Devans" />
+	<String id="602002" string="&quot;I'm on it.&quot;" />
+	<String id="602003" string="&quot;I'm on my way.&quot;" />
+	<String id="602004" string="Talk to Kamia." />
+	<String id="602005" string="Destroy weapon crates in Deva Silva." />
+	<String id="602006" string="Kamia's location" />
+	<String id="602007" string="I can see something inside the encampment!" />
+	<String id="602008" string="Find Kamia inside the encampment." />
+	<String id="602009" string="&quot;Let's do this.&quot;" />
+	<String id="602010" string="Talk to Kamia." />
+</StrSheet_Quest>

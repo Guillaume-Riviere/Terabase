@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1505001" string="Discredit Where Credit Is Due" />
+	<String id="1505002" string="Read Justicar Bruke's orders.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open your inventory and read the orders.]" />
+	<String id="1505003" string="Jelena was a spy?" />
+	<String id="1505004" string="&quot;Good bye.&quot;" />
+	<String id="1505005" string="Speak with Jelena and tell her what the orders say." />
+	<String id="1505006" string="&quot;I understand.&quot;" />
+	<String id="1505007" string="Inform Bruke that Jelena has disappeared." />
+	<String id="1505008" string="&quot;Thank you.&quot;" />
+	<String id="1505009" string="Brief General Samael in Velika before Bruke's report reaches him." />
+</StrSheet_Quest>

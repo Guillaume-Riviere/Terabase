@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70112001" string="[Event—Daily] Off the Menu" />
+	<String id="70112002" string="&quot;I'll rescue those villagers.&quot;" />
+	<String id="70112003" string="Banquet of Blood" />
+	<String id="70112004" string="" />
+	<String id="70112005" string="Enter the Banquet of Blood." />
+	<String id="70112006" string="&quot;You're safe now, but you should go.&quot;" />
+	<String id="70112007" string="&quot;Go home quickly, now—your family is worried.&quot;" />
+	<String id="70112008" string="Rescue kidnapped villagers." />
+	<String id="70112009" string="&quot;Let me know if you need my help again.&quot;" />
+	<String id="70112010" string="Talk to Harun." />
+</StrSheet_Quest>

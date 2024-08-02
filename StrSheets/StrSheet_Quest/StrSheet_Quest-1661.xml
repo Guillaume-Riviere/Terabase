@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18209001" string="One Step Forward" />
+	<String id="18209002" string="&quot;I'll do my best.&quot;" />
+	<String id="18209003" string="Talk to Madat to discuss the next step." />
+	<String id="18209004" string="&quot;I will. Thank you!&quot;" />
+	<String id="18209005" string="Go to Kazan's Ridge in the north to find Durom." />
+	<String id="18209006" string="&quot;Well, it was worth a shot.&quot;" />
+	<String id="18209007" string="Talk to Karlam." />
+	<String id="18209008" string="&quot;Sounds like a plan.&quot;" />
+	<String id="18209009" string="Talk to High Seeker Janiam." />
+	<String id="18209010" string="Kill Valley Grizzlies and Valley Mugatos on Kazan's Ridge." />
+	<String id="18209011" string="&quot;Thanks—and good luck here.&quot;" />
+	<String id="18209012" string="Ask Seeker Tercad where to find High Seeker Janiam." />
+</StrSheet_Quest>

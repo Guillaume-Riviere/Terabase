@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70204001" string="[Rootstock] Down on the Farm" />
+	<String id="70204002" string="&quot;I got it.&quot;" />
+	<String id="70204003" string="&quot;Thanks.&quot;" />
+	<String id="70204004" string="Talk to Karadus." />
+	<String id="70204005" string="&quot;Okay, I will.&quot;" />
+	<String id="70204006" string="Talk to Shepherd Tagun." />
+	<String id="70204007" string="Bring in the sheep." />
+	<String id="70204008" string="Baaa-aah! Baaah!" />
+	<String id="70204009" string="Herd the sheep into {@linkcreature:219#7002#Tagun's Pen}. " />
+	<String id="70204010" string="&quot;Thanks.&quot;" />
+	<String id="70204011" string="Talk to Shepherd Tagun." />
+	<String id="70204012" string="&quot;Right. Okay.&quot;" />
+	<String id="70204013" string="Talk to Filton at the Free Range for Oxen." />
+	<String id="70204014" string="Hyena" />
+	<String id="70204015" string="Kill horned war hyenas and/or battle hyenas." />
+	<String id="70204016" string="&quot;Thanks.&quot;" />
+	<String id="70204017" string="Talk to Filton." />
+	<String id="70204018" string="&quot;I got it.&quot;" />
+	<String id="70204019" string="Talk to Trichi." />
+	<String id="70204020" string="&quot;Here's your struthio egg.&quot;" />
+	<String id="70204021" string="Find a struthio egg." />
+	<String id="70204022" string="Take the struthio egg to Tippani." />
+	<String id="70204023" string="Start the Pigling Rodeo mini-game." />
+	<String id="70204024" string="&quot;Thanks.&quot;" />
+	<String id="70204025" string="Talk to Tippani." />
+	<String id="70204026" string="&quot;Sure, I got it.&quot;" />
+	<String id="70204027" string="Talk to Melsa." />
+	<String id="70204028" string="&quot;Glad to be of service.&quot;" />
+	<String id="70204029" string="Make a dish using the grilled pigling recipe." />
+	<String id="70204030" string="Take the grilled pigling to Melsa." />
+</StrSheet_Quest>

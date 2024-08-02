@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4239001" string="Crusade against the Crusaders" />
+	<String id="4239002" string="Hurry! Kill the crusaders!" />
+	<String id="4239003" string="Fine work, soldier. Very fine!" />
+	<String id="4239004" string="Crusader's Token" />
+	<String id="4239005" string="Hunt Dagonite crusaders on the third level." />
+	<String id="4239006" string="Report to Vriesl on the third level of the Ecdysi Atrium." />
+	<String id="4239007" string="&quot;I did my duty.&quot;" />
+</StrSheet_Quest>

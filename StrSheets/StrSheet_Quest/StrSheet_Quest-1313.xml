@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5439001" string="Fey Worse than Death" />
+	<String id="5439002" string="Why wait for the arcanists to extract the sickness out of them?" />
+	<String id="5439003" string="What's wrong with having fewer infected fey?" />
+	<String id="5439004" string="Kyarnak Infection" />
+	<String id="5439005" string="Remove the infection from the forestcrown unicorns, caprin imp fighters and workers around Camp Verdant." />
+	<String id="5439006" string="Bring the kyarnak infections to Thorn at Camp Verdant." />
+	<String id="5439007" string="&quot;Probably not.&quot;" />
+</StrSheet_Quest>

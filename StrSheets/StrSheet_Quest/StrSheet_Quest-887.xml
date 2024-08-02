@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3704001" string="The Imprisoned God" />
+	<String id="3704002" string="&quot;I understand.&quot;" />
+	<String id="3704003" string="&quot;I shall.&quot;" />
+	<String id="3704004" string="Meet with Tamur at Kaiator Command Center before heading off to Southern Shara.&#10;[Speak with {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="3704005" string="&quot;I'll do that.&quot;" />
+	<String id="3704006" string="Meet with Fraya at Allemantheia Headquarters and request assistance in defeating Kelsaik.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter the Allemantheia Headquarters.]" />
+	<String id="3704007" string="&quot;I...think I understand.&quot;" />
+	<String id="3704008" string="Speak with {@LinkCreature:74#1100#Elvar} and get information on Saleron and the Crypt." />
+	<String id="3704009" string="&quot;Thanks.&quot;" />
+	<String id="3704010" string="Speak with {@LinkCreature:237#1029#Legia} and get information on Saleron." />
+	<String id="3704011" string="&quot;I understand.&quot;" />
+	<String id="3704012" string="Speak with {@LinkCreature:237#1027#Torsten} at Saleron Research Camp." />
+	<String id="3704013" string="&quot;Understood.&quot;" />
+	<String id="3704014" string="Speak with {@LinkCreature:237#1027#Torsten} at Saleron Research Camp." />
+	<String id="3704015" string="Kikik! A bug flew in!" />
+	<String id="3704016" string="Ki...Kiki..." />
+	<String id="3704017" string="Defeat {@LinkCreature:37#230#Ravenous Tyrak}." />
+	<String id="3704018" string="Ebon Span" />
+	<String id="3704019" string="There's a giant face on the wall. " />
+	<String id="3704020" string="Go to the Ebon Span." />
+	<String id="3704021" string="&quot;Greetings, mighty Saleron.&quot; " />
+	<String id="3704022" string="Find Saleron and speak to him." />
+</StrSheet_Quest>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3126001" string="Would You Like to See the Wine List?" />
+	<String id="3126002" string="I want to treat them to a feast." />
+	<String id="3126003" string="We should always be grateful for what we have." />
+	<String id="3126004" string="&quot;My pleasure!&quot;" />
+	<String id="3126005" string="Meet Halwyn, who is scouting the northeast Deathfrost Plains." />
+	<String id="3126006" string="&quot;What's in here?&quot;" />
+	<String id="3126007" string="Find the wine barrel near the wrecked ship in the Deathfrost Plains." />
+	<String id="3126008" string="Officers' Rations" />
+	<String id="3126009" string="Collect bottles of wine from the drowned gula officers." />
+	<String id="3126010" string="Bring the wine to Halwyn on the Deathfrost Plains." />
+	<String id="3126011" string="&quot;I'll enjoy this.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="272001" string="Rise of the Dead" />
+	<String id="272002" string="We need you to gather some rather...specialized materials." />
+	<String id="272003" string="OK" />
+	<String id="272004" string="Gather the materials necessary to craft an Ancient Scroll!" />
+	<String id="272005" string="Return to Okon in Popolion" />
+</StrSheet_Quest>

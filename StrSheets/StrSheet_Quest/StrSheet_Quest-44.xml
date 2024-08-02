@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="324001" string="Hanging on by a Thread" />
+	<String id="324002" string="I need that fiber!" />
+	<String id="324003" string="That was fast!" />
+	<String id="324004" string="&quot;Many thanks.&quot;" />
+	<String id="324005" string="Gather verdra fibers." />
+	<String id="324006" string="Deliver the threads to Neacal at Bulwark Camp." />
+</StrSheet_Quest>

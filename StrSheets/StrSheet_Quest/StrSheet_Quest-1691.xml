@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18361001" string="[Event] Underworld Collector" />
+	<String id="18361002" string="&quot;Here you are.&quot;" />
+	<String id="18361003" string="Combine 100 [Event] Underworld Shadow Shards to obtain an [Event] Underworld Shadow Fragment." />
+	<String id="18361004" string="Go to [Champion] Kaia." />
+</StrSheet_Quest>

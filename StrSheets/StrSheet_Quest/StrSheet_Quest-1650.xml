@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18117001" string="Tragedy and Triumph" />
+	<String id="18117002" string="&quot;I...okay. But stay back until it's safe.&quot;" />
+	<String id="18117003" string="Talk to Paesyn." />
+	<String id="18117004" string="Kill Archdevan Lancers guarding the inside of Energia Celo." />
+	<String id="18117005" string="&quot;I'm going in—I heard prisoners in there. Stay here.&quot;" />
+	<String id="18117006" string="Talk to Paesyn." />
+	<String id="18117007" string="Kill Hulking Salcatas guarding the Experiment Cages." />
+	<String id="18117008" string="&quot;I understand. I'll join you when I'm finished.&quot;" />
+	<String id="18117009" string="Speak with Zolyn." />
+	<String id="18117010" string="Destroy the cage so that the Parthians can escape." />
+	<String id="18117011" string="Main Laboratory Corridor" />
+	<String id="18117012" string="Enter Main Laboratory Corridor." />
+	<String id="18117013" string="Enter Main Laboratory Corridor with Zolyn." />
+	<String id="18117014" string="&quot;There's nothing we can do from here. I'm sorry.&quot;" />
+	<String id="18117015" string="Talk to Paesyn." />
+	<String id="18117016" string="I am coming to save you, Zolyn…" />
+	<String id="18117017" string="Protect Paesyn with Rhodos." />
+	<String id="18117018" string="&quot;It will be my pleasure.&quot;" />
+	<String id="18117019" string="Talk to Halran." />
+	<String id="18117020" string="Use the lever to overload the Storm Barrier machine." />
+	<String id="18117021" string="&quot;Come on, Paesyn...it's time to go.&quot;" />
+	<String id="18117022" string="Talk to Halran." />
+</StrSheet_Quest>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5201001" string="Into the Furnace" />
+	<String id="5201002" string="Hope we don't run out of time." />
+	<String id="5201003" string="&quot;I understand.&quot;" />
+	<String id="5201004" string="&quot;I understand.&quot;" />
+	<String id="5201005" string="Ask {@linkcreature:528#5005#Tamur} at {@Rgn:84001$$Kaiator} how the apprentice is doing." />
+	<String id="5201006" string="Meet the escaped human apprentice." />
+	<String id="5201007" string="Ask Primus Gahreed about the escaped apprentice." />
+	<String id="5201008" string="&quot;Got it.&quot;" />
+	<String id="5201009" string="Go to the escaped {@linkcreature:79#1100#human apprentice} from the Divine Furnace, and ask about the situation at the Divine Furnace." />
+	<String id="5201010" string="&quot;I understand.&quot;" />
+	<String id="5201011" string="Ask Primus Gahreed about where the escaped apprentice was rescued." />
+	<String id="5201012" string="&quot;Let's get you to safety!&quot;" />
+	<String id="5201013" string="I'm saved! Thank you!" />
+	<String id="5201014" string="Destroy the horse carriage and rescue the apprentices, then escort them safely to Habere." />
+	<String id="5201015" string="&quot;I understand.&quot;" />
+	<String id="5201016" string="Find out about the situation at the Divine Furnace from the rescued popori apprentices." />
+	<String id="5201017" string="Popori Apprentice" />
+	<String id="5201018" string="Thulsa's Shield Schematic" />
+	<String id="5201019" string="Show Engineer Gaicus the schematic and ask how the shield can be destroyed." />
+	<String id="5201020" string="&quot;I'll get it.&quot;" />
+	<String id="5201021" string="Molten Chamber entrance" />
+	<String id="5201022" string="You found the entrance to the Molten Chamber." />
+	<String id="5201023" string="Go to the entrance of the Molten Chamber of the Divine Furnace." />
+	<String id="5201024" string="&quot;Right. Okay.&quot;" />
+	<String id="5201025" string="Find Muhrak in the Molten Chamber.&#10;[You can enter the Molten Chamber by using a &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7022#-24814,41165,3704&amp;type=1&amp;name=teleportal&quot;>teleportal&lt;/A>&lt;/font>, after destroying Thulsa's Magic Stone.]" />
+	<String id="5201026" string="Let's move! Meet me in my workshop in Habere." />
+	<String id="5201027" string="Protect Muhrak from the Legion of Thulsa.&#10;[You can proceed by selecting &quot;You organized yourself.&quot; after speaking with Muhrak.]" />
+	<String id="5201028" string="&quot;I see.&quot;" />
+	<String id="5201029" string="Use the {@linkcreature:79#1501#Teleportal} to enter the workshop and speak to Muhrak." />
+</StrSheet_Quest>

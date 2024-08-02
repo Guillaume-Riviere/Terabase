@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1629001" string="Clearing a Path" />
+	<String id="1629002" string="Do what you can." />
+	<String id="1629003" string="Thank you, comrade." />
+	<String id="1629004" string="Kill armored zuulhounds in the Twisted Plains." />
+	<String id="1629005" string="&quot;Good luck.&quot;" />
+	<String id="1629006" string="Tell Kiron it's safer now." />
+</StrSheet_Quest>

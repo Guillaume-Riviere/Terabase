@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5229001" string="Demon's Scream" />
+	<String id="5229002" string="Vengeful Wraith" />
+	<String id="5229003" string="I'd like to be able to sleep!" />
+	<String id="5229004" string="Piercing Crystal" />
+	<String id="5229005" string="Destroy the vengeful wraiths and their bone imps near the southern entrance of Habere." />
+	<String id="5229006" string="Bring the crystals to Lilya at Habere's southern entrance." />
+	<String id="5229007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

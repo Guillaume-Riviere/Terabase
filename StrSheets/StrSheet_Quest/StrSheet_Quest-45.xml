@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="325001" string="Escort Services" />
+	<String id="325002" string="I'm sure the town and the peddlers would both be grateful." />
+	<String id="325003" string="Supplies bolster morale more than you know." />
+	<String id="325004" string="Begin your escort." />
+	<String id="325005" string="Thank you! I would have never made it without you." />
+	<String id="325006" string="Find the peddler along the eastern road and escort him to Crescentia." />
+	<String id="325007" string="&quot;Straight away.&quot;" />
+	<String id="325008" string="Speak to Justarius at the entrance to Crescentia." />
+	<String id="325009" string="&quot;Honored to serve.&quot;" />
+	<String id="325010" string="Report to Corann in Crescentia." />
+</StrSheet_Quest>

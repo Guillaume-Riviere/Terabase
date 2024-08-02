@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61902001" string="[Fishing] Let's Cook Some Fish" />
+	<String id="61902002" string="&quot;Let's go.&quot;" />
+	<String id="61902003" string="Speak with {@linkcreature:207#9904#Muten} and teleport to Cutthroat Harbor." />
+	<String id="61902004" string="&quot;I will!&quot;" />
+	<String id="61902005" string="Receive the Cooking Recipe." />
+	<String id="61902006" string="Go to {@linkcreature:62#9904#Cordi} in Cutthroat Harbor." />
+	<String id="61902007" string="&quot;I got it.&quot;" />
+	<String id="61902008" string="Deliver Fish Fry x1 to {@linkcreature:62#9904#Cordi}." />
+	<String id="61902009" string="" />
+</StrSheet_Quest>

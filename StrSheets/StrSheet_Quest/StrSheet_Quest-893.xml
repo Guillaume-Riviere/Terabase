@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3725001" string="Bloody Mushrooms" />
+	<String id="3725002" string="There's power in them, I'll warrant." />
+	<String id="3725003" string="We never had this conversation." />
+	<String id="3725004" string="&quot;Understood.&quot;" />
+	<String id="3725005" string="Gather blooddrop mushrooms east of Saleron Research Camp." />
+	<String id="3725006" string="Report to Numae at Saleron Research Camp." />
+</StrSheet_Quest>

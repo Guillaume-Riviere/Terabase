@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="336001" string="Delving into Academia" />
+	<String id="336002" string="Watch out for Basilisks!" />
+	<String id="336003" string="I need help!" />
+	<String id="336004" string="&quot;I'll do what I can.&quot;" />
+	<String id="336005" string="Head northeast and find Parlan in Bestial Vale." />
+</StrSheet_Quest>

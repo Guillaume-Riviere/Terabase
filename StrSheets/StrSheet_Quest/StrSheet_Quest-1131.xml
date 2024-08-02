@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4828001" string="Give Those Back" />
+	<String id="4828002" string="We need those components, my friend." />
+	<String id="4828003" string="We're in luck! These components are still usable." />
+	<String id="4828004" string="Weapon Components" />
+	<String id="4828005" string="Kill hulrap bashers around {@Rgn:48008} and collect weapon components." />
+	<String id="4828006" string="Report to {@LinkCreature:248#1030} at {@Rgn:48008}." />
+	<String id="4828007" string="&quot;We'll win this yet!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800071001" string="Hunt Wendigos" />
+	<String id="800071002" string="[Vale of Spires] Hunt dominated wendigos near Icebase Defiance" />
+	<String id="800071003" string="Dominated Wendigos" />
+	<String id="800071004" string="Claim your reward!" />
+</StrSheet_Quest>

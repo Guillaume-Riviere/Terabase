@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18358001" string="Ace Dungeons" />
+	<String id="18358002" string="&quot;I've got you covered.&quot;" />
+	<String id="18358003" string="Go see Ramull in Highwatch." />
+	<String id="18358004" string="Complete Baracos' Trial." />
+	<String id="18358005" string="Complete Akasha's Trial." />
+	<String id="18358006" string="&quot;Thanks.&quot;" />
+	<String id="18358007" string="Report to Ramull in Highwatch." />
+</StrSheet_Quest>

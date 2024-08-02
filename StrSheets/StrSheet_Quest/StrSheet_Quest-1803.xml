@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48770001" string="Suppression Orders: Devan Cultists" />
+	<String id="48770002" string="Proof of Kill: Devan Cultists" />
+	<String id="48770003" string="&quot;For the federation!&quot;" />
+	<String id="48770004" string="Defeat devan cultists in the Bastion of Lok.&lt;BR>(Only normal mode will advance quests.)" />
+	<String id="48770005" string="Report to the nearest village coordinator." />
+</StrSheet_Quest>

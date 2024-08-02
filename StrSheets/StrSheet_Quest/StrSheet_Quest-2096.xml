@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70113001" string="[Event—Daily] The Party's Over" />
+	<String id="70113002" string="&quot;You can depend on me.&quot;" />
+	<String id="70113003" string="Banquet of Blood" />
+	<String id="70113004" string="" />
+	<String id="70113005" string="Enter the Banquet of Blood." />
+	<String id="70113006" string="Disrupt the Banquet of Blood." />
+	<String id="70113007" string="&quot;With any luck, that's the last of them.&quot;" />
+	<String id="70113008" string="Talk to Harun." />
+</StrSheet_Quest>

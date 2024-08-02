@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70212001" string="[Pond Faire] Prepare for the Faire" />
+	<String id="70212002" string="I will." />
+	<String id="70212003" string="&quot;I like drums.&quot;" />
+	<String id="70212004" string="Talk to Haroso, the shaman." />
+	<String id="70212005" string="Good Hiding Spot" />
+	<String id="70212006" string="You found a likely hiding spot." />
+	<String id="70212007" string="Search for the frightened tuwangi." />
+	<String id="70212008" string="Play Haroso's drum to give the young tuwangi the courage to come out." />
+	<String id="70212009" string="The young tuwangi came out of hiding!" />
+	<String id="70212010" string="&quot;Don't be afraid.&quot;" />
+	<String id="70212011" string="Talk to the frightened tuwangi." />
+	<String id="70212012" string="&quot;Dragons? Really? Dragons?&quot;" />
+	<String id="70212013" string="Return to Haroso." />
+	<String id="70212014" string="Hunt bubu dragons and collect their meat." />
+	<String id="70212015" string="Burning Frog Altar" />
+	<String id="70212016" string="This is hot enough. Skewer the meat and grill it." />
+	<String id="70212017" string="Approach the fire of Burning Frog Altar." />
+	<String id="70212018" string="&quot;I hope you like it.&quot;" />
+	<String id="70212019" string="Skewer the meat and grill it at the altar." />
+	<String id="70212020" string="Take the dragon on a stick to Haroso." />
+</StrSheet_Quest>

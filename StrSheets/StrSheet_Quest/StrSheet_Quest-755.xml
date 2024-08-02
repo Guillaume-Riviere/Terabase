@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3222001" string="Revenge of the Heart" />
+	<String id="3222002" string="I demand vengeance!" />
+	<String id="3222003" string="These are a fitting tribute to Batuk." />
+	<String id="3222004" string="Sihran Hand" />
+	<String id="3222005" string="Collect the hands of Sihran berserkers at Daunting Pass." />
+	<String id="3222006" string="Present the &quot;offering&quot; at Batuk's grave near Mount Tyrannas." />
+	<String id="3222007" string="Leave the bag and return to Nurdan." />
+	<String id="3222008" string="&quot;Victory for Valkyon, friend.&quot;" />
+	<String id="3222009" string="Report that you carried out Arvo's revenge to her brother, Nurdan, at Dauntless Palisade." />
+</StrSheet_Quest>

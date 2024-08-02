@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1121001" string="Promises Made" />
+	<String id="1121002" string="Thank you." />
+	<String id="1121003" string="Good luck." />
+	<String id="1121004" string="Go to Jungle Patrol Camp." />
+	<String id="1121005" string="Go to Flight Manager Kelling at the southern gate and ask if he has seen Govan." />
+	<String id="1121006" string="&quot;They will pay!&quot;" />
+	<String id="1121007" string="Find Govan at the Jungle Patrol Camp southwest of the village." />
+	<String id="1121008" string="&quot;I won't let you down.&quot;" />
+	<String id="1121009" string="Speak with Prefect Ilaria at the Jungle Patrol Camp." />
+</StrSheet_Quest>

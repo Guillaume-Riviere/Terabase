@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1634001" string="These Are the Stones You're Looking For" />
+	<String id="1634002" string="For the federation." />
+	<String id="1634003" string="Thanks for your help." />
+	<String id="1634004" string="Demonic Stone" />
+	<String id="1634005" string="Eliminate vampir jesters and sanguine moppets in the Forsaken Fields and look for clues." />
+	<String id="1634006" string="Deliver the stones to Lene." />
+	<String id="1634007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

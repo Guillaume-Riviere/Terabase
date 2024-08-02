@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3334001" string="Til Death Do Us Part" />
+	<String id="3334002" string="I'm looking for one in particular." />
+	<String id="3334003" string="Perfect! Now all I have to do is not die!" />
+	<String id="3334004" string="Rings of the Dead" />
+	<String id="3334005" string="Collect rings from the undead roaming the basement." />
+	<String id="3334006" string="Bring the rings to Moka." />
+	<String id="3334007" string="&quot;You're a creepy guy.&quot;" />
+</StrSheet_Quest>

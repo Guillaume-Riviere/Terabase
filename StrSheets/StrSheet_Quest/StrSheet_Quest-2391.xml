@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800134001" string="Clean up the Three Towers" />
+	<String id="800134002" string="[Three Towers] Destroy experimental argonomorphs." />
+	<String id="800134003" string="Failed Experiment" />
+	<String id="800134004" string="Claim your reward!" />
+</StrSheet_Quest>

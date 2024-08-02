@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50547001" string="[Important] Accessories" />
+	<String id="50547002" string="You can change an accessory's enchantment effects with a Semi-Enigmatic Scroll! " />
+	<String id="50547003" string="&quot;Thank you!&quot;" />
+	<String id="50547004" string="Go to Redorn." />
+	<String id="50547005" string="Equip the Twistshard Belt.&lt;br>&lt;BR>[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open your inventory and select the Twistshard Belt.]" />
+	<String id="50547006" string="It's perfect." />
+	<String id="50547007" string="&quot;I'll try.&quot;" />
+	<String id="50547008" string="Speak with Redorn." />
+</StrSheet_Quest>

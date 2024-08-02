@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18101001" string="I Bring Bad Tidings" />
+	<String id="18101002" string="&quot;Got it.&quot;" />
+	<String id="18101003" string="&quot;You can count on me.&quot;" />
+	<String id="18101004" string="Talk to Braga." />
+	<String id="18101005" string="&quot;I'll tell him to prepare.&quot;" />
+	<String id="18101006" string="Inform Omeros that Verikam has been abducted." />
+	<String id="18101007" string="&quot;I will.&quot;" />
+	<String id="18101008" string="Report back to Braga." />
+</StrSheet_Quest>

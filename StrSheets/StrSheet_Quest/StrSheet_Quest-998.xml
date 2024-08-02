@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4129001" string="There's Something in Your Eye" />
+	<String id="4129002" string="This should put an end to the Black Claws' mischief." />
+	<String id="4129003" string="That ought to do it." />
+	<String id="4129004" string="Evil Eye" />
+	<String id="4129005" string="Hunt Black Claw orcans." />
+	<String id="4129006" string="Bring the orcan eyes to {@linkcreature:241#1023$$Majduk} at Emissary Point." />
+	<String id="4129007" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

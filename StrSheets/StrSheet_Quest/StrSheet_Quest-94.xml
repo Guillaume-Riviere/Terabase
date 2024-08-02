@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="470001" string="(Guild) Suppression Orders: Interlopers" />
+	<String id="470002" string="Proof of Kill: Interloper Deaths" />
+	<String id="470003" string="&quot;Reporting in!&quot;" />
+	<String id="470004" string="Hunt down the interlopers in the Brimstone Highlands." />
+	<String id="470005" string="Report to Keinie at Cauldron Outpost." />
+</StrSheet_Quest>

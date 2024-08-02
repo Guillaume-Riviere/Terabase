@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="322001" string="A Fol and His Money" />
+	<String id="322002" string="What do devas want with federation money anyway?" />
+	<String id="322003" string="I won't forget this." />
+	<String id="322004" string="Money Bag" />
+	<String id="322005" string="Recover the stolen money bags from the devas in Blood Run." />
+	<String id="322006" string="Return to Chama." />
+	<String id="322007" string="&quot;Certainly.&quot;" />
+	<String id="322008" string="Return the bags to Foledus." />
+	<String id="322009" string="Money Bag" />
+	<String id="322010" string="Return the money bags to Foledus at Bulwark Camp." />
+	<String id="322011" string="&quot;An honor to serve.&quot;" />
+</StrSheet_Quest>

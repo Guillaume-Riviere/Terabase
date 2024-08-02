@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70108001" string="[Event—Daily] Icing on the Cake" />
+	<String id="70108002" string="Deliver sarberry ice to Morun." />
+	<String id="70108003" string="Deliver sarberry ice to Tanith." />
+	<String id="70108004" string="Deliver sarberry ice to Hayden." />
+	<String id="70108005" string="Get a sarberry ice from Trilyn and deliver it." />
+	<String id="70108006" string="&quot;I'll see that it gets delivered.&quot;" />
+	<String id="70108007" string="Morun" />
+	<String id="70108008" string="Sarberry Ice" />
+	<String id="70108009" string="Deliver sarberry ice to Morun." />
+	<String id="70108010" string="&quot;I've always thought so. Enjoy.&quot;" />
+	<String id="70108011" string="Tanith" />
+	<String id="70108012" string="Sarberry Ice" />
+	<String id="70108013" string="Deliver sarberry ice to Tanith." />
+	<String id="70108014" string="&quot;I couldn't agree more. Enjoy.&quot;" />
+	<String id="70108015" string="Hayden" />
+	<String id="70108016" string="Sarberry Ice" />
+	<String id="70108017" string="Deliver sarberry ice to Hayden." />
+	<String id="70108018" string="&quot;Done. Enjoy your sarberry ice.&quot;" />
+	<String id="70108019" string="&quot;Seeing you all again is reward enough.&quot;" />
+	<String id="70108020" string="Talk to Lilan." />
+</StrSheet_Quest>

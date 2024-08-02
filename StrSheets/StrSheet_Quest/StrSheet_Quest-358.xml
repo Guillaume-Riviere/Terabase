@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1334001" string="Investigating the Relics &lt;Repeatable>" />
+	<String id="1334002" string="Please collect relic fragments scattered about the ruins." />
+	<String id="1334003" string="These inscribed fragments have something to do with the titans themselves!" />
+	<String id="1334004" string="&quot;For the federation!&quot;" />
+	<String id="1334005" string="Collect the inscribed fragments scattered around the ruins." />
+	<String id="1334006" string="Take the fragments to Eria." />
+</StrSheet_Quest>

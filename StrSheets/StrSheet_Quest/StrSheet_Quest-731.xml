@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3128001" string="Feeding the Hungry" />
+	<String id="3128002" string="Everyone's got a right to eat. Well, not monsters..." />
+	<String id="3128003" string="Thank you so much! These supplies are an answer to our prayers." />
+	<String id="3128004" string="Dyfed" />
+	<String id="3128005" string="Box of Food from Acarum" />
+	<String id="3128006" string="Deliver the food to Deiniol at the Frost Wastes Settlement to the north." />
+	<String id="3128007" string="&quot;I'll visit him next.&quot;" />
+	<String id="3128008" string="Dyfed" />
+	<String id="3128009" string="Box of Food from Acarum" />
+	<String id="3128010" string="Deliver the food to Bettenis at the Frost Wastes Settlement to the north." />
+	<String id="3128011" string="&quot;Glad to help.&quot;" />
+	<String id="3128012" string="Dyfed" />
+	<String id="3128013" string="Box of Food from Acarum" />
+	<String id="3128014" string="Deliver the food to Luanald at the Frost Wastes Settlement to the north." />
+	<String id="3128015" string="&quot;I did what I could.&quot;" />
+</StrSheet_Quest>

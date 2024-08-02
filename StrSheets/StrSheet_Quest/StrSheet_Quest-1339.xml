@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5532001" string="A Bone to Pick" />
+	<String id="5532002" string="We mustn't let the Ksharans occupy this region!" />
+	<String id="5532003" string="A dark duty fulfilled. Now I can finish my mission." />
+	<String id="5532004" string="&quot;I'll handle it.&quot;" />
+	<String id="5532005" string="Speak with Ebna about reports of Ksharan activity." />
+	<String id="5532006" string="Thulsan Amulet" />
+	<String id="5532007" string="Kill the Ksharan shadow reavers and archers north of Valumnir Outpost." />
+	<String id="5532008" string="Bring the amulets to Ebna." />
+	<String id="5532009" string="&quot;These are for you.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2022001" string="Shrooms in the Gloom" />
+	<String id="2022002" string="Be careful with the, um...just be careful!" />
+	<String id="2022003" string="Thank you!" />
+	<String id="2022004" string="&quot;It was no trouble.&quot;" />
+	<String id="2022005" string="Collect cave mushrooms that grow in the Halls of Gloom." />
+	<String id="2022006" string="Take the cave mushrooms to Ruanal, who is hiding in the Halls of Gloom." />
+</StrSheet_Quest>

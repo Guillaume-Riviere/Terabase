@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3621001" string="To Tor Exsul" />
+	<String id="3621002" string="He'll know what to do. I hope." />
+	<String id="3621003" string="Thank you for coming this far." />
+	<String id="3621004" string="&quot;Got it.&quot;" />
+	<String id="3621005" string="Report to Cerenon at Elenea Magistrate residence." />
+	<String id="3621006" string="Clear the rasptusk sabertooths as you search for the carriage northeast of Elenea." />
+	<String id="3621007" string="&quot;Got it.&quot;" />
+	<String id="3621008" string="Speak to Nadinne at Runner's Watch." />
+	<String id="3621009" string="&quot;Sorry to bring bad news.&quot;" />
+	<String id="3621010" string="Report to Tarnan at Runner's Watch." />
+</StrSheet_Quest>

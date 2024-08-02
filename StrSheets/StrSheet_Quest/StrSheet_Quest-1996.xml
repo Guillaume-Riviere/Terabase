@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60401001" string="Up the Creek" />
+	<String id="60401002" string="Done listening?" />
+	<String id="60401003" string="Feed 'em any time you want!" />
+	<String id="60401004" string="" />
+	<String id="60401005" string="" />
+	<String id="60401006" string="" />
+	<String id="60401007" string="Go see {@LinkCreature:71#3015#Umma} of the Hyderad Legacy near the river in {@Rgn:71001$$Bastion}." />
+	<String id="60401008" string="&quot;That's it?&quot;" />
+	<String id="60401009" string="Activate the fish feeders in the streams outside {@Rgn:71001$$Bastion}." />
+	<String id="60401010" string="Activate the fish feeders in the streams outside {@Rgn:71001$$Bastion}." />
+	<String id="60401011" string="Activate the fish feeders in the streams outside {@Rgn:71001$$Bastion}." />
+	<String id="60401012" string="&quot;It was restful.&quot;" />
+	<String id="60401013" string="Report back to {@LinkCreature:71#3015#Umma}." />
+</StrSheet_Quest>

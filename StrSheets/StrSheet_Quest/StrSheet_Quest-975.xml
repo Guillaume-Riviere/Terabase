@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4034001" string="Prion Eviscerators" />
+	<String id="4034002" string="The prions will pay for their part in this!" />
+	<String id="4034003" string="These will make for interesting reading." />
+	<String id="4034004" string="Believers' Orders" />
+	<String id="4034005" string="Hunt prion eviscerators in the farmlands near the Blighted Village, and gather evidence of pollution." />
+	<String id="4034006" string="Bring the Believers' Orders to Lashirah." />
+	<String id="4034007" string="&quot;I did my duty.&quot;" />
+</StrSheet_Quest>

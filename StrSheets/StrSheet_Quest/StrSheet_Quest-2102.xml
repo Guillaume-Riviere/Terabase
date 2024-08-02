@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70119001" string="[Event—Daily] Sand Castles in The Sand" />
+	<String id="70119002" string="Like this! Like this!" />
+	<String id="70119003" string="Hehehe! Best thing ever, right?" />
+	<String id="70119004" string="Collect sand from sand piles and make 3 sand castles." />
+	<String id="70119005" string="Used construction sand to build sand castles. (1/3)" />
+	<String id="70119006" string="Use construction sand to build sand castles." />
+	<String id="70119007" string="Used construction sand to build sand castles. (2/3)" />
+	<String id="70119008" string="Use construction sand to build sand castles." />
+	<String id="70119009" string="Used construction sand to build sand castles. (3/3)" />
+	<String id="70119010" string="&quot;I wish I could do this every day!&quot;" />
+	<String id="70119011" string="Go meet the little popori 'Langon' in front of the West Beach Tavern." />
+</StrSheet_Quest>

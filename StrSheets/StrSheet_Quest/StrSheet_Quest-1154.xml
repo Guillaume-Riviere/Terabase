@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4881001" string="Suppression Orders: Argons" />
+	<String id="4881002" string="Proof of Kill: Argons" />
+	<String id="4881003" string="&quot;For the federation.&quot;" />
+	<String id="4881004" string="Kill argons throughout the {@Rgn:48001} and collect proof of their deaths." />
+	<String id="4881005" string="Report to Oria." />
+</StrSheet_Quest>

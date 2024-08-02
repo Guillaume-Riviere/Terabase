@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3932001" string="Loyal Servants of the Queen" />
+	<String id="3932002" string="Time to cut those jalmaraks down to size." />
+	<String id="3932003" string="You've done well." />
+	<String id="3932004" string="Jalmarak's Head" />
+	<String id="3932005" string="Hunt loyal jalmaraks and bring back their heads." />
+	<String id="3932006" string="Deliver the jalmarak heads to Jerise at Sanctuary." />
+	<String id="3932007" string="&quot;I do what I can.&quot;" />
+</StrSheet_Quest>

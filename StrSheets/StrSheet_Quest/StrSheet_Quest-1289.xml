@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5272001" string="(Guild) Suppression Orders: Raven Troops" />
+	<String id="5272002" string="Proof of Kill: Raven Troops" />
+	<String id="5272003" string="&quot;For the federation!&quot;" />
+	<String id="5272004" string="Eliminate the raven troops that have seized the Divine Furnace." />
+	<String id="5272005" string="Report to Raneria in Habere." />
+</StrSheet_Quest>

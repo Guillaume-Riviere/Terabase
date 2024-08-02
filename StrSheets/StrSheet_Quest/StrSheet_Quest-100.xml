@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="480001" string="(Vanarch) Suppression Orders: Dark Alliance" />
+	<String id="480002" string="Proof of Kill: Alliance Deaths" />
+	<String id="480003" string="&quot;For the federation!&quot;" />
+	<String id="480004" string="Kill tyraks, shurian mindbenders, and their thralls." />
+	<String id="480005" string="Report to Tifane at Firebase Valor." />
+</StrSheet_Quest>

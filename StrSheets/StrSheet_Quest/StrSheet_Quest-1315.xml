@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5441001" string="Mysterium Fix-It" />
+	<String id="5441002" string="Restoring the protective barrier will prove my theory." />
+	<String id="5441003" string="If this works, I'm sure to get a promotion! Also, not eaten by a dracoloth." />
+	<String id="5441004" string="&quot;Okay, then.&quot;" />
+	<String id="5441005" string="Gather faerie relics abandoned across Seeliewood." />
+	<String id="5441006" string="Bring the faerie relics to Doran at Camp Verdant." />
+</StrSheet_Quest>

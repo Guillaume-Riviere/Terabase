@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1347001" string="It Was a Rock...Crawler" />
+	<String id="1347002" string="Rocks with arms and mouths. You can't miss them." />
+	<String id="1347003" string="I'll take care of the rest, thanks." />
+	<String id="1347004" string="Relic Fragment" />
+	<String id="1347005" string="Destroy rockcrawlers and recover relic fragments." />
+	<String id="1347006" string="Take the fragments to Lorin." />
+	<String id="1347007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

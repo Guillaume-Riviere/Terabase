@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4735001" string="Faerie Fury" />
+	<String id="4735002" string="Kill the {@Creature:47#2002#argonomorph faeries} who are interfering with the planting of faerie saplings." />
+	<String id="4735003" string="That wasn't an easy job. Thanks." />
+	<String id="4735004" string="Kill {@creature:47#2002#argonomorph faeries} in the {@Rgn:47015$$Petrified Mushroom Field}." />
+	<String id="4735005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4735006" string="Report back to {@creature:247#1018$$Lenton} in {@Rgn:47008$$Eastwatch}." />
+</StrSheet_Quest>

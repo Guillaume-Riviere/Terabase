@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60807001" string="Human Resources" />
+	<String id="60807002" string="We need warm bodies, pure and simple. Don't get too hung up on the interview process." />
+	<String id="60807003" string="Call it a referral fee." />
+	<String id="60807004" string="&quot;Just head over to Loyek.&quot;" />
+	<String id="60807005" string="Find a hobo near Cutthroat Harbor." />
+	<String id="60807006" string="&quot;Loyek's work may not go that far.&quot;" />
+	<String id="60807007" string="Find a hobo near Cutthroat Harbor." />
+	<String id="60807008" string="&quot;I'm all about finding folks jobs.&quot;" />
+	<String id="60807009" string="Go to Loyek." />
+</StrSheet_Quest>

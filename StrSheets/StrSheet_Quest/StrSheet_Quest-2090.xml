@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70106001" string="[Event—Daily] Taking Out the Trash" />
+	<String id="70106002" string="Squalid Temple" />
+	<String id="70106003" string="" />
+	<String id="70106004" string="Enter the Squalid Temple." />
+	<String id="70106005" string="Pick up trash." />
+	<String id="70106006" string="Clean graffiti off the reliquaries." />
+	<String id="70106007" string="Drive the vampirs away." />
+	<String id="70106008" string="Talk to Nahad." />
+	<String id="70106009" string="&quot;I'll take care of it, Nahad.&quot;" />
+	<String id="70106010" string="Put trash in receptacle." />
+	<String id="70106011" string="Pick up trash." />
+	<String id="70106012" string="Dispose of trash." />
+	<String id="70106013" string="Clean graffiti off the reliquaries." />
+	<String id="70106014" string="Drive the vampirs away." />
+	<String id="70106015" string="&quot;You're very welcome.&quot;" />
+	<String id="70106016" string="Talk to Renmi." />
+</StrSheet_Quest>

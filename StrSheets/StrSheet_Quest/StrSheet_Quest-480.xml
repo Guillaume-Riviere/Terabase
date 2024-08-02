@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1832001" string="How to Annoy Friends and Endanger People" />
+	<String id="1832002" string="Get to work!" />
+	<String id="1832003" string="Victory for Valkyon!" />
+	<String id="1832004" string="Inscribed Rock Fragment" />
+	<String id="1832005" string="Intruder!" />
+	<String id="1832006" string="No, not...die..." />
+	<String id="1832007" string="Collect inscribed rock fragments from ancient teraliths south and west of the Temple of Tithus." />
+	<String id="1832008" string="Bring the inscribed rock fragments to Nema in the Temple of Tithus." />
+	<String id="1832009" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

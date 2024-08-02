@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70202001" string="[Rootstock] Get Back to Your Roots" />
+	<String id="70202002" string="Pepper Field" />
+	<String id="70202003" string="Spicy pepper plants grow here and there." />
+	<String id="70202004" string="Search the pepper field." />
+	<String id="70202005" string="Cobseed Field" />
+	<String id="70202006" string="Stalks of cobseed grow here and there." />
+	<String id="70202007" string="Look around the cobseed field." />
+	<String id="70202008" string="Taproot Field" />
+	<String id="70202009" string="The tops of taproots poke up through the soil." />
+	<String id="70202010" string="Look around the taproot field." />
+	<String id="70202011" string="Hand over the mudroot." />
+	<String id="70202012" string="Dig up a mudroot." />
+	<String id="70202013" string="Take the mudroot to Melsa." />
+	<String id="70202014" string="&quot;Sounds like...fun?&quot;" />
+	<String id="70202015" string="Get ingredients and a recipe from Millia." />
+	<String id="70202016" string="Make a dish using the mudroot salad recipe." />
+	<String id="70202017" string="You've finished making a mudroot salad. Take it to Melsa." />
+	<String id="70202018" string="Hand over the mudroot salad." />
+	<String id="70202019" string="Make a dish, using the mudroot salad recipe." />
+	<String id="70202020" string="Take the mudroot salad to Melsa." />
+	<String id="70202021" string="&quot;I got it.&quot;" />
+	<String id="70202022" string="Talk to Lein at the Bamarama." />
+	<String id="70202023" string="&quot;I'm on it.&quot;" />
+	<String id="70202024" string="Talk to Digory at Digory's Farmstead." />
+	<String id="70202025" string="Start the kick-bale mini-game." />
+	<String id="70202026" string="&quot;I understand.&quot;" />
+	<String id="70202027" string="Talk to Digory again." />
+	<String id="70202028" string="&quot;Thank you!&quot;" />
+	<String id="70202029" string="Talk to Rachlae." />
+</StrSheet_Quest>

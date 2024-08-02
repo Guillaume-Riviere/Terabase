@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2226001" string="Methods to the Madness" />
+	<String id="2226002" string="No mere student could master magic of this magnitude!" />
+	<String id="2226003" string="I'm only a student, but I'll do my best." />
+	<String id="2226004" string="&quot;I'm your servant.&quot;" />
+	<String id="2226005" string="Search the instructors' chests in the Athenaeum for the instructors' daily logs." />
+	<String id="2226006" string="Return to Keslyn at Eldritch Bastion." />
+</StrSheet_Quest>

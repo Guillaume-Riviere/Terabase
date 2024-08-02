@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4834001" string="Hot to the Touch" />
+	<String id="4834002" string="Bring me a half dozen chunks of ore." />
+	<String id="4834003" string="I appreciate this extra effort. Thank you." />
+	<String id="4834004" string="&quot;You're welcome.&quot;" />
+	<String id="4834005" string="Collect fyrdras ore around {@Rgn:48006}." />
+	<String id="4834006" string="Deliver fyrdras ore to {@LinkCreature:248#1021}." />
+</StrSheet_Quest>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5438001" string="An Inside Job" />
+	<String id="5438002" string="It's all up to you." />
+	<String id="5438003" string="In recognition of your help, I hereby declare that you are an honorary member of the faeries." />
+	<String id="5438004" string="&quot;Thanks!&quot;" />
+	<String id="5438005" string="Get the monitoring device from Doran over there." />
+	<String id="5438006" string="Doran" />
+	<String id="5438007" string="Mysterium Cyasmonitor" />
+	<String id="5438008" string="Return to Anther." />
+	<String id="5438009" string="&quot;I'll try to keep up.&quot;" />
+	<String id="5438010" string="&quot;I'll do that.&quot;" />
+	<String id="5438011" string="Go north to the garden entrance." />
+	<String id="5438012" string="Eliminate the beings seizing the everbloom in Isren's garden." />
+	<String id="5438013" string="&quot;You know I will.&quot;" />
+	<String id="5438014" string="Return to Anther in Grand Gate Watchpost." />
+	<String id="5438015" string="&quot;Remember me well.&quot;" />
+	<String id="5438016" string="Speak to Tanseril in Scythera Fae." />
+</StrSheet_Quest>

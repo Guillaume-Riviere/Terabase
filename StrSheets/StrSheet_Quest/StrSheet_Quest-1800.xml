@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48725001" string="Mysterious Leather" />
+	<String id="48725002" string="Many woodcutters are desperately waiting for my return. Please help" />
+	<String id="48725003" string="Wow, this is more than I expected. Thank you." />
+	<String id="48725004" string="Tough Leather" />
+	<String id="48725005" string="Collect broken zuulhound hides.&#10;[You must select Bastion of Lok (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.]" />
+	<String id="48725006" string="Bring the hides to Ehringer." />
+	<String id="48725007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

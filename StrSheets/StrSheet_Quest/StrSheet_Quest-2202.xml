@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="210502001" string="[Important] The Azart Commander" />
+	<String id="210502002" string="&quot;Okay.&quot;" />
+	<String id="210502003" string="Speak with Jelena in Verrak Fortress." />
+	<String id="210502004" string="&quot;Okay.&quot;" />
+	<String id="210502005" string="Speak with Jelena in the Draakon Arena." />
+	<String id="210502006" string="Training Center" />
+	<String id="210502007" string="Go to the Training Center." />
+	<String id="210502008" string="Defeat {@LinkCreature:2105#2000#Kalligar} in {@Rgn:2105$$Draakon Arena}." />
+	<String id="210502009" string="Defeat {@LinkCreature:2105#1000#transformed Kalligar}." />
+	<String id="210502010" string="&quot;Okay.&quot;" />
+	<String id="210502011" string="Speak with Jelena in the Draakon Arena." />
+	<String id="210502012" string="&quot;Okay.&quot; " />
+	<String id="210502013" string="Speak with Dougal." />
+</StrSheet_Quest>

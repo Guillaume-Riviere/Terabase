@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6395001" string="Snow Fighting" />
+	<String id="6395002" string="Win in Wintera Snowfield (Classic)." />
+	<String id="6395003" string="" />
+	<String id="6395004" string="&quot;That was fun!&quot;" />
+	<String id="6395005" string="Find {@linkcreature:63#9004} in Velika." />
+</StrSheet_Quest>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4932001" string="Delightfully Creepy, Yet Refined" />
+	<String id="4932002" string="I'll follow once you determine it's safe." />
+	<String id="4932003" string="I wonder what the kelbas do? Hmm..." />
+	<String id="4932004" string="&quot;All clear, Shirka.&quot;" />
+	<String id="4932005" string="Head to the {@LinkCreature:249#1101} near the {@Rgn:49002}." />
+	<String id="4932006" string="&quot;Understood.&quot;" />
+	<String id="4932007" string="Speak with {@LinkCreature:249#1016}." />
+	<String id="4932008" string="{@Creature:49#503} Fragment" />
+	<String id="4932009" string="Destroy a cyasmana pod near the {@Rgn:49002} and collect a fragment." />
+	<String id="4932010" string="Talk to {@LinkCreature:249#1016}." />
+	<String id="4932011" string="&quot;You got it.&quot;" />
+	<String id="4932012" string="&quot;My pleasure.&quot;" />
+	<String id="4932013" string="Speak with {@LinkCreature:76#1022} in {@Rgn:76001}." />
+</StrSheet_Quest>

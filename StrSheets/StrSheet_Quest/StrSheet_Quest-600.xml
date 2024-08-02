@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2370001" string="(Guild) Horned Harvest" />
+	<String id="2370002" string="Noruk Hide" />
+	<String id="2370003" string="&quot;Thank you.&quot;" />
+	<String id="2370004" string="Collect noruk hides from Mooncrest Noruks." />
+	<String id="2370005" string="Report to the reward coordinator." />
+</StrSheet_Quest>

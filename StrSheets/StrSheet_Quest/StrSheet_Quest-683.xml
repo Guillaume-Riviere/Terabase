@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3024001" string="Three-Toed Terrors" />
+	<String id="3024002" string="Good hunting!" />
+	<String id="3024003" string="Kill a few on your way out!" />
+	<String id="3024004" string="Eliminate {@linkcreature:30#100#jittery sloths}." />
+	<String id="3024005" string="&quot;For the federation!&quot;" />
+	<String id="3024006" string="Report to Centurion {@linkcreature:230#1010$$Erdis} at {@Rgn:30010$$Camp Sunlight}." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8493001" string="The Horns of Battle (Battle)" />
+	<String id="8493002" string="Victory in the Champions' Skyring" />
+	<String id="8493003" string="You've achieved victory in the Champions' Skyring." />
+	<String id="8493004" string="&quot;For the federation!&quot;" />
+	<String id="8493005" string="See the coordinator for your reward." />
+</StrSheet_Quest>

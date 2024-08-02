@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60113001" string="Heavy Metals" />
+	<String id="60113002" string="The {@Rgn:46017$$Shadowspark Chamber} is in the {@Rgn:46012$$Raga Kabash Spire}." />
+	<String id="60113003" string="Let's get illuminating!" />
+	<String id="60113004" string="" />
+	<String id="60113005" string="" />
+	<String id="60113006" string="" />
+	<String id="60113007" string="Meet {@LinkCreature:246#3004#Arkant} in the {@Rgn:46017$$Shadowspark Chamber}." />
+	<String id="60113008" string="&quot;I won't let you down.&quot;" />
+	<String id="60113009" string="Kill the {@LinkCreature:46#401#argonomorph ossugon warlords} near the {@Rgn:46017$$Shadowspark Chamber}." />
+	<String id="60113010" string="Kill the {@LinkCreature:46#403#argonomorph iskaragards} located in the {@Rgn:46007$$Raga Evala Depths}." />
+	<String id="60113011" string="Destroy the {@LinkCreature:246#3011#symbral amplifiers} to hurt the argon power grid." />
+	<String id="60113012" string="&quot;It's an honor to serve.&quot;" />
+	<String id="60113013" string="Report back to {@LinkCreature:246#3004#Arkant}." />
+</StrSheet_Quest>

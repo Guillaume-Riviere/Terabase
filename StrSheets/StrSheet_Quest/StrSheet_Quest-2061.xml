@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60805001" string="Routine Delivery" />
+	<String id="60805002" string="Take the pegasus, and keep a low profile." />
+	<String id="60805003" string="Thanks." />
+	<String id="60805004" string="" />
+	<String id="60805005" string="Edahm's Package" />
+	<String id="60805006" string="Deliver the package to Edahm in Crescentia." />
+	<String id="60805007" string="&quot;Mum's the word.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5421001" string="All in a Fey's Work" />
+	<String id="5421002" string="Will your help be enough?" />
+	<String id="5421003" string="&quot;So many questions!&quot;" />
+	<String id="5421004" string="Talk to Pedicel, the mandrake priest." />
+	<String id="5421005" string="&quot;I guess I can.&quot;" />
+	<String id="5421006" string="Teleport to Scythera Fae and meet with Mandrake Regent Tanseril." />
+</StrSheet_Quest>

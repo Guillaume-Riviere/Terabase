@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2429001" string="Party Beads" />
+	<String id="2429002" string="We'll make a killing!" />
+	<String id="2429003" string="Nice day's work!" />
+	<String id="2429004" string="Orcan Necklace" />
+	<String id="2429005" string="Recover necklaces from horned orcan berserkers on Aurum Road." />
+	<String id="2429006" string="Report back to Carithia at Sandwalker Refuge." />
+	<String id="2429007" string="&quot;No trouble at all!&quot;" />
+</StrSheet_Quest>

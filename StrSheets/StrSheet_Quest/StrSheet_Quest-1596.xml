@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10125001" string="Bear Necessities" />
+	<String id="10125002" string="&quot;I'll do it.&quot;" />
+	<String id="10125003" string="Speak to Harmain in Allemantheia." />
+	<String id="10125004" string="&quot;Okay.&quot;" />
+	<String id="10125005" string="Get bear skins from Nunahd in Bleakrock." />
+	<String id="10125006" string="" />
+	<String id="10125007" string="Bear Skins" />
+	<String id="10125008" string="Bring the skins to Adjani in Allemantheia." />
+	<String id="10125009" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

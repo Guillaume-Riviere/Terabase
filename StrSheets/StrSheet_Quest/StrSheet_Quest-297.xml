@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1142001" string="Shards of Madness" />
+	<String id="1142002" string="For the federation!" />
+	<String id="1142003" string="Great work, soldier." />
+	<String id="1142004" string="Dementalith Fragment" />
+	<String id="1142005" string="Collect dementalith fragments from the Red Lash bosuns, deckhands, raiders, and grunts in the Freebooters' Roost." />
+	<String id="1142006" string="Deliver the fragments to Ebosius at the Press Camp." />
+	<String id="1142007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

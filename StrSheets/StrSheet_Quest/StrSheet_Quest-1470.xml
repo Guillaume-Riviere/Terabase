@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6370001" string="Collecting Cards" />
+	<String id="6370002" string="&quot;Alright.&quot;" />
+	<String id="6370003" string="Speak with Lenarive." />
+	<String id="6370004" string="Defeat 10 Snuffling Warthogs." />
+	<String id="6370005" string="&quot;Alright.&quot;" />
+	<String id="6370006" string="Report to Lenarive." />
+	<String id="6370007" string="&quot;Alright.&quot;" />
+	<String id="6370008" string="Speak with Lenarive again." />
+	<String id="6370009" string="Take damage from a Grazing Noruk after equipping the Grazing Noruk card.&lt;BR>&lt;BR>&lt;font color='#FF0000'>- You must add 20 card fragments to your collection to equip the card.&lt;/font>" />
+	<String id="6370010" string="&quot;Alright.&quot;" />
+	<String id="6370011" string="Report to Lenarive." />
+	<String id="6370012" string="Receive the Seir Card." />
+	<String id="6370013" string="Receive card fragments from Seir." />
+	<String id="6370014" string="&quot;Alright.&quot;" />
+	<String id="6370015" string="Report to Lenarive." />
+	<String id="6370016" string="Take damage from a Grazing Noruk after selecting 'Long for Peace' from the collection effect page." />
+	<String id="6370017" string="&quot;Glad to help.&quot;" />
+	<String id="6370018" string="Report to Lenarive." />
+</StrSheet_Quest>

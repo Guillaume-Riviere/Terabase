@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="49370001" string="(Guild) Cure for the Plague" />
+	<String id="49370002" string="Mutated Plague Cores" />
+	<String id="49370003" string="&quot;For the federation!&quot;" />
+	<String id="49370004" string="Gather mutated plague cores in Akasha's Hideout." />
+	<String id="49370005" string="See the coordinator for your reward." />
+</StrSheet_Quest>

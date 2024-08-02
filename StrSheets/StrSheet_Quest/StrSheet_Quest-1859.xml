@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51031001" string="Remembrancer" />
+	<String id="51031002" string="&quot;Okay.&quot;" />
+	<String id="51031003" string="&quot;Okay.&quot;" />
+	<String id="51031004" string="Ask Sammina about her plan." />
+	<String id="51031005" string="Defeat Arbosk Enchanters." />
+	<String id="51031006" string="Basilisk Blood" />
+	<String id="51031007" string="Defeat Desert Basilisks." />
+	<String id="51031008" string="Deliver the ingredients to Sammina. " />
+	<String id="51031009" string="&quot;Sounds easy enough.&quot;" />
+	<String id="51031010" string="&quot;Uh...I hope you're feeling better soon.&quot;" />
+	<String id="51031011" string="Administer the medicine and say &quot;fleabane&quot;." />
+	<String id="51031012" string="&quot;So you took the fleabanes?&quot;" />
+	<String id="51031013" string="Administer the medicine and say &quot;fleabane&quot;." />
+	<String id="51031014" string="Bowl" />
+	<String id="51031015" string="Show her the journal and bowl." />
+	<String id="51031016" string="&quot;People could have died!&quot;" />
+	<String id="51031017" string="&quot;It's up to the Mysterium.&quot;" />
+	<String id="51031018" string="Explain the situation to Elysee." />
+	<String id="51031019" string="&quot;Someone had to do it.&quot;" />
+	<String id="51031020" string="Tell Ryshan that you found the thief." />
+</StrSheet_Quest>

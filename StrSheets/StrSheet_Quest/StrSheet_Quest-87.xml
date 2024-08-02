@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="437001" string="To Valor and Glory" />
+	<String id="437002" string="Shina'll have plenty of work for you." />
+	<String id="437003" string="Ready to take on some shurians?" />
+	<String id="437004" string="&quot;I'll do what I can.&quot;" />
+	<String id="437005" string="Report to Shina at Firebase Valor." />
+	<String id="437006" string="&quot;Yes, ma'am!&quot;" />
+	<String id="437007" string="Speak with Tifane." />
+</StrSheet_Quest>

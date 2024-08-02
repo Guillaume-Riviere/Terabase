@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="903001" string="Relic of a Bygone Age" />
+	<String id="903002" string="&quot;How did you know?&quot;" />
+	<String id="903003" string="Speak with Barlyas hiding behind the shop at the Cutthroat Harbor." />
+	<String id="903004" string="&quot;I understand.&quot;" />
+	<String id="903005" string="Speak with Barlyas again." />
+	<String id="903006" string="Kill Slawgesh and search for clues." />
+	<String id="903007" string="&quot;I understand.&quot;" />
+	<String id="903008" string="Bring Slawgesh's ledger to Perina." />
+	<String id="903009" string="Bring Slawgesh's ledger to Perina." />
+	<String id="903010" string="Kill gula brawlers on Mistmoor Island. Bring back their primer." />
+	<String id="903011" string="&quot;I understand.&quot;" />
+	<String id="903012" string="Meet Perina and collect Slawgesh's ledger." />
+	<String id="903013" string="&quot;I understand.&quot;" />
+	<String id="903014" string="Use the Gula Cipher and decode the Encrypted Ledger.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open inventory and use Gula Cipher.]" />
+	<String id="903015" string="Bring the decrypted ledger to Perina." />
+	<String id="903016" string="&quot;I agree.&quot;" />
+	<String id="903017" string="Report to Barlyas in Cutthroat Harbor.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> key to open inventory and use Cutthroat Harbor Teleport Scroll to return to Cutthroat Harbor.]" />
+	<String id="903018" string="&quot;I understand.&quot;" />
+	<String id="903019" string="Speak with Barlyas at the Relic Hunter Outpost.&#10;[Use the {@LinkCreature:62#1027#Teleportal} to go to Relic Hunter Outpost.]" />
+	<String id="903020" string="Use the teleportal." />
+	<String id="903021" string="Find the teleportal in the west room on the second floor of Azarel's Labyrinth.&#10;[Speak with {@linkcreature:209#2000#Tulutulu} to go to Azarel's Labyrinth Depths.]" />
+	<String id="903022" string="Fool!" />
+	<String id="903023" string="This isn't real...." />
+	<String id="903024" string="Use the teleportal to reach the hideout. Kill Kutmaschuk and collect the accursed lance." />
+	<String id="903025" string="Urgh..." />
+	<String id="903026" string="Defeat Priest of Darkness Akia." />
+	<String id="903027" string="&quot;Thank you.&quot;" />
+	<String id="903028" string="Bring Gidd's Lance to Barlyas at the Relic Hunter Outpost." />
+</StrSheet_Quest>

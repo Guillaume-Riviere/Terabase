@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4538001" string="An Unwelcome Visitor" />
+	<String id="4538002" string="We can't afford for the argons to return." />
+	<String id="4538003" string="Our position is more tenuous than I'd like to admit." />
+	<String id="4538004" string="Zol dren virsai..." />
+	<String id="4538005" string="Kill {@creature:45#6002#Krixati} south of the {@Rgn:45005$$Skyfields}." />
+	<String id="4538006" string="&quot;I will.&quot;" />
+	<String id="4538007" string="Report to {@creature:245#1008$$Helik} at {@Rgn:45009$$Camp Insanity}." />
+</StrSheet_Quest>

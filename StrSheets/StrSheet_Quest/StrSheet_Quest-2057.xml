@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60801001" string="Back to the Beach" />
+	<String id="60801002" string="We're counting on you." />
+	<String id="60801003" string="You're more capable than I thought." />
+	<String id="60801004" string="Hunt five arachnen stalkers and five Red Lash enforcers." />
+	<String id="60801005" string="&quot;Hey, some profit for me.&quot;" />
+	<String id="60801006" string="Claim your reward from Ebbra." />
+</StrSheet_Quest>

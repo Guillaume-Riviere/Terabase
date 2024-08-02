@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17209001" string="Augurs and Omens" />
+	<String id="17209002" string="&quot;No problem.&quot;" />
+	<String id="17209003" string="Intrepid's Wreckage" />
+	<String id="17209004" string="Intrepid is visible, atop the cliff." />
+	<String id="17209005" string="Search &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#-14235, -10532, -607&amp;type=1&amp;name=along the road&quot;>along the road&lt;/A>&lt;/font>." />
+	<String id="17209006" string="&quot;Okay.&quot;" />
+	<String id="17209007" string="Check in with Urolin." />
+	<String id="17209008" string="Launch the flare." />
+	<String id="17209009" string="The flare gleams bright in the sky." />
+	<String id="17209010" string="&quot;I'll see what I can do.&quot;" />
+	<String id="17209011" string="Talk to Urolin" />
+	<String id="17209012" string="Kill kobifrill mandrills." />
+	<String id="17209013" string="Bridge to Camp" />
+	<String id="17209014" string="You spot a humanoid figure on the bridge." />
+	<String id="17209015" string="Continue your reconnaissance." />
+	<String id="17209016" string="&quot;I'll talk to him.&quot;" />
+	<String id="17209017" string="Talk to Bagi." />
+	<String id="17209018" string="" />
+	<String id="17209019" string="Bagi's Scroll" />
+	<String id="17209020" string="Deliver the scroll to Rhodos." />
+	<String id="17209021" string="&quot;I'm on it.&quot;" />
+	<String id="17209022" string="&quot;Umm, all right.&quot;" />
+	<String id="17209023" string="Speak with Madat." />
+	<String id="17209024" string="&quot;Hatishna.&quot;" />
+	<String id="17209025" string="Speak with Rhodos." />
+</StrSheet_Quest>

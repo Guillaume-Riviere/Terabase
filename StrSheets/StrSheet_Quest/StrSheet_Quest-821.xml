@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3437001" string="They Might Be Giants" />
+	<String id="3437002" string="We need them back. Alive." />
+	<String id="3437003" string="Back to normal, yes?" />
+	<String id="3437004" string="Shard Packs" />
+	<String id="3437005" string="The shards are ours!" />
+	<String id="3437006" string="These shards will give us power!" />
+	<String id="3437007" string="Hunt down the icereaver giants around the Ice Trail." />
+	<String id="3437008" string="Bring the shard packs to Kahuere." />
+	<String id="3437009" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

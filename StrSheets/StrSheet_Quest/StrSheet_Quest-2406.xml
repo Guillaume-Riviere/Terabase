@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810005001" string="Complete the Necromancer Tomb!" />
+	<String id="810005002" string="[Necromancer Tomb] Defeat Vedilith!" />
+	<String id="810005003" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3170001" string="(Guild) Suppression Orders: Ossugons" />
+	<String id="3170002" string="Proof of Kill: Ossugons" />
+	<String id="3170003" string="&quot;Not a problem!&quot;" />
+	<String id="3170004" string="Eliminate the ossugon frostwalkers, ossugon icelords, icy skeletal minions, and frosted skeletal thralls in Tempest Reach." />
+	<String id="3170005" string="Report to Celion in Acarum." />
+</StrSheet_Quest>

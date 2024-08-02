@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2324001" string="Famous Lost Wines" />
+	<String id="2324002" string="Those wines are part of our heritage!" />
+	<String id="2324003" string="When it's time, you and I'll split a bottle!" />
+	<String id="2324004" string="Wine Bottle" />
+	<String id="2324005" string="Collect wine bottles from the popori exiles." />
+	<String id="2324006" string="Deliver the bottles back to Rolma." />
+	<String id="2324007" string="&quot;You're welcome.&quot;" />
+</StrSheet_Quest>

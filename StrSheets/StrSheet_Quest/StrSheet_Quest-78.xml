@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="428001" string="The Honored Dead" />
+	<String id="428002" string="We all have our rituals, don't we? Even soldiers." />
+	<String id="428003" string="Though they fell in battle, their courage lives on." />
+	<String id="428004" string="Larusia" />
+	<String id="428005" string="Holy Water" />
+	<String id="428006" string="Sprinkle holy water on the bodies of the dead soldiers in the western Brimstone Highlands." />
+	<String id="428007" string="Collect their effects." />
+	<String id="428008" string="Larusia" />
+	<String id="428009" string="Holy Water" />
+	<String id="428010" string="Sprinkle holy water on the bodies of the dead soldiers in the western Brimstone Highlands." />
+	<String id="428011" string="Collect their effects." />
+	<String id="428012" string="Larusia" />
+	<String id="428013" string="Holy Water" />
+	<String id="428014" string="Sprinkle holy water on the bodies of the dead soldiers in the western Brimstone Highlands." />
+	<String id="428015" string="Collect their effects." />
+	<String id="428016" string="Sacrificed Soldiers" />
+	<String id="428017" string="Collected their effects." />
+	<String id="428018" string="Return to Larusia at Cauldron Outpost." />
+	<String id="428019" string="&quot;It wasn't easy.&quot;" />
+</StrSheet_Quest>

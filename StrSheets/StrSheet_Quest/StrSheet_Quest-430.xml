@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1624001" string="A Folk Remedy" />
+	<String id="1624002" string="Get moving!" />
+	<String id="1624003" string="Pee-ew!" />
+	<String id="1624004" string="&quot;For the federation!&quot;" />
+	<String id="1624005" string="Collect galicho on the Twisted Plains." />
+	<String id="1624006" string="Take the galicho to Ludin." />
+</StrSheet_Quest>

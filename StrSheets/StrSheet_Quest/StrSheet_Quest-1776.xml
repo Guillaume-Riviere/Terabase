@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47324001" string="Argon Assistants" />
+	<String id="47324002" string="Remember, scavenge those argon cores!" />
+	<String id="47324003" string="We still barely understand the argons." />
+	<String id="47324004" string="Argon Cores" />
+	<String id="47324005" string="Collect argon cores from argons on the top floor of Ebon Tower.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]" />
+	<String id="47324006" string="Bring the argon cores to Traveron in the cave near Ebon Tower." />
+	<String id="47324007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3442001" string="Pruning the Predators" />
+	<String id="3442002" string="Kill them before there aren't any miners left." />
+	<String id="3442003" string="You're amazing!" />
+	<String id="3442004" string="Barsicore Paw" />
+	<String id="3442005" string="Slay the icewalker barsicores around the Screaming Snowfield and Howling Glacier." />
+	<String id="3442006" string="Deliver the paws to Lucael." />
+	<String id="3442007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

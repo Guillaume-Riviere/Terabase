@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3730001" string="Argons by the Pack" />
+	<String id="3730002" string="In the chaos of battle, I got this far, but..." />
+	<String id="3730003" string="The argons rule this area." />
+	<String id="3730004" string="Hunt athakelas in the Crypt of the Damned." />
+	<String id="3730005" string="&quot;Be brave, soldier!&quot;" />
+	<String id="3730006" string="Go to Rudh at Uprising Redoubt in the Crypt of the Damned." />
+</StrSheet_Quest>

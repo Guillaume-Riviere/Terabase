@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="522001" string="Help the Tuwangis" />
+	<String id="522002" string="You could be a big help to the tuwangis." />
+	<String id="522003" string="It's only a crisis to those crazy tuwangis." />
+	<String id="522004" string="&quot;It was no trouble.&quot;" />
+	<String id="522005" string="Teleport to Tuwangi Mire Marshlands via Batooni and meet with Tribune Rathe." />
+</StrSheet_Quest>

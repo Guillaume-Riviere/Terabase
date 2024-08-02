@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4843001" string="Smoldering Remains" />
+	<String id="4843002" string="Kill that nasty smoldering moloch." />
+	<String id="4843003" string="I hope it suffered. A lot." />
+	<String id="4843004" string="Hunt down and kill a smoldering moloch." />
+	<String id="4843005" string="&quot;And your reward. Thank you.&quot;" />
+	<String id="4843006" string="Report back to {@LinkCreature:248#1025}." />
+</StrSheet_Quest>

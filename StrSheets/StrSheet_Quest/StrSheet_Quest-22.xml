@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="235001" string="Much Ado About Mushrooms" />
+	<String id="235002" string="&quot;Happy to help!&quot;" />
+	<String id="235003" string="Collect cloud mushrooms at Faevine Vale." />
+	<String id="235004" string="Deliver the mushrooms to Hemming at the Faevine Vale Camp." />
+</StrSheet_Quest>

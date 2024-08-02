@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="273001" string="Secrets of Zuras" />
+	<String id="273003" string="OK" />
+	<String id="273004" string="Gather the indicated materials and recieve a random reward chest!" />
+	<String id="273005" string="Return to Okon in Popolion" />
+</StrSheet_Quest>

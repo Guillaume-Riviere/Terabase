@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999823001" string="Clean up Spring Valley" />
+	<String id="999823002" string="[Spring Valley] Kill Spring Valley Intruders and collect their talismans." />
+	<String id="999823003" string="Mysterious Talisman" />
+	<String id="999823004" string="Claim your reward!" />
+</StrSheet_Quest>

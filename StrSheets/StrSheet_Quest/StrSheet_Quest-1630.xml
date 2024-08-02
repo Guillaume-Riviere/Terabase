@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17216001" string="A New Threat" />
+	<String id="17216002" string="&quot;I understand.&quot;" />
+	<String id="17216003" string="Speak with Tamur.&#10;[Speak with {@linkcreature:84#1088$$Yunari} to enter the Kaiator Command Center.]" />
+	<String id="17216004" string="Meeting Point" />
+	<String id="17216005" string="Someone just arrived from Velika. " />
+	<String id="17216006" string="Our guests are in the Plaza of Triumph.&#10;[Speak with {@creature:528#5008$$Kamat} to go outside Headquarters.]" />
+	<String id="17216007" string="&quot;I understand.&quot;" />
+	<String id="17216008" string="Deliver the Processed Aeonalis Pylons to Paesyn." />
+	<String id="17216009" string="&quot;I understand.&quot;" />
+	<String id="17216010" string="Ask Dougal about his mission. " />
+	<String id="17216011" string="&quot;I understand.&quot;" />
+	<String id="17216012" string="Ask Paesyn how you can go to Velika." />
+	<String id="17216013" string="Valkyon Federation Commander Residence" />
+	<String id="17216014" string="You arrived at the secret rendezvous. What could be going on?" />
+	<String id="17216015" string="Talk to Paesyn and go to rendezvous.&#10;[Speak with {@linkcreature:84#10038$$Paesyn} to teleport to Valkyon Federation Commander Residence.]" />
+	<String id="17216016" string="&quot;Are you sure? Tell me what happened.&quot;" />
+	<String id="17216017" string="Speak with Seir.&#10;[Speak with {@linkcreature:84#10038$$Paesyn} to teleport to Valkyon Federation Commander Residence.] " />
+	<String id="17216018" string="&quot;This is the philter?&quot;" />
+	<String id="17216019" string="Speak with Seir again.&#10;[Speak with {@linkcreature:84#10038$$Paesyn} to teleport to Valkyon Federation Commander Residence.] " />
+	<String id="17216020" string="&quot;You did well.&quot;" />
+	<String id="17216021" string="Ask Kamia what happened.&#10;[Talk to {@linkcreature:84#10038$$Paesyn} to teleport to the Federation Commander’s Residence.]" />
+	<String id="17216022" string="Calm down Grapine and try to speak with him." />
+	<String id="17216023" string="The deva empire...will win back glory...with Lakan's...no, NO!" />
+	<String id="17216024" string="&quot;I can help you. Tell me.&quot;" />
+	<String id="17216025" string="&quot;What are you hiding?&quot;" />
+	<String id="17216026" string="Grapine came back to his senses. Ask what happened.&#10;[You can advance this quest only when you use the sedative to {@linkcreature:503#2006#Grapine}.]" />
+	<String id="17216027" string="&quot;Calm down.&quot;" />
+	<String id="17216028" string="Archdevan Mark" />
+	<String id="17216029" string="For Lakan!" />
+	<String id="17216030" string="Urgh...how..." />
+	<String id="17216031" string="Defeat Grapine and the demokrons from the rift. Collect the Archdevan Mark." />
+	<String id="17216032" string="Show the archdevan mark to Seir." />
+	<String id="17216033" string="&quot;I understand.&quot;" />
+	<String id="17216034" string="Archdevan Mark" />
+	<String id="17216035" string="Defeat the demokrons from the rift and collect the Archdevan Mark." />
+	<String id="17216036" string="Show the Archdevan Mark to Seir." />
+	<String id="17216037" string="&quot;I understand.&quot;" />
+	<String id="17216038" string="&quot;I understand.&quot;" />
+	<String id="17216039" string="Speak with Seir again." />
+</StrSheet_Quest>

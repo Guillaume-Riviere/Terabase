@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2432001" string="Lost Contact" />
+	<String id="2432002" string="I don't hold out much hope." />
+	<String id="2432003" string="So much out here can kill you." />
+	<String id="2432004" string="&quot;Rest in peace, my friend.&quot;" />
+	<String id="2432005" string="&quot;Rest in peace, my friend.&quot;" />
+	<String id="2432006" string="&quot;Rest in peace, my friend.&quot;" />
+	<String id="2432007" string="&quot;Rest in peace, my friend.&quot;" />
+	<String id="2432008" string="Search for the missing federation patrol." />
+	<String id="2432009" string="Fallen Federation Soldier" />
+	<String id="2432010" string="Service Medal" />
+	<String id="2432011" string="Deliver the service medals to Stadrian." />
+	<String id="2432012" string="&quot;I'm sorry for your loss.&quot;" />
+	<String id="2432013" string="&quot;Yeah. Let's do this.&quot;" />
+	<String id="2432014" string="Find Qasimir near the entrance to Sand Wind Village." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5424001" string="Seeds of Hope" />
+	<String id="5424002" string="You agree it's important, right?" />
+	<String id="5424003" string="Or perhaps not..." />
+	<String id="5424004" string="Ghilliedhu Seeds" />
+	<String id="5424005" string="Get the seeds from rampant ghilliedhus in the forest north of Scythera Fae." />
+	<String id="5424006" string="Bring ghilliedhu seeds to Arcanist Sein at Scythera Fae." />
+	<String id="5424007" string="&quot;Perhaps they will.&quot;" />
+</StrSheet_Quest>

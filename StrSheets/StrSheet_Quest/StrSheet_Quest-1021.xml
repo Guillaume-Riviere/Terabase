@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4227001" string="Heal Them All" />
+	<String id="4227002" string="Take this antidote to Canto!" />
+	<String id="4227003" string="That feels much better. Good stuff." />
+	<String id="4227004" string="Odrun" />
+	<String id="4227005" string="Antidote" />
+	<String id="4227006" string="Bring the antidode to Canto on the second level of the Ecdysi Atrium." />
+	<String id="4227007" string="See Trikaian." />
+	<String id="4227008" string="Trikaian" />
+	<String id="4227009" string="Antidote" />
+	<String id="4227010" string="Bring the antidode to Trikaian on the second level of the Ecdysi Atrium." />
+	<String id="4227011" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

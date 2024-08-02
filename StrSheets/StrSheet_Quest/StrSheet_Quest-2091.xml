@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70107001" string="[Event—Daily] Dust Never Sleeps" />
+	<String id="70107002" string="Squalid Temple" />
+	<String id="70107003" string="" />
+	<String id="70107004" string="Enter the Squalid Temple." />
+	<String id="70107005" string="Clean the dusty mirrors." />
+	<String id="70107006" string="Add incense to the burner." />
+	<String id="70107007" string="Get rid of the snakes." />
+	<String id="70107008" string="Talk to Kodar." />
+	<String id="70107009" string="&quot;I'll take care of it.&quot;" />
+	<String id="70107010" string="Clean the dusty mirrors." />
+	<String id="70107011" string="Add incense to the burner." />
+	<String id="70107012" string="Help Karu remove the snakes." />
+	<String id="70107013" string="&quot;I'll help again tomorrow, if I can.&quot;" />
+	<String id="70107014" string="Talk to Renmi." />
+</StrSheet_Quest>

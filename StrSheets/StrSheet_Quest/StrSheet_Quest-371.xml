@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1348001" string="Ferocious Flowering Felons" />
+	<String id="1348002" string="Terrons attack en masse. Be careful!" />
+	<String id="1348003" string="One less thing to worry about." />
+	<String id="1348004" string="Terron Petal" />
+	<String id="1348005" string="Collect petals from terrons near the Southern Checkpoint." />
+	<String id="1348006" string="Take the petals to Tanli." />
+	<String id="1348007" string="&quot;For the federation.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200202001" string="[Important] Rescue Mission" />
+	<String id="200202002" string="&quot;Stay safe.&quot;" />
+	<String id="200202003" string="Speak with Amarre at the path to the prison." />
+	<String id="200202004" string="Prison" />
+	<String id="200202005" string="You see Naga Knights as you cross the bridge." />
+	<String id="200202006" string="Go to the prison." />
+	<String id="200202007" string="Defeat the Naga Knights on your way to the prison." />
+	<String id="200202008" string="&quot;Okay.&quot;" />
+	<String id="200202009" string="Speak with the villager at the prison." />
+	<String id="200202010" string="Defeat the Draakon Lieutenant in the prison." />
+	<String id="200202011" string="&quot;Okay.&quot;" />
+	<String id="200202012" string="Speak with the frightened villager at the prison." />
+	<String id="200202013" string="Prison Hill" />
+	<String id="200202014" string="You see a very calm villager." />
+	<String id="200202015" string="Go to the Prison Hill." />
+	<String id="200202016" string="&quot;Okay.&quot;" />
+	<String id="200202017" string="Speak with the calm villager." />
+	<String id="200202018" string="Defeat the Draakon Pursuers in the prison." />
+	<String id="200202019" string="Go inside the prison." />
+	<String id="200202020" string="Prison Entrance" />
+	<String id="200202021" string="Elleon is surrounded by nagas." />
+	<String id="200202022" string="Enter the Interrogation Center." />
+	<String id="200202023" string="Defeat the Naga Knights and Naga Assassins." />
+	<String id="200202024" string="&quot;Okay.&quot;" />
+	<String id="200202025" string="Speak with Elleon in the prison." />
+	<String id="200202026" string="Defeat the Draakon Pursuers, Draakon Lieutenant, and Draakon Ravagers." />
+	<String id="200202027" string="&quot;Let's go.&quot;" />
+	<String id="200202028" string="Speak with Titus in the prison." />
+	<String id="200202029" string="Prison Exit" />
+	<String id="200202030" string="Elleon's traces are blocked by boulders." />
+	<String id="200202031" string="Jump in the hole next to Titus and find the prison exit." />
+	<String id="200202032" string="Remove the boulders and escape." />
+	<String id="200202033" string="&quot;Yes.&quot;" />
+	<String id="200202034" string="Speak with Titus in the Dazzling Garden." />
+</StrSheet_Quest>

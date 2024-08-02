@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17203001" string="Worse than the Disease…" />
+	<String id="17203002" string="&quot;I see.&quot;" />
+	<String id="17203003" string="&quot;Understood.&quot;" />
+	<String id="17203004" string="Speak with Caenia." />
+	<String id="17203005" string="Writhing Scouts" />
+	<String id="17203006" string="You see the missing soldiers." />
+	<String id="17203007" string="Look for the missing soldiers." />
+	<String id="17203008" string="&quot;Sure thing.&quot;" />
+	<String id="17203009" string="Talk to Eduyar." />
+	<String id="17203010" string="&quot;Disgusting, but okay.&quot;" />
+	<String id="17203011" string="Talk to Tilda." />
+	<String id="17203012" string="&quot;Oh, he'll get his.&quot;" />
+	<String id="17203013" string="Collect herbaceous extrusions." />
+	<String id="17203014" string="Feed Eduyar the herbaceous extrusions." />
+	<String id="17203015" string="&quot;It's, uh, medicine.&quot;" />
+	<String id="17203016" string="Talk to Actol." />
+	<String id="17203017" string="&quot;Thanks.&quot;" />
+	<String id="17203018" string="Speak with Caenia." />
+</StrSheet_Quest>

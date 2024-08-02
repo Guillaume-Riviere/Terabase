@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3533001" string="Condition Grounded" />
+	<String id="3533002" string="We can trade wings for good equipment in town." />
+	<String id="3533003" string="Consider me your friend from here on out." />
+	<String id="3533004" string="Dracoloth Wing" />
+	<String id="3533005" string="Hunt dracoloths in Deathgorge and collect their wings." />
+	<String id="3533006" string="Deliver dracoloth wings to Selsine at Jagged Crest." />
+	<String id="3533007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

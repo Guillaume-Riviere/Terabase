@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19111001" string="In Pursuit of Justice" />
+	<String id="19111002" string="&quot;Let's go!&quot;" />
+	<String id="19111003" string="The Gallery" />
+	<String id="19111004" string="Speak with Rhodos." />
+	<String id="19111005" string="Open the door to the gallery." />
+	<String id="19111006" string="&quot;We'll finish him off.&quot;" />
+	<String id="19111007" string="Speak with Rhodos." />
+	<String id="19111008" string="Verikam's location." />
+	<String id="19111009" string="He must have escaped through here." />
+	<String id="19111010" string="Take the stairs to the &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#38418, 45199, 9295&amp;type=1&amp;name=lower levels&quot;>lower levels&lt;/A>&lt;/font>." />
+	<String id="19111011" string="&quot;Right.&quot;" />
+	<String id="19111012" string="Speak with Rhodos." />
+	<String id="19111013" string="&quot;Thank you.&quot;" />
+	<String id="19111014" string="Speak with Hathas." />
+</StrSheet_Quest>

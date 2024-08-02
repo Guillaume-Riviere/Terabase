@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999710001" string="Conquer Blessing Basin" />
+	<String id="999710002" string="[Blessing Basin] Defeat Oneiroliths, Rheumikumases, Resurrected Trees, and Shadow Overseers 100 times!" />
+	<String id="999710003" string="Blessing Basin Monsters" />
+	<String id="999710004" string="Claim your reward!" />
+</StrSheet_Quest>

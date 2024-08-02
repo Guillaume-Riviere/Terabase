@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4629001" string="Deeper into the Towers" />
+	<String id="4629002" string="Go to the {@Rgn:46017$$Shadowspark Chamber}." />
+	<String id="4629003" string="Thank you for coming to help me." />
+	<String id="4629004" string="&quot;Victory for Valkyon!&quot;" />
+	<String id="4629005" string="Go see {@Creature:246#1033$$Hapian} in the {@Rgn:46017$$Shadowspark Chamber}." />
+</StrSheet_Quest>

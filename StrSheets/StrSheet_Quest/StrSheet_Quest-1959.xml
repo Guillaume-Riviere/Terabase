@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60109001" string="Skirmishing for Science" />
+	<String id="60109002" string="Do what you can. The Invalesco appreciates your efforts." />
+	<String id="60109003" string="{@LinkCreature:77#3005#Rahen} sent me the right soldier. Thanks." />
+	<String id="60109004" string="" />
+	<String id="60109005" string="" />
+	<String id="60109006" string="" />
+	<String id="60109007" string="Report to {@LinkCreature:245#3509#Jehnsprin} at {@Rgn:45008$$Field Base Valiance}." />
+	<String id="60109008" string="&quot;I'll do what I can.&quot;" />
+	<String id="60109009" string="Kill {@LinkCreature:45#3003#kelba rippers} near {@Rgn:45008$$Field Base Valiance}." />
+	<String id="60109010" string="Kill the {@LinkCreature:45#3001#argonomorph Lokian archers} near {@Rgn:45008$$Field Base Valiance}." />
+	<String id="60109011" string="Destroy the {@LinkCreature:245#3516#jurnagg column} near {@Rgn:45008$$Field Base Valiance}." />
+	<String id="60109012" string="&quot;Just doing my part.&quot;" />
+	<String id="60109013" string="Report back to {@LinkCreature:245#3509#Jehnsprin}." />
+</StrSheet_Quest>

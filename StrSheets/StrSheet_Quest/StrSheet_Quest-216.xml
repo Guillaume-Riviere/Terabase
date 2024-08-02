@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="921001" string="Crocuta Blankets for the Night" />
+	<String id="921002" string="For the federation!" />
+	<String id="921003" string="Victory will be ours!" />
+	<String id="921004" string="Crocuta Hide" />
+	<String id="921005" string="Bring back crocuta hide from the forest southeast of the camp." />
+	<String id="921006" string="Deliver the hide to Raviv at the Relic Hunter Outpost." />
+	<String id="921007" string="&quot;Glad to help.&quot;" />
+</StrSheet_Quest>

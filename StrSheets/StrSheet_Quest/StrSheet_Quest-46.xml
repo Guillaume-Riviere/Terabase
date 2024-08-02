@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="327001" string="Every Dog Has His Day" />
+	<String id="327002" string="Ask Esedran, near the cemetary, about Ohdi." />
+	<String id="327003" string="Ohdi, my baby!" />
+	<String id="327004" string="Search for Ohdi." />
+	<String id="327005" string="Speak to Esedran near Berzerad Cemetery." />
+	<String id="327006" string="Corann" />
+	<String id="327007" string="Treat Pouch" />
+	<String id="327008" string="Find Ohdi in Berzerad Cemetery." />
+	<String id="327009" string="Collect Ohdi." />
+	<String id="327010" string="Ohdi" />
+	<String id="327011" string="Ohdi in the Bag" />
+	<String id="327012" string="Return Ohdi to Corann." />
+	<String id="327013" string="&quot;Here's your dog, sir.&quot;" />
+</StrSheet_Quest>

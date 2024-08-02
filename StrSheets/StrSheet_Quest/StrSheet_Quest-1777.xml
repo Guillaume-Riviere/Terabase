@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47325001" string="Fight the Fiends" />
+	<String id="47325002" string="We'll leave the guards in chaos!" />
+	<String id="47325003" string="It's stunk up our air long enough." />
+	<String id="47325004" string="How did this filth get inside?" />
+	<String id="47325005" string="Master! I failed..." />
+	<String id="47325006" string="Guards, to me! Enemies in the tower!" />
+	<String id="47325007" string="Where are our gua—?" />
+	<String id="47325008" string="Eliminate Durzured and Vardas.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.] " />
+	<String id="47325009" string="&quot;For the federation!&quot;" />
+	<String id="47325010" string="Report back to Kesarik near the Ebon Tower." />
+</StrSheet_Quest>

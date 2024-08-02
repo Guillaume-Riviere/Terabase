@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60522001" string="No One Appreciates Middle-Management" />
+	<String id="60522002" string="&quot;Will do.&quot;" />
+	<String id="60522003" string="" />
+	<String id="60522004" string="" />
+	<String id="60522005" string="" />
+	<String id="60522006" string="" />
+	<String id="60522007" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60522008" string="&quot;Sure.&quot;" />
+	<String id="60522009" string="&quot;I'm on it.&quot;" />
+	<String id="60522010" string="Deliver {@RawItem:206812} ×3 to {@linkcreature:63#3001#Barian}." />
+	<String id="60522011" string="" />
+	<String id="60522012" string="&quot;Sure thing.&quot;" />
+	<String id="60522013" string="Deliver {@RawItem:206813} ×3 to {@linkcreature:63#3001#Barian}." />
+	<String id="60522014" string="" />
+	<String id="60522015" string="&quot;Sure thing.&quot;" />
+	<String id="60522016" string="Deliver {@RawItem:206814} ×3 to {@linkcreature:63#3001#Barian}." />
+	<String id="60522017" string="" />
+	<String id="60522018" string="&quot;Sure thing.&quot;" />
+	<String id="60522019" string="Deliver {@RawItem:206815} ×3 to {@linkcreature:63#3001#Barian}." />
+	<String id="60522020" string="" />
+	<String id="60522021" string="&quot;Got it.&quot;" />
+	<String id="60522022" string="Deliver {@RawItem:206816} ×3 to {@linkcreature:63#3001#Barian}." />
+	<String id="60522023" string="" />
+	<String id="60522024" string="Claim your reward." />
+	<String id="60522025" string="Claim your payment from {@LinkCreature:63#3002#Taratia}." />
+</StrSheet_Quest>

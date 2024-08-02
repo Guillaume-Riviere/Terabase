@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4130001" string="Blood for Peace" />
+	<String id="4130002" string="That tentacullar blood will make a fine tribute." />
+	<String id="4130003" string="Oooh, fresh blood!" />
+	<String id="4130004" string="Tentacullar Blood" />
+	<String id="4130005" string="Hunt tentacullars in the caves near the Arena of Blood. Collect their blood for {@linkcreature:241#1013$$Kuban}." />
+	<String id="4130006" string="Hunt tentacullars in the caves near the Arena of Blood. Collect their blood for {@linkcreature:241#1013$$Kuban}." />
+	<String id="4130007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

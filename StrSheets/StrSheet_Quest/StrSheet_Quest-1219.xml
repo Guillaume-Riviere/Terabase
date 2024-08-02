@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5039001" string="One Who Wanders Is Lost" />
+	<String id="5039002" string="He should be in the {@Rgn:50008}." />
+	<String id="5039003" string="Such remarkable caverns." />
+	<String id="5039004" string="&quot;What is this place?&quot;" />
+	<String id="5039005" string="&quot;We should get you out of here.&quot;" />
+	<String id="5039006" string="Search for {@LinkCreature:50#1002} underground in Viridian Caverns." />
+	<String id="5039007" string="Shall we go?" />
+	<String id="5039008" string="&quot;Let's get moving.&quot;" />
+	<String id="5039009" string="Escort {@LinkCreature:50#1002} out of the {@Rgn:50008} to {@LinkCreature:250#1002$$Gaziman}." />
+	<String id="5039010" string="&quot;You're welcome.&quot;" />
+	<String id="5039011" string="Speak with {@LinkCreature:250#1022}." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="837001" string="Painkillers" />
+	<String id="837002" string="Let's give them a taste of pain!" />
+	<String id="837003" string="I'd call this justice, wouldn't you?" />
+	<String id="837004" string="Torture Implement" />
+	<String id="837005" string="Collect torture implements from vulgar inquisitors, cruel inquisitors, and vicious auric imps in the Hungry Caverns Depths." />
+	<String id="837006" string="Deliver the implements to Rendia in the Hungry Caverns Depths." />
+	<String id="837007" string="&quot;They needed killing!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1822001" string="Researching Relics" />
+	<String id="1822002" string="You have my thanks, soldier!" />
+	<String id="1822003" string="The giants—what an amazing civilization." />
+	<String id="1822004" string="&quot;For the federation!&quot;" />
+	<String id="1822005" string="Seek fragments of the giants' writing among the relics near Mags Kurata and Mags Kuchanaru." />
+	<String id="1822006" string="Report to Dinian at Camp Marakeen." />
+</StrSheet_Quest>

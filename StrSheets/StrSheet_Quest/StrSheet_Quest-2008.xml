@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60413001" string="The Seed Vault" />
+	<String id="60413002" string="Good to see you again!" />
+	<String id="60413003" string="We work well together!" />
+	<String id="60413004" string="" />
+	<String id="60413005" string="" />
+	<String id="60413006" string="" />
+	<String id="60413007" string="Meet {@LinkCreature:230#3026#Lilis} by the {@Rgn:9017001$$Sun Lighthouse}." />
+	<String id="60413008" string="&quot;Count on me!&quot;" />
+	<String id="60413009" string="Seed Pods" />
+	<String id="60413010" string="Destroy oak barrels to find ancient seed pods." />
+	<String id="60413011" string="Deliver the pods to {@LinkCreature:230#3026#Lilis}." />
+	<String id="60413012" string="&quot;Tell me if they do!&quot;" />
+	<String id="60413013" string="Seed Pods" />
+	<String id="60413014" string="Destroy oak barrels to find ancient seed pods." />
+	<String id="60413015" string="Deliver the pods to {@LinkCreature:230#3026#Lilis}." />
+	<String id="60413016" string="&quot;Useful!&quot;" />
+	<String id="60413017" string="Seed Pods" />
+	<String id="60413018" string="Destroy oak barrels to find ancient seed pods." />
+	<String id="60413019" string="Deliver the pods to {@LinkCreature:230#3026#Lilis}." />
+	<String id="60413020" string="&quot;I hope so.&quot;" />
+</StrSheet_Quest>

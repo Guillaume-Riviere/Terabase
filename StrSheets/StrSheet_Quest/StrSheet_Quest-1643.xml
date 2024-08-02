@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18110001" string="Evade and Escape" />
+	<String id="18110002" string="Parthian Elite" />
+	<String id="18110003" string="Kill Parthian Elite Warriors, Parthian Elite  Archers, and Parthian Elite  Sorcerers to escape from Diranas Quarry." />
+	<String id="18110004" string="&quot;Got about a dozen of them.&quot;" />
+	<String id="18110005" string="Find Dougal under the ladder." />
+</StrSheet_Quest>

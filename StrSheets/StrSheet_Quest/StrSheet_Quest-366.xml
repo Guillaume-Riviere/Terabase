@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1343001" string="Answers Lead to More Questions" />
+	<String id="1343002" string="Only Leander has the knowledge to unravel this mystery." />
+	<String id="1343003" string="It's nearly time for you to know the truth..." />
+	<String id="1343004" string="Sersine" />
+	<String id="1343005" string="Kugai's Codex" />
+	<String id="1343006" string="Gregor guards a shorter path to Leander's camp." />
+	<String id="1343007" string="&quot;Thank you.&quot;" />
+	<String id="1343008" string="Sersine" />
+	<String id="1343009" string="Kugai's Codex" />
+	<String id="1343010" string="Deliver the codex to Leander." />
+	<String id="1343011" string="&quot;Karascha will pay! I guarantee it.&quot;" />
+	<String id="1343012" string="Leander" />
+	<String id="1343013" string="Leander's Translation" />
+	<String id="1343014" string="Take the translation to Sersine. The fastest way is to use a teleport scroll and the teleport master at the Tower Base." />
+	<String id="1343015" string="&quot;Then die he will!&quot;" />
+</StrSheet_Quest>

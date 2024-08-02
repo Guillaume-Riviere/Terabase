@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1840001" string="[Dungeon] Dark Reach Citadel" />
+	<String id="1840002" string="&quot;Understood.&quot;" />
+	<String id="1840003" string="Talk to Seir in Velika Federation Headquarters." />
+	<String id="1840004" string="Tulufan" />
+	<String id="1840005" string="Where is Launa?" />
+	<String id="1840006" string="Meet Launa at Tulufan." />
+	<String id="1840007" string="&quot;Understood.&quot;" />
+	<String id="1840008" string="Meet Launa at Tulufan." />
+	<String id="1840009" string="&quot;Thank you!&quot;" />
+	<String id="1840010" string="Talk to Elsine at Tulufan." />
+	<String id="1840011" string="&quot;Understood.&quot;" />
+	<String id="1840012" string="Tell Launa Elsine's story." />
+	<String id="1840013" string="Camp Marrakeen" />
+	<String id="1840014" string="A federation officer is interrogating a gutrend." />
+	<String id="1840015" string="Use the teleportal in Tulufan to go to Camp Marrakeen." />
+	<String id="1840016" string="&quot;I'll talk to her myself.&quot;" />
+	<String id="1840017" string="Talk to Valkyon Soldier at Camp Marrakeen." />
+	<String id="1840018" string="Go to the location that Kunchara spoke of." />
+	<String id="1840019" string="Talk to Kunchara at Camp Marrakeen." />
+	<String id="1840020" string="The site Kunchara spoke of" />
+	<String id="1840021" string="A wagon lies broken." />
+	<String id="1840022" string="Go to the location that Kunchara spoke of, near Sietch Bidaum." />
+	<String id="1840023" string="&quot;I'll examine the corpses.&quot;" />
+	<String id="1840024" string="Talk to Launa, standing near the broken wagon." />
+	<String id="1840025" string="Examine bodies around the broken wagon." />
+	<String id="1840026" string="" />
+	<String id="1840027" string="Red Raider Document" />
+	<String id="1840028" string="Give the Red Raider Document to Launa." />
+	<String id="1840029" string="Nod." />
+	<String id="1840030" string="Location on the map" />
+	<String id="1840031" string="There are multiple signs of people." />
+	<String id="1840032" string="Go to the location given by Launa." />
+	<String id="1840033" string="Dark Reach Citadel" />
+	<String id="1840034" string="A light. Could it mean that the raiders are nearby?" />
+	<String id="1840035" string="Use the {@LinkCreature:18#9783#teleportal} to go to Dark Reach Citadel." />
+	<String id="1840036" string="Door to the first boss" />
+	<String id="1840037" string="" />
+	<String id="1840038" string="Search for the Red Raiders." />
+	<String id="1840039" string="Defeat Theropath." />
+	<String id="1840040" string="Door to the second boss." />
+	<String id="1840041" string="" />
+	<String id="1840042" string="Search for the Red Raiders." />
+	<String id="1840043" string="Defeat Apetus." />
+	<String id="1840044" string="Escape the Library." />
+	<String id="1840045" string="Hidden Chamber" />
+	<String id="1840046" string="" />
+	<String id="1840047" string="Go to the hidden chamber, behind the book shelves." />
+	<String id="1840048" string="Investigate." />
+	<String id="1840049" string="Investigate the black orb in the hidden chamber." />
+	<String id="1840050" string="Where the black orb leads" />
+	<String id="1840051" string="" />
+	<String id="1840052" string="Go to where the black orb leads." />
+	<String id="1840053" string="Door to the third boss" />
+	<String id="1840054" string="Remnants of the Red Raiders are here. What are they up to?" />
+	<String id="1840055" string="Move to the altar." />
+	<String id="1840056" string="Defeat Harnovog." />
+	<String id="1840057" string="Pick up the Forbidden Tome." />
+	<String id="1840058" string="Read the Forbidden Tome." />
+	<String id="1840059" string="Dark Reach Citadel Exit" />
+	<String id="1840060" string="Launa is nearby." />
+	<String id="1840061" string="Use the {@LinkCreature:783#1501#teleportal} to exit Dark Reach Citadel." />
+	<String id="1840062" string="Nod." />
+	<String id="1840063" string="Talk to Launa." />
+</StrSheet_Quest>

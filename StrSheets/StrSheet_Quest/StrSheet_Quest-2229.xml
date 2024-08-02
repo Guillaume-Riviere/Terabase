@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="310102001" string="[Dungeon - 463] Gossamer Vault (Easy)" />
+	<String id="310102002" string="Gossamer Vault (Hard)" />
+	<String id="310102003" string="This place seems to be artificial. How could such a place exist?" />
+	<String id="310102004" string="Enter Gossamer Vault (Hard) through the {@LinkCreature:27#3201#teleportal}." />
+	<String id="310102005" string="Extraction Chamber Entrance" />
+	<String id="310102006" string="The cave is full of nectar with a peculiar, azure glow." />
+	<String id="310102007" string="Jump down and go to the Extraction Chamber." />
+	<String id="310102008" string="Defeat the Hellgrammite." />
+	<String id="310102009" string="Processing Room Entrance" />
+	<String id="310102010" string="You feel a shock wave coming from the Processing Room." />
+	<String id="310102011" string="Go to the Processing Room Entrance." />
+	<String id="310102012" string="Regent's Vault Entrance" />
+	<String id="310102013" string="There's no sign of any butterflies...just eggs." />
+	<String id="310102014" string="Escape the Processing Room and go to the Regent's Vault." />
+	<String id="310102015" string="Destroy the eggs and defeat the Nightmare Gossamer Regent." />
+	<String id="310102016" string="&quot;Okay.&quot; " />
+	<String id="310102017" string="Use the {@LinkCreature:3201#1501#Teleportal} to escape Gossamer Vault (Hard) and speak with Elleon." />
+	<String id="310102018" string="&quot;Okay.&quot; " />
+	<String id="310102019" string="Speak with Amarre." />
+</StrSheet_Quest>

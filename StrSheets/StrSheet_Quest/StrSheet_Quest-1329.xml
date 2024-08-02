@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5521001" string="Small Victories, Great Triumphs" />
+	<String id="5521002" string="The Explorer Guild is just to the northeast." />
+	<String id="5521003" string="With the hyenas culled, resupplying will be much easier." />
+	<String id="5521004" string="&quot;For the federation.&quot;" />
+	<String id="5521005" string="Speak with Yedwin at the Explorer Guild." />
+	<String id="5521006" string="Hyena Hide" />
+	<String id="5521007" string="Hunt Darkquaver hyenas around Dragonfall and collect their hides." />
+	<String id="5521008" string="Bring the hides to Thaqib at Darkquaver Garrison." />
+	<String id="5521009" string="&quot;I hope these help.&quot;" />
+</StrSheet_Quest>

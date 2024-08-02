@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="229001" string="The Tooth, the Whole Tooth" />
+	<String id="229002" string="Hunt slinking sabertooths near Maon's cabin." />
+	<String id="229003" string="I feel safer already." />
+	<String id="229004" string="Sabertooth Teeth" />
+	<String id="229005" string="Hunt the slinking sabertooths and collect their teeth." />
+	<String id="229006" string="Report to Reindal." />
+	<String id="229007" string="&quot;Thanks.&quot;" />
+</StrSheet_Quest>

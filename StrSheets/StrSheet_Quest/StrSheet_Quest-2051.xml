@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60706001" string="Mechanics of Magic" />
+	<String id="60706002" string="Interested in mechanical engineering?" />
+	<String id="60706003" string="You're gifted in mechanics!" />
+	<String id="60706004" string="Return the book to the shelf." />
+	<String id="60706005" string="Check Mechanical Engineering Record on the shelf in the Collegium Arcane." />
+	<String id="60706006" string="" />
+	<String id="60706007" string="" />
+	<String id="60706008" string="" />
+	<String id="60706009" string="Go to theoretician Zerit in the Unified Field Lab." />
+	<String id="60706010" string="&quot;Test me, Zerit!&quot;" />
+	<String id="60706011" string="1. Core studies" />
+	<String id="60706012" string="2. Kinetophysics" />
+	<String id="60706013" string="3. Thermodynamics" />
+	<String id="60706014" string="4. Material studies" />
+	<String id="60706015" string="Go to theoretician Zerit and take his test." />
+	<String id="60706016" string="&quot;Got it.&quot;" />
+	<String id="60706017" string="1. Furniture science" />
+	<String id="60706018" string="2. Theory of mechanics" />
+	<String id="60706019" string="3. Acceleration" />
+	<String id="60706020" string="4. Mechanics" />
+	<String id="60706021" string="Go to theoretician Zerit and take his test." />
+	<String id="60706022" string="&quot;Understood.&quot;" />
+	<String id="60706023" string="1. Velocity, acceleration, and, um, wait..." />
+	<String id="60706024" string="2. Velocity, psychokinesis, and..." />
+	<String id="60706025" string="3. Velocity, acceleration, and vibration." />
+	<String id="60706026" string="4. Velocity, gravity, and torque." />
+	<String id="60706027" string="Go to theoretician Zerit and take his test." />
+	<String id="60706028" string="&quot;I get it.&quot;" />
+	<String id="60706029" string="&quot;These tests are easy.&quot;" />
+	<String id="60706030" string="Claim your reward from Zerit." />
+</StrSheet_Quest>

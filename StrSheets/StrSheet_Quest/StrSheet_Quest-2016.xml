@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60502001" string="I Gather You Gather" />
+	<String id="60502002" string="&quot;I'll see what I can do.&quot;" />
+	<String id="60502003" string="" />
+	<String id="60502004" string="" />
+	<String id="60502005" string="Talk to {@LinkCreature:63#3002#Taratia} about her to-do list." />
+	<String id="60502006" string="&quot;Your wish is my command.&quot;" />
+	<String id="60502007" string="&quot;Heh.&quot;" />
+	<String id="60502008" string="Deliver {@RawItem:206801} ×20 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60502009" string="" />
+	<String id="60502010" string="&quot;Heh.&quot;" />
+	<String id="60502011" string="Deliver {@RawItem:206802} ×20 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60502012" string="" />
+	<String id="60502013" string="&quot;Got it.&quot;" />
+	<String id="60502014" string="Deliver {@RawItem:206803} ×20 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60502015" string="" />
+	<String id="60502016" string="&quot;Got it.&quot;" />
+	<String id="60502017" string="Deliver {@RawItem:206804} ×20 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60502018" string="" />
+	<String id="60502019" string="&quot;Got it.&quot;" />
+	<String id="60502020" string="Deliver {@RawItem:206805} ×20 to {@linkcreature:63#3002#Taratia}." />
+	<String id="60502021" string="" />
+	<String id="60502022" string="Claim your reward." />
+	<String id="60502023" string="Talk to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

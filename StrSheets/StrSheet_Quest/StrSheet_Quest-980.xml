@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4039001" string="Mutant Miners" />
+	<String id="4039002" string="I'd like to help the mutants if it's possible." />
+	<String id="4039003" string="Hopefully, we can find a cure!" />
+	<String id="4039004" string="Mutated Tissue" />
+	<String id="4039005" string="Hunt mutant miners guarding the Lost Mines and obtain mutated tissue samples." />
+	<String id="4039006" string="Deliver the samples to Korona at the Quarantine Zone Research Center." />
+	<String id="4039007" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

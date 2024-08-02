@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21307001" string="Bitter Truth" />
+	<String id="21307002" string="&quot;What should I do next?&quot;" />
+	<String id="21307003" string="&quot;You can count on me.&quot;." />
+	<String id="21307004" string="Talk to Jovin again." />
+	<String id="21307005" string="Treasure Hunter's Trace" />
+	<String id="21307006" string="Don't let Zik escape!" />
+	<String id="21307007" string="Exit by the teleportal and locate Zik." />
+	<String id="21307008" string="Treasure Hunter's Trace" />
+	<String id="21307009" string="He's going towards the bridge. Keep after him!" />
+	<String id="21307010" string="Pursue Zik." />
+	<String id="21307011" string="Treasure Hunter's Trace" />
+	<String id="21307012" string="Zik disappeared into the bushes!" />
+	<String id="21307013" string="Pursue Zik." />
+	<String id="21307014" string="Find a way through the bushes." />
+	<String id="21307015" string="&quot;I was hoping you'd try that.&quot;" />
+	<String id="21307016" string="Confront Zik." />
+	<String id="21307017" string="Defeat Zik." />
+	<String id="21307018" string="&quot;Then follow me...and keep your mouth shut.&quot;" />
+	<String id="21307019" string="Arrest Zik." />
+	<String id="21307020" string="Defeat Aknam and the Iron Order agents." />
+	<String id="21307021" string="&quot;Sounds good.&quot;" />
+	<String id="21307022" string="Talk to Adria." />
+	<String id="21307023" string="&quot;Got it.&quot;." />
+	<String id="21307024" string="Get the full story from Adria." />
+</StrSheet_Quest>

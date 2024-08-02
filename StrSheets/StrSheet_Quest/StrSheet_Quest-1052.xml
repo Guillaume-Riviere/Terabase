@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4528001" string="Keeping an Eye Out" />
+	<String id="4528002" string="Thin out the reavers, and we'll have safe passage." />
+	<String id="4528003" string="We're actually pretty safe here." />
+	<String id="4528004" string="Kill argonomorth Lokian reavers east of {@Rgn:45006$$Field Base Reciprocity}." />
+	<String id="4528005" string="&quot;Glad I could help.&quot;" />
+	<String id="4528006" string="Go to {@Rgn:45011$$Swampwatch Camp} through the cave near {@Rgn:45006$$Field Base Reciprocity}, and make sure {@creature:245#1026$$Setahl} is safe." />
+</StrSheet_Quest>

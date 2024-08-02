@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="904001" string="The Fall of the Betrayer" />
+	<String id="904002" string="Samael will pay for what he has done." />
+	<String id="904003" string="Help us destroy the Scions of Lok." />
+	<String id="904004" string="&quot;I understand.&quot;" />
+	<String id="904005" string="Speak with Dougal." />
+	<String id="904006" string="Fool! You'll never get past us!" />
+	<String id="904007" string="I have failed you!" />
+	<String id="904008" string="Defeat the Lokian champions in the southeast corner of the Gallery of Chaos." />
+	<String id="904009" string="&quot;Time to pay the price, Samael.&quot;" />
+	<String id="904010" string="Check the teleportal." />
+	<String id="904011" string="&quot;Right. Okay.&quot;" />
+	<String id="904012" string="Teleport to Samael's residence and tell Dougal you are ready." />
+	<String id="904013" string="I shall be a god!" />
+	<String id="904014" string="Defeat Samael.&#10;[Talk to Dougal and select &quot;I'm ready.&quot; to start the event.&quot;]" />
+	<String id="904015" string="&quot;For the federation!&quot;" />
+	<String id="904016" string="Speak with Ciebel." />
+	<String id="904017" string="&quot;Thank you.&quot;" />
+	<String id="904018" string="Speak with Seir." />
+</StrSheet_Quest>

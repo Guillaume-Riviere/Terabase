@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5134001" string="You Are Here" />
+	<String id="5134002" string="Don't embarass me, okay?" />
+	<String id="5134003" string="Oh, Thulsa's going to hate us for this!" />
+	<String id="5134004" string="Well done, Ghabar!" />
+	<String id="5134005" string="Ghabar's Map" />
+	<String id="5134006" string="Deliver Ghabar's map to Prefect Thenuvia at Icebase Defiance." />
+	<String id="5134007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

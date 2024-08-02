@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="630001" string="Eliminating the Skullcrushers" />
+	<String id="630002" string="Time to crush some skulls." />
+	<String id="630003" string="They'll be back, of course." />
+	<String id="630004" string="Eliminate Gutrend skullcrushers nearby." />
+	<String id="630005" string="&quot;For the federation!&quot;" />
+	<String id="630006" string="Report to Lethar at Echo Ranch." />
+</StrSheet_Quest>

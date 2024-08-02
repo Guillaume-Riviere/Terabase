@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5002001" string="An End to War" />
+	<String id="5002002" string="&quot;I understand.&quot;" />
+	<String id="5002003" string="Speak with {@LinkCreature:76#1040#Kaia} at Kanstria." />
+	<String id="5002004" string="Queen's Lair Entrance" />
+	<String id="5002005" string="You have found a teleportal which leads to Shandra Manaya." />
+	<String id="5002006" string="Go to the Queen's Lair Entrance, found near the northeast teleport platform in Granarkus.&#10;[Use the {@LinkCreature:76#1007#Teleportal} or purchase a teleportal scroll from the specialty store to go to Queen's Lair Entrance.]" />
+	<String id="5002007" string="Inside of Manaya's Core" />
+	<String id="5002008" string="You've entered Manaya's Core." />
+	<String id="5002009" string="Enter Manaya's Core.&#10;[You must select Manaya's Core (Solo) from the {@LinkCreature:250#1501#Teleportal} to advance this quest.]  " />
+	<String id="5002010" string="Defeat Empowered Hulrap Warden and find the queen's chamber." />
+	<String id="5002011" string="Defeat {@LinkCreature:3011#42701#Hrathgol}." />
+	<String id="5002012" string="Defeat {@LinkCreature:3011#42705#Tycharan}." />
+	<String id="5002013" string="Defeat {@LinkCreature:3011#42713#Kartunan}." />
+	<String id="5002014" string="Defeat {@LinkCreature:3011#42702#Akatran} and find the queen's chamber." />
+	<String id="5002015" string="Passage to the Queen's Chamber" />
+	<String id="5002016" string="The Cyanoguard block your way." />
+	<String id="5002017" string="Search for Shandra Manaya." />
+	<String id="5002018" string="Passage to the Queen's Chamber" />
+	<String id="5002019" string="The passage to the queen's chamber opened." />
+	<String id="5002020" string="Approach Shandra Manaya." />
+	<String id="5002021" string="Eliminate Shandra Manaya, the argon queen, in Manaya's Core." />
+	<String id="5002022" string="&quot;Thank you.&quot;" />
+	<String id="5002023" string="Tell Kaia you killed Shandra Manaya." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10034001" string="Tough, Yet Supple" />
+	<String id="10034002" string="&quot;Understood.&quot;" />
+	<String id="10034003" string="Craft leatherworker's cuirasses." />
+	<String id="10034004" string="Take the cuirasses to Maius for inspection." />
+	<String id="10034005" string="" />
+	<String id="10034006" string="Leatherworker's Cuirass" />
+	<String id="10034007" string="Deliver the cuirasses to Prefect Daven in Lumbertown." />
+	<String id="10034008" string="&quot;You're most welcome.&quot;" />
+</StrSheet_Quest>

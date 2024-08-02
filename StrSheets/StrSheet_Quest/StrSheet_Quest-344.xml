@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1319001" string="Dwellers of the Island" />
+	<String id="1319002" string="There are terrons in the trees. Follow the annoying laughter and squeals..." />
+	<String id="1319003" string="Thank you for your help." />
+	<String id="1319004" string="Terronite" />
+	<String id="1319005" string="Collect terronite from the terrons." />
+	<String id="1319006" string="Deliver the terronite to Clovis." />
+	<String id="1319007" string="&quot;Glad I could help!&quot;" />
+</StrSheet_Quest>

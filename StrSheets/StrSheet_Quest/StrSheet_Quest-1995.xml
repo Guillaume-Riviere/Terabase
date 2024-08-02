@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60309001" string="Valsekyr Hunting Horns" />
+	<String id="60309002" string="&quot;Yes. Yes it does.&quot;" />
+	<String id="60309003" string="Meet {@LinkCreature:76#3001#Keinbara} in {@Rgn:76001$$Kanstria}." />
+</StrSheet_Quest>

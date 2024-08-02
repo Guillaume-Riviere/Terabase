@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10053001" string="Highly Experimental" />
+	<String id="10053002" string="&quot;I'm on it.&quot;" />
+	<String id="10053003" string="Talk to Tidak in Velika." />
+	<String id="10053004" string="&quot;Happy to help.&quot;" />
+	<String id="10053005" string="See Jodoc in Crescentia." />
+	<String id="10053006" string="" />
+	<String id="10053007" string="Recipe: Armor Cleanser" />
+	<String id="10053008" string="Take the recipe to Tidak." />
+	<String id="10053009" string="&quot;Of course!&quot;" />
+</StrSheet_Quest>

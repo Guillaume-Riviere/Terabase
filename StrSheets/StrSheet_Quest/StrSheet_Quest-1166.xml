@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4929001" string="Breakfast of Merciless War-Machines" />
+	<String id="4929002" string="Cyasma is one mystery we must solve." />
+	<String id="4929003" string="These positively tingle with power. Remarkable." />
+	<String id="4929004" string="&quot;Honored to be service.&quot;" />
+	<String id="4929005" string="Collect cyasma cylinders around {@Rgn:49001}." />
+	<String id="4929006" string="Deliver the cylinders to {@LinkCreature:76#1020}." />
+</StrSheet_Quest>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1307001" string="Live by the Sword" />
+	<String id="1307002" string="Kirash watches from the western edge of the encampment." />
+	<String id="1307003" string="What are we not seeing?" />
+	<String id="1307004" string="&quot;Yes, sir!&quot;" />
+	<String id="1307005" string="Check in with Kirash somewhere south of Leander's Outpost." />
+	<String id="1307006" string="Clue to Orcan Plans" />
+	<String id="1307007" string="Kill a dark marauder and look for clues." />
+	<String id="1307008" string="Deliver the document to Kirash." />
+	<String id="1307009" string="&quot;Right away!&quot;" />
+	<String id="1307010" string="&quot;For the federation!&quot;" />
+	<String id="1307011" string="Report to Leander at the outpost." />
+</StrSheet_Quest>

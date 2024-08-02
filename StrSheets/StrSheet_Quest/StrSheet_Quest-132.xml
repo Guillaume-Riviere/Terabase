@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="605001" string="Some Gave All" />
+	<String id="605002" string="&quot;As ordered.&quot;" />
+	<String id="605003" string="Talk to Isla." />
+	<String id="605004" string="&quot;Rest, soldier. You will be avenged!&quot;" />
+	<String id="605005" string="&quot;I'm sorry, friend. You deserved better.&quot;" />
+	<String id="605006" string="&quot;Rest easy, soldier. Your duty is done.&quot;" />
+	<String id="605007" string="Search for the missing scouts." />
+	<String id="605008" string="&quot;I'll...pass that along.&quot;" />
+	<String id="605009" string="Find the remaining scout who may still be alive." />
+	<String id="605010" string="&quot;I'm sorry I didn't find them sooner.&quot;" />
+	<String id="605011" string="Take the report to Isla." />
+	<String id="605012" string="Take the report to Isla." />
+	<String id="605013" string="&quot;I understand.&quot;" />
+</StrSheet_Quest>

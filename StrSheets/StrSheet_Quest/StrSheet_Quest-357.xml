@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1333001" string="Twice the Bark, Twice the Bite" />
+	<String id="1333002" string="The cromos does not display pack tactics. Why is that?" />
+	<String id="1333003" string="The analysis is nearly complete." />
+	<String id="1333004" string="Power Gauge" />
+	<String id="1333005" string="Recover power gauges from cromoses near Leander's Outpost." />
+	<String id="1333006" string="Take the gauges to Jehan." />
+	<String id="1333007" string="&quot;Just doing my part.&quot;" />
+</StrSheet_Quest>

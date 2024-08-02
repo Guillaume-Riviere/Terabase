@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="343001" string="Barking up the Wrong Tree" />
+	<String id="343002" string="Bring me some Ghilliedhu Root before Parlan kicks my ass." />
+	<String id="343003" string="Rushal shouldn't worry so much." />
+	<String id="343004" string="Ghilliedhu Root" />
+	<String id="343005" string="Collect roots from ghilliedhus in the Bestial Vale." />
+	<String id="343006" string="Deliver the roots to Rushal." />
+	<String id="343007" string="&quot;I'd be happy to.&quot;" />
+	<String id="343008" string="Rushal" />
+	<String id="343009" string="Ghilliedhu Root" />
+	<String id="343010" string="Deliver the roots to Parlan." />
+	<String id="343011" string="&quot;Thanks very much.&quot;" />
+</StrSheet_Quest>

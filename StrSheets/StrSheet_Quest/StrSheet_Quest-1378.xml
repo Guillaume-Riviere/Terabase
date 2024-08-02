@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5637001" string="Nevermore" />
+	<String id="5637002" string="Kill them, then end that ritual!" />
+	<String id="5637003" string="If only we could have stopped them before." />
+	<String id="5637004" string="More blood! Sikander must hear us!" />
+	<String id="5637005" string="Awake, Sikander! Awake...." />
+	<String id="5637006" string="Kill the dedicants and clear your way to the altar." />
+	<String id="5637007" string="&quot;Someone had to.&quot;" />
+	<String id="5637008" string="Report your victory to Arshak." />
+</StrSheet_Quest>

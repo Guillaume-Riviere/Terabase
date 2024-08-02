@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="735001" string="A Tiny Bit of Sabotage" />
+	<String id="735002" string="At least we can hope to slow them down." />
+	<String id="735003" string="They'll be a while catching up after this." />
+	<String id="735004" string="&quot;Happy to help.&quot;" />
+	<String id="735005" string="Steal toolboxes from the Cardovek Remnants to hinder the Scions of Lok." />
+	<String id="735006" string="Deliver the toolboxes to Meridien." />
+</StrSheet_Quest>

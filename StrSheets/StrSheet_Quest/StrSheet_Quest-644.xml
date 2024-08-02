@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2531001" string="A King-Sized Pet" />
+	<String id="2531002" string="You don't want to fight them alone." />
+	<String id="2531003" string="That's the fimbrilisk problem sorted!" />
+	<String id="2531004" string="Creature's Core" />
+	<String id="2531005" string="Eliminate cruel fimbrilisks and collect the creature's core." />
+	<String id="2531006" string="Report to Culetta at the Vindicator Redoubt." />
+	<String id="2531007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

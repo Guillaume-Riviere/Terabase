@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1310001" string="A Clue in the Dark" />
+	<String id="1310002" string="Adria will be waiting for Jehan's report." />
+	<String id="1310003" string="&quot;Thanks. I appreciate it.&quot;" />
+	<String id="1310004" string="Get the report from Jehan." />
+	<String id="1310005" string="Jehan" />
+	<String id="1310006" string="Expedition Report" />
+	<String id="1310007" string="Take the report to Adria as fast as possible." />
+	<String id="1310008" string="&quot;On my way.&quot;" />
+	<String id="1310009" string="&quot;For the federation!&quot;" />
+	<String id="1310010" string="Speak to Councilor Teil." />
+</StrSheet_Quest>

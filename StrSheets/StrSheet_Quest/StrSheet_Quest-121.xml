@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="541001" string="Tearing Down Tuwangi" />
+	<String id="541002" string="Death to the Frogriders!" />
+	<String id="541003" string="You really have been a tremendous help." />
+	<String id="541004" string="Captain's Axe" />
+	<String id="541005" string="Kill tuwangi frogriders and collect their axes." />
+	<String id="541006" string="Report to Mitany." />
+	<String id="541007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

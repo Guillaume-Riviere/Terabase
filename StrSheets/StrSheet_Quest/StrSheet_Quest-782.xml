@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3321001" string="Gift of the Magi-Gone-Awry" />
+	<String id="3321002" string="Hurry! We mustn't lose our teams in the citadel!" />
+	<String id="3321003" string="I hope I've enough magic to protect us." />
+	<String id="3321004" string="&quot;Sounds like fun.&quot;" />
+	<String id="3321005" string="Exit Acarum and head south to the Citadel of Torment. Report to Meygren at the Gloomhaunt Sentry Post." />
+	<String id="3321006" string="Bloodstained Hairbrush" />
+	<String id="3321007" string="Who's there?" />
+	<String id="3321008" string="More of the mud races. Typical..." />
+	<String id="3321009" string="This cannot be!" />
+	<String id="3321010" string="Deathshead Pocketwatch" />
+	<String id="3321011" string="Who goes there?" />
+	<String id="3321012" string="Collect the necessary items from the second and third floors." />
+	<String id="3321013" string="Bring the items to Meygren." />
+	<String id="3321014" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

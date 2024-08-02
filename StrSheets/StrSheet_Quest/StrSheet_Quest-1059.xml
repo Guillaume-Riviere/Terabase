@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4536001" string="Tuwangis and Toads" />
+	<String id="4536002" string="There are too many of them to count." />
+	<String id="4536003" string="It smells better around here already." />
+	<String id="4536004" string="Kill {@creature:45#2003#argonomorph frogmasters} and {@creature:45#2002#argonomorph horntoads} in the {@Rgn:45003$$Vale of the Reaper}." />
+	<String id="4536005" string="&quot;Just doing my duty.&quot;" />
+	<String id="4536006" string="Report to {@Creature:245#1001$$Abia} at {@Rgn:45007$$Field Base Tenacity}." />
+</StrSheet_Quest>

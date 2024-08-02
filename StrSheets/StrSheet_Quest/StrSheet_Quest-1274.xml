@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5235001" string="The Pavor Favor" />
+	<String id="5235002" string="See you when...if...you get back." />
+	<String id="5235003" string="I can't believe it..." />
+	<String id="5235004" string="Tersa's Head" />
+	<String id="5235005" string="I'll await you after death..." />
+	<String id="5235006" string="Everything according to plan..." />
+	<String id="5235007" string="Go to the snow fields south of the Gravewatch of the Exiled and eliminate the Priest of Nightmares, Tersa." />
+	<String id="5235008" string="Bring Tersa's head to Krok." />
+	<String id="5235009" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

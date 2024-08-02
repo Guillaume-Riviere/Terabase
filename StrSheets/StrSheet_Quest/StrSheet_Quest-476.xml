@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1828001" string="The Core of the Dead" />
+	<String id="1828002" string="For the federation!" />
+	<String id="1828003" string="Well done!" />
+	<String id="1828004" string="Dead Core" />
+	<String id="1828005" string="Initializing destruction sequence." />
+	<String id="1828006" string="Destroy the rubblemaker golems near Seitch Bidaum and collect the dead cores." />
+	<String id="1828007" string="Bring the Dead Cores to Centurion Anaka at Seitch Bidaum." />
+	<String id="1828008" string="&quot;It was my pleasure.&quot;" />
+</StrSheet_Quest>

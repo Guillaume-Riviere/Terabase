@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="50511001" string="[Apex] 72 Hours Earlier" />
+	<String id="50511002" string="&quot;I'll go. I think they need me.&quot;" />
+	<String id="50511003" string="Talk to Seir." />
+	<String id="50511004" string="&quot;Consider it done.&quot;" />
+	<String id="50511005" string="Speak to Maius." />
+	<String id="50511006" string="&quot;I'll do what I can.&quot;" />
+	<String id="50511007" string="Speak to Bellenun." />
+	<String id="50511008" string="Elenea" />
+	<String id="50511009" string="Find Verdas, and send the troops back to Velika." />
+	<String id="50511010" string="Talk to Bellenun to teleport to Elenea." />
+	<String id="50511011" string="&quot;I'll take a look. Thanks.&quot;" />
+	<String id="50511012" string="Ask Lossina about Verdas and the Velika troops." />
+</StrSheet_Quest>

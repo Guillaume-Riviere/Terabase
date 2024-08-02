@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1306001" string="Traces of Darkness" />
+	<String id="1306002" string="The stubbornness of some is beyond imagining!" />
+	<String id="1306003" string="What does this all mean?" />
+	<String id="1306004" string="" />
+	<String id="1306005" string="Magical Power Gauge" />
+	<String id="1306006" string="Take gauges to Eria." />
+	<String id="1306007" string="&quot;See you there!&quot;" />
+	<String id="1306008" string="&quot;I like that plan.&quot;" />
+	<String id="1306009" string="Speak to Leander." />
+	<String id="1306010" string="Shrine of Yurian" />
+	<String id="1306011" string="Found Shrine of Yurian." />
+	<String id="1306012" string="Look for Leander at the Shrine of Yurian on the small hill south of the outpost." />
+	<String id="1306013" string="&quot;As soon as I can.&quot;" />
+	<String id="1306014" string="See what Leander has to say." />
+	<String id="1306015" string="" />
+	<String id="1306016" string="A Blade to Remember" />
+	<String id="1306017" string="Return to Eria with the sword." />
+	<String id="1306018" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

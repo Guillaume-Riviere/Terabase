@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1239001" string="Stolen Weapons" />
+	<String id="1239002" string="Victory for Valkyon!" />
+	<String id="1239003" string="For the federation!" />
+	<String id="1239004" string="&quot;Happy to help.&quot;" />
+	<String id="1239005" string="Retrieve stolen weapon chests from Sandbar Beach." />
+	<String id="1239006" string="Return to Azkarius at the Vindicator Outpost." />
+</StrSheet_Quest>

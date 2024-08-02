@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1029001" string="Scales of Justice" />
+	<String id="1029002" string="I wouldn't take on a naga battlemaster alone." />
+	<String id="1029003" string="Is that a scale from a battlemaster?" />
+	<String id="1029004" string="Naga Scale" />
+	<String id="1029005" string="Go to the South Kerozen Isle and collect scales from naga battlemasters." />
+	<String id="1029006" string="Deliver the scales to Ecryl at the Beachhead." />
+	<String id="1029007" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

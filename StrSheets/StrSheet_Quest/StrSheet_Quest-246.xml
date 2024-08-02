@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1028001" string="Reach the Beach" />
+	<String id="1028002" string="Keep your head above water!" />
+	<String id="1028003" string="Sure, the jungle'll kill you in a hearbeat, but the view is amazing." />
+	<String id="1028004" string="&quot;As ordered!&quot;" />
+	<String id="1028005" string="Report to Ecryl at the Beachhead." />
+	<String id="1028006" string="&quot;Let's get to it!&quot;" />
+	<String id="1028007" string="Speak with Edine." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4845001" string="Cut off the Head" />
+	<String id="4845002" string="Those factors are dangerous and cunning. Watch yourself." />
+	<String id="4845003" string="With that cursed machine lifeless, we can try for a breakthrough!" />
+	<String id="4845004" string="Navashad Control Module" />
+	<String id="4845005" string="Kill the dread factors and recover the navashad control module." />
+	<String id="4845006" string="&quot;For the federation!&quot;" />
+	<String id="4845007" string="Bring the navashad control module to {@LinkCreature:248#1012}." />
+</StrSheet_Quest>

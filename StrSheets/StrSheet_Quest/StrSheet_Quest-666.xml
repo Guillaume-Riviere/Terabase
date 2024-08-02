@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2803001" string="Shakan, Not Stirred" />
+	<String id="2803002" string="&quot;I'll do my best.&quot;" />
+	<String id="2803003" string="Find Gwahre in Tria." />
+	<String id="2803004" string="Kill thorny timberwolves in Blightwood, south of Tria." />
+	<String id="2803005" string="&quot;I'm on it.&quot;" />
+	<String id="2803006" string="Report to {@linkcreature:70#1032#Javelle} outside Tria." />
+	<String id="2803007" string="Wolf Fang" />
+	<String id="2803008" string="Collect fangs from the smokepaw timberwolves en route to Camp Zakai." />
+	<String id="2803009" string="Deliver the fangs to Anarie at Camp Zakai." />
+	<String id="2803010" string="&quot;I'm on my way.&quot;" />
+	<String id="2803011" string="Amelioration Agent" />
+	<String id="2803012" string="Deliver the amelioration agent to Lasiren at the Garbi Outpost. " />
+	<String id="2803013" string="&quot;I'm on it.&quot;" />
+	<String id="2803014" string="Eliminate the tainted jalmaraks interfering with the purifiers." />
+	<String id="2803015" string="Reactivate the purifiers around the pool south of Garbi Outpost." />
+	<String id="2803016" string="&quot;I'll see what I can do.&quot;" />
+	<String id="2803017" string="Report to Lasiren that the purifiers are active." />
+	<String id="2803018" string="Eliminate Gaist and end the wraith's reign of terror." />
+	<String id="2803019" string="&quot;Okay, I'm on my way.&quot;" />
+	<String id="2803020" string="Take the bracelet you found to Lasiren." />
+	<String id="2803021" string="Take the bracelet you found to Lasiren." />
+	<String id="2803022" string="Ancient Bracelet" />
+	<String id="2803023" string="Take the ancient bracelet to Gwahre." />
+	<String id="2803024" string="&quot;I'll talk to him.&quot;" />
+	<String id="2803025" string="Gwahre" />
+	<String id="2803026" string="Ancient Bracelet" />
+	<String id="2803027" string="Take the ancient bracelet to Erlon at Woodstrider Point. " />
+	<String id="2803028" string="&quot;I see.&quot;" />
+	<String id="2803029" string="&quot;Let's do this.&quot;" />
+	<String id="2803030" string="Speak with Erlon in Timeless Woods." />
+	<String id="2803031" string="&quot;Thanks.&quot;" />
+	<String id="2803032" string="Approach the ritual site." />
+	<String id="2803033" string="Demons are wandering the woods." />
+	<String id="2803034" string="Go to Shakan's Altar at Startree Forest in Timeless Woods." />
+	<String id="2803035" string="For the glory of Thulsa!" />
+	<String id="2803036" string="Forgive me, Thulsa!" />
+	<String id="2803037" string="Save Artania!" />
+	<String id="2803038" string="I have failed." />
+	<String id="2803039" string="Eliminate Artania and Limcadus." />
+	<String id="2803040" string="Ancient Bracelet" />
+	<String id="2803041" string="Place the ancient bracelet upon the Altar of Shakan." />
+	<String id="2803042" string="Leave the altar." />
+	<String id="2803043" string="Answer the call." />
+	<String id="2803044" string="Shakan's Altar calls to you." />
+	<String id="2803045" string="Offer a prayer." />
+	<String id="2803046" string="&quot;I'm glad I could help.&quot;" />
+	<String id="2803047" string="Report to Gwahre in Tria." />
+</StrSheet_Quest>

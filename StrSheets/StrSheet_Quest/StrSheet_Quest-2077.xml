@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61907001" string="[Fishing] Something Fishy This Way Comes" />
+	<String id="61907002" string="&quot;Thanks for the design.&quot;" />
+	<String id="61907003" string="Go to {@linkcreature:62#1024#Dirken} in Cutthroat Harbor." />
+	<String id="61907004" string="&quot;I got it.&quot;" />
+	<String id="61907005" string="Deliver Steamed Fish x1 to {@linkcreature:62#1024#Dirken}." />
+	<String id="61907006" string="" />
+	<String id="61907007" string="&quot;I got it.&quot;" />
+	<String id="61907008" string="Go to {@linkcreature:62#1024#Dirken} in Cutthroat Harbor." />
+	<String id="61907009" string="Investigate the Halluweed." />
+	<String id="61907010" string="&quot;I got it.&quot;" />
+	<String id="61907011" string="Gather three Halluweed Petals." />
+	<String id="61907012" string="" />
+	<String id="61907013" string="&quot;I got it.&quot;" />
+	<String id="61907014" string="Catch three Funky Fresh Fish at the Cutthroat Harbor Fishery, using Halluweed as bait." />
+	<String id="61907015" string="" />
+	<String id="61907016" string="&quot;Let's go.&quot;" />
+	<String id="61907017" string="Go to {@linkcreature:62#1026#Zaira} in Cutthroat Harbor." />
+	<String id="61907018" string="&quot;I got it.&quot;" />
+	<String id="61907019" string="&quot;I got it.&quot;" />
+	<String id="61907020" string="Go to {@linkcreature:62#1043#Zaira} in Southern Cutthroat Harbor." />
+	<String id="61907021" string="Place the Funky Fresh Fish on the altar." />
+	<String id="61907022" string="&quot;Wait...that smell...&quot;" />
+	<String id="61907023" string="Aaaaghhh!" />
+	<String id="61907024" string="&quot;Leave these pirates to me.&quot;" />
+	<String id="61907025" string="&quot;I got it.&quot;" />
+	<String id="61907026" string="Go to {@linkcreature:62#1043#Zaira} in Southern Cutthroat Harbor." />
+	<String id="61907027" string="Claim the reward." />
+	<String id="61907028" string="Go to {@linkcreature:62#1024#Dirken} in Cutthroat Harbor." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200020001" string="Research Activity I" />
+	<String id="200020002" string="&quot;I suppose.&quot;" />
+	<String id="200020003" string="" />
+	<String id="200020004" string="" />
+	<String id="200020005" string="Jewel Gland" />
+	<String id="200020006" string="Hunt Mournwings in Crystal Canyon and collect their Jewel Glands." />
+	<String id="200020007" string="Speak with Amarre." />
+	<String id="200020008" string="&quot;All right.&quot;" />
+</StrSheet_Quest>

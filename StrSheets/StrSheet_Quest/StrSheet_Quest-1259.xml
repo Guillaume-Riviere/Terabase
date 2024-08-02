@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5205001" string="The Harbinger of Annihilation" />
+	<String id="5205002" string="Thank you very much! Let's continue to fight together, my friend!" />
+	<String id="5205003" string="It's time to move on to Kelsaik's Nest." />
+	<String id="5205004" string="Find another teleportal in Vale of Spires that has traces of Thulsa's magic." />
+	<String id="5205005" string="Kelsaik's Nest" />
+	<String id="5205006" string="Let's go after Thulsa!" />
+	<String id="5205007" string="Use the {@LinkCreature:251#1502#Teleportal} to go to Kelsaik's Nest.&#10;[You must select Kelsaik's Nest (Solo) from the {@LinkCreature:251#1502#Teleportal} to advance this quest.]  " />
+	<String id="5205008" string="Destroy Kelsaik." />
+	<String id="5205009" string="Entrance to Kelsaik's Nest" />
+	<String id="5205010" string="Someone is hiding behind a barricade." />
+	<String id="5205011" string="Use the {@LinkCreature:3010#5001#Teleportal} to exit Kelsaik's Nest." />
+	<String id="5205012" string="&quot;Right. Okay.&quot;" />
+	<String id="5205013" string="Tell {@linkcreature:251#1042#Jelena} what happened at Kelsaik's Nest." />
+	<String id="5205014" string="&quot;Let's go.&quot;" />
+	<String id="5205015" string=" Console {@linkcreature:240#1050#Jelena}. " />
+	<String id="5205016" string="&quot;I understand.&quot;" />
+	<String id="5205017" string="&quot;Right. Okay.&quot;" />
+	<String id="5205018" string="Tell {@linkcreature:84#1088#Yunari} that you have good news. " />
+	<String id="5205019" string="&quot;I see.&quot;" />
+	<String id="5205020" string="Report the deaths of Thulsa, Killian, and the rampant Kelsaik to Kaia at Kaiator Command Center.&#10;[Speak to {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="5205021" string="&quot;Thank you.&quot;" />
+	<String id="5205022" string="Report the deaths of Thulsa, Killian, and the rampant Kelsaik to Commander Tamur." />
+</StrSheet_Quest>

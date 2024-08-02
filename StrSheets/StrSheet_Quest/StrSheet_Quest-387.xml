@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1384001" string="Getting to Know the Garrison" />
+	<String id="1384002" string="It's good to get to know the people around here." />
+	<String id="1384003" string="Go to Milene." />
+	<String id="1384004" string="Find and speak with Rutgar." />
+	<String id="1384005" string="&quot;Understood.&quot;" />
+	<String id="1384006" string="Learn about campfires and Stamina from Milene." />
+	<String id="1384007" string="Set up a campfire and recharge until your Stamina reaches 120%." />
+	<String id="1384008" string="Your Stamina has been fully restored!" />
+	<String id="1384009" string="I will." />
+	<String id="1384010" string="Learn about campfires and Stamina from Milene." />
+	<String id="1384011" string="Use the onslaught charm at the campfire." />
+	<String id="1384012" string="You have used an onslaught charm!" />
+	<String id="1384013" string="&quot;Thank you.&quot;" />
+	<String id="1384014" string="Successfully used charm. Talk to Milene for additional information." />
+</StrSheet_Quest>

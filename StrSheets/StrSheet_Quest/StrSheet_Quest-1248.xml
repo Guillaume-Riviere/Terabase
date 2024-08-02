@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5171001" string="(Guild) Suppression Orders: Wendigos" />
+	<String id="5171002" string="Proof of Kill: Wendigos" />
+	<String id="5171003" string="&quot;Thank you.&quot;" />
+	<String id="5171004" string="Kill the dominated wendigos west of Icebase Defiance." />
+	<String id="5171005" string="Report to Raneria in Habere." />
+</StrSheet_Quest>

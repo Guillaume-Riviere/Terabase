@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200303001" string="[Important] Engine Shutdown" />
+	<String id="200303002" string="&quot;Let's do this.&quot;" />
+	<String id="200303003" string="Speak with Jelena by the Engine Room door." />
+	<String id="200303004" string="Use the teleportal to go to the Engine Room." />
+	<String id="200303005" string="Engine Room Control System" />
+	<String id="200303006" string="You found the Control System." />
+	<String id="200303007" string="Find the Control System in the Engine Room." />
+	<String id="200303008" string="&quot;I'll go left.&quot;" />
+	<String id="200303009" string="Speak with Jelena in the Engine Room." />
+	<String id="200303010" string="Engine Room" />
+	<String id="200303011" string="The enemy are here." />
+	<String id="200303012" string="Search how to go upstairs." />
+	<String id="200303013" string="Defeat the Draakon guards." />
+	<String id="200303014" string="Search how to go upstairs." />
+	<String id="200303015" string="Defeat the Azart guards." />
+	<String id="200303016" string="&quot;Let's destroy the control system.&quot;" />
+	<String id="200303017" string="Use the {@LinkCreature:2103#5000#teleportal} to go upstairs and speak with Jelena." />
+	<String id="200303018" string="Stop one of the Core control systems." />
+	<String id="200303019" string="Canyon Trail" />
+	<String id="200303020" string="Elleon has arrived." />
+	<String id="200303021" string="Go to the main control system." />
+	<String id="200303022" string="&quot;Exactly.&quot;" />
+	<String id="200303023" string="Speak with Elleon." />
+	<String id="200303024" string="Help Titus plant the bomb." />
+	<String id="200303025" string="Canyon Trail" />
+	<String id="200303026" string="You hear an explosion." />
+	<String id="200303027" string="Use the {@LinkCreature:2103#5001#teleportal} to go upstairs and to the center of the engine room." />
+	<String id="200303028" string="&quot;Don't strain yourself.&quot;" />
+	<String id="200303029" string="Check on Jelena." />
+	<String id="200303030" string="Defeat Kalligar." />
+	<String id="200303031" string="Shake his shoulder." />
+	<String id="200303032" string="Check on Elleon." />
+	<String id="200303033" string="Escape the Engine Room with Titus." />
+	<String id="200303034" string="Speak with Titus." />
+	<String id="200303035" string="Nod." />
+	<String id="200303036" string="Talk to Titus in Velika." />
+	<String id="200303037" string="Speak with Jelena." />
+	<String id="200303038" string="(You're speechless.)" />
+	<String id="200303039" string="Report to Seir." />
+</StrSheet_Quest>

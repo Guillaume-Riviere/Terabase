@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1929001" string="Suspicious Scene" />
+	<String id="1929002" string="Find those rocks." />
+	<String id="1929003" string="Something about this isn't right." />
+	<String id="1929004" string="Find the obelisk." />
+	<String id="1929005" string="Find the obelisk in the middle of Thrallfield." />
+	<String id="1929006" string="Small Black Rock" />
+	<String id="1929007" string="Impero Obelisk" />
+	<String id="1929008" string="Deliver the small black rock to Erina." />
+	<String id="1929009" string="&quot;I was glad to help.&quot;" />
+</StrSheet_Quest>

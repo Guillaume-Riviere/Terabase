@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18378001" string="[Battleground] To the Gridiron" />
+	<String id="18378002" string="&quot;Let's go to the Gridiron.&quot;" />
+	<String id="18378003" string="Report to Dougal in Highwatch." />
+	<String id="18378004" string="Gridiron" />
+	<String id="18378005" string="" />
+	<String id="18378006" string="Go to the Gridiron.&#10;Use Vanguard Requests [&lt;img src='img://__Icon_KeyboardShape.Keyboard_H' width='18' height='18' vspace='-6'>] or Instance Matching to find a Party." />
+	<String id="18378007" string="&quot;Thanks.&quot;" />
+	<String id="18378008" string="Report to Dougal and tell him about the incidents in the Gridiron. " />
+</StrSheet_Quest>

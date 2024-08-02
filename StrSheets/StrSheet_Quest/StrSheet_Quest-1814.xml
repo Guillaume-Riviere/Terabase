@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48922001" string="The Quality Is Superb" />
+	<String id="48922002" string="Don't you want to know what kind of secret weapons the cultists have?" />
+	<String id="48922003" string="These weapons have a mysterious power..." />
+	<String id="48922004" string="&quot;For the federation!&quot;" />
+	<String id="48922005" string="Collect cultist weapons inside the Cultists' Refuge.&#10;[You must select Cultists' Refuge (Solo) from {@LinkCreature:225#1023#Runha} to advance this quest.]    " />
+	<String id="48922006" string="Deliver cultist weapons to Nullu." />
+</StrSheet_Quest>

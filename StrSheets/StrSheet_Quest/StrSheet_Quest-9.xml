@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="222001" string="Keeping the Quota" />
+	<String id="222002" string="Take the timber to Weldon" />
+	<String id="222003" string="That's a lot of timber. Thanks." />
+	<String id="222004" string="&quot;For the federation!&quot;" />
+	<String id="222005" string="Gather the cut timber from the stacks near Woodcutter Palisade." />
+	<String id="222006" string="Deliver the cut timber to Weldon at the Woodcutter Palisade." />
+</StrSheet_Quest>

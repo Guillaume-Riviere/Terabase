@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1039001" string="An Aefra by any Other Name" />
+	<String id="1039002" string="I'll use the aefras to bait a trap for the nagas." />
+	<String id="1039003" string="Perfect!" />
+	<String id="1039004" string="&quot;Good hunting!&quot;" />
+	<String id="1039005" string="Gather aefras from red flowers in the Adderkin Jungle." />
+	<String id="1039006" string="Deliver the aefras to Thurdan at the Coastal Overwatch." />
+</StrSheet_Quest>

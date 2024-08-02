@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51012001" string="The Truth" />
+	<String id="51012002" string="&quot;Okay.&quot;" />
+	<String id="51012003" string="Hennika's Rendevous" />
+	<String id="51012004" string="It's a Raider flag." />
+	<String id="51012005" string="Go to Hennika's rendevous." />
+	<String id="51012006" string="(Examine another corpse.)" />
+	<String id="51012007" string="Examine the Raider corpse." />
+	<String id="51012008" string="(Examine another corpse.)" />
+	<String id="51012009" string="Examine the Raider corpse." />
+	<String id="51012010" string="Return to Hennika." />
+	<String id="51012011" string="Examine the Raider corpse." />
+	<String id="51012012" string="&quot;Okay.&quot;" />
+	<String id="51012013" string="Talk to Hennika." />
+</StrSheet_Quest>

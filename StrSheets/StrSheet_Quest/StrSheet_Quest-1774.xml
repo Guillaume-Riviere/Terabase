@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47322001" string="Serve Me and Live Forever" />
+	<String id="47322002" string="May Kaia's wrath be in your hands." />
+	<String id="47322003" string="Soon, Kaia will welcome you home." />
+	<String id="47322004" string="Soultrap Shard" />
+	<String id="47322005" string="Eliminate tower generals, general's escorts, tower decurions, and ebon zombies in the Ebon Tower.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.]" />
+	<String id="47322006" string="Bring the soultrap shards to Savinu in the cave near the Ebon Tower." />
+	<String id="47322007" string="&quot;I'd want the same.&quot;" />
+</StrSheet_Quest>

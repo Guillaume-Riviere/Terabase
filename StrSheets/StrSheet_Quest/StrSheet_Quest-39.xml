@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="304001" string="Find the Captain" />
+	<String id="304002" string="&quot;I understand.&quot;" />
+	<String id="304003" string="Talk to Chama again." />
+	<String id="304004" string="Devan Scouts" />
+	<String id="304005" string="Defeat the {@linkcreature:3#300151#Devan Scouts}." />
+	<String id="304006" string="&quot;I understand.&quot;" />
+	<String id="304007" string="Talk to Chama." />
+	<String id="304008" string="Stolen Money Bag" />
+	<String id="304009" string="Kill Devan Ruffians and retrieve Stolen Money Bags." />
+	<String id="304010" string="Return the bags to Chama." />
+	<String id="304011" string="&quot;I understand.&quot;" />
+	<String id="304012" string="Assualt Leaders" />
+	<String id="304013" string="These woods are mine!" />
+	<String id="304014" string="Aagh! H-how...?" />
+	<String id="304015" string="Prepare to die!" />
+	<String id="304016" string="Master Dakanius...!" />
+	<String id="304017" string="Defeat the {@linkcreature:3#13#Assault Leaders}." />
+	<String id="304018" string="&quot;I understand.&quot;" />
+	<String id="304019" string="Retrieve the Merchant's Chest." />
+	<String id="304020" string="Find Chama east of Bulwark Camp in Oblivion Woods." />
+	<String id="304021" string="Kill Agitated Sporewalkers on your way to Crescentia." />
+	<String id="304022" string="Merchant's Chest" />
+	<String id="304023" string="Report to Jodoc." />
+	<String id="304024" string="&quot;I hope you like it.&quot;" />
+</StrSheet_Quest>

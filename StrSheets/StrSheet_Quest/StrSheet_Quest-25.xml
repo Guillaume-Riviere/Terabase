@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="238001" string="Hunting the Big Cats" />
+	<String id="238002" string="Go take out some hulking sabertooths." />
+	<String id="238003" string="You did an excellent job." />
+	<String id="238004" string="Hunt hulking sabertooths around Faevine Vale Camp." />
+	<String id="238005" string="&quot;Just doing my part.&quot;" />
+	<String id="238006" string="Report to Teroz at Faevine Vale Camp." />
+</StrSheet_Quest>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60117001" string="Gratitude of the Invalesco" />
+	<String id="60117002" string="Nithan's looking for you." />
+	<String id="60117003" string="Please accept this with our thanks." />
+	<String id="60117004" string="&quot;You're welcome.&quot;" />
+	<String id="60117005" string="Speak with {@LinkCreature:77#3001#Nithan}." />
+</StrSheet_Quest>

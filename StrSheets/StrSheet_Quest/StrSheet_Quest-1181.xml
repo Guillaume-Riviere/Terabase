@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4945001" string="Watch Out" />
+	<String id="4945002" string="Oversee their demise." />
+	<String id="4945003" string="It might be time to strike the portal directly." />
+	<String id="4945004" string="Kill the akalath overseers around the {@Rgn:49004}." />
+	<String id="4945005" string="&quot;For the federation!&quot;" />
+	<String id="4945006" string="Report back to {@LinkCreature:76#1033}." />
+</StrSheet_Quest>

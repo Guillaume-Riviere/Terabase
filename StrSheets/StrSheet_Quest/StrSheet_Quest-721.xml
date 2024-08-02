@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3101001" string="The Traitor of Acarum" />
+	<String id="3101002" string="&quot;I understand.&quot;" />
+	<String id="3101003" string="Report to Fraya at Allemantheia Headquarters.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter.]" />
+	<String id="3101004" string="&quot;I understand.&quot;" />
+	<String id="3101005" string="Speak with Commander Fraya again." />
+	<String id="3101006" string="&quot;I understand.&quot;" />
+	<String id="3101007" string="Travel to Acarum in Westonia and speak with Harule." />
+	<String id="3101008" string="&quot;I understand.&quot;" />
+	<String id="3101009" string="&quot;I understand.&quot;" />
+	<String id="3101010" string="&quot;I understand.&quot;" />
+	<String id="3101011" string="&quot;I understand.&quot;" />
+	<String id="3101012" string="Ask a few of Acarum's citizens and Kaidun's former soldiers about Kaidun." />
+	<String id="3101013" string="&quot;Right. Okay.&quot;" />
+	<String id="3101014" string="Go to Harule in Acarum." />
+	<String id="3101015" string="&quot;What if we investigate the bodies of Kaidun's army?&quot;" />
+	<String id="3101016" string="What's the medium?" />
+	<String id="3101017" string="Speak with Harule again." />
+	<String id="3101018" string="&quot;I understand.&quot;" />
+	<String id="3101019" string="For Kaidun! For Thulsa!" />
+	<String id="3101020" string="Where...how did I..." />
+	<String id="3101021" string="Federation dog!" />
+	<String id="3101022" string="Who...am I?" />
+	<String id="3101023" string="Eliminate the Sihran fighters and berserkers in Daunting Pass." />
+	<String id="3101024" string="Remove the gem." />
+	<String id="3101025" string="Remove the gem." />
+	<String id="3101026" string="Remove the gem." />
+	<String id="3101027" string="Remove the gem." />
+	<String id="3101028" string="Investigate the corpses of Kaidun soldiers at Daunting Pass." />
+	<String id="3101029" string="&quot;Right. Okay.&quot;" />
+	<String id="3101030" string="Bring the gems from the corpses of Kaidun's soldiers to Harule in Acarum." />
+	<String id="3101031" string="&quot;I understand.&quot;" />
+	<String id="3101032" string="Go to Harule in Acarum and ask how to lift {@linkcreature:32#16#Ghufran}'s curse." />
+	<String id="3101033" string="&quot;I understand.&quot;" />
+	<String id="3101034" string="Bring the gems from the corpses of Kaidun's soldiers to Nania at Holdouts' Redoubt." />
+	<String id="3101035" string="Bring the gems from the corpses of Kaidun's soldiers to Nania at Holdouts' Redoubt." />
+	<String id="3101036" string="&quot;I understand.&quot;" />
+	<String id="3101037" string="Get the jellied decursive from Nania." />
+	<String id="3101038" string="I will." />
+	<String id="3101039" string="Thank you." />
+	<String id="3101040" string="Find Ghufran in the mercenary camp near Holdouts' Redoubt. Use the jellied decursive when his HP is at 30% to break Thulsa's control, then escort him safely to Holdouts' Redoubt." />
+	<String id="3101041" string="&quot;I understand.&quot;" />
+	<String id="3101042" string="Go to the Holdouts' Redoubt and ask Ghufran what happened to Kaidun." />
+	<String id="3101043" string="Head of the Traitor" />
+	<String id="3101044" string="Eliminate the false Kaidun in his hillside fortress." />
+	<String id="3101045" string="Bring the head of the traitor back to Nania." />
+	<String id="3101046" string="&quot;I understand.&quot;" />
+	<String id="3101047" string="Head of the Traitor" />
+	<String id="3101048" string="Bring the imposter's head to Harule in Acarum." />
+	<String id="3101049" string="&quot;I understand.&quot;" />
+	<String id="3101050" string="&quot;I understand.&quot;" />
+	<String id="3101051" string="&quot;I understand.&quot;" />
+	<String id="3101052" string="&quot;I understand.&quot;" />
+	<String id="3101053" string="&quot;I understand.&quot;" />
+	<String id="3101054" string="Show the imposter's head to the people of Acarum." />
+	<String id="3101055" string="&quot;Thank you.&quot;" />
+	<String id="3101056" string="Travel to Allemantheia and report to Fraya.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter.]" />
+</StrSheet_Quest>

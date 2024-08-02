@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4602001" string="Sole Survivor" />
+	<String id="4602002" string="{@Rgn:9012001$$Three Towers Spires}" />
+	<String id="4602003" string="You've entered the {@Rgn:9012001$$Three Towers Spires}." />
+	<String id="4602004" string="Use the {@linkcreature:246#1502#teleportal} at {@Rgn:46009$$Three Towers Spires}: {@Rgn:46013$$Exetron} to enter the {@Rgn:9012001$$Three Towers Spires}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602005" string="Start searching." />
+	<String id="4602006" string="Hurry up!" />
+	<String id="4602007" string="Search the tunnels with {@linkcreature:412#2001#Greyden}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602008" string="&quot;Be careful.&quot;" />
+	<String id="4602009" string="Talk to {@linkcreature:412#2001#Greyden}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602010" string="Strange Sounds" />
+	<String id="4602011" string="You hear the sounds of battle up ahead." />
+	<String id="4602012" string="Start searching.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602013" string="Kill the argons attacking {@linkcreature:412#2005#Hasmina}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602014" string="&quot;I understand.&quot;" />
+	<String id="4602015" string="Talk to {@linkcreature:412#2005#Hasmina}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602016" string="Defeat Gilgash, the administrator of the {@Rgn:46001$$Three Towers Spires}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602017" string="Destroy the argon capsules that supply energy to the {@Rgn:46001$$Three Towers}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602018" string="&quot;Let's go.&quot;" />
+	<String id="4602019" string="Talk to {@linkcreature:412#2006#Hasmina}.&#10;[Inside the camp, you can reach the Shadowspark Chamber via the dungeon flight manager. In Exetron, there is a {@linkcreature:246#1502#teleportal} that you can use to get to the Three Towers Spires.]" />
+	<String id="4602020" string="&quot;I understand.&quot;" />
+	<String id="4602021" string="Report what happened at {@Rgn:9012001$$Three Towers Spires} to {@linkcreature:246#2001#Adeldur} in {@Rgn:46014$$Three Towers Research Base}." />
+	<String id="4602022" string="&quot;I understand.&quot;" />
+	<String id="4602023" string="Talk to {@linkcreature:246#2008#Hasmina} at {@Rgn:46014$$Three Towers Research Base}." />
+	<String id="4602024" string="&quot;I understand.&quot;" />
+	<String id="4602025" string="Talk to {@linkcreature:246#2008#Hasmina} again." />
+	<String id="4602026" string="&quot;I understand.&quot;" />
+	<String id="4602027" string="Deliver {@RawItem:45338$$Adeldur's report} to Commander {@linkcreature:528#5005#Tamur} at {@Rgn:84001$$Kaiator} Command Center.&#10;[Speak to {@linkcreature:84#1088#Yunari} to enter the Kaiator Command Center.]" />
+	<String id="4602028" string="&quot;Things will get better.&quot;" />
+	<String id="4602029" string="Talk to Velika Commander Gislan while Tamur is reading the report." />
+	<String id="4602030" string="&quot;I agree with you Tamur.&quot;" />
+	<String id="4602031" string="&quot;I doubt it's a trap.&quot;" />
+	<String id="4602032" string="Gislan seems to be troubled. Talk to Gislan." />
+	<String id="4602033" string="&quot;I'll give it a thought.&quot;" />
+	<String id="4602034" string="&quot;I'm sure Gislan will understand.&quot;" />
+	<String id="4602035" string="Report to {@linkcreature:528#5005#Tamur} about Gislan's suggestion." />
+	<String id="4602036" string="&quot;Thanks.&quot;" />
+	<String id="4602037" string="Deliver Tamur's order to Hasmina near {@Rgn:84001$$Kaiator} Command Center." />
+</StrSheet_Quest>

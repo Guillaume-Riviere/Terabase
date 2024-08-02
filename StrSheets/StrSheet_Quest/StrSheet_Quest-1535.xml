@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10028001" string="Forge This" />
+	<String id="10028002" string="&quot;Watch me work!&quot;" />
+	<String id="10028003" string="Craft metalcrafter's hauberks." />
+	<String id="10028004" string="Take the hauberks to Maius for inspection." />
+	<String id="10028005" string="" />
+	<String id="10028006" string="Metalcrafter's Hauberk" />
+	<String id="10028007" string="Deliver the hauberks to Arkaius in Cutthroat Harbor." />
+	<String id="10028008" string="&quot;Use them well!&quot;" />
+</StrSheet_Quest>

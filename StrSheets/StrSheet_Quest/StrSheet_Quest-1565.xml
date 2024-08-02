@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10058001" string="Alchemy Managed" />
+	<String id="10058002" string="&quot;I don't know, but thanks.&quot;" />
+	<String id="10058003" string="Speak to Lenka again." />
+	<String id="10058004" string="&quot;Glad to have helped.&quot;" />
+	<String id="10058005" string="Create medicated bandages with the juice of the fruit." />
+	<String id="10058006" string="Take the bandages to Tidak." />
+</StrSheet_Quest>

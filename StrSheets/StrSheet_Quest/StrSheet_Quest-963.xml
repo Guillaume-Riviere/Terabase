@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4022001" string="Violent Mycanars" />
+	<String id="4022002" string="There must be a reason behind the mycanars' aggression." />
+	<String id="4022003" string="Let's see these mycanodules..." />
+	<String id="4022004" string="Mycanodules" />
+	<String id="4022005" string="Hunt violent mycanars and retrieve their mycanodules." />
+	<String id="4022006" string="Deliver the mycanodules to Arnia." />
+	<String id="4022007" string="&quot;Thanks!&quot;" />
+</StrSheet_Quest>

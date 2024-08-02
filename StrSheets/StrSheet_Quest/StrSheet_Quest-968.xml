@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4027001" string="Thick as Thieves" />
+	<String id="4027002" string="What do they gain by all of this?" />
+	<String id="4027003" string="They're working with the arachnens?" />
+	<String id="4027004" string="&quot;I was only doing my duty.&quot;" />
+	<String id="4027005" string="Find anything suspicious at the selvaras base." />
+	<String id="4027006" string="Deliver the documents to Siera." />
+</StrSheet_Quest>

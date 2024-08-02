@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="8496001" string="[Battleground] To the Fraywind Canyon!" />
+	<String id="8496002" string="Fraywind Canyon is accessible through the Battleground Matching menu." />
+	<String id="8496003" string="For the honor of the federation." />
+	<String id="8496004" string="Win in the Fraywind Canyon" />
+	<String id="8496005" string="Winning in the Fraywind Canyon" />
+	<String id="8496006" string="&quot;For the federation.&quot;" />
+	<String id="8496007" string="Report to Emza in Kaiator Headquarters with the news of your victory" />
+</StrSheet_Quest>

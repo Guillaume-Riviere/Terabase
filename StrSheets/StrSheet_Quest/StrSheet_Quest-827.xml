@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3443001" string="Insert Foot, Pull Tab" />
+	<String id="3443002" string="The more I trap, the safer you'll be." />
+	<String id="3443003" string="These are perfect!" />
+	<String id="3443004" string="&quot;I'll take care of it.&quot;" />
+	<String id="3443005" string="Collect frostvine around the Screaming Snowfield." />
+	<String id="3443006" string="Bring the frostvine to Dhulfiq." />
+	<String id="3443007" string="Hesam" />
+	<String id="3443008" string="Frostvine Coil" />
+	<String id="3443009" string="Deliver the frostvine coil to Soniata at the Howling Glacier." />
+	<String id="3443010" string="&quot;I'm happy to help.&quot;" />
+</StrSheet_Quest>

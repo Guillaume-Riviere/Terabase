@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3131001" string="Sailor's Gold Coin" />
+	<String id="3131002" string="What do dead gulas need with coin?" />
+	<String id="3131003" string="The gold is mine!" />
+	<String id="3131004" string="Sailor's Gold Coin" />
+	<String id="3131005" string="Collect sailors' gold coins from the drowned gula sailors and bosuns." />
+	<String id="3131006" string="Deliver the sailors' gold coins to Goratong at the southern campsite on Frostclaw Lake." />
+	<String id="3131007" string="&quot;Thanks.&quot;" />
+</StrSheet_Quest>

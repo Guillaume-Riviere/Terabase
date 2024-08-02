@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3530001" string="Hide and Go Seek" />
+	<String id="3530002" string="Keep an eye out for her, will you?" />
+	<String id="3530003" string="I hope I'm not interrupting you." />
+	<String id="3530004" string="&quot;Right away.&quot;" />
+	<String id="3530005" string="Look for Wilene near the Zaeltarazad Shrine." />
+	<String id="3530006" string="Mekonari summoners east of Zaeltarazad Shrine are up to no good. Send them packing." />
+	<String id="3530007" string="&quot;For Wyrmgorge!&quot;" />
+	<String id="3530008" string="Find Ramsleigh's scout, Wilene, at Zaeltarazad Shrine." />
+	<String id="3530009" string="&quot;Glad to be of service.&quot;" />
+	<String id="3530010" string="Report to Tesran at Jagged Crest." />
+</StrSheet_Quest>

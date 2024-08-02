@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2145001" string="Eggs-cellent" />
+	<String id="2145002" string="Totally insane." />
+	<String id="2145003" string="Hmm...I wonder what they taste like fried up with some bacon?" />
+	<String id="2145004" string="&quot;Just doing my duty.&quot;" />
+	<String id="2145005" string="Collect basilisk eggs from the Vale of Graves." />
+	<String id="2145006" string="Report to Vaton at Desert Overwatch." />
+</StrSheet_Quest>

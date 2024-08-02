@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1071001" string="(Guild) Butchery Starts with Skinning" />
+	<String id="1071002" string="Riders' Hearts" />
+	<String id="1071003" string="&quot;For the federation!&quot;" />
+	<String id="1071004" string="Eliminate the naga clawriders at the Viper Strand and collect their hearts." />
+	<String id="1071005" string="Get reward from the village reward coordinator." />
+</StrSheet_Quest>

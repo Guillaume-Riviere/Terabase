@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5026001" string="A Gaggle of Gatherers" />
+	<String id="5026002" string="We must study this new argon form." />
+	<String id="5026003" string="This is worth a thorough investigation." />
+	<String id="5026004" string="Withered Heart" />
+	<String id="5026005" string="Kill the zomgul gatherers around the {@Rgn:50007} and search for clues." />
+	<String id="5026006" string="Report back to {@LinkCreature:250#1017}." />
+	<String id="5026007" string="&quot;We'll put an end to it.&quot;" />
+</StrSheet_Quest>

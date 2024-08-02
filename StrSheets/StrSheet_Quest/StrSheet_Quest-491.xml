@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1922001" string="Warthogs Ruin Everything" />
+	<String id="1922002" string="Stupid warthogs..." />
+	<String id="1922003" string="Good job." />
+	<String id="1922004" string="Eliminate the rummaging warthogs near Digory's Farmstead." />
+	<String id="1922005" string="&quot;I was glad to help.&quot;" />
+	<String id="1922006" string="Report to Cardis at Velik's Vigil." />
+</StrSheet_Quest>

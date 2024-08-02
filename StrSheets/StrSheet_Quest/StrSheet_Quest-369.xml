@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1346001" string="Sorcha's Reckless Challenge" />
+	<String id="1346002" string="Work together to beat this challenge!" />
+	<String id="1346003" string="I'm just glad she's safe—this time." />
+	<String id="1346004" string="Ah... That was close!" />
+	<String id="1346005" string="Take the teleportal to the Tainted Gorge Bridge, activate the magical device, and protect Sorcha for 7 minutes." />
+	<String id="1346006" string="&quot;You're welcome.&quot;" />
+	<String id="1346007" string="You've done it! Speak with Sorcha." />
+	<String id="1346008" string="&quot;For the federation!&quot;" />
+	<String id="1346009" string="Use the teleportal to return to the Tower Base and report to Jorhon." />
+</StrSheet_Quest>

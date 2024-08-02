@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3528001" string="Retrieve Weapons" />
+	<String id="3528002" string="You'll find them around the camp and the Vulcan lair." />
+	<String id="3528003" string="What's an army without arms?" />
+	<String id="3528004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="3528005" string="Collect weapons from garrison weapon stocks around Croskurn Approach." />
+	<String id="3528006" string="Deliver the garrison weapons to Geiran at Croskurn Approach." />
+</StrSheet_Quest>

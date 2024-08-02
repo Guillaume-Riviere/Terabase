@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1833001" string="Time Fragments" />
+	<String id="1833002" string="For the federation!" />
+	<String id="1833003" string="Thank you!" />
+	<String id="1833004" string="Marked Fragments" />
+	<String id="1833005" string="Engage." />
+	<String id="1833006" string="Collect fragments from the piledriver golems." />
+	<String id="1833007" string="Bring the fragments to Nangor." />
+	<String id="1833008" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

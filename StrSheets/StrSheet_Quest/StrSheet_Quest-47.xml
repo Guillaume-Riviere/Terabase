@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="328001" string="The Honored Dead" />
+	<String id="328002" string="Ohdi loves a good bone." />
+	<String id="328003" string="That should keep him busy for a while." />
+	<String id="328004" string="Sacred Bone" />
+	<String id="328005" string="Collect sacred bones from the undead in Berzerad Cemetery." />
+	<String id="328006" string="Return the bones to Corann." />
+	<String id="328007" string="&quot;I'm glad to be of service.&quot;" />
+</StrSheet_Quest>

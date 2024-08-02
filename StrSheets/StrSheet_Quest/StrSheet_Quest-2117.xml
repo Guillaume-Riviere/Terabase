@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70213001" string="[Pond Faire] Lilies and Drums" />
+	<String id="70213002" string="&quot;On my way.&quot;" />
+	<String id="70213003" string="&quot;I can do that.&quot;" />
+	<String id="70213004" string="Talk to Vedobo." />
+	<String id="70213005" string="Hand over the flowers." />
+	<String id="70213006" string="Collect pond lilies." />
+	<String id="70213007" string="Take the flowers to Vedobo." />
+	<String id="70213008" string="&quot;I can do that, too.&quot;" />
+	<String id="70213009" string="Talk to Kukuta." />
+	<String id="70213010" string="Play the Drum Away mini-game." />
+	<String id="70213011" string="&quot;That was almost music.&quot;" />
+	<String id="70213012" string="Talk to Kukuta." />
+</StrSheet_Quest>

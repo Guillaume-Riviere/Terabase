@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1027001" string="It's Flotsam...or Is It Jetsam" />
+	<String id="1027002" string="We need those weapons before they rust!" />
+	<String id="1027003" string="Whew! They're in great shape. Thank you!" />
+	<String id="1027004" string="&quot;For the federation!&quot;" />
+	<String id="1027005" string="Retrieve the weapon crates from the Boan Strand." />
+	<String id="1027006" string="Deliver the weapon crates to Edine." />
+</StrSheet_Quest>

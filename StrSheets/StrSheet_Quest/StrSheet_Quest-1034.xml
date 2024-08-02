@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4240001" string="The Mekonari Campaign" />
+	<String id="4240002" string="Ruffle those mekonari feathers!" />
+	<String id="4240003" string="The mekonaris always pick the wrong side of a fight." />
+	<String id="4240004" string="Kill mekonaris on the third level." />
+	<String id="4240005" string="&quot;Happy to help.&quot;" />
+	<String id="4240006" string="Speak with Darim." />
+</StrSheet_Quest>

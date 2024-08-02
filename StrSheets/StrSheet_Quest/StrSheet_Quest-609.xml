@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2426001" string="Scourge the Sands" />
+	<String id="2426002" string="Thin 'em out a little." />
+	<String id="2426003" string="Well done!" />
+	<String id="2426004" string="Hunt Sand Wind scavengers near the West Watchpost." />
+	<String id="2426005" string="&quot;They shouldn't bother you anymore.&quot;" />
+	<String id="2426006" string="Return to Loqa at the West Watchpost." />
+</StrSheet_Quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3226001" string="The Best Defense" />
+	<String id="3226002" string="These cursed Sihrans just won't give up!" />
+	<String id="3226003" string="Nicely done!" />
+	<String id="3226004" string="Follow the southern road to the Winterwolves Encampment and eliminate the Sihran defenders." />
+	<String id="3226005" string="&quot;On my way.&quot;" />
+	<String id="3226006" string="Report back to Nurdan at Dauntless Palisade." />
+	<String id="3226007" string="&quot;That was easy!&quot;" />
+	<String id="3226008" string="Deliver the news to Hallaj at the southern end of Mount Tyrannas." />
+</StrSheet_Quest>

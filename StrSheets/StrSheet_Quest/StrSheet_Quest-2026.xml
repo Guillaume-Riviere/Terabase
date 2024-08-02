@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60512001" string="Body Parts, Part Ew" />
+	<String id="60512002" string="&quot;An adventure?&quot;" />
+	<String id="60512003" string="" />
+	<String id="60512004" string="" />
+	<String id="60512005" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+	<String id="60512006" string="&quot;Put me to work.&quot;" />
+	<String id="60512007" string="Lash Parts" />
+	<String id="60512008" string="Hunt {@LinkCreature:12#13#Red Lash clawriders} on {@Rgn:12001#Mistmoor Island} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60512009" string="" />
+	<String id="60512010" string="&quot;Until next time.&quot;" />
+	<String id="60512011" string="Lash Parts" />
+	<String id="60512012" string="Hunt {@LinkCreature:12#17#Red Lash marauders} on {@Rgn:12001#Mistmoor Island} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60512013" string="" />
+	<String id="60512014" string="&quot;Until next time.&quot;" />
+	<String id="60512015" string="&quot;But of course.&quot;" />
+	<String id="60512016" string="Return to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

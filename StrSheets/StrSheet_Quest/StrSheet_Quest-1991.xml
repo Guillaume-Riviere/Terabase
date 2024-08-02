@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60305001" string="Shifting Wind" />
+	<String id="60305002" string="I bet it's more zariiks!" />
+	<String id="60305003" string="Finally! Someone worth the title of hunter. You've got a bright future with us." />
+	<String id="60305004" string="" />
+	<String id="60305005" string="" />
+	<String id="60305006" string="Find {@LinkCreature:250#3002#Sunkuvil} in {@Rgn:50001$$Granarkus}." />
+	<String id="60305007" string="&quot;Very much.&quot;" />
+	<String id="60305008" string="Eliminate {@LinkCreature:50#7#manaathol executors} southwest of {@Rgn:50003$$Helkir Grotto}." />
+	<String id="60305009" string="Cull the {@LinkCreature:50#11#zariik spodas} southeast of {@Rgn:50003$$Helkir Grotto}." />
+	<String id="60305010" string="&quot;Glad you shared.&quot;" />
+	<String id="60305011" string="Return to {@LinkCreature:250#3002#Sunkuvil}." />
+</StrSheet_Quest>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="19103001" string="A Heavy Burden" />
+	<String id="19103002" string="&quot;Will do.&quot;" />
+	<String id="19103003" string="Paesyn's location." />
+	<String id="19103004" string="Sabertooths threaten Paesyn!&lt;BR>" />
+	<String id="19103005" string="Find &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#41495, 22819, 6620&amp;type=1&amp;name=Paesyn&quot;>Paesyn&lt;/A>&lt;/font>." />
+	<String id="19103006" string="&quot;You got it.&quot;" />
+	<String id="19103007" string="Talk to Paesyn." />
+	<String id="19103008" string="Move out." />
+	<String id="19103009" string="Escort the supply wagon to Tempest Outpost." />
+	<String id="19103010" string="&quot;Then let's get to work.&quot;" />
+	<String id="19103011" string="Talk to Lorna." />
+</StrSheet_Quest>

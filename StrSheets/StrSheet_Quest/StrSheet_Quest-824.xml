@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3440001" string="Like Father, Like Son" />
+	<String id="3440002" string="He certainly doesn't listen to me." />
+	<String id="3440003" string="He's a good boy. He'll be a great man." />
+	<String id="3440004" string="&quot;All right, watch this!&quot;" />
+	<String id="3440005" string="Search the northern half of Screaming Snowfield for Shalim." />
+	<String id="3440006" string="Mugato Fang" />
+	<String id="3440007" string="Hunt down the frostguard mugato and mugato cubs." />
+	<String id="3440008" string="Speak with Shalim." />
+	<String id="3440009" string="&quot;Thank you.&quot;" />
+	<String id="3440010" string="&quot;Thank you.&quot;" />
+	<String id="3440011" string="Speak with Dhulfiq." />
+</StrSheet_Quest>

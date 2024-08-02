@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61909001" string="[Fishing] Big-Ass Fish Story" />
+	<String id="61909002" string="&quot;I got it.&quot;" />
+	<String id="61909003" string="Claim the reward." />
+	<String id="61909004" string="Catch a Fairy Snakehead for {@linkcreature:223#9906#Paparong} at the Lake of Tears Fishery." />
+	<String id="61909005" string="" />
+</StrSheet_Quest>

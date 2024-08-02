@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1625001" string="Hired Help" />
+	<String id="1625002" string="For the federation!" />
+	<String id="1625003" string="Victory for Valkyon!" />
+	<String id="1625004" string="Stalker Company Ring" />
+	<String id="1625005" string="Eliminate Stalker Company scouts, warriors, blademasters, and assassins around the Twisted Plains." />
+	<String id="1625006" string="Report to Pemo." />
+	<String id="1625007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

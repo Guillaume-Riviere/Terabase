@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10123001" string="Weighty Matters" />
+	<String id="10123002" string="&quot;I'll do it.&quot;" />
+	<String id="10123003" string="Go to Kunar in Kaiator." />
+	<String id="10123004" string="&quot;Okay.&quot;" />
+	<String id="10123005" string="Go to Rukeb in Habere." />
+	<String id="10123006" string="" />
+	<String id="10123007" string="Design: Muhrak's Hauberk" />
+	<String id="10123008" string="Bring it to Siorna." />
+	<String id="10123009" string="&quot;I'm happy I could help.&quot;" />
+</StrSheet_Quest>

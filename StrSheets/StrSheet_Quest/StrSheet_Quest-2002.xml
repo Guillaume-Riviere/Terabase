@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60407001" string="First Chance to See" />
+	<String id="60407002" string="Nature smiles." />
+	<String id="60407003" string="Aww! I think they like you!" />
+	<String id="60407004" string="" />
+	<String id="60407005" string="" />
+	<String id="60407006" string="Find {@LinkCreature:71#3018#Meiga} in {@Rgn:71001$$Bastion}." />
+	<String id="60407007" string="&quot;On my way.&quot;" />
+	<String id="60407008" string="&quot;Sounds easy.&quot;" />
+	<String id="60407009" string="Find {@LinkCreature:230#3003#Eiru}." />
+	<String id="60407010" string="&quot;I'll protect you!&quot;" />
+	<String id="60407011" string="Gree-eep! Gree-eep!" />
+	<String id="60407012" string="Safely guide a {@LinkCreature:230#3037#baby blue horn giant toad} from the stream back to {@LinkCreature:230#3003#Eiru}." />
+	<String id="60407013" string="&quot;Sounds easy!&quot;" />
+	<String id="60407014" string="Find {@LinkCreature:230#3024#Raidun} near the waterfall below Seren's Garden." />
+	<String id="60407015" string="&quot;You look healthy!&quot;" />
+	<String id="60407016" string="Search the stream for {@LinkCreature:230#3033#baby big tusk seals}." />
+	<String id="60407017" string="&quot;Let's not upset your mom.&quot;" />
+	<String id="60407018" string="Search the stream for {@LinkCreature:230#3034#baby big tusk seals}." />
+	<String id="60407019" string="&quot;How'd you get up here?&quot;" />
+	<String id="60407020" string="Search the stream for {@LinkCreature:230#3035#baby big tusk seals}." />
+	<String id="60407021" string="&quot;Thanks!&quot;" />
+	<String id="60407022" string="Report to {@LinkCreature:230#3003#Eiru}." />
+	<String id="60407023" string="&quot;Very true.&quot;" />
+	<String id="60407024" string="Report back to {@LinkCreature:230#3024#Raidun}." />
+</StrSheet_Quest>

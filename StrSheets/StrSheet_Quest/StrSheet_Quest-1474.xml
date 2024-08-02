@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="6381001" string="We Have the Technology" />
+	<String id="6381002" string="Hang on to these. You'll need them." />
+	<String id="6381003" string="&quot;Let's go shopping.&quot;" />
+	<String id="6381004" string="Report to {@linkcreature:63#1160} at {@Rgn:63009} in {@Rgn:63001}." />
+	<String id="6381005" string="&quot;I'm ready.&quot;" />
+	<String id="6381006" string="Buy 20 tier 3 alkahests from {@linkcreature:63#1103} in {@Rgn:63016}." />
+	<String id="6381007" string="Report to {@linkcreature:63#1605} at the {@Rgn:63003}." />
+</StrSheet_Quest>

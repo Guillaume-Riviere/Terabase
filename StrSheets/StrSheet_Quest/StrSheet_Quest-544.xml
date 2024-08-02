@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2139001" string="Attar Stones" />
+	<String id="2139002" string="Watch your back, soldier!" />
+	<String id="2139003" string="Impressive work!" />
+	<String id="2139004" string="Attar Stone" />
+	<String id="2139005" string="Collect attar stones from the vicious orisks." />
+	<String id="2139006" string="Deliver attar stones to Daien at the Barrens Outpost." />
+	<String id="2139007" string="&quot;It was no trouble.&quot;" />
+</StrSheet_Quest>

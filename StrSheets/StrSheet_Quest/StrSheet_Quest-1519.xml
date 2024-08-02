@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10012001" string="Walk Softly" />
+	<String id="10012002" string="&quot;Just happy to help!&quot;" />
+	<String id="10012003" string="Craft recruit's staves." />
+	<String id="10012004" string="Take the staves to Maius." />
+</StrSheet_Quest>

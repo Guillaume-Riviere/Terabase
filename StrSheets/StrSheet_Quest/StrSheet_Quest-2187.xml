@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="200221001" string="Ingredients" />
+	<String id="200221002" string="&quot;Alright.&quot;" />
+	<String id="200221003" string="" />
+	<String id="200221004" string="" />
+	<String id="200221005" string="Flexis Talon" />
+	<String id="200221006" string="Defeat Flexis Hunters and collect their talons." />
+	<String id="200221007" string="Speak with Amarre." />
+	<String id="200221008" string="&quot;I will.&quot;" />
+</StrSheet_Quest>

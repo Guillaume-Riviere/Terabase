@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3046001" string="Current Events" />
+	<String id="3046002" string="I feel like the world has passed me by." />
+	<String id="3046003" string="&quot;Thanks for your time.&quot;" />
+	<String id="3046004" string="&quot;I'll let him know.&quot;" />
+	<String id="3046005" string="&quot;I'll pass that along.&quot;" />
+	<String id="3046006" string="&quot;I understand.&quot;" />
+	<String id="3046007" string="[{@Rgn:30016$$Stronghold Camp}]&#10;Meet other races staying at the {@Rgn:30016$$Stronghold Camp}." />
+	<String id="3046008" string="&quot;For the federation.&quot;" />
+	<String id="3046009" string="Report to {@linkcreature:230#1047$$Nandu}." />
+</StrSheet_Quest>

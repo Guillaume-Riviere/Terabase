@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5034001" string="Finish What You Started" />
+	<String id="5034002" string="I'm so close to finishing my weapon." />
+	<String id="5034003" string="Relax. I can find it for you." />
+	<String id="5034004" string="Look for {@LinkCreature:250#1001} underground in Viridian Caverns." />
+	<String id="5034005" string="&quot;This sap smells terrible.&quot;" />
+	<String id="5034006" string="Collect the sap from the rati tree in the Viridian Caverns." />
+	<String id="5034007" string="" />
+	<String id="5034008" string="Rati Tree Sap" />
+	<String id="5034009" string="Deliver the sap to {@LinkCreature:250#1001} in Viridian Caverns." />
+	<String id="5034010" string="&quot;Return in triumph, young aman!&quot;" />
+</StrSheet_Quest>

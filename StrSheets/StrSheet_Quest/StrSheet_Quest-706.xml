@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3047001" string="I'm Gonna Let It Shine" />
+	<String id="3047002" string="I'd install more lanterns, but apparently they hurt the environment." />
+	<String id="3047003" string="Thank you so much." />
+	<String id="3047004" string="Ignite the &lt;font color='#0080FF'>&lt;A href=&quot;markmap:loc=7015#-9951.0674,80227.3594,-1331.6602&amp;type=1&amp;name=Stone Lantern&quot;>stone lanterns&lt;/A>&lt;/font> on the way to the {@Rgn:30016$$Stronghold Camp}." />
+	<String id="3047005" string="&quot;For the federation.&quot;" />
+	<String id="3047006" string="Report to {@linkcreature:230#1048$$Linok} at the {@Rgn:30015$$Archive Stronghold}." />
+</StrSheet_Quest>

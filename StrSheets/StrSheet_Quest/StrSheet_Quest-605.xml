@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2422001" string="Wretched Thirst" />
+	<String id="2422002" string="We need that water urgently." />
+	<String id="2422003" string="This will last for at least a few days." />
+	<String id="2422004" string="&quot;For the federation!&quot;" />
+	<String id="2422005" string="Go to the Abandoned Tent Village in the Desert of Plunder west of Tulufan, and retrieve the stolen water barrels." />
+	<String id="2422006" string="Return to Magistrate Turrek in Tulufan." />
+</StrSheet_Quest>

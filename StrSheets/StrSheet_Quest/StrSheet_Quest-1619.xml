@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17204001" string="The Sky Cruiser" />
+	<String id="17204002" string="&quot;I will.&quot;" />
+	<String id="17204003" string="&quot;I'll get it to him.&quot;" />
+	<String id="17204004" string="Speak with Zolyn." />
+	<String id="17204005" string="Sky Cruiser Actuator" />
+	<String id="17204006" string="Deliver the actuator to Dougal inside platform building." />
+	<String id="17204007" string="&quot;I understand.&quot;" />
+	<String id="17204008" string="&quot;Sounds good.&quot;" />
+	<String id="17204009" string="Talk to Dougal." />
+	<String id="17204010" string="Intrepid Corridor" />
+	<String id="17204011" string="Arrived at the corridor." />
+	<String id="17204012" string="Board Intrepid by talking to Pyon." />
+	<String id="17204013" string="&quot;She's incredible.&quot;" />
+	<String id="17204014" string="Talk to Dougal." />
+	<String id="17204015" string="&quot;Let's go.&quot;" />
+	<String id="17204016" string="This is your cabin. Not fancy, but comfortable. I'll be on deck." />
+	<String id="17204017" string="Follow Dougal to your cabin." />
+	<String id="17204018" string="&quot;Thank you.&quot;" />
+	<String id="17204019" string="Talk to Eduyar." />
+</StrSheet_Quest>

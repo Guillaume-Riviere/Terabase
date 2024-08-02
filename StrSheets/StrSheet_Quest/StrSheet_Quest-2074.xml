@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="61904001" string="[Fishing] Way of the Angler" />
+	<String id="61904002" string="&quot;I will.&quot;" />
+	<String id="61904003" string="&quot;Yes.&quot;" />
+	<String id="61904004" string="Speak with {@linkcreature:223#9904#Lushan} and teleport to the Vexatus Swamp Fishery." />
+	<String id="61904005" string="&quot;I got it.&quot;" />
+	<String id="61904006" string="&quot;I got it.&quot;" />
+	<String id="61904007" string="Go to {@linkcreature:61#9904#Mayel} at the Vexatus Swamp Fishery." />
+	<String id="61904008" string="&quot;I got it.&quot;" />
+	<String id="61904009" string="Catch a Crucian Carp at the Vexatus Swamp Fishery." />
+	<String id="61904010" string="" />
+</StrSheet_Quest>

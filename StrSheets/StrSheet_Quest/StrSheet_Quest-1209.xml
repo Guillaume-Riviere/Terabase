@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5028001" string="Killing in the Name of Science" />
+	<String id="5028002" string="Watch yourself out there." />
+	<String id="5028003" string="Kill manaathol executors and athakela prowlers east of Shroud Outpost." />
+	<String id="5028004" string="&quot;You're welcome.&quot;" />
+	<String id="5028005" string="Report back to {@LinkCreature:250#1018}." />
+</StrSheet_Quest>

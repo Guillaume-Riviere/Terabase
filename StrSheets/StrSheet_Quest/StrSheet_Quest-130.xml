@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="603001" string="Going on the Offensive" />
+	<String id="603002" string="&quot;Will do.&quot;" />
+	<String id="603003" string="&quot;Got it.&quot;" />
+	<String id="603004" string="Talk to Kamia." />
+	<String id="603005" string="Intruders!" />
+	<String id="603006" string="I give my life for Lok..." />
+	<String id="603007" string="Interlopers!" />
+	<String id="603008" string="Sound the...alarm...!" />
+	<String id="603009" string="May Lok's curses be upon you!" />
+	<String id="603010" string="My lord...I have failed you...!" />
+	<String id="603011" string="Defeat Ebonheart Sorcerers, Reavers of Resurrection, and the Dark Priest." />
+	<String id="603012" string="&quot;All in a day's work.&quot;" />
+	<String id="603013" string="Talk to Kamia." />
+</StrSheet_Quest>

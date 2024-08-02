@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="59904001" string="To Stop the Ghilliedhus" />
+	<String id="59904002" string="Defeat Varkas, the prime ghilliedhu." />
+	<String id="59904003" string="&quot;I got it.&quot;" />
+	<String id="59904004" string="Report to Emun that you've defeated Varkas." />
+	<String id="59904005" string="Shadetree Entrance" />
+	<String id="59904006" string="You have arrived at the village." />
+	<String id="59904007" string="Move to the Shadetree." />
+	<String id="59904008" string="Did something urgent happen?" />
+	<String id="59904009" string="Talk to Emun." />
+</StrSheet_Quest>

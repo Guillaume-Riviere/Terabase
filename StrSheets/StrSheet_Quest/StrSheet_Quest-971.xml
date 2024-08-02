@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4030001" string="Dangerously Daft" />
+	<String id="4030002" string="It's sad, but we must put the mutants down." />
+	<String id="4030003" string="No one deserves to live like that." />
+	<String id="4030004" string="Mutated People" />
+	<String id="4030005" string="Defeat the selvaras infiltrators, and kill mutant workers and tribladers in the Quarantined Village." />
+	<String id="4030006" string="&quot;Thank you.&quot;" />
+	<String id="4030007" string="Report to Podun in the Blighted Village." />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="338001" string="One-Stop Shopping" />
+	<String id="338002" string="Go steal our stuff back." />
+	<String id="338003" string="Let's see how they like being burgled for once." />
+	<String id="338004" string="&quot;Here's the supplies.&quot;" />
+	<String id="338005" string="Liberate devan brigand Supplies from Deva Silva." />
+	<String id="338006" string="Return the supplies to Droyan." />
+</StrSheet_Quest>

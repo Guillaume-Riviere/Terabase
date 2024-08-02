@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="621001" string="Deliver It to Furlan" />
+	<String id="621002" string="Just get it there." />
+	<String id="621003" string="Thanks for bringing this." />
+	<String id="621004" string="&quot;I will&quot;" />
+	<String id="621005" string="Report to Brose at the east gate of Lumbertown." />
+	<String id="621006" string="Brose" />
+	<String id="621007" string="Kenan's Letter" />
+	<String id="621008" string="Deliver Kenan's Letter to Furlan at Two Oaks Ranch in the Valley of Titans." />
+	<String id="621009" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

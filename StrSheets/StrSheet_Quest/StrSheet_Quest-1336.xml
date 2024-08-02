@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5529001" string="Unseelie Behavior" />
+	<String id="5529002" string="They won't be so bold without him." />
+	<String id="5529003" string="Maybe they'll back off now." />
+	<String id="5529004" string="Unseelie Banner" />
+	<String id="5529005" string="Kill Tarlok to send a message to the Bloodgulper tribe." />
+	<String id="5529006" string="Report back to Melkar." />
+	<String id="5529007" string="For the federation!" />
+</StrSheet_Quest>

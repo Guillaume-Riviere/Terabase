@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="427001" string="Dark Knights Waning" />
+	<String id="427002" string="Send those cursed undead back to the Dream where they belong!" />
+	<String id="427003" string="You've fought well. Many thanks!" />
+	<String id="427004" string="Rotted Devan Token" />
+	<String id="427005" string="Kill the devan dark knights and risen devan infantry and collect their tokens." />
+	<String id="427006" string="Report back to Aarinia at Cauldron Outpost." />
+	<String id="427007" string="&quot;Glad to be of service.&quot;" />
+</StrSheet_Quest>

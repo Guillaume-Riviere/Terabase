@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="810064001" string="Clean up the Cardovek Remnants" />
+	<String id="810064002" string="[Celestial Hills] Hunt lokians in the Cardovek Remnants." />
+	<String id="810064003" string="Lokians" />
+	<String id="810064004" string="Claim your reward!" />
+</StrSheet_Quest>

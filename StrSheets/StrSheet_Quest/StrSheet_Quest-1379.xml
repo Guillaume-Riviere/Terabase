@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5640001" string="[Dungeon - 463] Grotto of Lost Souls" />
+	<String id="5640002" string="Meet Hennika by using her letter. [Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='23' height='23' vspace='-6'/> key to open Inventory and use the letter.]" />
+	<String id="5640003" string="&quot;Understood.&quot;" />
+	<String id="5640004" string="Talk to Hennika." />
+	<String id="5640005" string="Grotto Search Path" />
+	<String id="5640006" string="" />
+	<String id="5640007" string="Find Grotto of Lost Souls Entrance." />
+	<String id="5640008" string="Grotto Entrance" />
+	<String id="5640009" string="" />
+	<String id="5640010" string="Use the {@LinkCreature:55#9782#Teleportal} to enter the Grotto of Lost Souls (Hard)." />
+	<String id="5640011" string="Entrance to Nedra's Haven" />
+	<String id="5640012" string="" />
+	<String id="5640013" string="Search the Temple to find Odwin and Leander." />
+	<String id="5640014" string="Nedra's Haven" />
+	<String id="5640015" string="" />
+	<String id="5640016" string="Pursue Leander." />
+	<String id="5640017" string="Defeat Nightmare Nedra." />
+	<String id="5640018" string="Kill temple guards." />
+	<String id="5640019" string="Defeat Nightmare Ptakum." />
+	<String id="5640020" string="Execution Ground Exit" />
+	<String id="5640021" string="" />
+	<String id="5640022" string="Pursue Leander." />
+	<String id="5640023" string="Activate {@LinkObject:78201#Door Actuator}." />
+	<String id="5640024" string="Dark Path" />
+	<String id="5640025" string="A dark path lies ahead. Where does it lead to?" />
+	<String id="5640026" string="Enter the door." />
+	<String id="5640027" string="Distorted Space Entrance" />
+	<String id="5640028" string="Spatial distortion is creating a chasm." />
+	<String id="5640029" string="Enter the dark path." />
+	<String id="5640030" string="Distorted Space" />
+	<String id="5640031" string="" />
+	<String id="5640032" string="Find Leander in the Distorted Space." />
+	<String id="5640033" string="Destroy the {@LinkCreature:982#5001#Portal Generator} to stop the ritual." />
+	<String id="5640034" string="Defeat Nightmare Kylos." />
+	<String id="5640035" string="Dungeon Exit" />
+	<String id="5640036" string="" />
+	<String id="5640037" string="Use the {@LinkCreature:982#1501#teleportal} to exit the Grotto of Lost Souls." />
+	<String id="5640038" string="Darkquaver Woods" />
+	<String id="5640039" string="" />
+	<String id="5640040" string="Chase Leander." />
+	<String id="5640041" string="Darkquaver Woods" />
+	<String id="5640042" string="" />
+	<String id="5640043" string="Talk to Hennika at the rendezvous spot." />
+	<String id="5640044" string="Take the Raider Pendant." />
+	<String id="5640045" string="Tell Hennika what happened in the Grotto of Lost Souls." />
+	<String id="5640046" string="" />
+	<String id="5640047" string="Raider Pendant" />
+	<String id="5640048" string="Meet Launa, give her the Raider Pendant. and tell her what happened in the Grotto of Lost Souls." />
+	<String id="5640049" string="&quot;Thanks.&quot;" />
+</StrSheet_Quest>

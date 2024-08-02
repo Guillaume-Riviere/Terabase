@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="825001" string="End of the Slavers" />
+	<String id="825002" string="Gulas deserve no mercy!" />
+	<String id="825003" string="There's no dross in you!" />
+	<String id="825004" string="Gula Tongues" />
+	<String id="825005" string="Cut the tongues out of gula slavers and taskmasters in the Hungry Caverns Vaults." />
+	<String id="825006" string="Report to Karina at Avenger Outpost." />
+	<String id="825007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

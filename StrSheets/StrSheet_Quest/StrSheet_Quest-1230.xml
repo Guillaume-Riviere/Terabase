@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5123001" string="You Are Not a Unique or Beautiful Snowflake" />
+	<String id="5123002" string="Take Kalmatcha out!" />
+	<String id="5123003" string="Good job. You did what no one else could." />
+	<String id="5123004" string="This our time! Thulsa promised us victory!" />
+	<String id="5123005" string="Uhh...no... Not fail like this..." />
+	<String id="5123006" string="Kill Kalmatcha at Wendigo's Howl." />
+	<String id="5123007" string="&quot;Happy to help.&quot;" />
+	<String id="5123008" string="Report back to Ceara." />
+</StrSheet_Quest>

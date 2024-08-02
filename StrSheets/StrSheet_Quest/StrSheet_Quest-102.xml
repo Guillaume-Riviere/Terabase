@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="521001" string="Runaway's Request" />
+	<String id="521002" string="&quot;For the federation!&quot;" />
+	<String id="521003" string="Visit tuwangi runaway Tomba in Lumbertown." />
+	<String id="521004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="521005" string="Teleport to Tuwangi Mire via Tomba and meet Rathe." />
+</StrSheet_Quest>

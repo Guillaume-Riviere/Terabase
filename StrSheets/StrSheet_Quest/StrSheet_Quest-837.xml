@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3523001" string="Your Place or Mine?" />
+	<String id="3523002" string="It's their turn to be afraid." />
+	<String id="3523003" string="Thank you. We're one step closer to getting our mines back." />
+	<String id="3523004" string="Hunt down the gangs of Desert Scourge kulkaris controlling the Croskurn Mines." />
+	<String id="3523005" string="&quot;Glad I could help.&quot;" />
+	<String id="3523006" string="Report to Geiran at Croskurn Approach." />
+</StrSheet_Quest>

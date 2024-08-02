@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5429001" string="Leaving the Garden" />
+	<String id="5429002" string="They have abdicated their sacred duty." />
+	<String id="5429003" string="If they're not in the garden, who is?" />
+	<String id="5429004" string="Band of the Dutiful" />
+	<String id="5429005" string="Is...ren..." />
+	<String id="5429006" string="We...return...to you..." />
+	<String id="5429007" string="Collect the bands given to centaur wardens and pranksome redcaps from their goddess." />
+	<String id="5429008" string="Bring the bands to Elma at the Grand Gate Watchpost." />
+	<String id="5429009" string="&quot;That doesn't bode well.&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3630001" string="Harts Afire" />
+	<String id="3630002" string="At least some good can come of it, you know?" />
+	<String id="3630003" string="Thanks!" />
+	<String id="3630004" string="Desert Hart Horns" />
+	<String id="3630005" string="Hunt the desert harts in the Raintree Oasis." />
+	<String id="3630006" string="Report to Mallon." />
+	<String id="3630007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

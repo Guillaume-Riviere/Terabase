@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4993001" string="Too Many Argons I" />
+	<String id="4993002" string="&quot;Alright.&quot;" />
+	<String id="4993003" string="Speak with Ceidos in Kanstria." />
+	<String id="4993004" string="Defeat the following enemies in Argonea." />
+	<String id="4993005" string="&quot;Thank you.&quot;" />
+	<String id="4993006" string="Report to Ceidos." />
+</StrSheet_Quest>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60210001" string="Tunnel Rats" />
+	<String id="60210002" string="This is an opportunity we can't pass up." />
+	<String id="60210003" string="This victory could win us the catacombs!" />
+	<String id="60210004" string="" />
+	<String id="60210005" string="" />
+	<String id="60210006" string="Enter the {@Rgn:9018001$$Argon Catacombs} through the &lt;font color='#2244CC'>&lt;A href=&quot;markmap:loc=8001#53250,3806,253&amp;type=1&amp;name=Teleportal&quot;>teleportal&lt;/A>&lt;/font> and report to {@LinkCreature:418#2003#Arigma}." />
+	<String id="60210007" string="&quot;Yes, sir.&quot;" />
+	<String id="60210008" string="Hunt down and slay {@LinkCreature:418#1031#Sarmamos} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60210009" string="Hunt down and slay {@LinkCreature:418#1041#Meharmat} of the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60210010" string="&quot;I'll drink to that.&quot;" />
+	<String id="60210011" string="Report back to {@LinkCreature:418#2003#Arigma}." />
+</StrSheet_Quest>

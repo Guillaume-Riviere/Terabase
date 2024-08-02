@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2433001" string="War of Attrition" />
+	<String id="2433002" string="It's worth good money to have them dead." />
+	<String id="2433003" string="I'm back in business, thanks to you." />
+	<String id="2433004" string="Sand Wind Kulkari" />
+	<String id="2433005" string="Eliminate the Sand Wind kulkaris!" />
+	<String id="2433006" string="&quot;Glad to be of service!&quot;" />
+	<String id="2433007" string="Report to Wolfran near the entrance to Sand Wind Village." />
+</StrSheet_Quest>

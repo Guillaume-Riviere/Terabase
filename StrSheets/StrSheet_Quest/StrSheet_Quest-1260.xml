@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5221001" string="Isolated Soldiers" />
+	<String id="5221002" string="There's no time to waste." />
+	<String id="5221003" string="It's party time!" />
+	<String id="5221004" string="&quot;Got it.&quot;" />
+	<String id="5221005" string="Go to Centurion Sichel at Habere's northern entrance." />
+	<String id="5221006" string="Destroy the undead lancers and move on to Remote Lodge." />
+	<String id="5221007" string="&quot;For the federation!&quot;" />
+	<String id="5221008" string="Go to Remote Lodge and meet with Prefect Khubyar." />
+</StrSheet_Quest>

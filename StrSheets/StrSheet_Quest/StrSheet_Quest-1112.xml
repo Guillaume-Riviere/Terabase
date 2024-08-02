@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4774001" string="(Guild) Order to Subjugate the Roaring Forest" />
+	<String id="4774002" string="Continuous subjugation always brings peace" />
+	<String id="4774003" string="Thank you for your hard work" />
+	<String id="4774004" string="Token of Subjugating the Roaring Forest" />
+	<String id="4774005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4774006" string="Kill {@Creature:47#4001#argonomorph Dagonite crusaders}, {@Creature:47#4002#argonomorph naga wyrmlings}, and {@Creature:47#4003#argonomorph gula smashers} on the {@Rgn:47005$$Argon Frontier} and collect tokens." />
+	<String id="4774007" string="Report to Laetesha at Pathfinder Post when mission is complete." />
+</StrSheet_Quest>

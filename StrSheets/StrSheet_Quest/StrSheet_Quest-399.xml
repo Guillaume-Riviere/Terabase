@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1511001" string="Watcher of the Manor" />
+	<String id="1511002" string="&quot;I understand.&quot;" />
+	<String id="1511003" string="Find and open the {@LinkObject:5#countess's coffin} in the Forsaken Fields." />
+	<String id="1511004" string="I'll drink you wretches dry!" />
+	<String id="1511005" string="No! Oh, no!" />
+	<String id="1511006" string="Drain the blood from Countess Bathory." />
+	<String id="1511007" string="Find and open the {@LinkObject:4#count's coffin} in the Forsaken Fields." />
+	<String id="1511008" string="Honorless curs!" />
+	<String id="1511009" string="What? How can this be? " />
+	<String id="1511010" string="Drain the blood of Count Dricus." />
+	<String id="1511011" string="&quot;I'm with you.&quot;" />
+	<String id="1511012" string="Meet Jelena at the Sinestral Manor.&lt;BR>(Only normal mode will advance quests.)" />
+</StrSheet_Quest>

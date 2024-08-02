@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3021001" string="The Arcanet Is Down" />
+	<String id="3021002" string="I'll find something else to do." />
+	<String id="3021003" string="When it gets stuck, you just give it a good whack!" />
+	<String id="3021004" string="Bring the device." />
+	<String id="3021005" string="Check the device." />
+	<String id="3021006" string="Researcher {@linkcreature:71#1105$$Mienne}" />
+	<String id="3021007" string="Analysis Device" />
+	<String id="3021008" string="Find {@linkcreature:71#1108$$Adean}." />
+	<String id="3021009" string="&quot;Okay.&quot;" />
+	<String id="3021010" string="Merchant {@linkcreature:71#1108$$Adean}" />
+	<String id="3021011" string="Replacement Quantizer" />
+	<String id="3021012" string="Check the condition of the analysis device." />
+	<String id="3021013" string="Go to the research center to return it." />
+	<String id="3021014" string="Temporary Grantor" />
+	<String id="3021015" string="Analysis Device" />
+	<String id="3021016" string="Return the analysis device to {@linkcreature:71#1102$$Deresk}." />
+	<String id="3021017" string="&quot;Ahem. I'll just be going.&quot;" />
+</StrSheet_Quest>

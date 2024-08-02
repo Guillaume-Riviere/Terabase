@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4080001" string="Suppression Orders: Crestaraths" />
+	<String id="4080002" string="Proof of Kill: Crestaraths" />
+	<String id="4080003" string="&quot;I did my duty.&quot;" />
+	<String id="4080004" string="Defeat crestarath fighters in the Lost Mines." />
+	<String id="4080005" string="Report to Glasrinne in Frontera." />
+</StrSheet_Quest>

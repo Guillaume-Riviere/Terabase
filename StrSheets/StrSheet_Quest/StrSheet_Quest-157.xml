@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="645001" string="Outlaws in the Ruins" />
+	<String id="645002" string="You know the drill by now." />
+	<String id="645003" string="Excellent work!" />
+	<String id="645004" string="Gutrend Headdress" />
+	<String id="645005" string="Collect headdresses from Gutrend brigands and pillagers in Colchester." />
+	<String id="645006" string="Deliver the Gutrend headdresses to Sozia." />
+	<String id="645007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

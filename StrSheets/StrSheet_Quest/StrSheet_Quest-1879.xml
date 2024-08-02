@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55020001" string="[Event] A Guardian's Job 2" />
+	<String id="55020002" string="Complete 40 Guardian missions." />
+	<String id="55020003" string="&quot;Thank you.&quot;" />
+	<String id="55020004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

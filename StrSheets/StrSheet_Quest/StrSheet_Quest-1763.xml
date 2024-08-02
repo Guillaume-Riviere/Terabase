@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47221001" string="Kurak's Lament" />
+	<String id="47221002" string="I won't leave until all the gulas are eliminated." />
+	<String id="47221003" string="Thank you for making my job easier." />
+	<String id="47221004" string="Gula Heart" />
+	<String id="47221005" string="Eliminate gulas throughout the Golden Labyrinth and collect their hearts.&#10;[You must select Golden Labyrinth (Solo) from the {@LinkCreature:208#1501#Teleportal} to advance this quest.]" />
+	<String id="47221006" string="Deliver the hearts to Kurak." />
+	<String id="47221007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

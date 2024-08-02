@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="627001" string="Reinforcing the Fences" />
+	<String id="627002" string="Those fences are in terrible shape." />
+	<String id="627003" string="Goody!" />
+	<String id="627004" string="Take the ropes." />
+	<String id="627005" string="Find fence repair materials in the junk box." />
+	<String id="627006" string="Take the pieces of iron." />
+	<String id="627007" string="Find fence repair materials in the junk box." />
+	<String id="627008" string="Take the wood." />
+	<String id="627009" string="Find fence repair materials in the junk box." />
+	<String id="627010" string="&quot;For the federation!&quot;" />
+	<String id="627011" string="Deliver the fence repair materials to Lakhia." />
+	<String id="627012" string="Deliver the fence repair materials to Lakhia." />
+</StrSheet_Quest>

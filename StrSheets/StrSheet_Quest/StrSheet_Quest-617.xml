@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2434001" string="Arena of Terror" />
+	<String id="2434002" string="You're better at this kind of thing anyway." />
+	<String id="2434003" string="It's all for the best, I'm sure." />
+	<String id="2434004" string="Merkaratos Scale" />
+	<String id="2434005" string="Kill the beast lurking in the arena at Sand Wind Village." />
+	<String id="2434006" string="Report to Qasimir near Sand Wind Village." />
+	<String id="2434007" string="It's done." />
+</StrSheet_Quest>

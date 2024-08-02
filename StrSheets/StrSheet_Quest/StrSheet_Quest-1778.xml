@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="47326001" string="Thulsa's Cardinal" />
+	<String id="47326002" string="Don't let that thing take the field." />
+	<String id="47326003" string="One more piece off Thulsa's chess board." />
+	<String id="47326004" string="Eliminate the Cardinal of Undeath in the Ebon Tower.&#10;[You must select Ebon Tower (Solo) from the {@LinkCreature:251#1501#Teleportal} to advance this quest.] " />
+	<String id="47326005" string="&quot;For the federation!&quot;" />
+	<String id="47326006" string="Report to Traveron in the cave near Ebon Tower." />
+</StrSheet_Quest>

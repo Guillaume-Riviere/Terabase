@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4237001" string="Whispers of Rebirth" />
+	<String id="4237002" string="Let's see if the enchantresses can shed any light for us." />
+	<String id="4237003" string="The resurrection of Dagon? That's ludicrous!" />
+	<String id="4237004" string="Consecrated Tablet" />
+	<String id="4237005" string="Eliminate nickar enchantresses on the third level and recover any relics." />
+	<String id="4237006" string="Deliver the tablets to Vries on the third level." />
+	<String id="4237007" string="Speak with Darim." />
+	<String id="4237008" string="&quot;We can stop it.&quot;" />
+	<String id="4237009" string="Tell Darim what you know." />
+</StrSheet_Quest>

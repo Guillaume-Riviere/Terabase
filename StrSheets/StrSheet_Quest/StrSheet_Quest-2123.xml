@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70219001" string="[Rootstock] Freeholds Specialty" />
+	<String id="70219002" string="&quot;Got it.&quot;" />
+	<String id="70219003" string="Talk to Melsa in the Freeholds." />
+	<String id="70219004" string="Drink the Freeholds Specialty drink. (The item will be deleted after 3 minutes.)" />
+	<String id="70219005" string="It didn't make you dizzy, and it's actually refreshing!" />
+	<String id="70219006" string="&quot;Thanks.&quot;" />
+	<String id="70219007" string="Talk to Melsa in the Freeholds." />
+</StrSheet_Quest>

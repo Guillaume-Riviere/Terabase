@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5083001" string="Suppression Orders: Disholok" />
+	<String id="5083002" string="Proof of Kill: Disholok" />
+	<String id="5083003" string="&quot;Honored to serve!&quot;" />
+	<String id="5083004" string="Kill {@LinkCreature:50#12} and collect proof of its death." />
+	<String id="5083005" string="Report to Ayva." />
+</StrSheet_Quest>

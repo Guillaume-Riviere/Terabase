@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1024001" string="The Shell Game" />
+	<String id="1024002" string="Kamara shells are quite useful." />
+	<String id="1024003" string="Oh, these are great specimens!" />
+	<String id="1024004" string="Kamara's Shell" />
+	<String id="1024005" string="Hunt lumbering kamaras in northern Boan Strand and collect their shells." />
+	<String id="1024006" string="Deliver the shells to Potis at Viper Camp." />
+	<String id="1024007" string="&quot;Thanks!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1236001" string="Wounded Zebulon" />
+	<String id="1236002" string="Please hurry!" />
+	<String id="1236003" string="The boy will thank you." />
+	<String id="1236004" string="&quot;It was my pleasure.&quot;" />
+	<String id="1236005" string="Collect hazevine flowers that grow around Vindicator Outpost and past the barricade to the west." />
+	<String id="1236006" string="Return to Mukai at the Vindicator Outpost." />
+</StrSheet_Quest>

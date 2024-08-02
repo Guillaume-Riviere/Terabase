@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="432001" string="Medicinal Properties" />
+	<String id="432002" string="This is a mission of mercy!" />
+	<String id="432003" string="We owe you a great debt. Thanks." />
+	<String id="432004" string="Eldritch Bones" />
+	<String id="432005" string="Hunt down eldritch cardinals and collect their bones." />
+	<String id="432006" string="Deliver the bones to Kirlane." />
+	<String id="432007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

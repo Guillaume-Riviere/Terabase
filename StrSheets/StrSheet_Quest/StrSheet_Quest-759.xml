@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3227001" string="Alternative Source of Supply" />
+	<String id="3227002" string="Please! Help me win Nashwa's heart!" />
+	<String id="3227003" string="I've no use for Khasib. Why didn't he do this himself?" />
+	<String id="3227004" string="Stalker Company Weapons" />
+	<String id="3227005" string="Retrieve weapons from the Stalker Company destroyers." />
+	<String id="3227006" string="Deliver the Stalker Company's weapons to Khasib." />
+	<String id="3227007" string="&quot;Here are the weapons.&quot;" />
+	<String id="3227008" string="Khasib" />
+	<String id="3227009" string="Stalker Company Weapons" />
+	<String id="3227010" string="Talk to Nashwa." />
+	<String id="3227011" string="&quot;I'll help you.&quot;" />
+</StrSheet_Quest>

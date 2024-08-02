@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="237001" string="Preemptive Strike" />
+	<String id="237002" string="Something must be done about the rampaging faeries!" />
+	<String id="237003" string="It's better this way, but still sad." />
+	<String id="237004" string="Faerie Sword" />
+	<String id="237005" string="Eliminate the faeries around the Faevine Vale Camp and collect their swords." />
+	<String id="237006" string="Bring the swords to Lillix." />
+	<String id="237007" string="&quot;I honor their memory.&quot;" />
+</StrSheet_Quest>

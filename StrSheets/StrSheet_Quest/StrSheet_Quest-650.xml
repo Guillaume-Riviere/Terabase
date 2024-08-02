@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2537001" string="Dark Deeds" />
+	<String id="2537002" string="It's an unpleasant business, but necessary." />
+	<String id="2537003" string="You will, of course, keep this between us." />
+	<String id="2537004" string="&quot;I've got it.&quot;" />
+	<String id="2537005" string="Meet Madragath." />
+	<String id="2537006" string="Continue your investigation." />
+	<String id="2537007" string="Continue your investigation." />
+	<String id="2537008" string="Continue your investigation." />
+	<String id="2537009" string="Investigate the fanatic's corpse." />
+	<String id="2537010" string="&lt;PCNAME>" />
+	<String id="2537011" string="Belongings of the Dead" />
+	<String id="2537012" string="Bring the belongings of the dead to Secret Agent Jacobi." />
+	<String id="2537013" string="&quot;I've got it.&quot;" />
+	<String id="2537014" string="Secret Agent Jacobi" />
+	<String id="2537015" string="Cultist Report" />
+	<String id="2537016" string="Bring the report to Aureum Prefect Rendalf at the Vindicator Redoubt." />
+	<String id="2537017" string="&quot;I did my duty.&quot;" />
+</StrSheet_Quest>

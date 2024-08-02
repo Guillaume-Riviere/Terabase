@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5240001" string="Reclaim the Furnace" />
+	<String id="5240002" string="Nevermore!" />
+	<String id="5240003" string="We just might win this battle after all!" />
+	<String id="5240004" string="Mark of the Legion of Thulsa" />
+	<String id="5240005" string="Eliminate Thulsa's minions near the Divine Furnace." />
+	<String id="5240006" string="Report to Centurion Tarut at the entrance path to the Divine Furnace." />
+	<String id="5240007" string="&quot;Thank you!&quot;" />
+</StrSheet_Quest>

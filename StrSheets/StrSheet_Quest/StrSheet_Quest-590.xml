@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2328001" string="Only You Can Prevent Forest Fires" />
+	<String id="2328002" string="Fangspawns aren't exactly indigenous to the area." />
+	<String id="2328003" string="Perhaps the Mysterium can tell us something about these cores." />
+	<String id="2328004" string="Fiery Core" />
+	<String id="2328005" string="Collect fiery cores from the molten fangspawns." />
+	<String id="2328006" string="Report back to Reska." />
+	<String id="2328007" string="&quot;Thanks.&quot;" />
+</StrSheet_Quest>

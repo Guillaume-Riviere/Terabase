@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2137001" string="Medicinal Ingredients" />
+	<String id="2137002" string="For the federation!" />
+	<String id="2137003" string="Well done!" />
+	<String id="2137004" string="Cullar Sap" />
+	<String id="2137005" string="Kill the crag cullars and crag hopper tentacullars that live throughout Howling Vale." />
+	<String id="2137006" string="Deliver the sap to Ledasi." />
+	<String id="2137007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

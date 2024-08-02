@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5627001" string="Black Tidings" />
+	<String id="5627002" string="When you find them, kill a few for me!" />
+	<String id="5627003" string="We barely saved a handful of them..." />
+	<String id="5627004" string="&quot;You too, Casias!&quot;" />
+	<String id="5627005" string="Find Casias near the cave leading to Nightwood." />
+	<String id="5627006" string="&quot;On it!&quot;" />
+	<String id="5627007" string="Warn Denmar about the source of the undead." />
+	<String id="5627008" string="Stamp out the mekonaris and their undead minions on the eastern road." />
+	<String id="5627009" string="&quot;You did all you could.&quot;" />
+	<String id="5627010" string="Return to Denmar." />
+</StrSheet_Quest>

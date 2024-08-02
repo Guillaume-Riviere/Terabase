@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="730001" string="No Small Matter" />
+	<String id="730002" string="Kill naga mercenaries southeast of Godric's Farm." />
+	<String id="730003" string="I am grateful." />
+	<String id="730004" string="Kill naga mercenaries southeast of Godric's Farm." />
+	<String id="730005" string="&quot;You're welcome.&quot;" />
+	<String id="730006" string="Report back to Onumak." />
+</StrSheet_Quest>

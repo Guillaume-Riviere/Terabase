@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3529001" string="Monsters in the Crags" />
+	<String id="3529002" string="You can do it." />
+	<String id="3529003" string="You really can do it. I mean, you did it!" />
+	<String id="3529004" string="Monsters in the Crags" />
+	<String id="3529005" string="Hunt maligos reavers and vulcan desertstalkers near Zaeltarazad Shrine." />
+	<String id="3529006" string="&quot;For the federation!&quot;" />
+	<String id="3529007" string="Return to Firespine Outpost and speak with Keset." />
+</StrSheet_Quest>

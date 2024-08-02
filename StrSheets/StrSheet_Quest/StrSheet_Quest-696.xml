@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3037001" string="They're Ruining the Ruins" />
+	<String id="3037002" string="Imagine...we walk where the giants once trod." />
+	<String id="3037003" string="Hee hee! Thanks!" />
+	<String id="3037004" string="Kill {@linkcreature:30#520#dreadpaw mandrills} in the {@Rgn:30008$$Lower Archive}." />
+	<String id="3037005" string="&quot;For the federation.&quot;" />
+	<String id="3037006" string="Report to Decurion {@linkcreature:230#1001$$Litherus} in the {@Rgn:30008$$Lower Archive}." />
+</StrSheet_Quest>

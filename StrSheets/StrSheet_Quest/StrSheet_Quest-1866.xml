@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51052001" string="Good as New" />
+	<String id="51052002" string="&quot;I'm so angry!&quot;" />
+	<String id="51052003" string="&quot;I will.&quot;" />
+	<String id="51052004" string="Defeat Trihorn Dracoloths." />
+	<String id="51052005" string="Defeat Darkflame Dracoloths and look for more Ruby Durignite." />
+	<String id="51052006" string="&quot;I'm counting on you.&quot;" />
+	<String id="51052007" string="Talk to Titus." />
+</StrSheet_Quest>

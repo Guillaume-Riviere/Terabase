@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1341001" string="Bequest of the Dead &lt;Repeatable>" />
+	<String id="1341002" string="Peace be upon you, soldier." />
+	<String id="1341003" string="Be careful. I hope I never have to send someone out for you." />
+	<String id="1341004" string="&quot;For the federation!&quot;" />
+	<String id="1341005" string="Retrieve expedition amulets from fallen soldiers throughout the Tainted Gorge...before it's too late!" />
+	<String id="1341006" string="Take the amulets back to Fili." />
+</StrSheet_Quest>

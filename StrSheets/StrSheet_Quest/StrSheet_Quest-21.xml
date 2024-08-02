@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="234001" string="That Confounded Bridge" />
+	<String id="234002" string="Deliver the tools to Siravon at the bridge near Faevine Vale." />
+	<String id="234003" string="Thanks to the tools you brought, I can do some work now." />
+	<String id="234004" string="Balter" />
+	<String id="234005" string="Bridge Tools" />
+	<String id="234006" string="Deliver the tools to Siravon at the bridge near Faevine Vale." />
+	<String id="234007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

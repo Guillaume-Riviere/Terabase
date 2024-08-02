@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1312001" string="The Dark Patrol" />
+	<String id="1312002" string="Don't let the cromoses block the bridge!" />
+	<String id="1312003" string="Thank the gods you made it through!" />
+	<String id="1312004" string="Fight off prowling cromoses in the area." />
+	<String id="1312005" string="&quot;For the federation!&quot;" />
+	<String id="1312006" string="Find Sersine at the Tainted Gorge Outpost." />
+</StrSheet_Quest>

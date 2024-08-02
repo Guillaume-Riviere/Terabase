@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5032001" string="{@Creature:76#1011}'s Last Letter" />
+	<String id="5032002" string="Poor, brave Linkia..." />
+	<String id="5032003" string="Read {@LinkCreature:76#1011}'s note." />
+	<String id="5032004" string="&quot;Return to the Dream, Linkia.&quot;" />
+	<String id="5032005" string="Investigate the stone tomb near the {@Rgn:50004}." />
+	<String id="5032006" string="&quot;I'll treasure it.&quot;" />
+	<String id="5032007" string="Give the bad news to {@LinkCreature:76#1016} in Kanstria." />
+</StrSheet_Quest>

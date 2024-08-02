@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="21306001" string="Unexpected Encounter" />
+	<String id="21306002" string="&quot;I'm on it.&quot;." />
+	<String id="21306003" string="Tainted Gorge Monster" />
+	<String id="21306004" string="Defeat Monsters at Tainted Gorge Bridge." />
+	<String id="21306005" string="Tainted Gorge Bridge" />
+	<String id="21306006" string="Molva, the Free Traders magister, is waiting by the trail." />
+	<String id="21306007" string="Investigate the Tainted Gorge Bridge." />
+	<String id="21306008" string="&quot;I'm sure we'll meet again.&quot;" />
+	<String id="21306009" string="Speak with the magister of the sFree Traders Collective." />
+	<String id="21306010" string="Molva's Trail" />
+	<String id="21306011" string="Molva is meeting with the treasure hunter!&#10;Let's eavesdrop." />
+	<String id="21306012" string="Follow Molva." />
+	<String id="21306013" string="&quot;Don't be late.&quot;." />
+	<String id="21306014" string="Listen in, then report to Jovin at the Tainted Gorge Outpost." />
+	<String id="21306015" string="Treasure Hunter's Hideout" />
+	<String id="21306016" string="There is no one here, but there is a teleportal." />
+	<String id="21306017" string="Go to the Shrine of the Demon God." />
+	<String id="21306018" string="Mysterious Man's Trace" />
+	<String id="21306019" string="Spotted the Treasure Hunter! Hide." />
+	<String id="21306020" string="Use the teleportal to enter Karascha's Lair and find Zik." />
+	<String id="21306021" string="Spy on Zik and Jorivah." />
+	<String id="21306022" string="&quot;You conspired to destroy the World Tree and profit from it.&quot;" />
+	<String id="21306023" string="Talk to Jorivah." />
+	<String id="21306024" string="&quot;Happy to help...but I was sure Molva would be here.&quot;" />
+	<String id="21306025" string="Talk to Jovin." />
+</StrSheet_Quest>

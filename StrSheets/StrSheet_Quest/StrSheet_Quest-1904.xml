@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="55048001" string="Front Line Tactics I" />
+	<String id="55048002" string="Complete 2 rounds of Celestial Arena.&lt;br>&lt;br>(You can teleport directly to the Celestial Arena via the Vanguard Requests window.)" />
+	<String id="55048003" string="&quot;Thanks.&quot;" />
+	<String id="55048004" string="Talk to Omeros in Highwatch." />
+</StrSheet_Quest>

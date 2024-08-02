@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="331001" string="Spiritual Scholarship" />
+	<String id="331002" string="Find Timuron, hiding in Berzerad Cemetery." />
+	<String id="331003" string="Stand back...for science!" />
+	<String id="331004" string="&quot;I'll take it now.&quot;" />
+	<String id="331005" string="Find Timuron, hiding in Berzerad Cemetery." />
+	<String id="331006" string="Timuron" />
+	<String id="331007" string="Undead Compound" />
+	<String id="331008" string="Deliver the undead compound to Neria at the Vanguard Outpost." />
+	<String id="331009" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

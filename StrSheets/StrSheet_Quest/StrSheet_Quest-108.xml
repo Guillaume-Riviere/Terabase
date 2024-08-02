@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="527001" string="Missing Merchant" />
+	<String id="527002" string="Boermas will be grateful for any help." />
+	<String id="527003" string="They've taken everything!" />
+	<String id="527004" string="Can I help you?" />
+	<String id="527005" string="Find Boermas in Babok Hollow, past the Mire entrance cave." />
+</StrSheet_Quest>

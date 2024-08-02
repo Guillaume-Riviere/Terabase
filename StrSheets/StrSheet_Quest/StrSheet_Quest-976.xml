@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4035001" string="Hide in Plain Sight" />
+	<String id="4035002" string="Time to upgrade my wardrobe." />
+	<String id="4035003" string="Well, nature endures the ugly." />
+	<String id="4035004" string="Worn Clothing" />
+	<String id="4035005" string="Hunt berserk puppets and lunatic workers in the farmlands near Blighted Village and collect their worn clothing." />
+	<String id="4035006" string="Take the clothing to Podun, who is undercover in Blighted Village." />
+	<String id="4035007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

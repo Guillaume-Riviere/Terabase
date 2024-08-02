@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60806001" string="Urgent Delivery" />
+	<String id="60806002" string="The pegasus will get you there faster." />
+	<String id="60806003" string="Thank you." />
+	<String id="60806004" string="" />
+	<String id="60806005" string="Andersen's Package" />
+	<String id="60806006" string="Deliver the package to Andersen in Pora Elinu." />
+	<String id="60806007" string="&quot;A simple 'Thank you' would be nice.&quot;" />
+</StrSheet_Quest>

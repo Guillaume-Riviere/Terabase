@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4001001" string="Fraya's Fury" />
+	<String id="4001002" string="&quot;I understand.&quot;" />
+	<String id="4001003" string="Report to Fraya at Allemantheia Headquarters.&#10;[Speak with {@linkcreature:72#1103#Arshadh} to enter.]" />
+	<String id="4001004" string="&quot;Let's go.&quot;" />
+	<String id="4001005" string="Tell {@linkcreature:518#1001#Fraya} you'll go to Frontera." />
+	<String id="4001006" string="&quot;I understand.&quot;" />
+	<String id="4001007" string="&quot;I understand.&quot;" />
+	<String id="4001008" string="Speak with Fraya at Frontera." />
+	<String id="4001009" string="Operation Route" />
+	<String id="4001010" string="You see graves that were rushed. This plague took away too many lives. " />
+	<String id="4001011" string="Go to the Quarantined Village entrance according to the operation route. " />
+	<String id="4001012" string="Operation Route" />
+	<String id="4001013" string="Take the side road to the left." />
+	<String id="4001014" string="Go to the Quarantined Village entrance according to the operation route. " />
+	<String id="4001015" string="Operation Route" />
+	<String id="4001016" string="It's dreary here..." />
+	<String id="4001017" string="Go to the Quarantined Village entrance according to the operation route. " />
+	<String id="4001018" string="Operation Route" />
+	<String id="4001019" string="You seem to be almost there. " />
+	<String id="4001020" string="Go to the Quarantined Village entrance according to the operation route. " />
+	<String id="4001021" string="&quot;I understand.&quot;" />
+	<String id="4001022" string="Speak with {@linkcreature:240#1007#Tirlotta} at the entrance to the Quarantined Village." />
+	<String id="4001023" string="Slaying the Selvaras" />
+	<String id="4001024" string="Urrrrr! Nnnnngggg! Aaaahhh...!" />
+	<String id="4001025" string="Rrrrrrr....kill you." />
+	<String id="4001026" string="Die! Die! Die! Die! Die!" />
+	<String id="4001027" string="K-k-kh—khik-k-k-k...." />
+	<String id="4001028" string="Plow a field...dig a grave...kill...kill..." />
+	<String id="4001029" string="Ugh..." />
+	<String id="4001030" string="Better crazy than dead, my friends!" />
+	<String id="4001031" string="What? How can this be?" />
+	<String id="4001032" string="Hunt the mutated villagers to find evidence of the origin of their madness." />
+	<String id="4001033" string="Tirlotta" />
+	<String id="4001034" string="Skull Crest" />
+	<String id="4001035" string="Deliver the skull crest to Narpa, who's undercover at the southwest gate of the Quarantined Village." />
+	<String id="4001036" string="&quot;I understand.&quot;" />
+	<String id="4001037" string="The stone...the stone!" />
+	<String id="4001038" string="No matter how many you kill, there are always more of us." />
+	<String id="4001039" string="Use the special bomb to destroy the eldritch shard at the Blighted Village and defeat the zombie miners." />
+	<String id="4001040" string="&quot;I understand.&quot;" />
+	<String id="4001041" string="Tell Grayol that you have destroyed the eldritch shard." />
+	<String id="4001042" string="&quot;I understand.&quot;" />
+	<String id="4001043" string="Climb to the top of the cliff and speak to Lashirah at the Quarantine Zone Research Center." />
+	<String id="4001044" string="Sealed Scroll" />
+	<String id="4001045" string="Defeat {@linkcreature:40#42#Legate Mureksark} deep inside the Lost Mines, and find any evidence pertaining to Thulsa." />
+	<String id="4001046" string="Report to {@linkcreature:240#1050#Fraya} in Frontera." />
+	<String id="4001047" string="&quot;Thank you.&quot;" />
+</StrSheet_Quest>

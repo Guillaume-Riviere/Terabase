@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3052001" string="How We Mandrill" />
+	<String id="3052002" string="Not so hard, right?" />
+	<String id="3052003" string="How come you ended up here?" />
+	<String id="3052004" string="Kill {@linkcreature:30#510#direpaw mandrills} in the {@Rgn:30009$$Upper Archive}." />
+	<String id="3052005" string="&quot;For the federation.&quot;" />
+	<String id="3052006" string="Report to Decurion {@linkcreature:230#1001$$Litherus} in the {@Rgn:30008$$Lower Archive}." />
+</StrSheet_Quest>

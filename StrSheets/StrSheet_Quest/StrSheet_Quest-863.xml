@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3625001" string="Remnants of Past Glory" />
+	<String id="3625002" string="He'll have more recent intelligence." />
+	<String id="3625003" string="Killian. Very bad news indeed." />
+	<String id="3625004" string="&quot;As ordered.&quot;" />
+	<String id="3625005" string="Find Pastin hiding in Outlaws' Nest." />
+	<String id="3625006" string="Eliminate the Tenebrara priests around Outlaws' Nest." />
+	<String id="3625007" string="&quot;Got it.&quot;" />
+	<String id="3625008" string="Report to Pastin in the Outlaws' Nest." />
+	<String id="3625009" string="Take the scroll." />
+	<String id="3625010" string="Search the remnants' cabinet in Outlaws' Nest." />
+	<String id="3625011" string="&quot;I'll do it.&quot;" />
+	<String id="3625012" string="Report to Pastin in Outlaws' Nest." />
+	<String id="3625013" string="&quot;For the federation!&quot;" />
+	<String id="3625014" string="Report to Tarnan at Runner's Watch." />
+</StrSheet_Quest>

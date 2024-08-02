@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18360001" string="Not Your Typical Raptor" />
+	<String id="18360002" string="&quot;On my way!&quot;" />
+	<String id="18360003" string="Find Dougal in Highwatch." />
+	<String id="18360004" string="Defeat Nimistrix in the Ravenous Gorge.&lt;br>&lt;br>[Press the &lt;img src='img://__Icon_KeyboardShape.Keyboard_H' width='18' height='18' vspace='-6'> key to open the Vanguard Request and match for the Ravenous Gorge.]" />
+	<String id="18360005" string="&quot;Glad to help.&quot;" />
+	<String id="18360006" string="Report to Dougal." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2021001" string="News from My Brother" />
+	<String id="2021002" string="Please, find him." />
+	<String id="2021003" string="For the federation!" />
+	<String id="2021004" string="&quot;Let's follow the footprints.&quot;" />
+	<String id="2021005" string="Find Pattek or any news of him." />
+	<String id="2021006" string="&quot;For the federation!&quot;" />
+	<String id="2021007" string="Ask Damelsa about Pattek. She's at the supply base in the Halls of Utterdark." />
+</StrSheet_Quest>

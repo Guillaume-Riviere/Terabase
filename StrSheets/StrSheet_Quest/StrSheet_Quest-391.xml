@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1390001" string="Special Delivery" />
+	<String id="1390002" string="Use your scroll and teleport to the tower." />
+	<String id="1390003" string="Teleport masters can send you back to any nearby place you've visited before." />
+	<String id="1390004" string="Use the safe haven teleport scroll and return to the Tower Base." />
+	<String id="1390005" string="You have successfully used the &lt;b>safe haven teleport scroll&lt;/b>!" />
+	<String id="1390006" string="&quot;Thank you. That's great.&quot;" />
+	<String id="1390007" string="Talk to Teleport Master Hermaiorni." />
+	<String id="1390008" string="Teleport back to Fili at the Tainted Gorge Outpost." />
+	<String id="1390009" string="Relic Stone" />
+	<String id="1390010" string="Teleport back to Fili at the Tainted Gorge Outpost." />
+	<String id="1390011" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

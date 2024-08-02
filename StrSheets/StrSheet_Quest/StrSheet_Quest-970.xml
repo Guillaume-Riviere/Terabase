@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4029001" string="Unwelcome Guests" />
+	<String id="4029002" string="Find Tirlotta. Perhaps she's learned something." />
+	<String id="4029003" string="I don't know who they are, but I don't like them." />
+	<String id="4029004" string="&quot;Thank you.&quot;" />
+	<String id="4029005" string="See Tirlotta at the entrace to the Quarantined Village." />
+</StrSheet_Quest>

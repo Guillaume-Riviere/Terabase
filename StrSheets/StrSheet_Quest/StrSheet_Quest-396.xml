@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1508001" string="Dementalith" />
+	<String id="1508002" string="&quot;I understand.&quot;" />
+	<String id="1508003" string="&quot;I'm ready.&quot;" />
+	<String id="1508004" string="Search for Jelena in the ruins around the Cliffs of Insanity." />
+	<String id="1508005" string="Set Jelena's demolition charge near the dementalith." />
+	<String id="1508006" string="Take a fragment of the dementalith and escape its vampir protectors." />
+	<String id="1508007" string="&quot;Evidently.&quot;" />
+	<String id="1508008" string="&quot;What's this?&quot;" />
+	<String id="1508009" string="Show the fragment to Jelena." />
+</StrSheet_Quest>

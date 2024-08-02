@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3235001" string="Witch Hunt" />
+	<String id="3235002" string="Let's take out those cursed...cursers!" />
+	<String id="3235003" string="Aren't polykinds just the creepiest?" />
+	<String id="3235004" string="Sihran Witch Insignia" />
+	<String id="3235005" string="Eliminate the Sihran witches and polykinds, and collect their insignia as proof." />
+	<String id="3235006" string="Deliver the insignia to Keshifah." />
+	<String id="3235007" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

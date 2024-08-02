@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1070001" string="(Guild) Beasts at the Viper Strand" />
+	<String id="1070002" string="Heart of Beast" />
+	<String id="1070003" string="&quot;For the federation!&quot;" />
+	<String id="1070004" string="Eliminate the beasts at the Viper Strand and collect their hearts." />
+	<String id="1070005" string="Get reward from the village reward coordinator." />
+</StrSheet_Quest>

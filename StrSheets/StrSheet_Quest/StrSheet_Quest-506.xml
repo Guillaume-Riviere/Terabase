@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2001001" string="Revelation of the Goddess" />
+	<String id="2001002" string="&quot;The real work is yet to come.&quot;" />
+	<String id="2001003" string="&quot;I understand.&quot;" />
+	<String id="2001004" string="Report to Samael at Velika Headquarters." />
+	<String id="2001005" string="&quot;Right. Okay.&quot;" />
+	<String id="2001006" string="Report to Ciebel in the central passage in Velika." />
+	<String id="2001007" string="&quot;I understand.&quot;" />
+	<String id="2001008" string="Speak with Ciebel to visit the goddess Velik." />
+	<String id="2001009" string="&quot;I understand.&quot;" />
+	<String id="2001010" string="Use the {@LinkCreature:409#1002#teleportal} to return to Ciebel." />
+	<String id="2001011" string="&quot;Thank you.&quot;" />
+	<String id="2001012" string="Return to Samael." />
+</StrSheet_Quest>

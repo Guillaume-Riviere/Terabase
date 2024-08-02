@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="224001" string="Preserved Meat" />
+	<String id="224002" string="Use the salt on the meat to cure it." />
+	<String id="224003" string="Now we've plenty to eat, and plenty to put up for later." />
+	<String id="224004" string="&quot;Acknowledged.&quot;" />
+	<String id="224005" string="Go to Centurion Verus at the Woodcutter Palisade." />
+	<String id="224006" string="&quot;For the federation!&quot;" />
+	<String id="224007" string="Use the barrel and salt to cure the meat." />
+	<String id="224008" string="Deliver the salted meat to Einna." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10127001" string="Leather Arts" />
+	<String id="10127002" string="&quot;I'll do it right away.&quot;" />
+	<String id="10127003" string="Speak to Sophilia in Castanica." />
+	<String id="10127004" string="" />
+	<String id="10127005" string="Design: Artisan Harness" />
+	<String id="10127006" string="Take the design to Jaeron." />
+	<String id="10127007" string="&quot;Glad I could help.&quot;" />
+</StrSheet_Quest>

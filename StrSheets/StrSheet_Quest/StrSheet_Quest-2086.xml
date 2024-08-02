@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="70102001" string="[Event] Attending Services" />
+	<String id="70102002" string="&quot;Thank you so much.&quot;" />
+	<String id="70102003" string="Show some interest." />
+	<String id="70102004" string="&quot;Okay, I got it.&quot;" />
+	<String id="70102005" string="Talk to Renmi." />
+	<String id="70102006" string="Squalid Temple" />
+	<String id="70102007" string="" />
+	<String id="70102008" string="Enter the Squalid Temple through the &lt;font color='#0000FF'>&lt;A href=&quot;markmap:loc=7015#-8755.4922,78572.0859,-1232.7169&amp;type=1&amp;name=teleportal&quot;>teleportal&lt;/A>&lt;/font>." />
+	<String id="70102009" string="&quot;I'm here to help.&quot;" />
+	<String id="70102010" string="Ask Davor how you can help." />
+	<String id="70102011" string="Use the controller to activate PEST-B-GON 8000." />
+	<String id="70102012" string="Eliminate the sloths." />
+	<String id="70102013" string="&quot;I'll get them working again.&quot;" />
+	<String id="70102014" string="Talk to Nahad." />
+	<String id="70102015" string="Repair broken garden golems." />
+	<String id="70102016" string="Get rid of the massive ghilliedhus." />
+	<String id="70102017" string="&quot;Okay, I'll talk to Kodar.&quot;" />
+	<String id="70102018" string="Talk to Nahad." />
+	<String id="70102019" string="&quot;I'll take care of it.&quot;" />
+	<String id="70102020" string="Talk to Kodar." />
+	<String id="70102021" string="Speak to Karu about catching snakes." />
+	<String id="70102022" string="&quot;All in a day's work. Thank you.&quot;" />
+	<String id="70102023" string="Exit through a Dimensional Mirror and talk to Renmi." />
+</StrSheet_Quest>

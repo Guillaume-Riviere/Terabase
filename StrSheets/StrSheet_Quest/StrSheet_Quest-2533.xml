@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="999605001" string="Hunt Brutal Fimbrilisks" />
+	<String id="999605002" string="[Island of Dawn] Hunt brutal fimbrilisks and collect fimbrilisk claws." />
+	<String id="999605003" string="Fimbrilisk Claw" />
+	<String id="999605004" string="Claim your reward!" />
+</StrSheet_Quest>

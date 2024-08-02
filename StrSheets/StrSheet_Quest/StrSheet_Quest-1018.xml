@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4224001" string="Besharan Blockage" />
+	<String id="4224002" string="Put those awful sellswords down." />
+	<String id="4224003" string="Well done!" />
+	<String id="4224004" string="Besharan Signet" />
+	<String id="4224005" string="Defeat besharan sellswords in the Coiling Transepts and collect their signets." />
+	<String id="4224006" string="Deliver the signets to Liyaqat at the Ecdysi Atrium." />
+	<String id="4224007" string="&quot;I was happy to help.&quot;" />
+</StrSheet_Quest>

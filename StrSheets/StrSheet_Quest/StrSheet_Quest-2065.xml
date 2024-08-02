@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60809001" string="Gentle Reminders" />
+	<String id="60809002" string="Tardy employees don't last long in our organization." />
+	<String id="60809003" string="Good job." />
+	<String id="60809004" string="&quot;Just the ledger...today.&quot;" />
+	<String id="60809005" string="Go to Ebbra and get the updated ledger." />
+	<String id="60809006" string="&quot;I will.&quot;" />
+	<String id="60809007" string="Go to Imesti and get the updated ledger." />
+	<String id="60809008" string="&quot;I'll take that now.&quot;" />
+	<String id="60809009" string="Go to Rhales and get the updated ledger." />
+	<String id="60809010" string="&quot;That wasn't so hard, was it?&quot;" />
+	<String id="60809011" string="Go to Loyek and get the updated ledger." />
+	<String id="60809012" string="&quot;Here you go.&quot;" />
+	<String id="60809013" string="Deliver the ledgers to Jax." />
+</StrSheet_Quest>

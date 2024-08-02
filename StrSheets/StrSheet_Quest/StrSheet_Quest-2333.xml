@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800043001" string="Hunt Ravenous Basilisks" />
+	<String id="800043002" string="[Feral Valley] Hunt ravenous basilisks in the northern reach of Feral Valley." />
+	<String id="800043003" string="Ravenous Basilisks" />
+	<String id="800043004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="604001" string="From the Mouths of Scions" />
+	<String id="604002" string="&quot;I'm ready.&quot;" />
+	<String id="604003" string="&quot;Let's get to the bottom of this.&quot;" />
+	<String id="604004" string="Talk to Kamia again." />
+	<String id="604005" string="Bastion of Lok Armory" />
+	<String id="604006" string="I won't be seen anymore! I can eavesdrop now." />
+	<String id="604007" string="Enter the armory by teleportal." />
+	<String id="604008" string="Listen to the cultists' conversations." />
+	<String id="604009" string="&quot;Got it.&quot;" />
+	<String id="604010" string="Talk to Kamia again." />
+	<String id="604011" string="Vanguard Outpost" />
+	<String id="604012" string="Kamia has already reported in to Hendry." />
+	<String id="604013" string="Use teleportal to go to Vanguard Outpost." />
+	<String id="604014" string="&quot;I'm always happy to help wherever I'm needed.&quot;" />
+	<String id="604015" string="Talk to Primus Hendry." />
+</StrSheet_Quest>

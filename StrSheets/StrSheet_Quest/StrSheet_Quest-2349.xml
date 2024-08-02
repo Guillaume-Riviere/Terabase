@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="800061001" string="Hunt Tirkai Grizzlies" />
+	<String id="800061002" string="[Tirkai Forest] Hunt tirkai grizzlies in the Whitefrost Forest." />
+	<String id="800061003" string="Tirkai Grizzlies" />
+	<String id="800061004" string="Claim your reward!" />
+</StrSheet_Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10107001" string="The Skill of the Lance" />
+	<String id="10107002" string="&quot;I've got this.&quot;" />
+	<String id="10107003" string="See Kunar in Kaiator." />
+	<String id="10107004" string="&quot;For the federation!&quot;" />
+	<String id="10107005" string="Talk to Rukeb in Habere." />
+	<String id="10107006" string="" />
+	<String id="10107007" string="Design: Muhrak's Lance" />
+	<String id="10107008" string="Take the design to Guahir in Kaiator." />
+	<String id="10107009" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

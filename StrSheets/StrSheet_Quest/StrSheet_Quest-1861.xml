@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="51040001" string="Iron and Steel" />
+	<String id="51040002" string="Pure Steel Ingot" />
+	<String id="51040003" string="Destroy Orcan's Loot Piles to retrieve Pure Steel Ingots." />
+	<String id="51040004" string="Talk to {@LinkCreature:207#6000#Gazarun}." />
+	<String id="51040005" string="Take to Gazarun." />
+</StrSheet_Quest>

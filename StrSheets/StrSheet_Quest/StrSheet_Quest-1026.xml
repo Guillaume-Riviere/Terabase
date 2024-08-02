@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4232001" string="Always in Control" />
+	<String id="4232002" string="How do the gulas control the undead?" />
+	<String id="4232003" string="This crystal must be the answer!" />
+	<String id="4232004" string="Controlling Crystal" />
+	<String id="4232005" string="Get clues from the gulas near the Temple Chapterhouse." />
+	<String id="4232006" string="Bring the controlling crystal to Canlyle." />
+	<String id="4232007" string="&quot;Happy to help.&quot;" />
+</StrSheet_Quest>

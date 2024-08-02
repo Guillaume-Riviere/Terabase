@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="830001" string="Kobolds Will Listen to Anyone" />
+	<String id="830002" string="We should bury down the kobolds here." />
+	<String id="830003" string="Killing kobolds isn't exactly valorous, but good work." />
+	<String id="830004" string="Eliminate the kobold hirelings that appear in Hungry Caverns Vaults." />
+	<String id="830005" string="&quot;Glad I could help.&quot;" />
+	<String id="830006" string="Report to Baidan at Vanguard Outpost Alpha." />
+</StrSheet_Quest>

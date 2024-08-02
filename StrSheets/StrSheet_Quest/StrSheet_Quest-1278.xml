@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="5239001" string="Dead for Good" />
+	<String id="5239002" string="Please hurry, before they resurrect the entire skeletal army!" />
+	<String id="5239003" string="These enemies will return to the Dream." />
+	<String id="5239004" string="&quot;For the federation!&quot;" />
+	<String id="5239005" string="Retrieve the heaps of skeletons that are used for resurrection south of the Gravewatch of the Exiled." />
+	<String id="5239006" string="Bring the skeleton bones to Senelin." />
+</StrSheet_Quest>

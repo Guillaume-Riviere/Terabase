@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60703001" string="The Paper Chase" />
+	<String id="60703002" string="Hurry—every observation must be recorded!" />
+	<String id="60703003" string="That should be enough to start the papermaking process." />
+	<String id="60703004" string="Lard Wood" />
+	<String id="60703005" string="Go to the dwarf instance dungeon and collect some lard wood from ghilliedhus." />
+	<String id="60703006" string="Deliver lard wood to Klissa." />
+	<String id="60703007" string="Just trying to be useful." />
+</StrSheet_Quest>

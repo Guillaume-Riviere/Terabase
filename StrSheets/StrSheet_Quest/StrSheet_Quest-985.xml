@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4045001" string="Well, Well" />
+	<String id="4045002" string="I need to study their well water!" />
+	<String id="4045003" string="I hope these contain the answers we need." />
+	<String id="4045004" string="&quot;Good luck!&quot;" />
+	<String id="4045005" string="Collect the quarantined buckets." />
+	<String id="4045006" string="Deliver the buckets to {@linkcreature:240#1035$$Narpa}." />
+</StrSheet_Quest>

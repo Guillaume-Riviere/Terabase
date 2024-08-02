@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18353001" string="Dusty Tome" />
+	<String id="18353002" string="Close tome." />
+	<String id="18353003" string="Investigate the {@linkcreature:183#2200#Dusty Tome}." />
+	<String id="18353004" string="Close tome." />
+	<String id="18353005" string="Investigate the {@linkcreature:183#2201#Dusty Tome}." />
+	<String id="18353006" string="Close tome." />
+	<String id="18353007" string="Investigate the {@linkcreature:183#2202#Dusty Tome}." />
+</StrSheet_Quest>

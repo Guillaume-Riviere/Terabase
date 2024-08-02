@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1344001" string="Destroy All Destroyers" />
+	<String id="1344002" string="This mission is not going to be easy." />
+	<String id="1344003" string="Now you are one of us." />
+	<String id="1344004" string="I won't let you down." />
+	<String id="1344005" string="Speak to Gregor." />
+	<String id="1344006" string="Kill as many destroyers as you can." />
+	<String id="1344007" string="Report to Perrin." />
+	<String id="1344008" string="Speak to Gregor." />
+	<String id="1344009" string="&quot;For the federation!&quot;" />
+	<String id="1344010" string="Speak to Perrin." />
+</StrSheet_Quest>

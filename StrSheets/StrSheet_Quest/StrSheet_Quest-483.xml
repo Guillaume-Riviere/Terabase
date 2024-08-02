@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1835001" string="The Final Piece" />
+	<String id="1835002" string="Well, go on!" />
+	<String id="1835003" string="Fascinating, just fascinating!" />
+	<String id="1835004" string="Ancient Prophecy" />
+	<String id="1835005" string="What a fool!" />
+	<String id="1835006" string="No...I must...deliver...guard..." />
+	<String id="1835007" string="Obtain the ancient prophecy from Metatron." />
+	<String id="1835008" string="Bring the ancient prophecy to Nema in the Temple of Tithus." />
+	<String id="1835009" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

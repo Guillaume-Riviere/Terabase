@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="670001" string="(Guild) Suppression Orders: Gutrends" />
+	<String id="670002" string="Proof of Kill: Gutrend's Death" />
+	<String id="670003" string="&quot;For the federation!&quot;" />
+	<String id="670004" string="Kill Gutrend brigands and pillagers in Colchester." />
+	<String id="670005" string="Report to Zandra in Lumbertown." />
+</StrSheet_Quest>

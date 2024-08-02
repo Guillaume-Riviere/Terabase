@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2221001" string="Eldritch Academy Reinforcement" />
+	<String id="2221002" string="That castle just gets stranger and stranger." />
+	<String id="2221003" string="My thanks to the federation." />
+	<String id="2221004" string="&quot;Okay.&quot;" />
+	<String id="2221005" string="Speak to Dullulu." />
+	<String id="2221006" string="Eliminate Vadoma centaurs, redcap artisans, and wandmakers outside the Eldritch Academy." />
+	<String id="2221007" string="For the federation." />
+	<String id="2221008" string="Find Wheelow at the Eldritch Bastion on the second floor of Eldritch Academy." />
+</StrSheet_Quest>

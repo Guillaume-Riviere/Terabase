@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="3641001" string="Love in Bloom" />
+	<String id="3641002" string="I'd probably end up getting killed." />
+	<String id="3641003" string="Maybe I'll become a flower farmer." />
+	<String id="3641004" string="&quot;It's an honor to serve.&quot;" />
+	<String id="3641005" string="Collect strelitzias around the Raintree Oasis." />
+	<String id="3641006" string="Deliver the strelitzias to Mallon" />
+</StrSheet_Quest>

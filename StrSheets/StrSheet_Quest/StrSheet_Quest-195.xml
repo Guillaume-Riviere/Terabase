@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="829001" string="Kitchen Battle" />
+	<String id="829002" string="It was terrible. I don't want to think about them. Kill them all." />
+	<String id="829003" string="Good job. You have saved many of us from the nightmare." />
+	<String id="829004" string="Chef's Knife" />
+	<String id="829005" string="Collect chef's knives from the gula skinners and slavering auric imps in the Hungry Caverns Catacombs." />
+	<String id="829006" string="Deliver the knives to Perbis at Vanguard Post Alpha." />
+	<String id="829007" string="&quot;Honored to be of service.&quot;" />
+</StrSheet_Quest>

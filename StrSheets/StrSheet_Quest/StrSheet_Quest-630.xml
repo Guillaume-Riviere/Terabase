@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="2501001" string="Secrets Not Meant to Be Known" />
+	<String id="2501002" string="&quot;The ancient giants have fallen asleep again. How disappointing.&quot;" />
+	<String id="2501003" string="&quot;Okay.&quot;" />
+	<String id="2501004" string="You've been recalled to Velika. Report to Commander Seir at the Valkyon Federation Headquarters.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> to open your inventory and confirm the return order.]" />
+	<String id="2501005" string="&quot;Okay.&quot;" />
+	<String id="2501006" string="Speak with Elleon at the Valkyon Federation Headquarters." />
+	<String id="2501007" string="&quot;Okay.&quot;" />
+	<String id="2501008" string="Take a pegasus to Tulufan and speak with Elsine." />
+	<String id="2501009" string="&quot;Okay.&quot;" />
+	<String id="2501010" string="Report back to Baruch." />
+	<String id="2501011" string="&quot;Okay.&quot;" />
+	<String id="2501012" string="Go to Kardelen at Camp Marrakeen in Colossal Ruins.&#10;[Use the {@LinkCreature:66#1015#Teleportal} in Tulufan.]" />
+	<String id="2501013" string="&quot;Can't let you near the arena! You devil's servants!&quot;" />
+	<String id="2501014" string="&quot;Ynorr's power will never be yours!&quot;" />
+	<String id="2501015" string="&quot;Die, devils!&quot;" />
+	<String id="2501016" string="&quot;You are too slow to claim the power of Surtr!&quot;" />
+	<String id="2501017" string="&quot;Hold off the devil's servants!&quot;" />
+	<String id="2501018" string="&quot;You will never find Worlkir! Or his secrets!&quot;" />
+	<String id="2501019" string="Go to the Colossal Ruins and eliminate Desert Fire tribe destroyers, ragers, and prophets of Mags Kurata and Mags Kuchanaru." />
+	<String id="2501020" string="&quot;I'll ask.&quot;" />
+	<String id="2501021" string="Speak to Kardelen." />
+	<String id="2501022" string="&quot;I understand.&quot;" />
+	<String id="2501023" string="Speak with Dinian and ask what the Desert Fire meant." />
+	<String id="2501024" string="&quot;Okay.&quot;" />
+	<String id="2501025" string="Speak with Arcanist Mirak." />
+	<String id="2501026" string="&quot;Okay.&quot;" />
+	<String id="2501027" string="Speak with {@linkcreature:218#1009#Chenast} at Colossal Ruins and ask where the scion leader is." />
+	<String id="2501028" string="Scion Hideout" />
+	<String id="2501029" string="High Priestess Akia is giving out orders." />
+	<String id="2501030" string="Search for {@linkcreature:18#107#Adarak} and {@linkcreature:18#108#Jerexis}." />
+	<String id="2501031" string="Scion Orders" />
+	<String id="2501032" string="&quot;How did you find us?&quot;" />
+	<String id="2501033" string="&quot;We will see Lok resurrected.&quot;" />
+	<String id="2501034" string="&quot;Fresh meat.&quot;" />
+	<String id="2501035" string="&quot;You smell like meat.&quot;" />
+	<String id="2501036" string="Eliminate {@linkcreature:18#107#Adarak} and {@linkcreature:18#108#Jerexis} north of the Plaza of the Mighty and obtain their orders." />
+	<String id="2501037" string="Go to {@linkcreature:18#1035#Majuel} and show the scion orders." />
+	<String id="2501038" string="&quot;I understand.&quot;" />
+	<String id="2501039" string="&quot;Let's go.&quot;" />
+	<String id="2501040" string="Speak with {@linkcreature:18#1035#Majuel}." />
+	<String id="2501041" string="&quot;I understand.&quot;" />
+	<String id="2501042" string="Scion Orders" />
+	<String id="2501043" string="Speak with Arcanist Mirak." />
+	<String id="2501044" string="&quot;Okay.&quot;" />
+	<String id="2501045" string="&quot;Okay.&quot;" />
+	<String id="2501046" string="Go to Nema east of the Temple of Tithus." />
+	<String id="2501047" string="&quot;Here goes nothing.&quot;" />
+	<String id="2501048" string="Go to the {@linkcreature:218#1501#teleportal} in the center of the temple." />
+	<String id="2501049" string="Use the {@linkcreature:218#1501#teleportal} to enter the Vault of Glory. Eliminate all Scions of Lok and destroy the anguish shard." />
+	<String id="2501050" string="&quot;Okay.&quot;" />
+	<String id="2501051" string="&quot;Okay.&quot;" />
+	<String id="2501052" string="&quot;Okay.&quot;" />
+	<String id="2501053" string="Speak with the freed giants." />
+	<String id="2501054" string="&quot;Okay.&quot;" />
+	<String id="2501055" string="Report to Mirak at Sietch Bidaum in the Colossal Ruins." />
+	<String id="2501056" string="Use Mirak's teleportal scroll and go to Tulufan.&#10;[Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_I' width='18' height='18' vspace='-6'/> to open your inventory and use the Tulufan Teleport Scroll.]" />
+	<String id="2501057" string="Tell Elsine what the scions are up to." />
+	<String id="2501058" string="&quot;Okay.&quot;" />
+	<String id="2501059" string="Report to Elsine in Tulufan." />
+</StrSheet_Quest>

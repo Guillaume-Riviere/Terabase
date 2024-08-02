@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="373001" string="(Guild) Suppression Orders: Ghilliedhus" />
+	<String id="373002" string="Proof of Kill: Ghilliedhu's Death" />
+	<String id="373003" string="&quot;Reporting in!&quot;" />
+	<String id="373004" string="Cull the ghilliedhus in Bestial Vale." />
+	<String id="373005" string="Report to Jalize in Crescentia when mission is complete." />
+</StrSheet_Quest>

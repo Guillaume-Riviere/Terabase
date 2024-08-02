@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="17213001" string="Mechanically Inclined" />
+	<String id="17213002" string="&quot;Got it.&quot;" />
+	<String id="17213003" string="&quot;Got it.&quot;" />
+	<String id="17213004" string="Collect engine fragments." />
+	<String id="17213005" string="Deliver the engine fragments to Paesyn." />
+	<String id="17213006" string="Parthians" />
+	<String id="17213007" string="Kill &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#-6645, -6154, 2123&amp;type=1&amp;name=Parthian adepts and snipers&quot;>Parthian adepts and snipers&lt;/A>&lt;/font> to reach the engine." />
+	<String id="17213008" string="Investigate Intrepid's engine." />
+	<String id="17213009" string="&quot;All right.&quot;" />
+	<String id="17213010" string="Talk to Dougal." />
+	<String id="17213011" string="Parthians" />
+	<String id="17213012" string="Kill &lt;font color='#2478FF'>&lt;A href=&quot;markmap:loc=7031#-6399, -7937, 1618&amp;type=1&amp;name=Parthian brutes and bloodclaws&quot;>Parthian brutes and bloodclaws&lt;/A>&lt;/font> to rendezvous with Rhodos." />
+	<String id="17213013" string="&quot;Too true.&quot;" />
+	<String id="17213014" string="Speak with Rhodos." />
+</StrSheet_Quest>

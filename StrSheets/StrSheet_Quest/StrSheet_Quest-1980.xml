@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60212001" string="Pullin' the Plug" />
+	<String id="60212002" string="What I'd give for a chance, just one chance, to hammer them..." />
+	<String id="60212003" string="With their war machines down, the argons are vulnerable!" />
+	<String id="60212004" string="&quot;I'll take it out.&quot;" />
+	<String id="60212005" string="Report to {@LinkCreature:418#2003#Arigma} in the {@Rgn:9018001$$Argon Catacombs}." />
+	<String id="60212006" string="Destroy the {@LinkCreature:418#2009#cyasma catalyzer} in the Argon Catacombs." />
+	<String id="60212007" string="&quot;Time to strike back!&quot;" />
+	<String id="60212008" string="Report back to {@LinkCreature:418#2003#Arigma}." />
+</StrSheet_Quest>

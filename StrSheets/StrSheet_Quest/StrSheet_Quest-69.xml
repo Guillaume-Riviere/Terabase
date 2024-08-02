@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="401001" string="Rescue the Core" />
+	<String id="401002" string="&quot;Will do.&quot;" />
+	<String id="401003" string="Talk to Elleon." />
+	<String id="401004" string="&quot;Understood.&quot;" />
+	<String id="401005" string="Speak to Aarinia near the entrance to Fyrmount." />
+	<String id="401006" string="&quot;Got it.&quot;" />
+	<String id="401007" string="Use the Firebase Valor Teleport Scroll and go to Elleon at Firebase Valor in northern Fyrmount." />
+	<String id="401008" string="&quot;For the federation.&quot;" />
+	<String id="401009" string="Find Jelena at Bahaar's Maw." />
+	<String id="401010" string="Akasha's Orders" />
+	<String id="401011" string="For Akasha!" />
+	<String id="401012" string="Arrrgh...Akasha...my goddess..." />
+	<String id="401013" string="Kill Jirakar at Bahaar's Maw and retrieve Akasha's orders." />
+	<String id="401014" string="Return to Jelena." />
+	<String id="401015" string="&quot;Got it.&quot;" />
+	<String id="401016" string="Show Akasha's orders to Elleon." />
+	<String id="401017" string="Akasha's Orders" />
+	<String id="401018" string="Deliver Akasha's orders to Elleon." />
+	<String id="401019" string="&quot;Understood.&quot;" />
+	<String id="401020" string="Fyrmount Abyss" />
+	<String id="401021" string="Tell Elleon that you are ready." />
+	<String id="401022" string="Use the {@LinkCreature:204#1124#Teleportal} to go to Fyrmount Abyss and join with {@LinkCreature:403#1103#Elleon}.&#10;[You can proceed by selecting &quot;I am ready.&quot; after speaking with {@LinkCreature:403#1103#Elleon} in Fyrmount Abyss.]" />
+	<String id="401023" string="Use the {@LinkCreature:204#1124#Teleportal} to go to Fyrmount Abyss and join with {@LinkCreature:403#1103#Elleon}.&#10;[You can proceed by selecting &quot;I am ready.&quot; after speaking with {@LinkCreature:403#1103#Elleon} in Fyrmount Abyss.]" />
+	<String id="401024" string="My fight...is finally over...." />
+	<String id="401025" string="Protect {@LinkCreature:403#1108#The Core} from Akasha's attack.&#10;[You can proceed by selecting &quot;We'll be fine.&quot; after speaking with {@LinkCreature:403#1108#The Core} in Fyrmount Abyss.]" />
+	<String id="401026" string="&quot;Alright.&quot;" />
+	<String id="401027" string="Speak with Elleon." />
+	<String id="401028" string="&quot;Thank you.&quot;" />
+	<String id="401029" string="Return to Castanica and speak with Fraya." />
+</StrSheet_Quest>

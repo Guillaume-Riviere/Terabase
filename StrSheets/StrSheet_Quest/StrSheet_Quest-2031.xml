@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60517001" string="Happy Hunting" />
+	<String id="60517002" string="&quot;Great, thanks.&quot;" />
+	<String id="60517003" string="" />
+	<String id="60517004" string="" />
+	<String id="60517005" string="" />
+	<String id="60517006" string="Go to {@LinkCreature:63#3003#Elthienne} at the Velika Merchant Guild." />
+	<String id="60517007" string="&quot;You can count on me.&quot;" />
+	<String id="60517008" string="Hunting Proof" />
+	<String id="60517009" string="Hunt {@LinkCreature:4#1011#fangspawns} in {@Rgn:4001#Fyrmount} and deliver proof of their deaths to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60517010" string="" />
+	<String id="60517011" string="&quot;Thanks.&quot;" />
+	<String id="60517012" string="Hunting Proof" />
+	<String id="60517013" string="Hunt {@LinkCreature:4#1021#sulphurous groknars} in {@Rgn:4001#Fyrmount} and deliver proof of their deaths to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60517014" string="" />
+	<String id="60517015" string="&quot;Thanks.&quot;" />
+	<String id="60517016" string="Hunting Proof" />
+	<String id="60517017" string="Hunt {@LinkCreature:4#2011#voracious fangspawns} in {@Rgn:4001#Fyrmount} and deliver proof of their deaths to {@LinkCreature:63#3002#Taratia} in Velika." />
+	<String id="60517018" string="" />
+	<String id="60517019" string="&quot;Thanks.&quot;" />
+	<String id="60517020" string="&quot;Thank you.&quot;" />
+	<String id="60517021" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+</StrSheet_Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4943001" string="Enemy Just Beyond the Gates" />
+	<String id="4943002" string="Watch yourself out there. We can't afford to lose you." />
+	<String id="4943003" string="They underestimated you. Their mistake." />
+	<String id="4943004" string="Kalash Brutes" />
+	<String id="4943005" string="Kill kalash brutes around {@Rgn:76001}." />
+	<String id="4943006" string="&quot;Just doing my part.&quot;" />
+	<String id="4943007" string="Report back to {@LinkCreature:76#1024}." />
+</StrSheet_Quest>

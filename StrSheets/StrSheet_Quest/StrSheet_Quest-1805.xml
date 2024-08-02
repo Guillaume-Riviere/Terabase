@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="48822001" string="Coughing Up Blood" />
+	<String id="48822002" string="We'll make them choke on the blood they drink." />
+	<String id="48822003" string="Good job. I know this wasn't easy." />
+	<String id="48822004" string="Vampir Fang" />
+	<String id="48822005" string="Collect vampir fangs from noble vampir rebels and insurgents in the manor.&#10;[You must select Sinestral Manor (Solo) from the {@LinkCreature:203#1501#Teleportal} to advance this quest.]" />
+	<String id="48822006" string="Report to Kasador at the Sinestral Manor Servants' Entrance." />
+	<String id="48822007" string="&quot;For the federation!&quot;" />
+</StrSheet_Quest>

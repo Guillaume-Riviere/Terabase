@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="10038001" string="Field-Tested, Soldier-Approved" />
+	<String id="10038002" string="&quot;I'm on it.&quot;" />
+	<String id="10038003" string="Craft leathercrafter's vests." />
+	<String id="10038004" string="Take the vests to Maius for inspection." />
+	<String id="10038005" string="" />
+	<String id="10038006" string="Leathercrafter's Vest" />
+	<String id="10038007" string="Deliver the vests to Jakarian in Chebika." />
+	<String id="10038008" string="&quot;For Valkyon!&quot;" />
+</StrSheet_Quest>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="1504001" string="A Manor Invasion" />
+	<String id="1504002" string="&quot;Okay.&quot;" />
+	<String id="1504003" string="&quot;Okay.&quot;" />
+	<String id="1504004" string="Join Jelena in Sinestral Manor.&#10;[Quest will be completed only when you select Sinestral Manor (Solo) from the {@linkCreature:216#1501#Teleportal}]" />
+	<String id="1504005" string="&quot;Okay.&quot;" />
+	<String id="1504006" string="Talk to Jelena." />
+	<String id="1504007" string="&quot;Okay.&quot;" />
+	<String id="1504008" string="Meet Jelena at the ladder to the ground floor." />
+	<String id="1504009" string="Kill the duke and duchess to open the secret temple door." />
+	<String id="1504010" string="&quot;Right behind you.&quot;" />
+	<String id="1504011" string="May your strength suffice. Let's go!" />
+	<String id="1504012" string="Fight alongside Jelena to the ladder room. " />
+	<String id="1504013" string="Enter the hidden temple and destroy the {@LinkCreature:3002#21#dementalith generator} and Malgarios." />
+	<String id="1504014" string="&quot;I was glad to help.&quot;" />
+	<String id="1504015" string="Use the teleportal to leave Sinestral Manor and check in with Jelena." />
+</StrSheet_Quest>

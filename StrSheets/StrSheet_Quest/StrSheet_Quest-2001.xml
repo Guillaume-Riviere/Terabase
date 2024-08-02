@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="60406001" string="Killing Trees to Save Them" />
+	<String id="60406002" string="Anything to keep our mission going." />
+	<String id="60406003" string="Until next time!" />
+	<String id="60406004" string="" />
+	<String id="60406005" string="" />
+	<String id="60406006" string="" />
+	<String id="60406007" string="" />
+	<String id="60406008" string="" />
+	<String id="60406009" string="" />
+	<String id="60406010" string="Find {@LinkCreature:71#3018#Meiga} in {@Rgn:71001$$Bastion}." />
+	<String id="60406011" string="&quot;I'm on it.&quot;" />
+	<String id="60406012" string="&quot;Nice view!&quot;" />
+	<String id="60406013" string="Look for {@LinkCreature:230#3027#Bahab} near {@Rgn:30005$$Seren's Garden}." />
+	<String id="60406014" string="&quot;I'll handle it.&quot;" />
+	<String id="60406015" string="Look for {@LinkCreature:230#3028#Romin} near the {@Rgn:30002$$High Vale}." />
+	<String id="60406016" string="&quot;No doubt.&quot;" />
+	<String id="60406017" string="Look for {@LinkCreature:230#3029#Maahru} in the {@Rgn:30002$$High Vale}." />
+	<String id="60406018" string="&quot;Uh...I'll mention that.&quot;" />
+	<String id="60406019" string="Look for {@LinkCreature:230#3030#Kuren} in the {@Rgn:30002$$High Vale}." />
+	<String id="60406020" string="&quot;Mmmm, arkai omelettes!&quot;" />
+	<String id="60406021" string="Look for {@LinkCreature:230#3031#Ugru} in the {@Rgn:30018$$Arkai Perch}." />
+	<String id="60406022" string="&quot;I'll just wait here.&quot;" />
+	<String id="60406023" string="Look for {@LinkCreature:230#3032#Simun} on the {@Rgn:30013$$Archive Grounds}." />
+	<String id="60406024" string="Conservator" />
+	<String id="60406025" string="Conservator Report" />
+	<String id="60406026" string="Deliver the missing report to {@LinkCreature:71#3018#Meiga} in {@Rgn:71001$$Bastion}." />
+	<String id="60406027" string="&quot;You'd be surprised.&quot;" />
+</StrSheet_Quest>

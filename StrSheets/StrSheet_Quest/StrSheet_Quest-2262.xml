@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="700064001" string="Complete Commander’s Residence [Fri/Sat/Weekend]" />
+	<String id="700064002" string="&quot;Join forces with your comrades and research Commander’s Residence!&quot;" />
+	<String id="700064003" string="&quot;Claim your reward!&quot;" />
+	<String id="700064004" string="Azart Commander" />
+</StrSheet_Quest>

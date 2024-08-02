@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="18213001" string="Morick's Research Paper" />
+	<String id="18213002" string="&quot;I'll see what I can do.&quot;" />
+	<String id="18213003" string="Speak with Morick in Goblin Smugglers' League." />
+	<String id="18213004" string="&quot;Frog, shiny things, crystal merchant. Got it.&quot;" />
+	<String id="18213005" string="Talk to Garta in Goblin Smugglers' League." />
+	<String id="18213006" string="&quot;Okay, I'll try there. Thanks.&quot;" />
+	<String id="18213007" string="Go to Jintarot, the crystal merchant in Goblin Smugglers' League." />
+	<String id="18213008" string="Big Wagon" />
+	<String id="18213009" string="You can hear the frog croaking from the top of the wagon. &lt;BR>Report to Garta." />
+	<String id="18213010" string="Search the big wagon behind Jintarot's tent." />
+	<String id="18213011" string="Got it." />
+	<String id="18213012" string="Report to Garta of Goblin Smugglers' League." />
+</StrSheet_Quest>

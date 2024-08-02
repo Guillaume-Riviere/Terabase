@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StrSheet_Quest>
+	<String id="4723001" string="Unpredictable Guys" />
+	<String id="4723002" string="Nagas are scary enough normally." />
+	<String id="4723003" string="Wonder where they've gone?" />
+	<String id="4723004" string="Kill {@creature:47#4001#argonomorph dagonite crusaders} near the {@Rgn:47002$$Whitefrost Forest}." />
+	<String id="4723005" string="&quot;It's an honor to serve.&quot;" />
+	<String id="4723006" string="Report to {@creature:247#1014$$Lenorele} at {@Rgn:47006$$Field Base Lunacy}." />
+</StrSheet_Quest>
