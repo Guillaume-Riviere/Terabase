@@ -12,19 +12,49 @@
 }
 
 .container {
-    height: 80%;
-    width: 55%;
+    position: relative;
+    height: 80vh;
+    width: 55vw;
     border-radius: 15px;
     background-color: aliceblue;
     z-index: 11;
+    overflow: auto;
+    /* Allow scrolling if content overflows */
 }
 
 .itemInfo {
     width: 100%;
-    height: 20%;
+    height: auto;
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+    position: sticky;
+    top: 0;
+    z-index: 12;
+}
+
+.itemFlexInfo {
+    display: flex;
+}
+
+.itemIcon {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.itemIcon img {
+    height: 100%;
+    width: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .itemDescription {
@@ -33,35 +63,127 @@
     align-items: flex-start;
 }
 
-.itemIcon {
-    height: 100%;
-    width: 30%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.itemName {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
 
-.itemIcon img {
-    height: 90%;
-    aspect-ratio: 1/1;
-}
-
-.itemName,
 .itemDesc {
-    width: 70%;
-    height: 50%;
+    font-size: 1em;
+    color: #555;
 }
 
 .itemStats {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    align-items: center;
+}
+
+.itemInfo input[type="text"] {
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.statSearch {
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.statList {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    /* Adjust the gap as needed */
+    max-width: 100%;
+    /* Ensure it does not exceed the container width */
+    box-sizing: border-box;
+    /* Include padding and border in the element's total width and height */
+    padding: 10px;
+    /* Add some padding */
 }
 
 .stat {
     display: flex;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+    /* Light background for better visibility */
+    padding: 10px;
+    /* Add some padding */
+    border-radius: 5px;
+    /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+    box-sizing: border-box;
+    /* Include padding and border in the element's total width and height */
+    overflow: hidden;
+    /* Prevent content from overflowing */
+    word-wrap: break-word;
+    /* Break long words to fit within the container */
+    word-break: break-all;
+    /* Break words at arbitrary points to prevent overflow */
+    white-space: normal;
+    /* Allow text to wrap to the next line */
+}
+
+.stat div {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.closeModal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #ff5c5c;
+    /* Red background color */
+    border: none;
+    border-radius: 50%;
+    /* Circular button */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    /* Subtle shadow */
+    transition: background-color 0.3s, transform 0.3s;
+    /* Smooth transitions */
+}
+
+.closeModal:hover {
+    background-color: #ff1c1c;
+    /* Darker red on hover */
+    transform: scale(1.1);
+    /* Slightly larger on hover */
+}
+
+.closeModal:active {
+    background-color: #e60000;
+    /* Even darker red on click */
+    transform: scale(1);
+    /* Reset scale on click */
 }
 
 .itemName {}
 
 .itemDesc {}
+
+.no-scroll {
+    overflow: hidden;
+}

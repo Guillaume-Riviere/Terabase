@@ -2,27 +2,44 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
+
 input[type="text"] {
     width: 100%;
     padding: 10px;
     margin: 10px 0;
     box-sizing: border-box;
 }
-input[type="checkbox"]{
+
+input[type="checkbox"] {
     width: 20px;
     height: 20px;
 }
+
 .result {
-    margin: 10px 0;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
     display: flex;
     align-items: center;
-    flex-wrap: nowrap;
-    height: 80px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
 }
-.id{
+
+.result:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.result img {
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.id {
     height: 100%;
     width: 50px;
     padding: 0 10px;
@@ -31,8 +48,12 @@ input[type="checkbox"]{
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-right: 20px;
 }
-div.info{
+
+div.info {
     height: 100%;
     text-align: left;
     display: block;
@@ -42,6 +63,7 @@ div.info{
     flex-direction: column;
     padding-left: 10px;
 }
+
 .result div img {
     height: 64px;
     width: 64px;
@@ -52,4 +74,65 @@ div.info{
 .result div img:before {
     content: " ";
     font-size: 1000px;
+}
+
+.result .info {
+    display: flex;
+    flex-direction: column;
+}
+
+.result .info strong {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.result .info br {
+    display: none;
+}
+
+#loadMore {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+#loadMore:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+#loadMore:active {
+    background-color: #004085;
+    transform: translateY(0);
+}
+
+.spinner {
+    border: 8px solid #f3f3f3;
+    /* Light grey */
+    border-top: 8px solid #3498db;
+    /* Blue */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite;
+    margin: 20px auto;
+    /* Center the spinner */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
