@@ -58,6 +58,7 @@
     aspect-ratio: 1/1;
     background-image: url("Icons/Icon_Items/none_100.png");
 }
+
 .itemIcon img:before {
     content: " ";
     font-size: 1000px;
@@ -145,6 +146,19 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    cursor: pointer;
+}
+
+.copy-message {
+    position: fixed;
+    top: 20px;
+    right: 50%;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
 }
 
 .closeModal {

@@ -148,6 +148,35 @@
                 // Add event listener for closing the modal
                 const closeModalButton = div.querySelector('.closeModal');
                 closeModalButton.addEventListener('click', () => closeModal(div));
+
+                // Add event listener for copying stat text
+                const stats = div.querySelectorAll('.stat');
+                stats.forEach(stat => {
+                    stat.addEventListener('click', (event) => copyStatText(stat, event));
+                });
+            }
+
+            // Function to copy stat text
+            async function copyStatText(stat, event) {
+                const textToCopy = event.target.textContent;
+
+                try {
+                    await navigator.clipboard.writeText(textToCopy);
+                    showCopyMessage(event);
+                } catch (err) {
+                    console.error('Failed to copy text: ', err);
+                }
+            }
+
+            // Function to show copy message
+            function showCopyMessage() {
+                const message = document.createElement('div');
+                message.className = 'copy-message';
+                message.textContent = 'Stat copied!';
+                document.body.appendChild(message);
+                setTimeout(() => {
+                    document.body.removeChild(message);
+                }, 2000);
             }
 
             // Filter stats based on search input
