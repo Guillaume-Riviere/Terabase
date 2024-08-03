@@ -85,6 +85,27 @@
                 allItems = allData.flat();
             }
 
+            // Convert raw tooltip to readable version 
+            function convertToHtml(originalString) {
+                // Replace BR
+                let formattedString = originalString.replace(/&lt;BR>/g, '<br>');
+                formattedString = formattedString.replace(/&lt;br>/g, '<br>');
+                formattedString = formattedString.replaceAll('$BR', '<br>');
+                formattedString = formattedString.replace(/&quot;/g, ' ');
+
+                // Replace color tags
+                formattedString = formattedString.replaceAll(/&lt;font color = '(#[0-9A-Fa-f]{6})'>/g, '<span style="color: $1">');
+                formattedString = formattedString.replaceAll(/&lt;\/font>/g, '</span>');
+
+                // Replace $H_W_GOOD and $COLOR_END
+                formattedString = formattedString.replaceAll("$H_W_GOOD", ' ');
+                formattedString = formattedString.replaceAll("$COLOR_END", ' ');
+
+                return formattedString;
+            }
+
+
+
             // Create and append item data to the DOM
             function itemData(item) {
                 const div = document.createElement('div');
@@ -103,7 +124,7 @@
                                                 </div>
                                                 <div class="itemDescription">
                                                     <div class="itemName">${item.itemName}</div>
-                                                    <div class="itemDesc">${item.tooltip}</div>
+                                                    <div class="itemDesc">${convertToHtml(item.tooltip)}</div>
                                                 </div>
                                             </div>
                                             <input type="text" class="statSearch" placeholder="Search stats...">
@@ -187,7 +208,7 @@
                 const div = document.createElement('div');
                 div.className = 'result';
                 div.id = 'item-' + item.id;
-                div.innerHTML = `<div><img src="Icons/Icon_Items/${item.icon}.png"></div><div class="id">${item.id}</div><div class="info"><strong>${item.itemName}</strong><br>${item.tooltip}</div>`;
+                div.innerHTML = `<div><img src="Icons/Icon_Items/${item.icon}.png"></div><div class="id">${item.id}</div><div class="info"><strong>${item.itemName}</strong>${convertToHtml(item.tooltip)}</div>`;
 
                 // Create and append the item data div
                 itemData(item);
